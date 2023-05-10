@@ -50,7 +50,7 @@ fun DFBApp() {
     val currentDestination = currentBackStack?.destination
 
     val currentScreen =
-        DenFrieBibleTabRowScreens.find { it.route == currentDestination?.route } ?: DefaultView
+        DenFrieBibleTabRowScreens.find { it.route == currentDestination?.route } ?: GetBook
     DenFrieBibleTheme {
 
         // A surface container using the 'background' color from the theme
@@ -65,9 +65,9 @@ fun DFBApp() {
         }
         Scaffold(topBar = {
             DenFrieBibleTopBar(
-                allScreens = DenFrieBibleTabRowScreens, onTabSelected = { newScreen ->
-                    navController.navigateSingleTopTo(newScreen.route)
-                }, currentScreen = currentScreen
+                allScreens = DenFrieBibleTabRowScreens,
+                currentScreen = currentScreen,
+                navController = navController
             )
         }
 
@@ -123,7 +123,7 @@ fun Menu(){
     )
 }*/
 @Composable
-fun DefaultView(navController: NavController) {
+fun GetBook(navController: NavController) {
     val context = LocalContext.current
     val listedBooks = getAllBooks(context)
     val book = listedBooks.books
@@ -173,7 +173,7 @@ fun GetChapter(navController: NavController, abbreviation: String) {
 }
 
 @Composable
-fun GetBook(
+fun GetText(
     abbreviation: String,
     number: String,
     navController: NavController,

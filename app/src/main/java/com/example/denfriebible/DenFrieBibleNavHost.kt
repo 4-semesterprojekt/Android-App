@@ -16,15 +16,21 @@ fun DenFrieBibleNavHost(
 ) {
     NavHost(
         navController = navController,
-        startDestination = DefaultView.route,
+        startDestination = GetBook.route,
         modifier = modifier
     ) {
-        composable(DefaultView.route) {
-            DefaultView(navController)
+        composable(
+            route = GetBook.route
+
+        ) {
+            GetBook(
+                navController = navController,
+            )
+
         }
 
         composable(
-            route = GetBook.route,
+            route = GetText.route,
             arguments = listOf(
                 navArgument("number") {
                     type = NavType.StringType
@@ -37,7 +43,7 @@ fun DenFrieBibleNavHost(
             val number = it.arguments?.getString("number")!!
             val abbreviation = it.arguments?.getString("abbreviation")!!
 
-            GetBook(
+            GetText(
                 navController = navController,
                 number = number,
                 abbreviation = abbreviation,
@@ -67,7 +73,7 @@ fun NavHostController.navigateSingleTopTo(route: String) =
         // avoid building up a large stack of destinations
         // on the back stack as users select items
         popUpTo(
-            this@navigateSingleTopTo.graph.findStartDestination().id
+            id = this@navigateSingleTopTo.graph.findStartDestination().id
         ) {
             saveState = true
         }

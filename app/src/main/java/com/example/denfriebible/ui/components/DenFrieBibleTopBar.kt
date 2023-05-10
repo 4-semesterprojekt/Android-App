@@ -30,13 +30,14 @@ import androidx.compose.ui.semantics.clearAndSetSemantics
 import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
+import androidx.navigation.NavController
 import java.util.Locale
 
 @Composable
 fun DenFrieBibleTopBar(
     allScreens: List<DenFrieBibleDestination>,
-    onTabSelected: (DenFrieBibleDestination) -> Unit,
-    currentScreen: DenFrieBibleDestination
+    currentScreen: DenFrieBibleDestination,
+    navController : NavController
 ) {
     Surface(
         Modifier
@@ -48,8 +49,8 @@ fun DenFrieBibleTopBar(
                 DFBTab(
                     text = screen.nameNav,
                     icon = screen.icon,
-                    onSelected = { onTabSelected(allScreens[0]) },
-                    selected = currentScreen == screen
+                    selected = currentScreen == screen,
+                    navController = navController
                 )
             }
         }
@@ -59,7 +60,7 @@ fun DenFrieBibleTopBar(
 
 @Composable
 private fun DFBTab(
-    text: String, icon: ImageVector, onSelected: () -> Unit, selected: Boolean
+    text: String, icon: ImageVector, selected: Boolean, navController : NavController
 ) {
 
     val color = MaterialTheme.colors.onSurface
@@ -75,13 +76,14 @@ private fun DFBTab(
         targetValue = if (selected) color else color.copy(alpha = InactiveTabOpacity),
         animationSpec = animSpec
     )
+
     Row(modifier = Modifier
         .padding(horizontal = 5.dp, vertical = 16.dp)
         .animateContentSize()
         .height(TabHeight)
         .selectable(
             selected = selected,
-            onClick = onSelected,
+            onClick = {navController.navigate("getBook")},
             role = Role.Tab,
             interactionSource = remember { MutableInteractionSource() },
             indication = rememberRipple(
@@ -89,8 +91,12 @@ private fun DFBTab(
             )
         )
         .clearAndSetSemantics { contentDescription = text }) {
+
         if (selected) {
-            Icon(imageVector = icon, contentDescription = text, tint = tabTintColor)
+            Icon(imageVector = icon,
+                    contentDescription = text,
+                    tint = tabTintColor,
+                    modifier = Modifier)
             Spacer(Modifier.width(12.dp))
             Text(text.uppercase(Locale.getDefault()), color = MaterialTheme.colors.primary)
             Spacer(Modifier.width(12.dp))
