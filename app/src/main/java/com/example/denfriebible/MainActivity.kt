@@ -1,20 +1,19 @@
 package com.example.denfriebible
 
-import android.content.Context
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
-import androidx.compose.foundation.rememberScrollState
-import androidx.compose.foundation.verticalScroll
-import androidx.compose.material.Button
-import androidx.compose.material.MaterialTheme
-import androidx.compose.material.Surface
-import androidx.compose.material.Text
+import androidx.compose.foundation.lazy.grid.GridCells
+import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
+import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontWeight
@@ -22,26 +21,137 @@ import androidx.compose.ui.text.style.BaselineShift
 import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.material.Text
+import androidx.compose.ui.platform.LocalContext
+import androidx.navigation.NavController
+import androidx.navigation.compose.rememberNavController
 import com.example.denfriebible.ui.theme.DenFrieBibleTheme
-import com.fasterxml.jackson.databind.ObjectMapper
-import com.fasterxml.jackson.module.kotlin.readValue
-import com.fasterxml.jackson.module.kotlin.registerKotlinModule
-import java.io.IOException
+import com.example.denfriebible.ui.components.DenFrieBibleTopBar
+import androidx.navigation.compose.currentBackStackEntryAsState
+import com.example.denfriebible.data.getAllBooks
+import com.example.denfriebible.data.getBookByChapter
+import com.example.denfriebible.data.getChaptersByAbbreviation
+import com.fasterxml.jackson.annotation.JsonProperty
 
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            DenFrieBibleTheme {
+            DFBApp()
+        }
+    }
+}
 
-                // A surface container using the 'background' color from the theme
-                Surface(
-                    modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colors.background
-                ) {
-                    DefaultView(application)
+@Composable
+fun DFBApp() {
+    val navController = rememberNavController()
+    val currentBackStack by navController.currentBackStackEntryAsState()
+    val currentDestination = currentBackStack?.destination
 
+    val currentScreen =
+        DenFrieBibleTabRowScreens.find { it.route == currentDestination?.route }?: DefaultView
+    DenFrieBibleTheme {
+
+        // A surface container using the 'background' color from the theme
+        Surface(
+            modifier = Modifier.fillMaxSize(),
+            color = MaterialTheme.colors.background
+        ) {
+            Column(
+                modifier = Modifier
+                    .fillMaxSize()
+            ) {
+
+            }
+        }
+        Scaffold(
+            topBar = { DenFrieBibleTopBar(
+                allScreens = DenFrieBibleTabRowScreens,
+                onTabSelected = { newScreen ->
+                    navController.navigateSingleTopTo(newScreen.route)
+                },
+                currentScreen = currentScreen
+            )}
+
+
+        ) { innerPadding ->
+            DenFrieBibleNavHost(
+                navController = navController,
+                modifier = Modifier.padding(innerPadding)
+            )
+        }
+    }
+}
+/*@Composable
+fun Menu(){
+    var showMenu by remember { mutableStateOf(false) }
+    val context = LocalContext.current
+    val contextForToast = LocalContext.current.applicationContext
+    TopAppBar(
+
+        title = { Text("Den Frie Bibel") },
+
+        actions = {
+            /*IconButton(onClick = { Toast.makeText(context, "Favorite", Toast.LENGTH_SHORT).show() }) {
+                Icon(Icons.Default.Favorite, "")
+            }*/
+
+
+
+            IconButton(onClick = { showMenu = !showMenu }) {
+                Icon(Icons.Default.MoreVert, "")
+            }
+            DropdownMenu(
+                expanded = showMenu,
+                onDismissRequest = { showMenu = false }
+            ) {
+
+                DropdownMenuItem(onClick = {
+                    //navController.navigate("defaultView")
+                    showMenu = false }) {
+                    Text(text = "Home")
+                }
+                DropdownMenuItem(onClick = {
+                    Toast.makeText(context, "Settings", Toast.LENGTH_SHORT).show()
+                    showMenu = false}) {
+                    Text(text = "Settings")
+                }
+
+
+            }
+
+
+        }
+    )
+}*/
+@Composable
+fun DefaultView(navController: NavController) {
+    val context = LocalContext.current
+    val listedBooks = getAllBooks(context)
+    val book = listedBooks.books
+    book.forEach {
+
+    }
+    Text(text = "Vælg en bog")
+    Spacer(modifier = Modifier.height(20.dp))
+    LazyVerticalGrid(
+        columns = GridCells.Adaptive(150.dp),
+        modifier = Modifier.padding(horizontal = 2.dp, vertical = 46.dp)
+    ) {
+
+        for(i in book){
+            items(1){ bookList ->
+                Button(
+                    modifier = Modifier.padding(5.dp),
+                    onClick =
+                    {
+                        navController.navigate("book/${i.abbreviation}")
+                    }
+
+                )
+                {
+                    Text(text = i.name)
                 }
             }
         }
@@ -49,100 +159,99 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun DefaultView(context: Context) {
-    val scroll = rememberScrollState(0)
-    Column(horizontalAlignment = Alignment.CenterHorizontally,
-            modifier = Modifier
-        .verticalScroll(scroll)
-        .fillMaxWidth()) {
-        // TODO: Formatere teksten korrekt -- mangler kun at det hele står på en linje
-        //abbreviation == bruges til kald efter API
-        // TODO: Crasher hvis der er noget der er null eller mangler, fx der er ingen fodnoter i ruths bog 2
-        /*var result by remember { mutableStateOf(1) }
-        when (result) {
-            1 -> HomePage()
-            2 -> GetBook("Ruths_bog/1.json",context, Modifier)
-            else -> {GetBook("Ruths_bog/2.json",context, Modifier)}
-        }*/
-        GetBook("Ruths_bog/1.json",context, Modifier)
+fun GetChapter(navController: NavController, abbreviation: String){
+    val context = LocalContext.current
+    val abbreviationList = getChaptersByAbbreviation(context = context, abbreviation = abbreviation)
 
-        Spacer(modifier = Modifier.height(30.dp))
-
-
-    }
-}
-
-@Composable
-fun HomePage():Int{
-    var result = 1
-    Button(onClick = {result = 2},
-        modifier = Modifier.height(200.dp)
-            .width(200.dp)
+        Text(text = abbreviation, modifier = Modifier.fillMaxWidth())
+    LazyVerticalGrid(
+        columns = GridCells.Adaptive(61.dp),
+        modifier = Modifier.padding(0.dp)
     ) {
-        Text(
-            text = "test",
-            fontSize = 20.sp)
+
+        items(abbreviationList.count()){ bookList ->
+            Button(
+                onClick =
+                {
+                    navController.navigate("book/${abbreviation}/${abbreviationList[bookList]}")
+                }
+
+            )
+            {
+                Text(text = "${abbreviationList[bookList]}")
+            }
+        }
+
     }
-    return result
+
 }
 @Composable
-fun GetBook(fileName: String, context: Context, modifier: Modifier = Modifier
-    .fillMaxSize()
-    .wrapContentSize()){
-    lateinit var jsonString: String
-    try {
-        jsonString = context.assets.open(fileName)
-            .bufferedReader()
-            .use { it.readText() }
-    } catch (ioException: IOException) {
-        println(ioException)
-    }
-    val mapper = ObjectMapper().registerKotlinModule()
-    val book = mapper.readValue<Book>(jsonString)
-    var number = 0
+fun GetBook(abbreviation: String, number: String, navController: NavController, modifier: Modifier = Modifier.fillMaxSize().wrapContentSize()){
+    val fileName = "$abbreviation/$number.json"
+    val context = LocalContext.current
+    val book = getBookByChapter(context, fileName)
+    var Chapnumber = 0
     var numberTilte = 0
     val lastIndex = book.titles.lastIndex
     var nextCapter = 0
-    Text(text = "${book.book}, Kapitel ${book.chapter}", fontSize = 25.sp)
-    book.verses.forEach{
-        if (nextCapter == number){
-            Text(
-                text = book.titles[numberTilte].text,
-                fontSize = 20.sp,
-                fontWeight = FontWeight.Bold
-            )
-            if(book.titles[lastIndex].verse == number+1) {
-                nextCapter = 0
-            }else{
-                nextCapter = book.titles[numberTilte+1].verse -1
-                numberTilte++
-            }
-        }
-        number++
-        Row(
-            Modifier.fillMaxWidth()
-        ) {
-            Text(
-                buildAnnotatedString {
-                    withStyle(style = SpanStyle(fontSize = 8.sp, baselineShift = BaselineShift.Superscript)) {
-                        append(number.toString())
+    Column(
+        Modifier
+            .clip(RoundedCornerShape(5))
+            .background(color = Color.White)
+            .fillMaxWidth()
+            .padding(8.dp)
+
+    ){
+        Text(text = "${book.book}, Kapitel ${book.chapter}", fontSize = 25.sp, modifier = Modifier.align(alignment = Alignment.CenterHorizontally))
+        book.verses.forEach{
+            if (book.titles.isNotEmpty()){
+            if (nextCapter == Chapnumber){
+                //fejl med der ikke er titler på nogle af json filerne :)))
+                    Text(
+                        text = book.titles[numberTilte].text,
+                        fontSize = 20.sp,
+                        fontWeight = FontWeight.Bold,
+                        color = Color.Black
+                    )
+                    if(book.titles[lastIndex].verse == Chapnumber+1) {
+                        nextCapter = 0
+                    }else{
+                        nextCapter = book.titles[numberTilte+1].verse -1
+                        numberTilte++
                     }
-                    append(it)
                 }
+            }
+            Chapnumber++
+            Text(
+
+                buildAnnotatedString {
+                    withStyle(style = SpanStyle(fontSize = 8.sp, baselineShift = BaselineShift.Superscript, color = Color.Black)) {
+                        append(Chapnumber.toString())
+                    }
+                    append(it.text)
+                },
+                color = Color.Black
             )
         }
     }
 }
-
-
+data class ListedBooks(
+    @JsonProperty("books") val books: List<Books>,
+    )
+data class Books(
+    val name: String,
+    val abbreviation: String,
+    val chapters: Int,
+    )
 data class Book(
     val book: String,
     val abbreviation: String,
-    val chapter: String,
-    val verses: List<String>,
+    val chapter: Int,
+    val version: Long,
+    val verses: List<Verses>,
     val titles: List<Title>,
     val footnotes: List<Footnote>? = null,
-)
+    )
 
 data class Title(
     val text: String,
@@ -151,6 +260,11 @@ data class Title(
 
 data class Footnote(
     val text: String? = null,
+    val type: String? = null,
     val verse: Int? = null,
-    val word: Int? = null,
+    val position: Int? = null,
+)
+data class Verses(
+    val text: String,
+    val number: Int,
 )
