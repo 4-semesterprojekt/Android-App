@@ -10,22 +10,24 @@ interface DenFrieBibleDestination {
     val route: String
     val nameNav: String
 }
+
 object DefaultView : DenFrieBibleDestination {
     override val icon = Icons.Filled.Home
     override val route = "defaultView"
     override val nameNav = "Den Frie Bible"
 }
+
 object GetChapter : DenFrieBibleDestination {
     override val icon = Icons.Filled.ArrowBack
     override val route = "book/{abbreviation}"
     override val nameNav = "Chapter"
 }
+
 object GetBook : DenFrieBibleDestination {
     override val icon = Icons.Filled.ArrowBack
     override val route = "book/{abbreviation}/{number}"
     override val nameNav = "Book"
 }
-
 
 
 val DenFrieBibleTabRowScreens = listOf(DefaultView, GetBook, GetChapter)

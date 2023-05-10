@@ -10,14 +10,16 @@ import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
 
 @Composable
-fun DenFrieBibleNavHost(navController: NavHostController,
-            modifier: Modifier = Modifier){
+fun DenFrieBibleNavHost(
+    navController: NavHostController,
+    modifier: Modifier = Modifier
+) {
     NavHost(
         navController = navController,
         startDestination = DefaultView.route,
         modifier = modifier
     ) {
-        composable(DefaultView.route){
+        composable(DefaultView.route) {
             DefaultView(navController)
         }
 
@@ -58,6 +60,7 @@ fun DenFrieBibleNavHost(navController: NavHostController,
         }
     }
 }
+
 fun NavHostController.navigateSingleTopTo(route: String) =
     this.navigate(route) {
         // Pop up to the start destination of the graph to

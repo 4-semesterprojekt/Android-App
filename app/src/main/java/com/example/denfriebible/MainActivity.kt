@@ -50,39 +50,36 @@ fun DFBApp() {
     val currentDestination = currentBackStack?.destination
 
     val currentScreen =
-        DenFrieBibleTabRowScreens.find { it.route == currentDestination?.route }?: DefaultView
+        DenFrieBibleTabRowScreens.find { it.route == currentDestination?.route } ?: DefaultView
     DenFrieBibleTheme {
 
         // A surface container using the 'background' color from the theme
         Surface(
-            modifier = Modifier.fillMaxSize(),
-            color = MaterialTheme.colors.background
+            modifier = Modifier.fillMaxSize(), color = MaterialTheme.colors.background
         ) {
             Column(
-                modifier = Modifier
-                    .fillMaxSize()
+                modifier = Modifier.fillMaxSize()
             ) {
 
             }
         }
-        Scaffold(
-            topBar = { DenFrieBibleTopBar(
-                allScreens = DenFrieBibleTabRowScreens,
-                onTabSelected = { newScreen ->
+        Scaffold(topBar = {
+            DenFrieBibleTopBar(
+                allScreens = DenFrieBibleTabRowScreens, onTabSelected = { newScreen ->
                     navController.navigateSingleTopTo(newScreen.route)
-                },
-                currentScreen = currentScreen
-            )}
+                }, currentScreen = currentScreen
+            )
+        }
 
 
         ) { innerPadding ->
             DenFrieBibleNavHost(
-                navController = navController,
-                modifier = Modifier.padding(innerPadding)
+                navController = navController, modifier = Modifier.padding(innerPadding)
             )
         }
     }
 }
+
 /*@Composable
 fun Menu(){
     var showMenu by remember { mutableStateOf(false) }
@@ -130,9 +127,6 @@ fun DefaultView(navController: NavController) {
     val context = LocalContext.current
     val listedBooks = getAllBooks(context)
     val book = listedBooks.books
-    book.forEach {
-
-    }
     Text(text = "Vælg en bog")
     Spacer(modifier = Modifier.height(20.dp))
     LazyVerticalGrid(
@@ -140,17 +134,13 @@ fun DefaultView(navController: NavController) {
         modifier = Modifier.padding(horizontal = 2.dp, vertical = 46.dp)
     ) {
 
-        for(i in book){
-            items(1){ bookList ->
-                Button(
-                    modifier = Modifier.padding(5.dp),
-                    onClick =
-                    {
-                        navController.navigate("book/${i.abbreviation}")
-                    }
+        for (i in book) {
+            items(1) {
+                Button(modifier = Modifier.padding(5.dp), onClick = {
+                    navController.navigate("book/${i.abbreviation}")
+                }
 
-                )
-                {
+                ) {
                     Text(text = i.name)
                 }
             }
@@ -159,25 +149,21 @@ fun DefaultView(navController: NavController) {
 }
 
 @Composable
-fun GetChapter(navController: NavController, abbreviation: String){
+fun GetChapter(navController: NavController, abbreviation: String) {
     val context = LocalContext.current
     val abbreviationList = getChaptersByAbbreviation(context = context, abbreviation = abbreviation)
 
-        Text(text = abbreviation, modifier = Modifier.fillMaxWidth())
+    Text(text = abbreviation, modifier = Modifier.fillMaxWidth())
     LazyVerticalGrid(
-        columns = GridCells.Adaptive(61.dp),
-        modifier = Modifier.padding(0.dp)
+        columns = GridCells.Adaptive(61.dp), modifier = Modifier.padding(0.dp)
     ) {
 
-        items(abbreviationList.count()){ bookList ->
-            Button(
-                onClick =
-                {
-                    navController.navigate("book/${abbreviation}/${abbreviationList[bookList]}")
-                }
+        items(abbreviationList.count()) { bookList ->
+            Button(onClick = {
+                navController.navigate("book/${abbreviation}/${abbreviationList[bookList]}")
+            }
 
-            )
-            {
+            ) {
                 Text(text = "${abbreviationList[bookList]}")
             }
         }
@@ -185,64 +171,84 @@ fun GetChapter(navController: NavController, abbreviation: String){
     }
 
 }
+
 @Composable
-fun GetBook(abbreviation: String, number: String, navController: NavController, modifier: Modifier = Modifier.fillMaxSize().wrapContentSize()){
+fun GetBook(
+    abbreviation: String,
+    number: String,
+    navController: NavController,
+    modifier: Modifier = Modifier
+        .fillMaxSize()
+        .wrapContentSize()
+) {
     val fileName = "$abbreviation/$number.json"
     val context = LocalContext.current
     val book = getBookByChapter(context, fileName)
-    var Chapnumber = 0
+    var chapnumber = 0
     var numberTilte = 0
     val lastIndex = book.titles.lastIndex
     var nextCapter = 0
     Column(
-        Modifier
+        modifier = Modifier
             .clip(RoundedCornerShape(5))
             .background(color = Color.White)
             .fillMaxWidth()
             .padding(8.dp)
 
-    ){
-        Text(text = "${book.book}, Kapitel ${book.chapter}", fontSize = 25.sp, modifier = Modifier.align(alignment = Alignment.CenterHorizontally))
-        book.verses.forEach{
-            if (book.titles.isNotEmpty()){
-            if (nextCapter == Chapnumber){
-                //fejl med der ikke er titler på nogle af json filerne :)))
+    ) {
+        Text(
+            text = "${book.book}, Kapitel ${book.chapter}",
+            fontSize = 25.sp,
+            modifier = Modifier.align(alignment = Alignment.CenterHorizontally)
+        )
+        book.verses.forEach {
+            if (book.titles.isNotEmpty()) {
+                if (nextCapter == chapnumber) {
+                    //fejl med der ikke er titler på nogle af json filerne :)))
                     Text(
                         text = book.titles[numberTilte].text,
                         fontSize = 20.sp,
                         fontWeight = FontWeight.Bold,
                         color = Color.Black
                     )
-                    if(book.titles[lastIndex].verse == Chapnumber+1) {
+                    if (book.titles[lastIndex].verse == chapnumber + 1) {
                         nextCapter = 0
-                    }else{
-                        nextCapter = book.titles[numberTilte+1].verse -1
+                    } else {
+                        nextCapter = book.titles[numberTilte + 1].verse - 1
                         numberTilte++
                     }
                 }
             }
-            Chapnumber++
+            chapnumber++
             Text(
 
                 buildAnnotatedString {
-                    withStyle(style = SpanStyle(fontSize = 8.sp, baselineShift = BaselineShift.Superscript, color = Color.Black)) {
-                        append(Chapnumber.toString())
+                    withStyle(
+                        style = SpanStyle(
+                            fontSize = 8.sp,
+                            baselineShift = BaselineShift.Superscript,
+                            color = Color.Black
+                        )
+                    ) {
+                        append(chapnumber.toString())
                     }
                     append(it.text)
-                },
-                color = Color.Black
+                }, color = Color.Black
             )
         }
     }
 }
+
 data class ListedBooks(
     @JsonProperty("books") val books: List<Books>,
-    )
+)
+
 data class Books(
     val name: String,
     val abbreviation: String,
     val chapters: Int,
-    )
+)
+
 data class Book(
     val book: String,
     val abbreviation: String,
@@ -251,7 +257,7 @@ data class Book(
     val verses: List<Verses>,
     val titles: List<Title>,
     val footnotes: List<Footnote>? = null,
-    )
+)
 
 data class Title(
     val text: String,
@@ -264,6 +270,7 @@ data class Footnote(
     val verse: Int? = null,
     val position: Int? = null,
 )
+
 data class Verses(
     val text: String,
     val number: Int,

@@ -9,10 +9,9 @@ import com.fasterxml.jackson.module.kotlin.readValue
 import java.io.IOException
 
 
-
 //gets all books from books.json
 @Composable
-fun getAllBooks(context : Context) : ListedBooks{
+fun getAllBooks(context: Context): ListedBooks {
     lateinit var jsonString: String
     try {
         jsonString = context.assets.open("books.json")
@@ -25,13 +24,14 @@ fun getAllBooks(context : Context) : ListedBooks{
     return mapper.readValue(jsonString)
 
 }
+
 // gets all chapter by Abbreviation
-fun getChaptersByAbbreviation(context : Context, abbreviation: String) : MutableList<Int> {
+fun getChaptersByAbbreviation(context: Context, abbreviation: String): MutableList<Int> {
 
     val help = mutableListOf("")
     context.assets.list(abbreviation)!!.forEach {
         if (it != "")
-        help.addAll(it.split(".json"))
+            help.addAll(it.split(".json"))
     }
     while (help.contains("")) {
         help.remove("")
@@ -40,8 +40,9 @@ fun getChaptersByAbbreviation(context : Context, abbreviation: String) : Mutable
     pls.sort()
     return pls
 }
+
 //Gets book by chapter and Abbreviation
-fun getBookByChapter(context : Context, fileName: String) : Book{
+fun getBookByChapter(context: Context, fileName: String): Book {
     lateinit var jsonString: String
     try {
         jsonString = context.assets.open(fileName)

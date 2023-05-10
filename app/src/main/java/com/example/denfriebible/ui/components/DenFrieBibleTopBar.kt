@@ -33,7 +33,7 @@ import androidx.compose.ui.unit.dp
 import java.util.Locale
 
 @Composable
-fun DenFrieBibleTopBar (
+fun DenFrieBibleTopBar(
     allScreens: List<DenFrieBibleDestination>,
     onTabSelected: (DenFrieBibleDestination) -> Unit,
     currentScreen: DenFrieBibleDestination
@@ -52,17 +52,14 @@ fun DenFrieBibleTopBar (
                     selected = currentScreen == screen
                 )
             }
-            }
         }
     }
+}
 
 
 @Composable
 private fun DFBTab(
-    text: String,
-    icon: ImageVector,
-    onSelected: () -> Unit,
-    selected: Boolean
+    text: String, icon: ImageVector, onSelected: () -> Unit, selected: Boolean
 ) {
 
     val color = MaterialTheme.colors.onSurface
@@ -78,24 +75,20 @@ private fun DFBTab(
         targetValue = if (selected) color else color.copy(alpha = InactiveTabOpacity),
         animationSpec = animSpec
     )
-    Row(
-        modifier = Modifier
-            .padding(horizontal = 5.dp, vertical = 16.dp)
-            .animateContentSize()
-            .height(TabHeight)
-            .selectable(
-                selected = selected,
-                onClick = onSelected,
-                role = Role.Tab,
-                interactionSource = remember { MutableInteractionSource() },
-                indication = rememberRipple(
-                    bounded = false,
-                    radius = Dp.Unspecified,
-                    color = Color.Unspecified
-                )
+    Row(modifier = Modifier
+        .padding(horizontal = 5.dp, vertical = 16.dp)
+        .animateContentSize()
+        .height(TabHeight)
+        .selectable(
+            selected = selected,
+            onClick = onSelected,
+            role = Role.Tab,
+            interactionSource = remember { MutableInteractionSource() },
+            indication = rememberRipple(
+                bounded = false, radius = Dp.Unspecified, color = Color.Unspecified
             )
-            .clearAndSetSemantics { contentDescription = text }
-    ) {
+        )
+        .clearAndSetSemantics { contentDescription = text }) {
         if (selected) {
             Icon(imageVector = icon, contentDescription = text, tint = tabTintColor)
             Spacer(Modifier.width(12.dp))
