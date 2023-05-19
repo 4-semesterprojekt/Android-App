@@ -7,8 +7,11 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
+import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.*
+import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -16,23 +19,21 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
-import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.BaselineShift
 import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import androidx.compose.material.Text
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.text.style.TextAlign
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
-import com.example.denfriebible.ui.theme.DenFrieBibleTheme
 import com.example.denfriebible.ui.components.DenFrieBibleTopBar
 import androidx.navigation.compose.currentBackStackEntryAsState
 import com.example.denfriebible.data.getAllBooks
 import com.example.denfriebible.data.getBookByChapter
 import com.example.denfriebible.data.getChaptersByAbbreviation
+import com.example.denfriebible.ui.theme.*
 import com.fasterxml.jackson.annotation.JsonProperty
-
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -55,7 +56,7 @@ fun DFBApp() {
 
         // A surface container using the 'background' color from the theme
         Surface(
-            modifier = Modifier.fillMaxSize(), color = MaterialTheme.colors.background
+            modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background
         ) {
             Column(
                 modifier = Modifier.fillMaxSize()
@@ -80,68 +81,31 @@ fun DFBApp() {
     }
 }
 
-/*@Composable
-fun Menu(){
-    var showMenu by remember { mutableStateOf(false) }
-    val context = LocalContext.current
-    val contextForToast = LocalContext.current.applicationContext
-    TopAppBar(
-
-        title = { Text("Den Frie Bibel") },
-
-        actions = {
-            /*IconButton(onClick = { Toast.makeText(context, "Favorite", Toast.LENGTH_SHORT).show() }) {
-                Icon(Icons.Default.Favorite, "")
-            }*/
-
-
-
-            IconButton(onClick = { showMenu = !showMenu }) {
-                Icon(Icons.Default.MoreVert, "")
-            }
-            DropdownMenu(
-                expanded = showMenu,
-                onDismissRequest = { showMenu = false }
-            ) {
-
-                DropdownMenuItem(onClick = {
-                    //navController.navigate("defaultView")
-                    showMenu = false }) {
-                    Text(text = "Home")
-                }
-                DropdownMenuItem(onClick = {
-                    Toast.makeText(context, "Settings", Toast.LENGTH_SHORT).show()
-                    showMenu = false}) {
-                    Text(text = "Settings")
-                }
-
-
-            }
-
-
-        }
-    )
-}*/
 @Composable
 fun GetBook(navController: NavController) {
     val context = LocalContext.current
     val listedBooks = getAllBooks(context)
     val book = listedBooks.books
-    Text(text = "Vælg en bog")
-    Spacer(modifier = Modifier.height(20.dp))
     LazyVerticalGrid(
-        columns = GridCells.Adaptive(150.dp),
-        modifier = Modifier.padding(horizontal = 2.dp, vertical = 46.dp)
+        columns = GridCells.Adaptive(145.dp),
+        modifier = Modifier.padding(horizontal = 2.dp, vertical = 8.dp)
     ) {
 
         for (i in book) {
             items(1) {
-                Button(modifier = Modifier.padding(5.dp), onClick = {
-                    navController.navigate("book/${i.abbreviation}")
-                }
+                Button(
+                    modifier = Modifier
+                        .padding(5.dp)
+                        .height(60.dp), onClick = {
+                        navController.navigate("book/${i.abbreviation}")
+                    }
 
                 ) {
-                    Text(text = i.name)
+                    Text(
+                        text = i.name,
+                        textAlign = TextAlign.Center,
+                        style = replyTypography.bodyMedium
+                    )
                 }
             }
         }
@@ -151,25 +115,66 @@ fun GetBook(navController: NavController) {
 @Composable
 fun GetChapter(navController: NavController, abbreviation: String) {
     val context = LocalContext.current
-    val abbreviationList = getChaptersByAbbreviation(context = context, abbreviation = abbreviation)
+    val listedBooks = getChaptersByAbbreviation(context, abbreviation)
+    Column(
+        modifier = Modifier
+            .clip(RoundedCornerShape(5))
+            .fillMaxWidth()
+            .padding(horizontal = 15.dp)
 
-    Text(text = abbreviation, modifier = Modifier.fillMaxWidth())
-    LazyVerticalGrid(
-        columns = GridCells.Adaptive(61.dp), modifier = Modifier.padding(0.dp)
     ) {
+        Text(
+            text = listedBooks.name,
+            style = replyTypography.headlineLarge,
+            modifier = Modifier
+                .align(alignment = Alignment.CenterHorizontally)
+        )
+        LazyVerticalGrid(
+            columns = GridCells.Adaptive(80.dp), modifier = Modifier.padding(10.dp)
+        ) {
+            items(listedBooks.chapters.count()) { bookList ->
+                var tranlationLevelBTNColor = Color.Black
+                var tranlationLevelFontColor = Color.White
+                //var tranlationLevel = "fejl"
+                if (listedBooks.chapters[bookList] == 0) {
+                    tranlationLevelBTNColor = Color.Red
+                    //tranlationLevel = "Ikke begyndt"
+                } else if (listedBooks.chapters[bookList] < 50) {
+                    tranlationLevelBTNColor = Color.Gray
+                    //tranlationLevel = "Ufuldstændig"
+                } else if (listedBooks.chapters[bookList] < 75) {
+                    tranlationLevelBTNColor = Color.Yellow
+                    tranlationLevelFontColor = Color.Black
+                    //tranlationLevel = "Rå oversættelse"
+                } else if (listedBooks.chapters[bookList] < 100) {
+                    tranlationLevelBTNColor = Color.Gray
+                    //tranlationLevel = "Delvis færdig"
+                } else if (listedBooks.chapters[bookList] == 100) {
+                    tranlationLevelBTNColor = Color.Green
+                    //tranlationLevel = "Færdig"
+                }
 
-        items(abbreviationList.count()) { bookList ->
-            Button(onClick = {
-                navController.navigate("book/${abbreviation}/${abbreviationList[bookList]}")
-            }
+                Button(
+                    colors = ButtonDefaults.buttonColors(
+                        containerColor = tranlationLevelBTNColor
+                    ),
+                    onClick = {
+                        if (listedBooks.chapters[bookList] != 0)
+                            navController.navigate("book/${abbreviation}/${bookList + 1}")
+                    }, modifier = Modifier.padding(5.dp)
 
-            ) {
-                Text(text = "${abbreviationList[bookList]}")
+                ) {
+                    Text(
+                        text = "${bookList + 1}",
+                        textAlign = TextAlign.Center,
+                        style = replyTypography.bodyMedium,
+                        color = tranlationLevelFontColor
+                    )
+
+                }
             }
         }
-
     }
-
 }
 
 @Composable
@@ -184,58 +189,54 @@ fun GetText(
     val fileName = "$abbreviation/$number.json"
     val context = LocalContext.current
     val book = getBookByChapter(context, fileName)
-    var chapnumber = 0
-    var numberTilte = 0
-    val lastIndex = book.titles.lastIndex
-    var nextCapter = 0
+    val scrollState = rememberScrollState()
     Column(
         modifier = Modifier
             .clip(RoundedCornerShape(5))
             .background(color = Color.White)
             .fillMaxWidth()
-            .padding(8.dp)
+            .padding(horizontal = 15.dp)
+            .verticalScroll(scrollState)
 
     ) {
         Text(
             text = "${book.book}, Kapitel ${book.chapter}",
-            fontSize = 25.sp,
-            modifier = Modifier.align(alignment = Alignment.CenterHorizontally)
+            style = replyTypography.headlineLarge,
+            modifier = Modifier
+                .align(alignment = Alignment.CenterHorizontally)
+
         )
         book.verses.forEach {
-            if (book.titles.isNotEmpty()) {
-                if (nextCapter == chapnumber) {
-                    //fejl med der ikke er titler på nogle af json filerne :)))
-                    Text(
-                        text = book.titles[numberTilte].text,
-                        fontSize = 20.sp,
-                        fontWeight = FontWeight.Bold,
-                        color = Color.Black
-                    )
-                    if (book.titles[lastIndex].verse == chapnumber + 1) {
-                        nextCapter = 0
-                    } else {
-                        nextCapter = book.titles[numberTilte + 1].verse - 1
-                        numberTilte++
-                    }
-                }
+            if (it.title != null){
+                Text(
+                    text = it.title,
+                    style = replyTypography.headlineMedium
+                )
             }
-            chapnumber++
-            Text(
 
-                buildAnnotatedString {
-                    withStyle(
-                        style = SpanStyle(
-                            fontSize = 8.sp,
-                            baselineShift = BaselineShift.Superscript,
-                            color = Color.Black
-                        )
-                    ) {
-                        append(chapnumber.toString())
-                    }
-                    append(it.text)
-                }, color = Color.Black
-            )
+            //hvis vers har fodnote tekst split på pos
+                Text(
+
+                    buildAnnotatedString {
+                        withStyle(
+                            style = SpanStyle(
+                                fontSize = 8.sp,
+                                baselineShift = BaselineShift.Superscript,
+                                color = Color.Black)
+                        ) {
+                            append(it.number.toString())
+                        }
+                        append(it.text)
+                    }, color = Color.Black,
+                    style = replyTypography.bodyMedium
+                )
+
+
+            //hvis det er et vers udskriv title
+            //hvis det er et vers udskriv vers
+
         }
+        Spacer(Modifier.width(200.dp))
     }
 }
 
@@ -246,32 +247,32 @@ data class ListedBooks(
 data class Books(
     val name: String,
     val abbreviation: String,
-    val chapters: Int,
+    val chapters: List<Int>,
+    val verses: List<Int>,
 )
 
 data class Book(
     val book: String,
     val abbreviation: String,
     val chapter: Int,
-    val version: Long,
-    val verses: List<Verses>,
-    val titles: List<Title>,
-    val footnotes: List<Footnote>? = null,
+    val translation: Int,
+    val contributors: List<Contributor>,
+    val verses: List<Verse>,
 )
-
-data class Title(
+data class Contributor(
+    val name: String,
+    val type: String,
+)
+data class Verse(
     val text: String,
-    val verse: Int,
+    val title: String?,
+    val number: Int,
+    val version: Long,
+    val footnotes: List<Footnote>?,
 )
 
 data class Footnote(
-    val text: String? = null,
-    val type: String? = null,
-    val verse: Int? = null,
-    val position: Int? = null,
-)
-
-data class Verses(
     val text: String,
-    val number: Int,
+    val type: String,
+    val position: Int,
 )

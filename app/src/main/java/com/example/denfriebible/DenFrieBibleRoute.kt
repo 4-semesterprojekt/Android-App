@@ -14,19 +14,19 @@ interface DenFrieBibleDestination {
 object GetBook : DenFrieBibleDestination {
     override val icon = Icons.Filled.Home
     override val route = "getBook"
-    override val nameNav = "Den Frie Bible"
+    override val nameNav = "Vælg en Bog"
 }
 
 object GetChapter : DenFrieBibleDestination {
     override val icon = Icons.Filled.ArrowBack
     override val route = "book/{abbreviation}"
-    override val nameNav = "Chapter"
+    override val nameNav = "Vælg et kapitel"
 }
 
 object GetText : DenFrieBibleDestination {
     override val icon = Icons.Filled.ArrowBack
     override val route = "book/{abbreviation}/{number}"
-    override val nameNav = "{abbreviation}"
+    override val nameNav = "Den Frie Bibel"
 }
 
 

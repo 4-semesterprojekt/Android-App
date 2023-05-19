@@ -3,6 +3,7 @@ package com.example.denfriebible.data
 import android.content.Context
 import androidx.compose.runtime.Composable
 import com.example.denfriebible.Book
+import com.example.denfriebible.Books
 import com.example.denfriebible.ListedBooks
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import com.fasterxml.jackson.module.kotlin.readValue
@@ -26,19 +27,23 @@ fun getAllBooks(context: Context): ListedBooks {
 }
 
 // gets all chapter by Abbreviation
-fun getChaptersByAbbreviation(context: Context, abbreviation: String): MutableList<Int> {
-
-    val help = mutableListOf("")
-    context.assets.list(abbreviation)!!.forEach {
-        if (it != "")
-            help.addAll(it.split(".json"))
+fun getChaptersByAbbreviation(context: Context, abbreviation: String): Books {
+    lateinit var jsonString: String
+    try {
+        jsonString = context.assets.open("books.json")
+            .bufferedReader()
+            .use { it.readText() }
+    } catch (ioException: IOException) {
+        println(ioException)
     }
-    while (help.contains("")) {
-        help.remove("")
+    val mapper = jacksonObjectMapper()
+    val listedBooks:ListedBooks = mapper.readValue(jsonString)
+    listedBooks.books.forEach {
+         if (it.abbreviation == abbreviation){
+             return it
+        }
     }
-    val pls: MutableList<Int> = help.map(String::toInt).toMutableList()
-    pls.sort()
-    return pls
+    return listedBooks.books[0]
 }
 
 //Gets book by chapter and Abbreviation

@@ -14,11 +14,11 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.selection.selectable
 import androidx.compose.foundation.selection.selectableGroup
-import androidx.compose.material.Icon
-import androidx.compose.material.MaterialTheme
-import androidx.compose.material.Surface
-import androidx.compose.material.Text
 import androidx.compose.material.ripple.rememberRipple
+import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
+import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
@@ -31,6 +31,8 @@ import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
+import com.example.denfriebible.ui.theme.b612MonoFontFamily
+import com.example.denfriebible.ui.theme.replyTypography
 import java.util.Locale
 
 @Composable
@@ -63,7 +65,7 @@ private fun DFBTab(
     text: String, icon: ImageVector, selected: Boolean, navController : NavController
 ) {
 
-    val color = MaterialTheme.colors.onSurface
+    val color = MaterialTheme.colorScheme.onSurface
     val durationMillis = if (selected) TabFadeInAnimationDuration else TabFadeOutAnimationDuration
     val animSpec = remember {
         tween<Color>(
@@ -98,7 +100,9 @@ private fun DFBTab(
                     tint = tabTintColor,
                     modifier = Modifier)
             Spacer(Modifier.width(12.dp))
-            Text(text.uppercase(Locale.getDefault()), color = MaterialTheme.colors.primary)
+            Text(text.uppercase(Locale.getDefault()),
+                color = MaterialTheme.colorScheme.primary,
+                style = replyTypography.headlineMedium)
             Spacer(Modifier.width(12.dp))
         }
     }
