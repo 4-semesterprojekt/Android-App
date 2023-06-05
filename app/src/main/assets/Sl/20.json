@@ -1,0 +1,122 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 20,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Salme af David.",
+      "title": "Guds folk beder for sin konge",
+      "number": 1,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fMå JHVH svare dig på nødens dag!\fMå Jakobs Guds navn ophøje dig!",
+      "number": 2,
+      "version": 1475704800000
+    },
+    {
+      "text": "\fMå han sende dig hjælp fra helligdommen\fog støtte dig fra Zion!",
+      "number": 3,
+      "version": 1475704800000
+    },
+    {
+      "text": "\fMå han huske alle dine afgrødeofre\fog finde velbehag i dit brændoffer! Sela",
+      "number": 4,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »erklære for fedt«.",
+          "type": "T",
+          "position": 53
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "\fMå han give dig efter dit hjerte\fog opfylde alle dine planer!",
+      "number": 5,
+      "version": 1475704800000
+    },
+    {
+      "text": "\fSå vil vi juble over din frelse\fog løfte banner i vor Guds navn;\fmå JHVH opfylde alle dine bønner!",
+      "title": "Vished om at Gud hører og svarer",
+      "number": 6,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Verset kunne også oversættes som en del af bønnen: »Må vi juble over din frelse og i vor Guds navn løfte banner!«.",
+          "type": "T",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "\fNu ved jeg at JHVH frelser sin salvede,\fhan vil svare ham fra sin hellige himmel\fmed sin højre hånds frelsende, vældige gerninger.",
+      "number": 7,
+      "version": 1475704800000
+    },
+    {
+      "text": "\fNogle stoler på vogne og nogle på heste,\fmen vi, vi stoler på JHVH vor Guds navn.",
+      "number": 8,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »nogle på vogne og nogle på heste«. Verbet »stole på« må suppleres fra andet halvvers.",
+          "type": "T",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "\fDe styrter og falder,\fmen vi, vi rejser os og holder os oprejste.",
+      "title": "Afsluttende bøn",
+      "number": 9,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Versets verber i perfektiv kunne oversættes ved fortid, men de skal udtrykke det der er Israels erfaring, og som derfor gælder både nutid og fremtid.",
+          "type": "T",
+          "position": 22
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv, frels kongen!\fSvar os den dag vi råber!",
+      "number": 10,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "I grundteksten står den skillende accent under versets andet ord så der egentlig skal oversættes: »JHVHv, frels!/(Måtte) kongen svare os, den dag vi råber!« Både indhold og rytme taler dog for, at accenten skal stå under tredje ord som forudsat her.",
+          "type": "E",
+          "position": 21
+        }
+      ]
+    }
+  ]
+}

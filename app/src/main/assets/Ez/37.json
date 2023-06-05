@@ -1,0 +1,114 @@
+{
+  "book": "Ezekiels Bog",
+  "abbreviation": "Ez",
+  "chapter": 37,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJHVHs hånd var over mig, og JHVH førte mig i ånden ud og anbragte mig i en dal, og den var fuld af knogler.",
+      "title": "Ezekiels syn om døde knogler der bliver levende.",
+      "number": 1,
+      "version": 1635807600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »ved«.",
+          "type": "T",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "Han førte mig forbi dem hele vejen rundt, og se, der lå overordentlig mange oven på jorden i dalen, og se, de var helt tørre.",
+      "number": 2,
+      "version": 1635807600000
+    },
+    {
+      "text": "Han sagde til mig: »Menneskesøn! Mon disse knogler kan blive levende?« Og jeg sagde: »Herre JHVH! Du ved det.«",
+      "number": 3,
+      "version": 1635807600000
+    },
+    {
+      "text": "Han sagde til mig: »Profetér om disse knogler og sig til dem: ›I tørre knogler, hør JHVHs ord!",
+      "number": 4,
+      "version": 1635807600000
+    },
+    {
+      "text": "Så siger Herren JHVH til disse knogler: Se, jeg vil lade livsånde komme i jer så I bliver levende.",
+      "number": 5,
+      "version": 1635807600000
+    },
+    {
+      "text": "Jeg lægger sener på jer og dækker jer med kød og trækker jer over med hud og giver livsånde i jer så I bliver levende; så skal I erkende at jeg er JHVH.‹«",
+      "number": 6,
+      "version": 1635807600000
+    },
+    {
+      "text": "Jeg profeterede som det var befalet mig, og der kom en lyd da jeg profeterede, og se, det blev en raslen, og knoglerne nærmede sig, den ene til den anden.",
+      "number": 7,
+      "version": 1635807600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »knogle til sin knogle«, altså som de passede sammen.",
+          "type": "T",
+          "position": 154
+        }
+      ]
+    },
+    {
+      "text": "Jeg så, og se, der kom sener og kød på dem, og der trak sig hud henover, men der var ikke livsånde i dem.",
+      "number": 8,
+      "version": 1635807600000
+    },
+    {
+      "text": "Han sagde til mig: »Profetér om livsånden, profetér, menneskesøn! Sig til livsånden: Så siger Herren JHVH: Kom, du livsånde fra de fire verdenshjørner, og ånd på disse dræbte så de bliver levende.«",
+      "number": 9,
+      "version": 1635807600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »vinde«",
+          "type": "T",
+          "position": 151
+        }
+      ]
+    },
+    {
+      "text": "Jeg profeterede som han befalede mig, og livsånden kom i dem, og de blev levende og rejste sig på deres fødder, en vældig stor hær.",
+      "number": 10,
+      "version": 1635807600000
+    },
+    {
+      "text": "Han sagde til mig: »Menneskesøn! Disse knogler er hele Israels hus; og se, de siger: ›Vores knogler er udtørret og vores forhåbning borte, det er ude med os!‹",
+      "number": 11,
+      "version": 1635807600000
+    },
+    {
+      "text": "Profetér derfor og sig til dem: ›Dette siger Herren JHVH: Se, jegåbner jeres grave og fører jer op af jeres grave, mit folk, og bringer jer til Israels land.",
+      "number": 12,
+      "version": 1635807600000
+    },
+    {
+      "text": "Og I skal vide at jeg er JHVH, når jeg åbner jeres grave, og når jeg fører jer op af jeres grave, mit folk!",
+      "number": 13,
+      "version": 1635807600000
+    },
+    {
+      "text": "Og jeg giver min Ånd i jer så I bliver levende, og jeg bosætter jer i jeres land, så skal I erkende at jeg JHVH, jeg har sagt det og gjort det, siger JHVH.‹«",
+      "number": 14,
+      "version": 1635807600000
+    }
+  ]
+}

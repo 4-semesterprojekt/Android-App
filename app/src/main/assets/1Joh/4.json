@@ -1,0 +1,52 @@
+{
+  "book": "Johannes' Første Brev",
+  "abbreviation": "1Joh",
+  "chapter": 4,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fVi har erkendt og troet den kærlighed som Gud har til os. Gud er kærlighed, og den som bliver i kærligheden, bliver i Gud, og Gud bliver i ham.",
+      "number": 16,
+      "version": 1622152800000
+    },
+    {
+      "text": "Deri er kærligheden fuldkommen hos os så at vi har frimodighed på dommens dag, for ligesom han er, sådan er også vi i denne verden.",
+      "number": 17,
+      "version": 1622152800000
+    },
+    {
+      "text": "Frygt er ikke i kærligheden, men den fuldkomne kærlighed driver frygten ud; for frygt venter straf; men den som frygter, er ikke fuldkommen i kærligheden.",
+      "number": 18,
+      "version": 1622152800000
+    },
+    {
+      "text": "Vi elsker fordi han elskede os først.",
+      "number": 19,
+      "version": 1622152800000
+    },
+    {
+      "text": "Hvis nogen siger: »Jeg elsker Gud,« og hader sin bror, er han en løgner; for den der ikke elsker sin bror, som han har set, hvordan kan han elske Gud, som han ikke har set?",
+      "number": 20,
+      "version": 1622152800000
+    },
+    {
+      "text": "Og dette bud har vi fra ham: At den som elsker Gud, skal også elske sin broder.",
+      "number": 21,
+      "version": 1622152800000
+    }
+  ]
+}

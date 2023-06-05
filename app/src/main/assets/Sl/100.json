@@ -1,0 +1,92 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 100,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEn salme til taksigelse.\fBryd ud i fryderåb for JHVH, hele landet!",
+      "title": "Lovsyng JHVH, Israels skaber og vogter",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordet: *tôdāʰ* betyder normalt: »tak, taksigelse«. Sammen med verbet/substantivet *zbḥ* (»ofre/offer«) eller andre offertermer angiver det »takoffer«. Det er omdiskuteret om ordet her, uden tilknyttet offerterm, kan betyde »takoffer«, som det ofte oversættes. Det ville være eneste sted i GT.",
+          "type": "E",
+          "position": 25
+        },
+        {
+          "text": "Langt de fleste oversættere oversætter: *kol-hāʔāreṣ* ved: »hele jorden«, som det oftest betyder i salmerne. Men »hele jordens« folkeslag synes slet ikke inde i synsfeltet i denne salme. *hāʔāreṣ* kan både betyde: »landet« og »jorden«. Da vi ikke kan gengive denne dobbelthed på dansk, må oversætteren vælge. Ud fra sammenhængen vælger jeg »landet«.",
+          "type": "E",
+          "position": 67
+        }
+      ]
+    },
+    {
+      "text": "\fTjen JHVH med glæde,\fkom for hans ansigt med jubel!",
+      "number": 2,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fErkend at JHVH er Gud,\fhan har skabt os, og ikke vi selv,\fvi er hans folk og de får han vogter.",
+      "title": "Lovsyng JHVH, for han er god!",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Således konsonantteksten. Vokaliseringen forudsætter at *lōʔ* (»ikke«) skulle have været: *lô*: »for ham«, så sidste halvlinje skal oversættes: »og ham hører vi til«.",
+          "type": "E",
+          "position": 58
+        },
+        {
+          "text": "Ordret: »lader gå på græs«.",
+          "type": "T",
+          "position": 96
+        }
+      ]
+    },
+    {
+      "text": "\fGå ind ad hans porte med takkesang,\fi hans forgårde med lovsang;\ftak ham, pris hans navn!",
+      "number": 4,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »velsign«.",
+          "type": "T",
+          "position": 79
+        }
+      ]
+    },
+    {
+      "text": "\fFor JHVH er god,\fhans nåde varer til evig tid,\fog hans troskab fra slægt til slægt.",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 27
+        },
+        {
+          "text": "Kan også oversættes: »sandhed«.",
+          "type": "T",
+          "position": 63
+        }
+      ]
+    }
+  ]
+}

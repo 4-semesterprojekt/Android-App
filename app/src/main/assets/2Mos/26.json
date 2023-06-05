@@ -1,0 +1,263 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 26,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\f»Men boligen skal du lave af ti teltduge; af tvundet, fint linned og purpurblå, purpurrød og karminrød uld, med kunstfærdigt forarbejdede keruber skal du lave dem.",
+      "title": "Pagtsteltets indre",
+      "number": 1,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Se note til 25,9.",
+          "type": "E",
+          "position": 13
+        },
+        {
+          "text": "Ordret: »karminrød orm«.",
+          "type": "T",
+          "position": 103
+        },
+        {
+          "text": "Ordet »med« står ikke i den hebraiske tekst, men meningen må være, at de der laver teltdugene skal væve dem, så der fremstår billeder af keruber.",
+          "type": "T",
+          "position": 112
+        }
+      ]
+    },
+    {
+      "text": "Hver teltdug skal være otteogtyve alen lang, og hver teltdug skal være fire alen bred; alle teltduge skal have samme mål.",
+      "number": 2,
+      "version": 1596837600000
+    },
+    {
+      "text": "De fem teltduge skal fæstes sammen, én til den anden; og atter fem teltduge skal fæstes sammen, én til den anden.",
+      "number": 3,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og du skal lave løkker af purpurblå uld på den ene teltdugs kant, for enden af rækken; og du skal gøre ligesådan i den yderste teltdugs kant i den anden samling.",
+      "number": 4,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal lave halvtreds løkker på den ene teltdug og lave halvtreds løkker yderst på den teltdug, der er i den anden samling; stropperne skal være den ene overfor den anden.",
+      "number": 5,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og du skal lave halvtreds guldhager og fæste teltdugene, den ene til den anden, med hagerne, så boligen bliver en helhed.«",
+      "title": "Pagtsteltets ydre",
+      "number": 6,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »bliver ét«.",
+          "type": "T",
+          "position": 122
+        }
+      ]
+    },
+    {
+      "text": "\f»Du skal lave teltduge af gedehår til et telt over boligen; som elleve teltduge skal du lave dem.",
+      "number": 7,
+      "version": 1596837600000
+    },
+    {
+      "text": "Hver teltdug skal være tredive alen lang, og hver teltdug skal være fire alen bred; de elleve teltduge skal have ét mål.",
+      "number": 8,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal sætte de fem teltduge sammen for sig og de seks teltduge for sig, og den sjette teltdug skal du lægge dobbelt ved forsiden af boligen.",
+      "number": 9,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal lave halvtreds løkker i kanten af den ene teltdug som er yderst i rækken, og halvtreds løkker i kanten af teltdugen i den anden række.",
+      "number": 10,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal lave halvtreds bronzehager og spænde hagerne i løkkerne; og du skal sammenføje teltet, så det bliver en helhed.",
+      "number": 11,
+      "version": 1596837600000
+    },
+    {
+      "text": "Men det overskydende nedhæng af teltets teltduge, den halve teltdug som er tilovers, skal du lade hænge ned over boligens bagside,",
+      "number": 12,
+      "version": 1596837600000
+    },
+    {
+      "text": "og den alen på den ene side og den alen på den anden side, som er tilovers i længden af teltets teltdug, skal hænge ned over hver sin side af teltet for at dække det.",
+      "number": 13,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »på den side og den side«.",
+          "type": "T",
+          "position": 138
+        }
+      ]
+    },
+    {
+      "text": "Du skal lave et dække over teltet af rødfarvede vædderskind og et dække derover af delfinskind.«",
+      "title": "Pagtsteltets planker",
+      "number": 14,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "type": "T",
+          "position": 96
+        }
+      ]
+    },
+    {
+      "text": "\f»Du skal lave plankerne til boligen af akacietræ, de skal være lodrette.",
+      "number": 15,
+      "version": 1596837600000
+    },
+    {
+      "text": "Hver planke skal være ti alen lang og halvanden alen bred.",
+      "number": 16,
+      "version": 1596837600000
+    },
+    {
+      "text": "Der skal være to tappe i hver planke, den ene forbunden med den anden; sådan skal du lave alle boligens planker.",
+      "number": 17,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal lave plankerne til boligen; tyve planker til sydsiden, mod syd,",
+      "number": 18,
+      "version": 1596837600000
+    },
+    {
+      "text": "og du skal lave fyrre fodstykker af sølv under de tyve planker, to fodstykker under den ene planke til dens to tappe, og to fodstykker under den anden planke til dens to tappe.",
+      "number": 19,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og til boligens anden side, til nordsiden, tyve planker",
+      "number": 20,
+      "version": 1596837600000
+    },
+    {
+      "text": "og deres fyrre fodstykker af sølv, to fodstykker under den ene planke og to fodstykker under den anden planke.",
+      "number": 21,
+      "version": 1596837600000
+    },
+    {
+      "text": "Til bagsiden af boligen, mod vest, skal du lave seks planker.",
+      "number": 22,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og du skal lave to planker til boligens hjørner i bagsiden,",
+      "number": 23,
+      "version": 1596837600000
+    },
+    {
+      "text": "og de skal være tvillinger forneden og samtidig samlede foroven i én ring; sådan skal det være med dem begge, de skal være til de to hjørner.",
+      "number": 24,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Der er formodentlig tale om et teknisk udtryk. Meningen er nok, at det skal være dobbeltplanker med én dobbeltplanke i hvert hjørne.",
+          "type": "E",
+          "position": 26
+        }
+      ]
+    },
+    {
+      "text": "Der skal være otte planker og deres fodstykker af sølv, seksten fodstykker; to fodstykker under den ene planke og to fodstykker under den anden planke.",
+      "number": 25,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal lave tværlægter af akacietræ: fem til plankerne i boligens ene side,",
+      "number": 26,
+      "version": 1596837600000
+    },
+    {
+      "text": "og fem tværlægter til plankerne i boligens anden side, og fem tværlægter til plankerne i boligens side bagtil, mod vest.",
+      "number": 27,
+      "version": 1596837600000
+    },
+    {
+      "text": "Den midterste tværlægte, midt på plankerne, skal gå tværs over fra den ene ende til den anden.",
+      "number": 28,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal beklæde plankerne med guld og lave deres ringe af guld til holdere for tværlægterne; og du skal beklæde tværlægterne med guld.",
+      "number": 29,
+      "version": 1596837600000
+    },
+    {
+      "text": "Så skal du rejse boligen efter dens forskrift, som blev vist dig på bjerget.«",
+      "title": "Pagtsteltets forhæng",
+      "number": 30,
+      "version": 1596837600000
+    },
+    {
+      "text": "\f»Og du skal lave et forhæng af purpurblå, purpurrød og karminrød uld og tvundet, fint linned; med kunstfærdigt forarbejdede keruber skal man lave det.",
+      "number": 31,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Eller: »han«, nemlig kunstneren.",
+          "type": "T",
+          "position": 141
+        }
+      ]
+    },
+    {
+      "text": "Du skal anbringe det på fire stolper af akacietræ, som er beklædt med guld og har kroge af guld og står på fire fodstykker af sølv.",
+      "number": 32,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og du skal hænge forhænget under hagerne. Så skal du bringe Vidnesbyrdets ark derhen, inden for forhænget, og forhænget skal danne skel for jer mellem det Hellige og det Allerhelligste,",
+      "number": 33,
+      "version": 1596837600000
+    },
+    {
+      "text": "og du skal lægge sonedækket på Vidnesbyrdets ark i det Allerhelligste.",
+      "number": 34,
+      "version": 1596837600000
+    },
+    {
+      "text": "Men du skal sætte bordet uden for forhænget, og lysestagen over for bordet, ved boligens side mod syd; men bordet skal du sætte ved siden mod nord.",
+      "number": 35,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal lave et tæppe til teltets indgang af purpurblå, purpurrød og karminrød uld og tvundet, fint linned, lavet af en der laver broget vævning.",
+      "number": 36,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal lave fem stolper af akacietræ til tæppet og beklæde dem med guld, deres kroge skal være af guld; og du skal støbe fem fodstykker af bronze til dem.«",
+      "number": 37,
+      "version": 1596837600000
+    }
+  ]
+}

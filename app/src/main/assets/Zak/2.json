@@ -1,0 +1,88 @@
+{
+  "book": "Zakarias' Bog",
+  "abbreviation": "Zak",
+  "chapter": 2,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJeg løftede mine øjne og fik øje på fire horn. v2 Jeg sagde til englen, som talte med mig: »Hvad betyder det?« Og han sagde til mig: »Det er de horn, som spredte Juda, Israel og Jerusalem.« v3 Så viste JHVH mig fire smede. v4 Og jeg sagde: »Hvad er de kommet for at gøre?« Og han sagde: »Det er de horn, som spredte Juda, så ingen kunne løfte sit hoved. Men nu er disse kommet for at ryste dem, for at hugge folkeslagenes horn af, dem som rejste horn mod Judas land for at sprede det.«",
+      "title": "Synet om manden med målesnoren",
+      "number": 1,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fJeg løftede mine øjne og fik øje på en mand med en målesnor i hånden, v6 og jeg sagde: »Hvor går du hen?« Han sagde til mig: »Hen for at måle Jerusalem for at se hvor bred og hvor lang den er.« v7 Englen, som talte med mig, gik ud, og en anden engel gik ud imod ham, v8 og han sagde til ham: »Løb hen, og sig til denne unge mand:\f›Jerusalem skal ligge åbent,\ffyldt med mennesker og kvæg.",
+      "number": 5,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fJeg, siger JHVH, vil selv være en ildmur rundt om den,\ftil herlighed vil jeg blive midt i den.‹",
+      "number": 9,
+      "version": 1472594400000
+    },
+    {
+      "text": "\f›Skynd jer, skynd jer!\fFlygt fra Nordens land, siger JHVH,\ffor som himlens fire vinde har jeg bredt jer ud, siger JHVH.",
+      "number": 10,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Oversættes andre i GT steder »ve, ve!« som en dødsklage, men i denne sammenhæng er det et ivrigt og opmuntrende tilråb. Det samme er tilfældet i v. 11.",
+          "type": "E",
+          "position": 23
+        }
+      ]
+    },
+    {
+      "text": "\fSkynd jer! Zion, flygt, du som bor hos Babels datter!",
+      "number": 11,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fFor således siger Hærskarers JHVHv\f– på grund af herlighed har han sendt mig til de folkeslag, der udplyndrede jer  –\fat den som rører ved jer, rører ved hans øjesten.",
+      "number": 12,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »efter herlighed har han sendt mig til folkeslagene (som) udplyndrede jer«. Er »mig« JHVH selv, er det Zakarias, eller er det englen, som taler med Zakarias? Og hvad betyder udtrykket »efter herlighed«? I denne oversættelse forstås »efter herlighed« som formålet med at »mig« er blevet sendt til folkeslagene.",
+          "type": "E",
+          "position": 115
+        }
+      ]
+    },
+    {
+      "text": "\fFor se, jeg svinger min hånd over dem,\fog de bliver til bytte for deres slaver.\fSå skal I erkende at Hærskarers JHVHv har sendt mig.",
+      "number": 13,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fRåb af fryd og glæd dig, Zions datter!\fFor se, jeg kommer og vil bo i dens midte, siger JHVH.",
+      "number": 14,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fMange folkeslag vil slutte sig til JHVH på den dag.\fDe bliver mit folk, og jeg vil bo i din midte.\fSå skal du erkende, at Hærskarers JHVHv har sendt mig til dig.",
+      "number": 15,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fJHVH skal tage Juda som sin ejendom på den hellige jord;\fhan skal på ny udvælge Jerusalem.",
+      "number": 16,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fVær stille, alt kød, for JHVHs ansigt,\ffor han har rejst sig fra sin hellige bolig.",
+      "number": 17,
+      "version": 1472594400000
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 105,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTak JHVH, udråb hans navn,\fkundgør hans gerninger blandt folkene!",
+      "title": "Opfordring til lovsang",
+      "number": 1,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen af *qirʔû bᵊ* er omdiskuteret. Oftest angiver det påkaldelse af Guds navn, især når der er tale om klage. Men her er der nærmere tale om proklamation.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fSyng for ham, spil og syng lovsang for ham,\ftal om alle hans undere!",
+      "number": 2,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "I grundteksten er det blot ét ord (*zammᵊrû*) der angiver forherligelse ved spil og sang.",
+          "type": "E",
+          "position": 35
+        },
+        {
+          "text": "Oversættelsen af verbet *śîḥû* på dette sted er omdiskuteret. Andre oversætter: »syng« eller: »tænk over«.",
+          "type": "E",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\fRos jer af hans hellige navn,\fderes hjerte som søger JHVH, skal glæde sig!",
+      "number": 3,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hans helligheds navn«.",
+          "type": "T",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "\fSpørg efter JHVH og hans magt,\fsøg altid hans ansigt!",
+      "number": 4,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHusk hans undere som han har udført,\fhans tegn og hans munds domme.",
+      "number": 5,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fI efterkommere af Abraham, hans tjener,\fI hans udvalgte sønner af Jakob!",
+      "title": "Guds pagt og løfte",
+      "number": 6,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sæd«.",
+          "type": "T",
+          "position": 15
+        },
+        {
+          "text": "Septuaginta har læst ordet *ʕavdô* (»hans tjener«) som pluralis, så det går på »efterkommere«: »I hans tjenere, efterkommere af Abraham«.",
+          "type": "E",
+          "position": 40
+        },
+        {
+          "text": "To håndskifter har singularis (»den udvalgte«) der da går på Jakob: »I sønner af Jakob, hans udvalgte«.",
+          "type": "E",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fHan er JHVH, vor Gud,\fhans domme gælder over hele jorden.",
+      "number": 7,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan husker evigt sin pagt,\fdet ord som han har forordnet til tusind slægtled,",
+      "number": 8,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fsom han har indgået med Abraham,\fog sin ed til Isak.",
+      "number": 9,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Der er tale om et højtideligt løfte.",
+          "type": "T",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\fHan stadfæstede den for Jakob som bestemmelse,\ffor Israel som en evig pagt,",
+      "number": 10,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fidet han sagde:\f»Dig vil jeg give Kana’ans land,\fjeres arvelod.«",
+      "title": "Fra Kana’an til Egypten",
+      "number": 11,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDa de var ringe i antal,\fkun få, og de boede i det som gæster,",
+      "number": 12,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »i mænds tal«",
+          "type": "T",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "\fog de vandrede omkring fra folk til folk,\ffra et rige til et andet folkefærd,",
+      "number": 13,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fda tillod han intet menneske at undertrykke dem\fog formanede konger for deres skyld:",
+      "number": 14,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »straffede«.",
+          "type": "T",
+          "position": 61
+        }
+      ]
+    },
+    {
+      "text": "\f»Rør ikke mine salvede,\fog gør ikke mine profeter noget ondt!«",
+      "number": 15,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDa han kaldte hungersnød over landet,\fsønderbrød enhver brødstav,",
+      "number": 16,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Det er omdiskuteret om der er tænkt på en stav hvor de ringformede brød var anbragt, eller figurativt om brødet som støttestav i livet.",
+          "type": "E",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "\fsendte han en mand forud for dem,\fJosef blev solgt som træl.",
+      "number": 17,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDe tvang hans fødder i fodlænke,\fjern gennemtrængte hans sjæl",
+      "number": 18,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen af linjen er omdiskuteret. Denne oversættelse opfatter sætningen som billedligt udtryk for sjælelig smerte. Det forudsættes at »jern« er brugt som synonym for sværd. Andre forstår *nafšô* (»hans sjæl«) som: »hans hals«, så linjen oversættes: »hans hals blev lagt i jern«.",
+          "type": "E",
+          "position": 62
+        }
+      ]
+    },
+    {
+      "text": "\findtil den tid da hans ord indtraf,\fJHVHs tale havde lutret ham.",
+      "number": 19,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fKongen sendte bud og satte ham fri,\ffolkeslags hersker løslod ham.",
+      "number": 20,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Sprogligt kan Gud være subjekt i verset: »Han sendte kongen som satte ham fri, folkeslags hersker som løslod ham«. I v.21 er det dog kongen (Farao) der er subjekt.",
+          "type": "E",
+          "position": 67
+        }
+      ]
+    },
+    {
+      "text": "\fHan satte ham til herre over sit hus\fog til hersker over al sin ejendom",
+      "number": 21,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fså han kunne vejlede hans fyrster efter sin vilje\fog give hans ældste visdom.",
+      "title": "I Egypten",
+      "number": 22,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret formodentlig: »så han kunne binde hans fyrster til sin sjæl«. Med bl.a. Septuaginta retter man som regel *leˀsōr* (»binde«) til: *lᵊyassēr*: »vejlede«. Det kan ikke udelukkes at *ʔsr* blot er en afvigende stavemåde for *ysr*. Den masoretiske tekst kan dog muligvis oversættes: »Så han (kongen) kunne binde sine fyrster til hans (Josefs) sjæl«.",
+          "type": "E",
+          "position": 21
+        },
+        {
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
+          "position": 50
+        }
+      ]
+    },
+    {
+      "text": "\fSå kom Israel til Egypten,\fog Jakob boede som gæst i Kams land.",
+      "number": 23,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDa han gjorde sit folk meget frugtbart\fog talrigere end dets fjender,",
+      "number": 24,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fvendte han deres hjerte til at hade hans folk\fog handle lumskt imod hans tjenere.",
+      "number": 25,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan sendte Moses, sin tjener,\fAron, som han havde udvalgt.",
+      "number": 26,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fBlandt dem proklamerede de hans tegn\fog hans undere i Kams land.",
+      "number": 27,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »de rejste blandt dem hans tegns ord/ting«. Meningen må enten være at Moses og Aron proklamerede Guds underfulde tegn blandt egypterne, eller at de udførte dem. Mange oversættere vælger en rettelse (som dog ikke har støtte i håndskrifter): *bām divrê* (»blandt dem ord/ting«) til: *bᵊmiṣrayim*: »i Egypten«. Linjen lyder så: »De gjorde hans tegn i Egypten«.",
+          "type": "E",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "\fHan sendte mørke, så det blev mørkt,\fog de trodsede ikke hans ord.",
+      "number": 28,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Septuginta og den syriske oversættelse har ikke negationen. Deres tekst lyder: »men de trodsede hans ord«. Mange oversættere opfatter *wᵊlōˀ-mārû* (»og de trodsede ikke«) som fejlskrivning for: *wᵊlōˀ šāmᵊrû*: »men de adlød ikke«.",
+          "type": "E",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\fHan forvandlede deres vande til blod\fog dræbte deres fisk.",
+      "number": 29,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDeres land vrimlede af frøer,\find i deres kongers kamre.",
+      "number": 30,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan talte, så kom der fluer,\fmyg i hele deres landområde.",
+      "number": 31,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Det er usikkert hvad ordet *ʕārōv* (»fluer«) betyder (ordet er singularis, men må opfattes som kollektiv betegnelse). På grundlag af Septuaginta har man tidligere oversat det: »bremser«. Andre har opfattet det som »spyfluer« eller »skadedyr« eller »sværm af insekter«. I jødisk sammenhæng er det opfattet som betegnelse for forskellige rovdyr eller parasitter.",
+          "type": "E",
+          "position": 29
+        }
+      ]
+    },
+    {
+      "text": "\fHan gav dem hagl som deres regnbyger,\fflammende ild over deres land.",
+      "number": 32,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »flammers ild«.",
+          "type": "T",
+          "position": 52
+        }
+      ]
+    },
+    {
+      "text": "\fHan slog deres vinstokke og deres figentræer ned\fog knuste træerne i deres landområde.",
+      "number": 33,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan talte, så kom der græshopper\fog græshoppelarver uden tal.",
+      "number": 34,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Der er usikkerhed om den præcise betydning af ordet *yeleq*. Formodentlig er der her tænkt på endnu ikke udvoksede græshopper; en anden mulighed er at det er en bestemt græshoppeart.",
+          "type": "E",
+          "position": 52
+        }
+      ]
+    },
+    {
+      "text": "\fDe åd alle planter i deres land,\fde åd frugten på deres mark.",
+      "number": 35,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan dræbte hver førstefødte i deres land,\fførstegrøden af al deres manddomskraft.",
+      "title": "Fra Egypten til Kana’an",
+      "number": 36,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »slog ned«.",
+          "type": "T",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "text": "\fSå førte han dem ud med sølv og guld,\fog ingen i hans stammer snublede.",
+      "number": 37,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fEgypten glædede sig, da de drog ud,\ffor frygt for dem var faldet over dem.",
+      "number": 38,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan bredte en sky ud som et dækken\fog ild til at oplyse natten.",
+      "number": 39,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDe spurgte, og han bragte vagtler\fog mættede dem med himmelbrød.",
+      "number": 40,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Han spurgte«. Meningen kan være at Moses spurgte. Som regel opfatter man dog enten formuleringen som kollektiv: »man spurgte«, eller man følger Septuaginta, der har læst pluralis (*šāʔᵃlû* i stedet for *šāʔal*): »de spurgte«. Grundtekstens verbum skal i en del sammenhænge oversættes: »kræve, forlange«, hvor det dog som regel har objekt. Men denne betydning klinger med her.",
+          "type": "E",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "text": "\fHan åbnede en klippe, og der flød vand,\fdet løb i de tørre områder som en strøm.",
+      "title": "Gud husker sit hellige løfte",
+      "number": 41,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fFor han huskede sit hellige ord\ftil sin tjener Abraham.",
+      "number": 42,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »helligheds ord«.",
+          "type": "T",
+          "position": 32
+        },
+        {
+          "text": "Ordret: »med«. Der er formodentlig tænkt på pagten som er omtalt i v.8-9.",
+          "type": "E",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "\fHan førte sit folk ud i glæde,\funder jubel sine udvalgte.",
+      "number": 43,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan gav dem folks lande,\fde tog folkeslags udbytte i besiddelse,",
+      "number": 44,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »frugt af arbejde«.",
+          "type": "T",
+          "position": 51
+        }
+      ]
+    },
+    {
+      "text": "\fmed det formål at de skulle holde hans bestemmelser\fog overholde hans love.\fHalleluja!",
+      "number": 45,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "lov",
+          "type": "N",
+          "position": 76
+        },
+        {
+          "text": "Nogle oversættere udelader (med støtte i Septuaginta og den syriske oversættelse) dette »halleluja«.",
+          "type": "T",
+          "position": 88
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "book": "Prædikerens Bog",
+  "abbreviation": "Præd",
+  "chapter": 8,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAlt dette har jeg set, og jeg har lagt mærke til al den gerning som gøres under solen; der er en tid da det ene menneske hersker over det andet til dettes ulykke.",
+      "number": 9,
+      "version": 1643065200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »rettet mit hjerte mod«.",
+          "type": "T",
+          "position": 49
+        }
+      ]
+    },
+    {
+      "text": "Derefter så jeg ugudelige begravet, de som er kommet og gået fra det hellige sted og bliver prist i byen hvor de har gjort således; også dette er tomhed.",
+      "number": 10,
+      "version": 1643065200000,
+      "footnotes": [
+        {
+          "text": "Denne oversættelses støttes af et stort antal håndskrifter, mens flertallet skulle oversættes: »bliver glemt«.",
+          "type": "T",
+          "position": 97
+        },
+        {
+          "text": "Den hebraiske tekst til verset er meget usikker og omdiskuteret. Forskellige håndskrifter og forslag til ændret vokalisering kunne tilsammen give oversættelsen: »Derefter så jeg de ugudelige blive begravet, og da nogle vendte tilbage fra det hellige sted, blev de prist i byen hvor de har gjort sådan. Også det er tomhed«.",
+          "type": "T",
+          "position": 153
+        }
+      ]
+    },
+    {
+      "text": "Eftersom der ikke fældes en hurtig dom over den onde gerning, er menneskenebørnenes hjerte i dem fuldt af at gøre ondt.",
+      "number": 11,
+      "version": 1643065200000
+    },
+    {
+      "text": "Selvom en synder gør hundrede gange ondt og lever længe, ved jeg dog at det skal gå dem vel som frygter Gud, dem som frygter for hans ansigt.",
+      "number": 12,
+      "version": 1643065200000
+    },
+    {
+      "text": "Men det skal ikke gå den ugudelige vel, og han skal ikke forlænge dagene, der er som en skygge, fordi han ikke frygter for Guds ansigt.",
+      "number": 13,
+      "version": 1643065200000
+    },
+    {
+      "text": "Der er en tomhed som sker på jorden: At der er retfærdige som det går efter de ugudeliges gerning, og at der er ugudelige som det går efter de retfærdiges gerning; jeg sagde at også dette er tomhed.",
+      "number": 14,
+      "version": 1643065200000
+    },
+    {
+      "text": "Da priste jeg glæden, for et menneske har ikke noget bedre under solen end at spise og drikke og være glad; og dette følger ham i hans slid i de levedage som Gud har givet ham under solen.",
+      "number": 15,
+      "version": 1643065200000
+    }
+  ]
+}

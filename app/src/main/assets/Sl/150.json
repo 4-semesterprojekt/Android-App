@@ -1,0 +1,65 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 150,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHalleluja!\fLovpris Gud i hans helligdom,\flovpris ham i hans vældes himmelhvælving!",
+      "title": "Jord og himmel skal lovprise Guds storhed",
+      "number": 1,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hans hellighed«, men i sammenhængen er der formodentlig tænkt på templet.",
+          "type": "E",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "\fLovpris ham for hans mægtige gerninger,\flovpris ham i overensstemmelse med hans vældige storhed!",
+      "title": "Lovprisning med stort orkester",
+      "number": 2,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fLovpris ham med stød i basun,\flovpris ham med harpe og citer,",
+      "number": 3,
+      "version": 1504476000000
+    },
+    {
+      "text": "\flovpris ham med pauke og dans,\flovpris ham med strengespil og fløjte,",
+      "number": 4,
+      "version": 1504476000000
+    },
+    {
+      "text": "\flovpris ham med klingende cymbler,\flovpris ham med rungende cymbler!",
+      "title": "Alle skal lovprise JHVH",
+      "number": 5,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fAlt som har ånde, skal lovprise JHVH!\fHalleluja!",
+      "number": 6,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "type": "T",
+          "position": 38
+        }
+      ]
+    }
+  ]
+}

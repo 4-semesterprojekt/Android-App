@@ -1,0 +1,54 @@
+{
+  "book": "Femte Mosebog",
+  "abbreviation": "5Mos",
+  "chapter": 10,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fFor JHVH jeres Gud er gudernes Gud og herrenes Herre, den store, den mægtige og den frygtindgydende Gud, som ikke er partisk og ikke tager imod bestikkelse,",
+      "number": 17,
+      "version": 1641942000000
+    },
+    {
+      "text": "som skaffer en faderløs og en enke ret, og som elsker en fremmed så han giver ham brød og klæder.",
+      "number": 18,
+      "version": 1641942000000
+    },
+    {
+      "text": "Derfor skal I elske den fremmede; for I har været fremmede i Egyptens land.",
+      "number": 19,
+      "version": 1641942000000
+    },
+    {
+      "text": "JHVH din Gud skal du frygte, ham skal du tjene; og ham skal du holde fast ved, og ved hans navn skal du sværge.",
+      "number": 20,
+      "version": 1641942000000
+    },
+    {
+      "text": "Han er din lovsang, og han er din Gud, som for dig har gjort disse store og frygtindgydende ting som dine øjne har set.",
+      "number": 21,
+      "version": 1641942000000,
+      "footnotes": [
+        {
+          "text": "Meningen er formodentlig: »i dit nærvær«.",
+          "type": "T",
+          "position": 50
+        }
+      ]
+    }
+  ]
+}

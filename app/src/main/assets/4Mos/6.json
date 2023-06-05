@@ -1,0 +1,164 @@
+{
+  "book": "Fjerde Mosebog",
+  "abbreviation": "4Mos",
+  "chapter": 6,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJHVH sagde til Moses:",
+      "title": "JHVH giver love om en nasiræer og hans løfter og renhedskrav.",
+      "number": 1,
+      "version": 1493935200000
+    },
+    {
+      "text": "»Sig til israelitterne: ›Når en mand eller kvinde afgiver et særligt løfte om at blive nasiræer, om at være afholdende for JHVH,",
+      "number": 2,
+      "version": 1493935200000
+    },
+    {
+      "text": "da skal han holde sig fra vin og øl. Han skal ikke drikke vineddike eller eddike af stærk drik, og han skal ikke drikke saft af druer og hverken spise friske eller tørrede druer.",
+      "number": 3,
+      "version": 1493935200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »stærk drik«, men der menes sandsynligvis en gæret drik som øl, mjød eller lignende.",
+          "type": "T",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "Al den tid hans afholdenhed varer, skal han ikke spise noget der stammer fra vinstokken, hverken kerne eller skal.",
+      "number": 4,
+      "version": 1493935200000
+    },
+    {
+      "text": "Al den tid hans afholdenheds løfte varer, må der ikke komme en ragekniv over hans hoved. Indtil den tid er gået, hvor han er afholdende for JHVH, skal han være hellig og lade sit hovedhår vokse frit.",
+      "number": 5,
+      "version": 1493935200000
+    },
+    {
+      "text": "Al den tid han har lovet at være afholdende for JHVH, må han ikke komme noget lig nær.",
+      "number": 6,
+      "version": 1493935200000
+    },
+    {
+      "text": "Han må ikke gøre sig uren ved sin far eller ved sin mor, ved sin bror eller sin søster når de dør, for hans afholdenhedsmærke for Gud er over hans hoved.",
+      "number": 7,
+      "version": 1493935200000
+    },
+    {
+      "text": "Al den tid hans afholdenhed varer, skal han være hellig for JHVH.",
+      "title": "Love om hvordan en nasiræer skal rense sig.",
+      "number": 8,
+      "version": 1493935200000
+    },
+    {
+      "text": "\fHvis nogen meget pludselig dør hos ham og gør hans hoved med afholdenhedsmærket urent, da skal han rage det på renselsesdagen, på den syvende dag skal han rage det.",
+      "number": 9,
+      "version": 1493935200000
+    },
+    {
+      "text": "Den ottende dag skal han bringe to turtelduer eller to dueunger til præsten, til indgangen for forsamlingsteltet.",
+      "number": 10,
+      "version": 1493935200000
+    },
+    {
+      "text": "Præsten skal give én som syndoffer og én som brændoffer og skaffe ham soning fordi han har syndet ved liget, og samme dag skal han hellige sit hoved.",
+      "number": 11,
+      "version": 1493935200000
+    },
+    {
+      "text": "Og han skal på ny være afholdende for JHVH al den tid hans afholdenhed varer, og fremføre et årgammelt lam som skyldoffer. Den første tid skal falde bort, fordi hans afholdenhed blev uren.",
+      "title": "Love om nasiræerens offer når løftet er til ende.",
+      "number": 12,
+      "version": 1493935200000
+    },
+    {
+      "text": "\fDette er nasiræerloven: Den dag hans afholdenhedstid udløber, skal han fremføre følgende for indgangen til forsamlingsteltet:",
+      "number": 13,
+      "version": 1493935200000
+    },
+    {
+      "text": "Som et offer for JHVH skal han ofre et fejlfrit, årgammelt vædderlam som brændoffer og et fejlfrit årgammelt hunlam som syndoffer og en fejlfri vædder som takoffer",
+      "number": 14,
+      "version": 1493935200000
+    },
+    {
+      "text": "og en kurv med usyrede kager af mel blandet med olie, og usyret knækbrød, penslet med olie, og det tilhørende madoffer og drikoffer.",
+      "number": 15,
+      "version": 1493935200000
+    },
+    {
+      "text": "Præsten skal bære det frem for JHVHs ansigt og ofre hans syndoffer og brændoffer.",
+      "number": 16,
+      "version": 1493935200000
+    },
+    {
+      "text": "Vædderen skal han ofre til JHVH som takoffer sammen med kurven med de usyrede brød, og præsten skal ofre hans madoffer og hans drikoffer.",
+      "number": 17,
+      "version": 1493935200000
+    },
+    {
+      "text": "Nasiræeren skal rage afholdenhedens mærke af sit hoved foran indgangen til forsamlingsteltet og kaste det på ilden under takofferet.",
+      "number": 18,
+      "version": 1493935200000
+    },
+    {
+      "text": "Præsten skal tage skulderstykket fra vædderen når det er kogt, samt en usyret kage fra kurven og et usyret knækbrød, og han skal lægge dem i nasiræerens hænder efter han har raget sit afholdenheds mærke af.",
+      "number": 19,
+      "version": 1493935200000
+    },
+    {
+      "text": "Præsten skal svinge dem frem og tilbage for JHVHs ansigt; det er helliget præsten sammen med bryststykket til svingningen og lårbenet der gives som offergave, og derefter må nasiræeren drikke vin.",
+      "number": 20,
+      "version": 1493935200000
+    },
+    {
+      "text": "Dette er loven for nasiræeren. Når han lover at give en offergave til Herren ved siden af sit løfte, altså udover det han bærer frem i sin egen hånd, skal han nøje overholde det løfte han har aflagt. Dette skal han gøre ved siden af loven for hans afholdenhed.«",
+      "title": "JHVH beskriver for Moses hvordan præsterne skal velsigne folket i Guds navn.",
+      "number": 21,
+      "version": 1493935200000
+    },
+    {
+      "text": "\fJHVH sagde til Moses:",
+      "number": 22,
+      "version": 1493935200000
+    },
+    {
+      "text": "»Sig til Aron og hans sønner: ›Således skal I velsigne israelitterne og sige til dem:",
+      "number": 23,
+      "version": 1493935200000
+    },
+    {
+      "text": "JHVH velsigne dig og bevare dig!",
+      "number": 24,
+      "version": 1493935200000
+    },
+    {
+      "text": "JHVH lade sit ansigt lyse over dig og være dig nådig!",
+      "number": 25,
+      "version": 1493935200000
+    },
+    {
+      "text": "JHVH løfte sit ansigt på dig og give dig fred!‹",
+      "number": 26,
+      "version": 1493935200000
+    },
+    {
+      "text": "De skal lægge mit navn på israelitterne, og jeg vil velsigne dem.«",
+      "number": 27,
+      "version": 1493935200000
+    }
+  ]
+}

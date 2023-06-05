@@ -1,0 +1,151 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 141,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSalme af David.\fJHVHv, jeg råber til dig, skynd dig til mig,\flyt til min røst når jeg kalder på dig.",
+      "title": "Råb om bønhørelse",
+      "number": 1,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Verbet står i qatal, der her har præsentisk betydning, men angiver at bønnen er fremført gennem længere tid.",
+          "type": "T",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\fLad min bøn gælde som et røgelsesoffer for dit ansigt,\fmine løftede hænder som et aftenafgrødeoffer.",
+      "title": "Bøn om styrke mod fristelsen",
+      "number": 2,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »være tilberedt«.",
+          "type": "T",
+          "position": 18
+        },
+        {
+          "text": "Ordret: »min hænders opløften«.",
+          "type": "T",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv, sæt vagt ved min mund,\fvogt mine læbers dør.",
+      "number": 3,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fBøj ikke mit hjerte til en ond sag,\ftil at udføre gerninger i ugudelighed\fmed mænd som handler ondt,\fog lad mig ikke få smag for deres lækkerbiskener!",
+      "title": "Bøn om at blive befriet fra det ondes magt",
+      "number": 4,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fLad en retfærdig slå mig i nåde og revse mig,\fsådan olie til hovedet skal mit hoved ikke afvise,\ffor min bøn er stadig rettet mod deres ondskab.",
+      "number": 5,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 32
+        },
+        {
+          "text": "Sætningen og oversættelsen er omdiskuteret. I denne oversættelse er ordet »sådan« underforstået. Meningen er da at revselsen er som gæstevenskabets olie.Septuaginta, som følges af mange, har ikke læst: *rōˀš* (»hovedet«), men: *rāšāʕ*: »gudløs, uretfærdig«. Samtidig er det nødvendigt at rette verbet: *yānî* (»afvise«) til: *yᵊnāʔ*: »skal smykke«. Oversættelsen bliver: »en gudløs’/uretfærdigs olie skal ikke smykke mit hoved«.En tredje mulighed er at *rōˀš* (»hovedet«) her skal forstås som: »toppen, det bedste«, og verbet: *yānî* (»afvise«) også her rettes til: *yᵊnāʔ*: »skal smykke«. Det giver oversættelsen: »Må den fineste olie ikke smykke mit hoved«.",
+          "type": "E",
+          "position": 97
+        },
+        {
+          "text": "Ordret: »for stadig og min bøn mod/under(i deres ondskab)«. Tilknytningspartiklen: *wᵊ* (»og«) bruges undertiden til at knytte to udtryk nært sammen, her er det: »stadig« og: »min bøn«. Der kan evt. også oversættes: »for min bøn varer ved trods deres ondskab«.",
+          "type": "E",
+          "position": 145
+        }
+      ]
+    },
+    {
+      "text": "\fDeres herskere skal styrtes i hænderne på klippen,\fog de skal høre at mine ord var liflige.",
+      "number": 6,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »dommere«. Israels dommere var egentlig folkets ledere.",
+          "type": "T",
+          "position": 15
+        },
+        {
+          "text": "Verset er omdiskuteret. Verberne står i qatal, der oftest skal oversættes ved fortid, men her er de formodentlig udtryk for en vished om fremtiden.En anden mulig oversættelse er: »Hvis de blev styrtet i hænderne på klippen, deres herskere, / ville de høre at mine ord var liflige«. En del oversættere vil slette ordet: *selaʕ* (»klippe«). Det letter teksten, men er uden støtte i håndskrifter eller gamle oversættelser.En tredje mulighed er at opfatte »klippe« som synonym for Gud og *šōfᵊṭêhem* (»deres herskere/dommere«) som pluralis majestatis. Det vil give oversættelsen: »Når de er faldet i hænderne på Klippen, deres dommer, skal de erfare at mine ord var liflige«.",
+          "type": "E",
+          "position": 92
+        }
+      ]
+    },
+    {
+      "text": "\fSom når en pløjer og bryder jorden op,\fer vore knogler spredte ved Dødsrigets gab.",
+      "title": "Sammenfattende bøn",
+      "number": 7,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Den gamle syriske oversættelse og nogle håndskrifter til Septuaginta har: »deres knogler«, på hebraisk: *ʕaṣmêhem* i stedet for: *ʕᵃṣāmênû*. Det giver god mening, men fejlskrivningen er vanskelig at forklare. Den masoretiske tekst må betyde at Davids og alle de frommes kræfter er fuldstændig udtømte. Menneskelig set er de besejret.",
+          "type": "E",
+          "position": 55
+        }
+      ]
+    },
+    {
+      "text": "\fJa, til dig, JHVHv, Herre, er mine øjne rettet,\fhos dig har jeg søgt tilflugt, giv mig ikke hen i døden!",
+      "number": 8,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Masoreterne har her ikke – som oftest – vokaliseret JHVH som: »Herre« (*ʔᵃdōnāʸ*), men som »Gud« (*ʔᵊlōhîm*).",
+          "type": "E",
+          "position": 20
+        },
+        {
+          "text": "Ordret: »udgyd ikke min sjæl«.",
+          "type": "T",
+          "position": 105
+        }
+      ]
+    },
+    {
+      "text": "\fBevar mig fra kraften i den fælde som de har lagt ud for mig,\fog fra deres snare som handler syndigt.",
+      "number": 9,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fLad de ugudelige falde i egen fælde,\fmens jeg selv samtidig slipper fri.",
+      "number": 10,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »uretfærdige«.",
+          "type": "T",
+          "position": 17
+        },
+        {
+          "text": "Ordret: »hans/sine fælder«. Meningen er sandsynligvis: »hver i sin egen fælde«.",
+          "type": "T",
+          "position": 37
+        }
+      ]
+    }
+  ]
+}

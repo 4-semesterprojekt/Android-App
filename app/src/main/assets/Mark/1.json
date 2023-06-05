@@ -1,0 +1,107 @@
+{
+  "book": "Markusevangeliet",
+  "abbreviation": "Mark",
+  "chapter": 1,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Torben Kjær",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Literært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fBegyndelsen på evangeliet om Jesus Kristus, Guds Søn, v2 var ligesom der står skrevet hos profeten Esajas:\f»Se, jeg sender min engel foran dit ansigt; han vil forberede din vej.",
+      "title": "Johannes Døber",
+      "number": 1,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fDer er en stemme af en der råber i ørkenen: Forbered Herrens vej, gør hans stier jævne!«.",
+      "number": 3,
+      "version": 1667170800000,
+      "footnotes": [
+        {
+          "text": "Mal 3,1; Es 40,3",
+          "type": "H",
+          "position": 89
+        }
+      ]
+    },
+    {
+      "text": "\fFrem trådte Johannes, som døbte i ørkenen og forkyndte omvendelsesdåb til tilgivelse af syndere. v5 Hele Judæas land og alle i Jerusalem gik ud og blev døbt af ham i Jordanfloden idet de bekendte deres synder. v6 Johannes var klædt i kamelhår og havde et læderbælte om livet og spiste græshopper og vild honning. v7 Han forkyndte: »Efter mig kommer den der er stærkere end jeg, hvis sandalrem jeg ikke er værdig til at bøje mig ned og løse. v8 Jeg har døbt jer med vand, men han vil døbe jer med Helligånd.«",
+      "title": "Jesu dåb",
+      "number": 4,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fDet skete i de dage at Jesus kom fra Nazaret i Galilæa og blev døbt af Johannes i Jordan. v10 Og straks da han steg op af vandet, så han himlene skilles ad og Ånden stige som en due ned over ham, v11 og der lød en stemme fra himlene: »Du er min søn, den elskede, dig har jeg udvalgt.«",
+      "title": "Jesu fristelse",
+      "number": 9,
+      "version": 1667170800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »I dig har jeg velbehag.«",
+          "type": "T",
+          "position": 283
+        }
+      ]
+    },
+    {
+      "text": "\fStraks efter førte Ånden ham ud i ørkenen. v13 Han var i ørkenen fyrre dage mens han blev fristet af Satan, og han var blandt dyrene, og englene tjente ham.",
+      "title": "Jesu forkyndelse i Galilæa",
+      "number": 12,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fEfter at Johannes var blevet fængslet, kom Jesus til Galilæa og forkyndte Guds evangelium: v15 »Tiden er blevet opfyldt, og Guds rige er kommet nær; omvend jer og tro på evangeliet!«",
+      "title": "Kaldelsen af de første disciple",
+      "number": 14,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fMens han gik langs Galilæas sø, så han Simon og Andreas, Simons bror, i færd med at kaste net i søen. For de var fiskere. v17 Jesus sagde til dem: »Følg mig, og jeg vil gøre jer til menneskefiskere.« v18 Straks forlod de deres net og fulgte ham. v19 Da han gik lidt videre, så han Jakob, Zebedæus’ søn, og hans bror Johannes, i deres båd i færd med at ordne deres net, v20 og straks kaldte han dem. De forlod deres far Zebedæus i båden sammen med daglejerne og fulgte efter ham.",
+      "title": "Uddrivelsen af en uren ond",
+      "number": 16,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fDe kom til Kapernaum, og straks på sabbatten kom han ind i synagogen og underviste, v22 og de blev slået af forundring over hans undervisning; for han underviste dem som en med myndighed og ikke som de skriftlærde. v23 Straks var der i deres synagoge et menneske med en uren ånd, og han skreg: v24 »Hvad har vi med dig at gøre, Jesus af Nazaret? Er du kommet for at ødelægge os? Jeg ved hvem du er: Guds hellige.« v25 Jesus truede den: »Ti stille, og far ud af ham!« v26 Den urene ånd sled i ham, skreg med høj stemme og for ud af ham. v27 De blev alle forfærdede, så de diskuterede med hinanden: »Hvad er dette? En ny lære med myndighed; selv de urene ånder befaler han over, og de adlyder ham.« v28 Rygtet om ham kom straks ud overalt i hele omegnen, nemlig Galilæa.",
+      "title": "Peters svigermor",
+      "number": 21,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fStraks da de var kommet ud af synagogen, kom de til Simons og Andreas’ hus sammen med Jakob og Johannes. v30 Men Simons svigermor lå med feber, og straks fortalte de ham om hende; v31 og han gik hen til hende, greb hendes hånd og rejste hende op, og feberen forlod hende, og hun sørgede for dem. v32 Da det var blevet aften, og solen var gået ned, bar de alle de syge og de besatte til ham, v33 og hele byen var forsamlet ved døren. v34 Han helbredte mange, der led af mange slags sygdomme, og han uddrev mange dæmoner, og han tillod ikke dæmonerne at tale, fordi de kendte ham.",
+      "title": "Jesu forkyndelse i synagoger",
+      "number": 29,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fTidligt, mens det var helt mørkt, stod han op, gik ud og hen til et øde sted, og dér bad han. v36 Simon og de der var sammen med ham, skyndte sig efter ham. v37 De fandt ham og sagde til ham: »Alle søger dig.« v38 Han sagde til dem: »Lad os gå andet steds hen, til de nærliggende landsbyer, for at jeg også kan forkynde dér; for det er derfor jeg kommet.« v39 Han kom og forkyndte i deres synagoger i hele Galilæa og uddrev dæmoner.",
+      "title": "Helbredelsen af en spedalsk",
+      "number": 35,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fEn spedalsk kom til ham, bad ham og faldt på knæ for ham og sagde til ham: »Hvis du vil, kan du gøre mig ren.« v41 Han fik medlidenhed med ham, rakte sin hånd frem, rørte ved ham og sagde til ham: »Jeg vil, bliv ren!« v42 Straks forlod spedalskheden ham, og han blev renset. v43 Han talte strengt til ham og sendte ham straks væk, v44 og sagde: »Se til at du ikke siger det til nogen; men gå hen og vis dig for præsten, og bring det offer for din renselse som Moses har befalet, til vidnesbyrd for dem!« v45 Men han gik ud og begyndte at forkynde ivrigt og udbrede ordet, så at Jesus ikke mere kunne gå åbenlyst ind i en by, men var udenfor på øde steder, og de kom til ham alle vegne fra.",
+      "number": 40,
+      "version": 1667170800000,
+      "footnotes": [
+        {
+          "text": "3 Mos 14,1-32",
+          "type": "H",
+          "position": 504
+        }
+      ]
+    }
+  ]
+}

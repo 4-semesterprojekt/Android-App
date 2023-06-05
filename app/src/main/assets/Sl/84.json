@@ -1,0 +1,183 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 84,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Al-ha-gittit.\fAf Koras sønner. En salme.",
+      "title": "Længsel efter templet",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        },
+        {
+          "text": "Det vides ikke hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.",
+          "type": "T",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "\fHvor elskelige er dine boliger,\fHærskarers JHVHv!",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "I ældre tid uoversat: »Zebaoth«",
+          "type": "T",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\fMin sjæl længtes, ja, var ved at gå til af længsel\fefter JHVHs forgårde,\fmit hjerte og mit kød skal jublende prise\fden levende Gud.",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hentæredes«.",
+          "type": "T",
+          "position": 51
+        },
+        {
+          "text": "Oversættes ofte: »råber efter«. Det vil dog være eneste gang at dette adskillige gange forekommende verbum optræder i pi’el i den betydning i GT.",
+          "type": "T",
+          "position": 115
+        }
+      ]
+    },
+    {
+      "text": "\fSelv fuglen har fundet et bo\fog svalen en rede til sig,\fhvor den har lagt sine unger:\fDine altre, Hærskarers JHVHv,\fmin konge og min Gud!",
+      "number": 4,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Undertiden oversat: »spurven«",
+          "type": "T",
+          "position": 12
+        },
+        {
+          "text": "I ældre tid uoversat: »Zebaoth«",
+          "type": "T",
+          "position": 109
+        }
+      ]
+    },
+    {
+      "text": "\fSalige er de som bor i dit hus,\ftil stadighed skal de prise dig. Sela",
+      "title": "Pilgrimmenes lykke",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "\fSaligt er det menneske, hvis styrke er i dig,\fpå hvis hjerte det ligger at drage på valfart.",
+      "number": 6,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »i/på hvis hjerte der er veje«. Både Septuaginta og sammenhængen støtter at der med »veje« er tænkt på valfart. Der er forskellige forslag til rettelser, bl.a. at rette: *mᵊsillôt* (»veje«) til: *kislôt*: »tillid«.",
+          "type": "E",
+          "position": 93
+        }
+      ]
+    },
+    {
+      "text": "\fNår de drager igennem Baka-dalen,\fgør de den til et kildevæld,\fja, tidligregnen skal hylle den i velsignelser.",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det er efterårets første, lette regn efter sommerens tørke. Oversættes derfor også: »efterårsregnen«",
+          "type": "T",
+          "position": 80
+        }
+      ]
+    },
+    {
+      "text": "\fDe skal gå frem fra kraft til kraft,\fde skal se hen til Gud på Zion.",
+      "title": "Bøn for kongen",
+      "number": 8,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Den masoretiske tekst lyder ordret oversat: »han skal vise sig for Gud på Zion«. Subjektet kan evt. opfattes kollektivt (»de«) eller upersonligt (»man«). Sætningen kan måske (let omskrevet) oversættes: »indtil enhver viser sig for Gud på Zion«. Ofte går man dog ud fra (som forudsat her) at verbet ikke skal være *yērāʔeʰ* (»han skal/vil vise sig«), men: *yirʔû*: »de skal se«, som i forbindelse med præpositionen *ʔel* (»hen til«) er udtryk for at man ser hen til én med håb.",
+          "type": "E",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv, Gud Sebaot, hør min bøn,\flyt, Jakobs Gud. Sela",
+      "number": 9,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordet betyder: »hærskarer«. Det optræder 285 gange i GT, og de allerfleste gange i konstruktforhold (genitiv) til JHVH (oftest oversat: »Hærskarers Herre«). Men det er ikke tilfældet her. Her står det selvstændigt og må opfattes som et af Guds navne.",
+          "type": "E",
+          "position": 19
+        }
+      ]
+    },
+    {
+      "text": "\fSe til vort skjold, Gud,\fse på din salvedes ansigt.",
+      "title": "Gud og hans tempel er livets kilde",
+      "number": 10,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fSandelig, én dag i dine forgårde er bedre\fend tusind som jeg har valgt.\fAt befinde sig ved tærsklen til min Guds hus\fer bedre end at bo i ugudeliges telte.",
+      "number": 11,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ofte foreslås det i stedet for *bāḥartî* (»som jeg har valgt«) at rette til: *bᵊḥedrî*: »i mit kammer« = hjemme. Men rettelsen forekommer vilkårlig.",
+          "type": "E",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "\fFor JHVH Gud er sol og skjold,\fJHVH giver nåde og ære,\fintet godt nægter han dem\fsom vandrer i oprigtighed.",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHærskarers JHVHv,\fsaligt er det menneske som stoler på dig!",
+      "number": 13,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "I ældre tid uoversat: »Zebaoth«",
+          "type": "T",
+          "position": 11
+        }
+      ]
+    }
+  ]
+}

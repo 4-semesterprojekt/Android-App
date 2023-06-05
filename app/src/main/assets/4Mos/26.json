@@ -1,0 +1,348 @@
+{
+  "book": "Fjerde Mosebog",
+  "abbreviation": "4Mos",
+  "chapter": 26,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEfter plagen talte JHVH til Moses og til Eleazar, præsten Arons søn:",
+      "title": "Moses og Eleazar skal atter mønstre folket.",
+      "number": 1,
+      "version": 1500328800000
+    },
+    {
+      "text": "»Hold mandtal over hele israelitternes forsamling, alle der er tyve år og derover, efter deres fædrenehus. Tæl alle dem i Israel som kan drage i krig.«",
+      "number": 2,
+      "version": 1500328800000
+    },
+    {
+      "text": "Moses og præsten Eleazar sagde til dem på Moabs slette ved Jordan over for Jeriko:",
+      "number": 3,
+      "version": 1500328800000
+    },
+    {
+      "text": "»Tæl dem der er tyve år gamle og derover, sådan som JHVH har befalet Moses og israelitterne, dem som var draget ud af Egypten.«",
+      "title": "Hver stamme mønstres for sig, og summen opregnes.",
+      "number": 4,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fRuben var Israels førstefødte. Rubens efterkommere var: Enok, enokitternes slægt, af Pallu, palluitternes slægt,",
+      "number": 5,
+      "version": 1500328800000
+    },
+    {
+      "text": "af Hesron, hesronitternes slægt, af Karmi, karmitternes slægt.",
+      "number": 6,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er rubenitternes slægter, og de mønstrede af dem var 43.730.",
+      "number": 7,
+      "version": 1500328800000
+    },
+    {
+      "text": "Blandt Pallus børn var Eliab.",
+      "number": 8,
+      "version": 1500328800000
+    },
+    {
+      "text": "Eliabs børn var Nemuel, Datan og Abiram. Det var den Datan og Abiram, der var blandt de udnævnte af forsamlingen, og som havde skændtes med Moses og Aron sammen med Kora da de skændtes med JHVH.",
+      "number": 9,
+      "version": 1500328800000
+    },
+    {
+      "text": "Jorden åbnede sit gab og opslugte dem og Kora, og hele flokken døde da ilden fortærede 250 mænd, og de blev til et tegn.",
+      "number": 10,
+      "version": 1500328800000
+    },
+    {
+      "text": "Men Koras sønner døde ikke.",
+      "number": 11,
+      "version": 1500328800000
+    },
+    {
+      "text": "Simeons efterkommere efter deres slægter var: Af Nemuel, nemuelitternes slægt, af Jamin, jaminitternes slægt, af Jakin, jankinitternes slægt,",
+      "number": 12,
+      "version": 1500328800000
+    },
+    {
+      "text": "af Zera, zeraitternes slægt, af Saul, saulitternes slægt.",
+      "number": 13,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er simeonitternes slægter, 22.200.",
+      "number": 14,
+      "version": 1500328800000
+    },
+    {
+      "text": "Gads efterkommere efter deres slægter var: Af Sefon, sefonitternes slægt, af Haggi, haggitternes slægt, af Shuni shunitternes slægt;",
+      "number": 15,
+      "version": 1500328800000
+    },
+    {
+      "text": "af Ozni, oznitternes slægt, af Eri eritternes slægt;",
+      "number": 16,
+      "version": 1500328800000
+    },
+    {
+      "text": "af Arod, aroditternes slægt; af Ar’eli, ar’elitternes slægt.",
+      "number": 17,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er gaditternes slægter, de mønstrede af dem var 40.500.",
+      "number": 18,
+      "version": 1500328800000
+    },
+    {
+      "text": "Judas børn var Er og Onan, og Er og Onan døde i Kana’an.",
+      "number": 19,
+      "version": 1500328800000
+    },
+    {
+      "text": "Judas øvrige efterkommere efter deres slægter var: Af Shela, shelanitternes slægt, af Peres, peresitternes slægt, af Zera, zeraitternes slægt.",
+      "number": 20,
+      "version": 1500328800000
+    },
+    {
+      "text": "Peres efterkommere var: Af Hesron, hesonitternes slægt, af Hamul, hamulitternes slægt.",
+      "number": 21,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er Judas slægter, de mønstrede af dem var 76.500.",
+      "number": 22,
+      "version": 1500328800000
+    },
+    {
+      "text": "Issakars efterkommere efter deres slægter var: Af Tola, tolaitternes slægt, af Puvva, punitternes slægt;",
+      "number": 23,
+      "version": 1500328800000
+    },
+    {
+      "text": "af Jashub, jashubitternes slægt, af Shimron, shimronitternes slægt.",
+      "number": 24,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er Issakars slægter, de mønstrede af dem var 64.300.",
+      "number": 25,
+      "version": 1500328800000
+    },
+    {
+      "text": "Zebulons efterkommere efter deres slægter var: Af Sered, sereditternes slægt, af Elon, elonitternes slægt, af Jakle’el, jakle’elitternes slægt.",
+      "number": 26,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er zebulonitternes slægter, de mønstrede af dem var 60.500.",
+      "number": 27,
+      "version": 1500328800000
+    },
+    {
+      "text": "Josefs børn efter deres slægter var Manasse og Efraim.",
+      "number": 28,
+      "version": 1500328800000
+    },
+    {
+      "text": "Manasses efterkommere var: Af Makir, makiritternes slægt, Makir havde sønnen Gilead, af Gilead, gileaditternes slægt.",
+      "number": 29,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er Gileads efterkommere: Af Iezer, iezritternes slægt, af Helek, helekitternes slægt;",
+      "number": 30,
+      "version": 1500328800000
+    },
+    {
+      "text": "Af Asriel, asrielitternes slægt, af Sikem, sikemitternes slægt;",
+      "number": 31,
+      "version": 1500328800000
+    },
+    {
+      "text": "af Shemida, shemidaitternes slægt, af Hefer, heferitternes slægt.",
+      "number": 32,
+      "version": 1500328800000
+    },
+    {
+      "text": "Men Hefers søn Selofkad havde ingen sønner, kun døtre, og Selofkads døtre var: Makla, Noa, Hogla, Milka og Tirsa.",
+      "number": 33,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er Manasses slægter, og de mønstrede af dem var 52.700.",
+      "number": 34,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er Efraims efterkommere efter deres slægter: Af Shutela, shutelaitternes slægt, af Beker, bekeritternes slægt, af Tahan tahanitternes slægt.",
+      "number": 35,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er Shutelas efterkommere: Af Eran, eranitternes slægt.",
+      "number": 36,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er efraimitternes slægter, de mønstrede af dem var 32.500. Dette er Josefs efterkommere efter deres slægter.",
+      "number": 37,
+      "version": 1500328800000
+    },
+    {
+      "text": "Benjamins efterkommere efter deres slægter var: Af Bela, belaitternes slæg, af Ashbel, ashbelitternes slægt, af Akiram, akiramitternes slægt;",
+      "number": 38,
+      "version": 1500328800000
+    },
+    {
+      "text": "af Shufam, shufamitternes slægt, af Hufam, hufamitternes slægt.",
+      "number": 39,
+      "version": 1500328800000
+    },
+    {
+      "text": "Belas børn var Ard og Na’aman, af Ard, arditternes slægt, af Na’aman, na’amitternes slægt.",
+      "number": 40,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er benjaminitternes slægter, og de mønstrede af dem var 45.600.",
+      "number": 41,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er Dans efterkommere efter deres slægter: Af Shuham, shuhamitternes slægt. Dette var Dans slægter.",
+      "number": 42,
+      "version": 1500328800000
+    },
+    {
+      "text": "Af alle shuhamitternes slægter var de mønstrede af dem 64.400.",
+      "number": 43,
+      "version": 1500328800000
+    },
+    {
+      "text": "Ashers efterkommere efter deres slægter var: Af Jimna, jimnaitternes slægt, af Jishvi, jishvitternes slægt, af Beria, beriaitternes slægt;",
+      "number": 44,
+      "version": 1500328800000
+    },
+    {
+      "text": "af Berias børn: Af Heber, hebritternes slægt, af Malkiel, malkielitternes slægt.",
+      "number": 45,
+      "version": 1500328800000
+    },
+    {
+      "text": "Ashers datter hed Sera.",
+      "number": 46,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er Ashers efterkommeres slægter, de mønstrede af dem var 53.400",
+      "number": 47,
+      "version": 1500328800000
+    },
+    {
+      "text": "Naftalis efterkommere efter deres slægter var: Af Jakse’el, jakse’elitternes slægt; af Guni, gunitternes slægt;",
+      "number": 48,
+      "version": 1500328800000
+    },
+    {
+      "text": "af Jeser, jeseritternes slægt, af Shillem, shillemitternes slægt.",
+      "number": 49,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er Naftalis efterkommeres slægter, og de mønstrede af dem var 45.400.",
+      "number": 50,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er de mønstrede israelitter: 601.730.",
+      "title": "Moses skal fortælle folket hvordan landet skal deles mellem dem ved lodkastning.",
+      "number": 51,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fJHVH sagde til Moses:",
+      "number": 52,
+      "version": 1500328800000
+    },
+    {
+      "text": "»Mellem disse skal landet deles til arv efter folketallet.",
+      "number": 53,
+      "version": 1500328800000
+    },
+    {
+      "text": "Den som er mange, hans arv skal du gøre stor, den som er få, hans arv skal du gøre lille, enhver skal få sin arv i forhold til antallet af de mønstrede.",
+      "number": 54,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dog skal landet deles ved lodkastning. Efter navnene på deres fædrenestammer skal de få deres arv.",
+      "number": 55,
+      "version": 1500328800000
+    },
+    {
+      "text": "Sådan som loddet falder, skal arven tilfalde enhver, alt efter om han er mange eller få.«",
+      "title": "Levitterne tælles for sig.",
+      "number": 56,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fDette er de mønstrede af levitterne efter deres slægter: Af Gershon, gershonitternes slægt, af Kehat, kehatitternes slægt, af Merari, meraritternes slægt.",
+      "number": 57,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er levitternes slægter: Libnitternes slægt, hebronitternes slægt, maklitternes slægt, mushitternes slægt, koraitternes slægt. Kehat havde sønnen Amram,",
+      "number": 58,
+      "version": 1500328800000
+    },
+    {
+      "text": "og Amrams hustru hed Jokebed. Hun var Levis datter som hendes mor fik med Levi i Egypten. Hun fik Aron og Moses og deres søster Mirjam med Amram.",
+      "number": 59,
+      "version": 1500328800000
+    },
+    {
+      "text": "Aron fik Nadab og Abihu, Eleazar og Itamar.",
+      "number": 60,
+      "version": 1500328800000
+    },
+    {
+      "text": "Nadab og Abihu døde da de førte fremmed ild ind for JHVHs ansigt.",
+      "number": 61,
+      "version": 1500328800000
+    },
+    {
+      "text": "De mønstrede af dem var 23.000. Det var alle af hankøn der var en måned gamle og derover, for de blev ikke mønstret blandt israelitterne, for de fik ingen arv blandt israelitterne.",
+      "title": "Iblandt alle de mønstrede var der ingen som var blevet mønstret første gang, undtagen Josva og Kaleb.",
+      "number": 62,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fDette er dem som blev mønstret af Moses og præsten Eleazar, som mønstrede israelitterne på Moabs sletter ved Jordan over for Jeriko.",
+      "number": 63,
+      "version": 1500328800000
+    },
+    {
+      "text": "Og blandt dem var der ikke en eneste mand som var blevet mønstret af Moses og præsten Aron, da de mønstrede israelitterne i Sinajs ørken.",
+      "number": 64,
+      "version": 1500328800000
+    },
+    {
+      "text": "For JHVH havde sagt til dem at de så sandelig skulle dø i ørkenen, og der var ingen tilbage af dem, undtagen Kaleb, Jefunnes søn, og Josva, Nuns søn.",
+      "number": 65,
+      "version": 1500328800000
+    }
+  ]
+}

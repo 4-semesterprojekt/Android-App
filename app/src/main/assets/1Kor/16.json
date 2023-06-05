@@ -1,0 +1,150 @@
+{
+  "book": " Paulus' Første Brev til Korintherne",
+  "abbreviation": "1Kor",
+  "chapter": 16,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen hvad indsamlingen til de hellige angår, skal I også gøre, ligesom jeg forordnede for menighederne i Galatien!",
+      "title": "Paulus formaner til at foretage en indsamling til de hellige i Jerusalem, 1-4, lover at komme til korintherne, vil dog blive noget endnu i Efesus, 5-9. Han giver formaninger om modtagelsen af Timotheus og oplysning om Apollos' udeblivelse, 10-12, han formaner til årvågenhed, tro og kærlighed, 13-14, taler om Stefanas' hus og korinthernes udsendinge, 15-18. Hilsener fra forskellige og egenhændig slutningshilsen, 19-24.",
+      "number": 1,
+      "version": 1539036000000
+    },
+    {
+      "text": "Hver første dag i ugen skal hver enkelt af jer hjemme hos sig selv lægge noget til side og samle, hvad han måtte får lykke til, for at der ikke først skal foretages indsamlinger, når jeg kommer.",
+      "number": 2,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men når jeg er kommet, vil jeg sende dem, som I måtte finde egnede til det, med breve for at bringe jeres gave til Jerusalem.",
+      "number": 3,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men hvis det er værd, at også jeg rejser med, så kan de rejse med mig.",
+      "number": 4,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fMen jeg vil komme til jer, når jeg er rejst igennem Makedonien; for jeg tager igennem Makedonien;",
+      "number": 5,
+      "version": 1539036000000
+    },
+    {
+      "text": "men hos jer vil jeg måske blive eller endda overvintre, for at I kan sende mig videre, hvor jeg så rejser hen.",
+      "number": 6,
+      "version": 1539036000000
+    },
+    {
+      "text": "For nu vil jeg ikke se jer på gennemrejse; jeg håber nemlig at blive nogen tid hos jer, hvis Herren vil tillade det.",
+      "number": 7,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men i Efesus vil jeg blive indtil pinsen;",
+      "number": 8,
+      "version": 1539036000000
+    },
+    {
+      "text": "for en dør står åben for mig, stor og virksom, og der er mange modstandere.",
+      "number": 9,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fMen hvis Timotheus kommer, skal I sørge for, at han kan færdes hos jer uden frygt; for han gør Herrens gerning ligesom som jeg.",
+      "number": 10,
+      "version": 1539036000000
+    },
+    {
+      "text": "Derfor må ingen ringeagte ham; send ham videre i fred, for at han kan komme til mig; for jeg venter ham sammen med brødrene.",
+      "number": 11,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men hvad broderen Apollos angår, har jeg opfordret ham meget til at komme til jer sammen med brødrene; men det var i hvert fald ikke hans vilje at komme nu, men han vil komme, når han får tid til det.",
+      "number": 12,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fVåg, stå fast i troen, vær mandige, vær stærke!",
+      "number": 13,
+      "version": 1539036000000
+    },
+    {
+      "text": "Lad alt hos jer ske i kærlighed!",
+      "number": 14,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fMen jeg formaner jer, brødre - I kender Stefanas' hus, at det er Akajas førstegrøde, og de har sat sig for at tjene de hellige -",
+      "number": 15,
+      "version": 1539036000000
+    },
+    {
+      "text": "til at også I skal underordne jer under sådan nogle som dem og enhver, der arbejder med og slider i det.",
+      "number": 16,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men jeg glæder mig over Stefanas' og Fortunatus' og Akaikus' ankomst, fordi de har udfyldt savnet af jer;",
+      "number": 17,
+      "version": 1539036000000
+    },
+    {
+      "text": "for de har styrket min ånd og jeres. Skøn derfor på sådan nogle som dem!",
+      "number": 18,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fMenighederne i Asien hilse jer. Akvila og Priska hilser jer mange gange i Herren sammen med menigheden i deres hus.",
+      "number": 19,
+      "version": 1539036000000
+    },
+    {
+      "text": "Alle brødrene hilser jer. Hils hinanden med et helligt kys!",
+      "number": 20,
+      "version": 1539036000000
+    },
+    {
+      "text": "Hilsenen med min, Paulus' egen hånd.",
+      "number": 21,
+      "version": 1539036000000
+    },
+    {
+      "text": "Hvis nogen ikke elsker Herren, skal han være en forbandelse! Maran Atha.",
+      "number": 22,
+      "version": 1539036000000,
+      "footnotes": [
+        {
+          "text": "dvs. Herren kommer.",
+          "type": "T",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "Herren Jesu nåde være med jer!",
+      "number": 23,
+      "version": 1539036000000
+    },
+    {
+      "text": "Min kærlighed er med jer alle i Kristus Jesus!",
+      "number": 24,
+      "version": 1539036000000
+    }
+  ]
+}

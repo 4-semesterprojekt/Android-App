@@ -1,0 +1,79 @@
+{
+  "book": "Johannesevangeliet",
+  "abbreviation": "Joh",
+  "chapter": 14,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJudas (ikke Iskariot) sagde til ham: »Herre! Hvad skyldes det, at du vil åbenbare dig for os og ikke for verden?«",
+      "number": 22,
+      "version": 1620770400000
+    },
+    {
+      "text": "Jesus svarede ham: »Hvis nogen elsker mig, holder han mit ord; og min Far skal elske ham, og vi vil komme til ham og tage bolig hos ham.",
+      "number": 23,
+      "version": 1620770400000
+    },
+    {
+      "text": "Den som ikke elsker mig, holder ikke mine ord; og det ord I hører, er ikke mit, men Faderens, som sendte mig.",
+      "number": 24,
+      "version": 1620770400000
+    },
+    {
+      "text": "\fDisse ting har jeg talt til jer mens jeg var hos jer.",
+      "number": 25,
+      "version": 1620770400000
+    },
+    {
+      "text": "Men Talsmanden, Helligånden, som Faderen vil sende i mit navn, han skal lære jer alle ting og minde jer om alt det som jeg har sagt jer.",
+      "number": 26,
+      "version": 1620770400000
+    },
+    {
+      "text": "Fred efterlader jeg jer, min fred giver jeg jer; jeg giver jer ikke som verden giver. Jeres hjerte forfærdes ikke og vær ikke bange!",
+      "number": 27,
+      "version": 1620770400000
+    },
+    {
+      "text": "I har hørt at jeg sagde til jer: Jeg går bort og kommer til jer. Hvis I elskede mig, ville I glæde jer over at jeg går til Faderen; for Faderen er større end jeg.",
+      "number": 28,
+      "version": 1620770400000
+    },
+    {
+      "text": "Nu har jeg sagt jer det før det sker, for at I skal tro når det er sket.",
+      "number": 29,
+      "version": 1620770400000
+    },
+    {
+      "text": "Herefter skal jeg ikke tale meget med jer; for denne verdens fyrste kommer, og han har slet intet i mig;",
+      "number": 30,
+      "version": 1620770400000,
+      "footnotes": [
+        {
+          "text": "Meningen er: Han har ingen magt over mig og intet krav på mig.",
+          "type": "T",
+          "position": 104
+        }
+      ]
+    },
+    {
+      "text": "men for at verden skal forstå at jeg elsker Faderen, og at jeg gør sådan som Faderen har befalet mig: så stå nu op, lad os gå herfra!«",
+      "number": 31,
+      "version": 1620770400000
+    }
+  ]
+}

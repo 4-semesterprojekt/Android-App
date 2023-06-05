@@ -1,0 +1,85 @@
+{
+  "book": "Zakarias' Bog",
+  "abbreviation": "Zak",
+  "chapter": 4,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEnglen, som talte med mig, vækkede mig igen som en mand der opvækkes fra sin søvn. v2 Han sagde til mig: »Hvad ser du?« og jeg sagde: »Jeg kan se en lysestage helt af guld med et oliekar oven på den og med syv lamper på den. For hver af lamperne, som er på den, er der syv rør. v3 Ved siden af den er der to oliventræer; et på højre side af oliekarret, og et på dets venstre side.« v4 Jeg sagde til den engel, der talte med mig: »Hvad betyder disse ting, min herre?« v5 Englen, som talte med mig, svarede: »Ved du ikke, hvad disse ting betyder?« og jeg sagde: »Nej, min herre!« v6 Da svarede han og sagde til mig: »Dette er JHVHs ord til Zerubbabel:\f›Ikke ved magt og ikke ved styrke, men ved min Ånd, siger Hærskarers JHVHv.",
+      "title": "Synet om guldlysestagen",
+      "number": 1,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fHvad er du, store bjerg, for Zerubbabels ansigt? Bliv til slette!\fOg han skal føre slutstenen frem, mens der lyder jubelråb over den!‹«",
+      "number": 7,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Anden mulig oversættelse er »Og han skal føre slutstenen frem (under) jubelråbene: ›Nåde, nåde være over den!‹.",
+          "type": "T",
+          "position": 136
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHs ord kom til mig:",
+      "number": 8,
+      "version": 1472594400000
+    },
+    {
+      "text": "\f»Zerubbabels hænder har lagt grundvolden til dette hus,\fog hans hænder skal fuldende det.\fSå skal du erkende, at Hærskarers JHVHv har sendt mig til jer.",
+      "number": 9,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fFor hvem end der foragtede de tidligere dage,\fså skal de juble, når de ser tinstenen i Zerubbabels hånd.\fDisse syv er JHVHs øjne, som farer rundt over hele jorden.«",
+      "number": 10,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "*qatan* betyder ordret »lille« eller »ung« og kan altså forstås som enten tidligere dage eller ringe dage. Meningen i denne sammenhæng er, at begyndelsen på tempelbyggeriet så ynkelig ud, så begge betydninger er i spil.",
+          "type": "E",
+          "position": 40
+        },
+        {
+          "text": "En sten af ukendt betydning. Nogle (bl.a. Luther) foreslår et blylod til brug ved byggeri, mens andre forstår det som en dekorativ sten, der blev muret ind i det færdige byggeri som en del af indvielsen.",
+          "type": "E",
+          "position": 85
+        }
+      ]
+    },
+    {
+      "text": "\fJeg spurgte ham: »Hvad betyder disse to oliventræer ved lysestagens højre og venstre side?« v12 Og jeg spurgte for anden gang: »Hvad betyder de to olivengrene, som udgyder olie gennem to guldrør?« v13 Han sagde til mig: »Ved du ikke, hvad det betyder?« og jeg sagde: »Nej, min herre!« v14 Da sagde han: »Disse er de to salvede, som står foran hele jordens herre.«",
+      "number": 11,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Ordret »guld«, men det kan også være en måde at beskrive den gyldne olivenolie.",
+          "type": "T",
+          "position": 177
+        },
+        {
+          "text": "Sætningen er vanskelig og lyder ordret: »Hvad er de to olivengrene, som (er) i hånden på to guldrør, der udgyder guld fra oven.« Participiet *hamᵊrîqîm* (»der udgyder«) kan lægge sig til både »guldrør« og »olivengrene«, hvilket komplicerer sætningen yderligere.",
+          "type": "E",
+          "position": 197
+        },
+        {
+          "text": "Ordret »oliebørn«.",
+          "type": "T",
+          "position": 328
+        }
+      ]
+    }
+  ]
+}

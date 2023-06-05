@@ -1,0 +1,199 @@
+{
+  "book": "Dommerbogen",
+  "abbreviation": "Dom",
+  "chapter": 5,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen, Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDen dag sang Debora og Barak, Abinoams søn:",
+      "title": "Debora og Barak synger en lovsang til JHVH hvori de opremser Guds velgerninger",
+      "number": 1,
+      "version": 1457564400000
+    },
+    {
+      "text": "\f»Når de indviedes hår hænger løst i Israel,\fnår folket villigt møder frem,\fpris da JHVH",
+      "number": 2,
+      "version": 1457564400000,
+      "footnotes": [
+        {
+          "text": "Den hebraisk tekst er næsten uforståelig. Herfølges Webb, B. G. (2012). *The Book of Judges* (Grand Rapids, MI; Cambridge, UK: Eerdmans), s. 94:»When locks fly free in Israel«. Han afleder *pᵊrāʕôt fra parāʕ* »binde op for håret«. Iforlængelse heraf tolker han det lange hår som et kendemærke for de uklippede naziræere, der hartaget et løfte på sig. Meningsmæssigt kan det altså være et billede på, at de indviede melder sig,dvs. »når de indviedes lange hår bølger for vinden«.",
+          "type": "E",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\fHør efter, I konger!\fmærk jer det, I fyrster!\fFor JHVH vil jeg synge\fspille for JHVH, Israels Gud.",
+      "number": 3,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fJHVHv! Da du drog ud fra Se'ir,\fda du gik frem fra Edoms land,\fda skælvede jorden,\fogså himlene dryppede, de dryppede med vand",
+      "number": 4,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fDet flød ned ad bjergene,\fforan JHVH,\fhan som kommer fra Sinai,\fforan JHVH, Israels Gud.\fvelgerninger==",
+      "title": "De taler om de forgangne onde tider og opmuntrer alle til at prise JHVH og tale om ha",
+      "number": 5,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fI Shamgars, Anats søns, dage,\fi Jaels dage,\fvar vejene ufremkommelige.\fDe der gik på stierne, fulgte snoede ruter.",
+      "number": 6,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fBøndernes arbejde ophørte,\fdet hørte helt op, ophørte,\findtil jeg, Debora, stod frem,\fstod frem som en mor i Israel.",
+      "number": 7,
+      "version": 1457564400000,
+      "footnotes": [
+        {
+          "text": "Således også Web, *Judges,* s. 195: »The villagers had their lifeinterrupted; they ceased their activities in Israel«.",
+          "type": "E",
+          "position": 55
+        }
+      ]
+    },
+    {
+      "text": "\fDe valgte nye guder.\fDa nåede krigen til byportene,\fmen sås der mon et skjold eller et spyd,\fblandt de 40.000 i Israel?",
+      "number": 8,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fMit hjerte banker for Israels befalingsmænd,\ffor de frivillige blandt folket,\fpris JHVH!",
+      "number": 9,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fI som rider på gulbrune æselhopper,\fsom sidder på saddeltæpper,\fog I som går på vejen, tænk på dette:",
+      "number": 10,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fDer lyder sang fra vandingsstederne,\fder priser de JHVHs retfærdige gerninger,\fretfærdige gerninger øvet af bønderne i Israel,\fda JHVHs folk gik ned til portene.",
+      "number": 11,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fVågn op, vågn op, Debora,\fvågn op, vågn op, istem en sang!\fGør dig klar, Barak, og før dine fanger fangne bort,\fdu Abinoams søn!",
+      "number": 12,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fDa drog resten ned imod de mægtige,\fJHVHs folk drog for min skyld ned imod heltene.",
+      "title": "De roser dem som havde hjulpet i krigen, og bebrejder de øvrige",
+      "number": 13,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fDer kom nogle fra Efraim,\fsom havde rod i Amalek,\fefter ham kom Benjamin blandt dit folk.\fBefalingsmænd steg ned fra Makir,\ffra Zebulon kom de som fører herskerstaven.",
+      "number": 14,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fOgså officerer fra Issakar fulgtes med Debora,\fIssakar var tro mod Barak,\ffulgte i hælene på ham ned i dalen!\fVed bækkene i Ruben\fvar der mange betænkelighederne.",
+      "number": 15,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fHvorfor blev du mellem fårefoldene\ffor at høre på hyrdefløjten?\fMens Ruben blev ved bækkene,\fvar ransagelsen stor.",
+      "number": 16,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fGilead blev hinsides Jordanfloden.\fHvorfor tog Dan hyre på skibene?\fAsher blev ved havets bred,\fblev boende i sine bugter.",
+      "number": 17,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fZebulon var et folk som villigt satte livet på spil;\fdet samme var Naftali oppe i landets højder.",
+      "title": "De beskriver den herlige sejr",
+      "number": 18,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fKongerne kom, de kæmpede.\fDa kæmpede Kana'ans konger\fi Ta'anak ved Megiddos vandløb.\fDe fik intet sølv i bytte.",
+      "number": 19,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fFra himmelen kæmpede stjernerne,\ffra deres baner kæmpede de mod Sisera.",
+      "number": 20,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fKishonbækken fejede dem bort.\fTræd frem, min sjæl, med styrke!",
+      "number": 21,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fDa trampede hestenes hove\fi galop, i hingstens galop.",
+      "title": "De forbander byen Meroz, priser Jael og spotter fjenderne.",
+      "number": 22,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fForband Meroz, sagde JHVHs engel,\fforband, forband dens indbyggere\ffordi de ikke kom JHVH til hjælp,\fikke kom JHVH til hjælp mod de mægtige.",
+      "number": 23,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fVelsignet er Jael,\fkenitten Hebers kone, blandt alle kvinder.\fVelsignet blandt kvinder der bor i telte.",
+      "number": 24,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fHun gav ham mælk,\fhun bragte tykmælk\fi en kostbar skål.",
+      "number": 25,
+      "version": 1457564400000,
+      "footnotes": [
+        {
+          "text": "Følger her GT1931",
+          "type": "E",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fHun greb efter teltpløkken,\ftog fat om hammeren i sin højre hånd.\fHun slog Sisera, sønderslog hans hoved,\fknuste og gennemborede hans tinding.",
+      "number": 26,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fMellem hendes fødder sank han sammen,\fhan faldt, han lå der.\fDer, hvor han sank sammen,\flå den faldne - tilintetgjort!",
+      "number": 27,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fSiseras mor så ud ad vinduet,\fråbte højt gennem gitteret:\f›Hvorfor tøver hans vogn med at komme?\fHvorfor høres ikke hovslagene fra hans stridsvogne?‹",
+      "number": 28,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fDe vise blandt hendes fyrstinder svarede hende,\fhun tilføjede selv med sine egne ord:",
+      "number": 29,
+      "version": 1457564400000
+    },
+    {
+      "text": "\f›Mon ikke de har fundet og deler byttet,\fet kvindeskød - eller to - til hver leder?\fBytte af farvet klæde til Sisera,\fbytte af farvet klæde i mange forskellige farver,\ffarvet klæde med broderier på begge sider,\fet fornemt bytte!‹",
+      "number": 30,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fSådan, JHVHv, skal alle dine fjender omkomme;\fmen de som elsker ham, skal være\fsom solen der står op i sin fulde styrke.«\n\n\fOg landet havde fred i 40 år.",
+      "number": 31,
+      "version": 1457564400000
+    }
+  ]
+}

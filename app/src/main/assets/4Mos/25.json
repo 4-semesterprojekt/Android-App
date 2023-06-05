@@ -1,0 +1,132 @@
+{
+  "book": "Fjerde Mosebog",
+  "abbreviation": "4Mos",
+  "chapter": 25,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fIsrael opholdt sig i Shittim, og folket begyndte at hore med moabitternes døtre.",
+      "title": "De moabitiske kvinder lokker israelitterne til hor og afguderi. Afgudsdyrkerne slås ihjel.",
+      "number": 1,
+      "version": 1496181600000
+    },
+    {
+      "text": "De indbød folket til deres guders offermåltider. Folket spiste, og de tilbad deres guder.",
+      "number": 2,
+      "version": 1496181600000
+    },
+    {
+      "text": "Israel knyttede sig til Ba’al-Peor. Da blussede JHVHs vrede op imod Israel.",
+      "number": 3,
+      "version": 1496181600000
+    },
+    {
+      "text": "JHVH sagde til Moses: »Hent alle overhovederne for folket, og lad dem henrette på en pæl i fuldt dagslys for JHVH, så skal JHVHs brændende vrede vendes fra Israel.«",
+      "number": 4,
+      "version": 1496181600000
+    },
+    {
+      "text": "Moses sagde til Israels dommere: »Hver af jer skal slå de af sine folk ihjel som har holdt sig til Ba’al-Peor.«",
+      "number": 5,
+      "version": 1496181600000
+    },
+    {
+      "text": "Og se bare, en israelit kom og førte en midjanitisk kvinde hen til sine brødre, for øjnene af Moses og hele israelitternes forsamling, mens de sad og græd ved indgangen til forsamlingsteltet.",
+      "title": "Pinehas stiller Guds vrede.",
+      "number": 6,
+      "version": 1496181600000
+    },
+    {
+      "text": "\fPinehas, der var søn af Eleazar, præsten Arons søn, så det, og han stillede sig op midt i forsamlingen og tog et spyd i hånden.",
+      "number": 7,
+      "version": 1496181600000
+    },
+    {
+      "text": "Han gik ind efter den israelitiske mand ind i teltet og stak spyddet gennem dem begge, både den israelitiske mand og kvinden, så det gik gennem hendes liv. Da forlod plagen israelitterne.",
+      "number": 8,
+      "version": 1496181600000
+    },
+    {
+      "text": "Under denne plage døde 24.000.",
+      "title": "JHVH lover Pinehas et evigt præstedømme.",
+      "number": 9,
+      "version": 1496181600000
+    },
+    {
+      "text": "\fJHVH sagde til Moses:",
+      "number": 10,
+      "version": 1496181600000
+    },
+    {
+      "text": "»Pinehas, der er søn af Eleazar, præsten Arons søn, har vendt min vrede fra israelitterne, for han var optændt af lidenskab for mig midt iblandt dem, så at jeg ikke i min lidenskabelighed gjorde en ende på israelitterne.",
+      "number": 11,
+      "version": 1496181600000,
+      "footnotes": [
+        {
+          "text": "Tidligere oversat med »nidkær«.",
+          "type": "T",
+          "position": 123
+        },
+        {
+          "text": "Tidligere oversat med »nidkærhed«.",
+          "type": "T",
+          "position": 187
+        }
+      ]
+    },
+    {
+      "text": "Derfor skal du sige: »Se, jeg laver en fredspagt med ham.",
+      "number": 12,
+      "version": 1496181600000
+    },
+    {
+      "text": "Han og hans efterkommere skal have en pagt om et evigt præstedømme, fordi han var lidenskabeligt jaloux for sin Gud og skaffede soning for israelitterne.«",
+      "title": "Navnet på den Pinehas dræbte.",
+      "number": 13,
+      "version": 1496181600000
+    },
+    {
+      "text": "\fMen navnet på den dræbte israelitiske mand, som blev slået ned sammen med den midjanitiske kvinde, var Zimri, søn af Salu og leder af et af simeonitternes fædrenehuse.",
+      "number": 14,
+      "version": 1496181600000
+    },
+    {
+      "text": "Og navnet på den dræbte midjanitiske kvinde var Kozbi, datter af Sur. Han var leder af et fædrenehus blandt midjanitterne.",
+      "title": "Moses skal angribe midjanitterne fordi de har forført folket.",
+      "number": 15,
+      "version": 1496181600000
+    },
+    {
+      "text": "\fJHVH sagde til Moses:",
+      "number": 16,
+      "version": 1496181600000
+    },
+    {
+      "text": "»Angrib midjanitterne og slå dem.",
+      "number": 17,
+      "version": 1496181600000
+    },
+    {
+      "text": "For de angreb jer med deres lumske handlinger i sagen med Peor og med Kozbi, den midjanitiske leders datter, deres kvindelige slægtning, som blev dræbt på den dag da plagen indtraf på grund af Peor.",
+      "number": 18,
+      "version": 1496181600000,
+      "footnotes": [
+        {
+          "text": "Teksten bruger her udtrykket »søster« i den bredere betydning af en beslægtet kvinde eller landsmand.",
+          "type": "T",
+          "position": 136
+        }
+      ]
+    }
+  ]
+}

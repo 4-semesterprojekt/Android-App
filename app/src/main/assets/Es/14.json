@@ -1,0 +1,299 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 14,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fFor JHVH vil forbarme sig over Jakob og igen udvælge Israel og anbringe dem i deres land; og den fremmede skal slutte sig til dem, og de skal holde sig til Jakobs hus.",
+      "title": "Israels hjemkomst",
+      "number": 1,
+      "version": 1674774000000
+    },
+    {
+      "text": "Og folkeslag skal tage dem og bringe dem til deres sted, og Israels hus skal tage dem i besiddelse som trælle og trælkvinder i JHVHs land, så de holder dem fanget som de selv var fanget af, og hersker over deres undertrykkere.",
+      "title": "Israels spottesang over Babyloniens konge",
+      "number": 2,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fOg det skal ske på den dag når JHVH skaffer dig ro efter din trængsel og din uro og efter det hårde arbejde som blev udført af dig:",
+      "number": 3,
+      "version": 1674774000000
+    },
+    {
+      "text": "Da skal du istemme denne spottesang imod Babyloniens konge og sige:\f»Hvor en undertrykker dog er færdig,\fhans hærgen er slut!«",
+      "number": 4,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *madhēvāʰ*, der kun optræder her i GT. Det betyder formodentlig »arrogance«. Oftest går man ud fra, at der skulle der stå: *marhēvāʰ*: »hærgen«, der støttes af de gamle oversættelser og et enkelt hebraisk håndskrift.",
+          "type": "E",
+          "position": 116
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH har brækket ugudeliges stok,\fherskernes stav,",
+      "number": 5,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fder slog folk i harme\fmed slag uden ophør,\fherskede over folkeslag i vrede,\fforfølgelse,  uden at han viste skånsel.",
+      "number": 6,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Ofte foreslås det at *murdāf* (»forfølgelse«) er fejlskrivning for: *mirdat*: »herredømme«.",
+          "type": "E",
+          "position": 89
+        }
+      ]
+    },
+    {
+      "text": "\fHele jorden hviler og har ro,\fde bryder ud i jubel.",
+      "number": 7,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »landet«.",
+          "type": "T",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "text": "\fEnebærtræerne glæder sig over dig\fsammen med Libanons cedre:\f»Siden du er lagt ned, kommer ingen op\ffor at fælde os.«",
+      "number": 8,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fDødsriget dernede ryster for dig\fved dit komme;\fdet vækker dødninge for dig,\falle jordens herskere,\fdet får alle folkenes konger\ftil at rejse sig fra deres troner.",
+      "number": 9,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Rytmen i den hebraiske tekst forudsætter egentlig: »det får til at rejse sig fra deres troner/alle folkenes konger.«",
+          "type": "T",
+          "position": 164
+        }
+      ]
+    },
+    {
+      "text": "\fDe svarer alle sammen\fog siger til dig:\f»Også du er blevet kraftløs ligesom vi,\fdu ligner os!«",
+      "number": 10,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fDin herlighed er styrtet ned i dødsriget,\fdine harpers klang;\funder dig bredes maddiker ud som leje,\form er dit dække.",
+      "number": 11,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fHvordan er du dog faldet ned fra himlen,\fdu morgenstjerne, du morgenrødens søn?\fDu er smadret til jorden,\fdu der besejrede folkeslag.",
+      "number": 12,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er omdiskuteret. Den masoretiske teksts: *hêlēl* må oversættes: »hyl/klag dig«. Som regel går man ud fra en let ændret vokalisering: *hêlāl* og oversætter: »morgenstjerne« eller: »du lysende/strålende«. LXX og Septuaginta har forstået ordet som navn for »Lucifer«. Denne oversættelse er dog stort set opgivet.",
+          "type": "E",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "\fOg du sagde i dit hjerte:\f»Jeg vil stige op til himlen,\foppe over Guds stjerner\fvil jeg rejse min trone,\fog jeg vil sætte mig på rådsforsamlingsbjerget\fi det yderste nord;",
+      "number": 13,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Ofte opfattet som bjerget, hvor guderne samles.",
+          "type": "T",
+          "position": 152
+        }
+      ]
+    },
+    {
+      "text": "\fjeg vil stige op over skyhøjderne,\fjeg vil gøre mig lige med den Højeste!«",
+      "number": 14,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fMen til dødsriget vil du blive bragt ned,\ftil gravens dybder!",
+      "number": 15,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fNår de ser dig, skal de stirre på dig,\fde skal give agt på dig:\f»Er det virkelig den mand der fik jorden til at ryste,\fder fik kongeriger til at vakle,",
+      "number": 16,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fder gjorde verden til en ørken\fog nedrev byer,\fder ikke lod sine fanger tage hjem?«",
+      "number": 17,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fAlle folkenes konger,\falle lå de med ære\fhver i sit hus;",
+      "number": 18,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fmen du, du er smidt hen, fjernt fra din grav,\fsom en foragtet kvist,\fdækket til med dræbte, der er gennemboret med sværd,\fder går ned i stenfyldt grav;\fsom et nedtrådt ådsel.",
+      "number": 19,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fDu skal ikke forenes med dem i en grav,\ffor dit land har du lagt øde,\fdit folk har du dræbt;\ffor evigt skal ikke nævnes\fondes afkom.",
+      "number": 20,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fGør en slagtebænk klar til hans sønner\fpå grund af deres fædres synd,\fså de ikke rejser sig og tager jorden i besiddelse\feller fylder verdens overflade med byer.",
+      "number": 21,
+      "version": 1674774000000
+    },
+    {
+      "text": "\f»Jeg vil rejse mig imod dem,« lyder Hærskarers HERRES udsagn, »og jeg vil udslette Babyloniens navn og rest og afkom og slægt,« lyder JHVHs udsagn.",
+      "number": 22,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 54
+        }
+      ]
+    },
+    {
+      "text": "»Og jeg vil gøre den til ejendom for pindsvin og til vandfyldt sump og feje den væk med ødelæggelsens kost,« lyder Hærskarers HERRES udsagn.",
+      "title": "Mod Assyrien",
+      "number": 23,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 132
+        }
+      ]
+    },
+    {
+      "text": "\fHærskarers HERRE har svoret og sagt: »Sandelig,\fsom jeg har tænkt mig,\fskal det blive,\fog som jeg har besluttet,\fskal det ske:",
+      "number": 24,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "text": "\fAt jeg skal knuse Assur i mit land\fog trampe ham ned på mine bjerge,\fså hans åg skal vige fra dem,\fog hans byrde fjernes fra deres skuldre!«",
+      "number": 25,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fDet er den plan der er lagt\ffor hele jorden,\fog det er den hånd der er strakt ud\fover alle folkeslagene.",
+      "number": 26,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fFor Hærskarers HERRE har besluttet det,\fhvem kan så sætte det ud af kraft?\fOg hans hånd er strakt ud,\fhvem kan så tvinge den tilbage?",
+      "title": "Mod Filistæa",
+      "number": 27,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fI det år, hvor kong Akaz døde, kom dette udsagn:",
+      "number": 28,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fGlæd dig ikke, hele du Filistæa,\fover at en stav, som slog dig, er brækket;\ffor fra slangens rod skal der komme en giftslange,\fog dens afkom er en flyvende drage.",
+      "number": 29,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Det er usikkert hvilken slange der er tale om, men det er en særlig giftig slange, tidligere oversat: »basilisk«.",
+          "type": "T",
+          "position": 127
+        },
+        {
+          "text": "Det er usikkert hvilket væsen der er tale om; det drejer sig formodentlig om en flyvende giftslange.",
+          "type": "T",
+          "position": 163
+        }
+      ]
+    },
+    {
+      "text": "\fOg de førstefødte af de ringe\fskal finde mad,\fog de fattige lejre sig trygt;\fmen jeg vil dræbe din rod med sult,\fog man skal myrde din rest.",
+      "number": 30,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Vendingen opfattes oftest som udtryk for: »de fattigste fattige«.",
+          "type": "T",
+          "position": 30
+        },
+        {
+          "text": "Det foreslås ofte at rette *bᵊxôrê* (»de førstefødte af«) til: *bᵊxārî*: »på min græsgang«, så sætningen skal lyde: »Og de ringe skal græsse på min græsgang.« Rettelsen har dog ikke støtte i noget håndskrift.",
+          "type": "E",
+          "position": 30
+        },
+        {
+          "text": "Ordret: »skal græsse«.",
+          "type": "T",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "\fHyl, du port!\fSkrig, du by!\fFortvivl, hele du Filistæa!\fFor fra nord kommer der røg,\fog i hans horder er ingen alene.",
+      "number": 31,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Andre oversætter: »samlingssted«. Oversættelsen er usikker. Ordet *môʕād* forekommer kun her.",
+          "type": "T",
+          "position": 102
+        }
+      ]
+    },
+    {
+      "text": "\fOg hvad skal man svare et folks budbringere?\fAt JHVH har grundlagt Zion,\fog dér skal de elendige i hans folk søge tilflugt.",
+      "number": 32,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »på den«.",
+          "type": "T",
+          "position": 80
+        }
+      ]
+    }
+  ]
+}

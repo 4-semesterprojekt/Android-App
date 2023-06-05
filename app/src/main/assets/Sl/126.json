@@ -1,0 +1,86 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 126,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fValfartssang.\fDa JHVH vendte Zions fangenskab,\fda var vi som drømmende,",
+      "title": "Da JHVH vendte Zions fangenskab",
+      "number": 1,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
+          "position": 14
+        },
+        {
+          "text": "Betydningen af ordet: *šîvat* (status constructus af: *šîvāʰ*: »fangenskab«), der kun forekommer dette ene sted i GT, er usikker. Ofte antager man at det er skrivefejl for: *šᵊvît*: »fangenskab«. Der er dog intet i vejen for at der kan have været to ord med næsten samme betydning; vi kender blot ikke betydningsnuancerne. Men man retter som regel til: *šᵊvût*, der formodentlig betyder: »lod«.",
+          "type": "E",
+          "position": 47
+        }
+      ]
+    },
+    {
+      "text": "\fda fyldtes vor mund med latter\fog vor tunge med jubel.\fDa sagde man blandt folkene:\f»JHVH har gjort store ting mod dem.«",
+      "number": 2,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hedningerne«.",
+          "type": "T",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH har gjort store ting mod os;\fvi blev glade.",
+      "title": "Bøn om at frelserværket føres til ende",
+      "number": 3,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fVend vor lod, JHVHv,\fsom Sydlandets vandløb!",
+      "title": "Tillid og trøst",
+      "number": 4,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Konsonantteksten har: *šᵊvûtēnû*: »vor skæbne«, mens vokaliseringen forudsætter: *šᵊvîtēnû*: »vort fangenskab«, jf. note til v.1.",
+          "type": "E",
+          "position": 14
+        },
+        {
+          "text": "De fyldes i regntiden efter tørken.",
+          "type": "T",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fDe som sår med tårer,\fskal høste med jubel.",
+      "number": 5,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fMan går under bestandig gråd\fbærende sæden der sås;\fman skal komme hjem med jubel,\fbærende sine neg.",
+      "number": 6,
+      "version": 1504476000000
+    }
+  ]
+}

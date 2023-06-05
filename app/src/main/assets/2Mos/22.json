@@ -1,0 +1,199 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 22,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fV37 »Når en mand stjæler en okse eller et stykke småkvæg og slagter det eller sælger det, skal han betale fem okser for oksen og fire stykker småkvæg for lammet eller kiddet.V1 Hvis tyven bliver pågrebet under indbruddet og bliver slået og dør, foreligger der ikke blodskyld for ham.V2 Hvis solen er stået op over ham, foreligger der blodskyld for ham. Han skal afgjort betale;  men har han intet, skal han sælges for sit tyveri.V3 Hvis det stjålne virkelig findes i hans besiddelse, hvad enten det er okse eller æsel eller småkvæg, som er i live, skal han betale dobbelt.V4 Når en mand lader mark eller vingård afgræsse, idet han lader sit kvæg gå løs, og det så afgræsser en andens mark, skal han betale med det bedste fra sin mark og det bedste fra sin vingård.V5 Når ild breder sig og griber fat i tornebuske og kornstakke eller det stående korn, eller marken fortæres, skal han som antændte branden, afgjort betale.V6 Når en mand giver sin næste penge eller ting i forvaring, og det bliver stjålet fra mandens hus, skal tyven, hvis han bliver fundet, betale dobbelt.V7 Hvis tyven ikke bliver fundet, skal husets ejer træde frem for Gud, hvis han ikke har lagt sin hånd på sin næstes ting.V8 Hvad angår enhver sag om svigagtig besiddelse af okse, af æsel, af småkvæg, af klæder, af alt hvad der er mistet, om hvilket nogen siger at dette er hans, da skal begges sag komme for Gud; den Gud erklærer skyldig, skal betale sin næste dobbelt.V9 Når en mand giver sin næste et æsel eller en okse eller småkvæg eller et andet dyr at passe på, og det dør eller kommer til skade eller bortføres uden at nogen ser det,skal der aflægges ed ved JHVH mellem de to på at han ikke har lagt sin hånd på sin næstes ejendom, og den skal dets ejer godtage, og den anden skal ikke betale.",
+      "title": "Love om straf for tyveri og skødesløshed",
+      "number": 10,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Verset hører til kapitel 21, men hører meningsmæssigt sammen med de følgende vers. For meningens skyld bytter man i oversættelser oftest om på rækkefølgen af de følgende vers. Det er dog lidt forskelligt, hvordan man ordner versene. Oftest flytter man vers 2b og evt. vers 3 om foran vers 1, idet de er den logiske fortsættelse af 21,37.",
+          "type": "E",
+          "position": 4
+        },
+        {
+          "text": "Det hebraiske ord *śeʰ* dækker både lam og gedekid.",
+          "type": "T",
+          "position": 57
+        },
+        {
+          "text": "Den hebraiske tekst har verbet *šlm* (»betale«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: »afgjort«.",
+          "type": "T",
+          "position": 378
+        },
+        {
+          "text": "De fleste oversættelser tilføjer: »og sværge«, men det er uden støttes i den hebraiske tekst. Meningen må være, at selve det at træde frem for Gud er farligt, hvis man har løjet.",
+          "type": "T",
+          "position": 1142
+        },
+        {
+          "text": "Ordret: »siger: ›Det er det!‹«",
+          "type": "T",
+          "position": 1351
+        },
+        {
+          "text": "Den hebraiske tekst siger blot: »og han skal ikke betale«, men meningen i sammenhængen er, at det er den, der har haft en anden mands ejendom i forvaring, der ikke skal betale.",
+          "type": "T",
+          "position": 1755
+        }
+      ]
+    },
+    {
+      "text": "Men hvis det bliver stjålet fra ham, da skal han betale dets ejer.",
+      "number": 11,
+      "version": 1596837600000
+    },
+    {
+      "text": "Hvis det bliver det sønderrevet, skal han fremlægge det som bevis; han skal ikke betale for det som er sønderrevet.",
+      "number": 13,
+      "version": 1596837600000
+    },
+    {
+      "text": "Når en mand låner noget af sin næste, og det kommer til skade eller dør, skal han, hvis ejeren ikke er sammen med det, afgjort betale.",
+      "number": 13,
+      "version": 1596837600000
+    },
+    {
+      "text": "Hvis dets ejer er sammen med det, skal han ikke betale; hvis det er lejet, går det op for lejen.«",
+      "title": "Lov om forførerens ansvar",
+      "number": 14,
+      "version": 1596837600000
+    },
+    {
+      "text": "\f»Når en mand forfører en jomfru som ikke er trolovet, og har samleje med hende, skal han afgjort betale brudekøbssummen for hende og tage hende til sin hustru .",
+      "number": 15,
+      "version": 1596837600000
+    },
+    {
+      "text": "Hvis hendes far helt afviser at give ham hende, skal han afveje penge svarende til brudekøbssummen for en jomfru.«",
+      "title": "Love om afgudsdyrkelse",
+      "number": 16,
+      "version": 1596837600000
+    },
+    {
+      "text": "\f»En troldkvinde må du ikke lade leve.",
+      "number": 17,
+      "version": 1596837600000
+    },
+    {
+      "text": "Enhver som parrer sig med et dyr, skal afgjort lide døden.V19 Den som ofrer til guderne og ikke til JHVH alene, skal der lægges band på.«",
+      "title": "Love om ansvar for de svage",
+      "number": 18,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst siger egentlig kun: »ligger med«. Men meningen er uden tvivl: i seksuel betydning.",
+          "type": "T",
+          "position": 21
+        },
+        {
+          "text": "Den hebraiske tekst vender anderledes: »Den der ofrer til guderne, skal der lægges band på, undtagen til JHVH alene«.",
+          "type": "T",
+          "position": 137
+        }
+      ]
+    },
+    {
+      "text": "\f»En fremmed må du ikke plage, og du må ikke undertrykke ham, for I har været fremmede i Egyptens land.",
+      "number": 20,
+      "version": 1596837600000
+    },
+    {
+      "text": "I må ikke plage nogen enke eller en faderløs.",
+      "number": 21,
+      "version": 1596837600000
+    },
+    {
+      "text": "Hvis du virkelig plager ham, og han råber højt til mig, vil jeg afgjort høre hans råb.",
+      "number": 22,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst siger egentlig: »for hvis han råber …«. Her er underforstået en advarsel: »Tag dig i agt for at plage …«.",
+          "type": "T",
+          "position": 55
+        }
+      ]
+    },
+    {
+      "text": "Så optændes min vrede, og jeg dræber jer med sværd så jeres koner bliver enker og jeres børn faderløse.",
+      "number": 23,
+      "version": 1596837600000
+    },
+    {
+      "text": "Hvis du låner penge ud til mit folk, til den fattige hos dig, må du ikke være som en ågerkarl over for ham; I må ikke pålægge ham renter.",
+      "number": 24,
+      "version": 1596837600000
+    },
+    {
+      "text": "Hvis du virkelig tager din næstes kappe i pant, skal du give ham den tilbage før solen går ned,",
+      "number": 25,
+      "version": 1596837600000
+    },
+    {
+      "text": "for den er hans eneste dække, den er hans kappe for hans krop; hvad skal han ellers sove i? Når han råber til mig, vil jeg høre det, for jeg er nådig.«",
+      "title": "Love om helligheden",
+      "number": 26,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hud«.",
+          "type": "T",
+          "position": 62
+        },
+        {
+          "text": "Ordret: »Og det skal ske, når han råber …«",
+          "type": "T",
+          "position": 95
+        }
+      ]
+    },
+    {
+      "text": "\f»Du må ikke forhåne Gud, og en øvrighedsperson i dit folk må du ikke forbande.",
+      "number": 27,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du må ikke holde fylden af din høst og udstrømningen fra din vinperse tilbage. Den førstefødte af dine sønner skal du give mig.V29 Sådan skal du gøre med din okse og med dit småkvæg: det skal være syv dage hos sin mor, på den ottende dag skal du give det til mig.",
+      "number": 28,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er omdiskuteret, da formuleringen er meget knap. *mᵊlēʔāʰ* betyder egentlig blot: »fylde/overflod«, men forstås undertiden som betegnelse for »afgift«. I første tilfælde kan det være påmindelse om omsorg for den nødlidende, i det andet tilfælde er det indledning til den næste sætning: Førstegrøden tilhører Gud. Førstegrøden er dog ikke nævnt her.",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "I skal være hellige mennesker for mig. Kød som er sønderrevet på marken, må I ikke spise; til hunden skal I kaste det.«",
+      "number": 30,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »helliges mennesker«. Meningen er formodentlig: »mennesker med et helligt kald«.",
+          "type": "T",
+          "position": 29
+        }
+      ]
+    }
+  ]
+}

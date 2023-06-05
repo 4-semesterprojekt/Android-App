@@ -1,0 +1,190 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 81,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Al-ha-gittit.\fAf Asaf.",
+      "title": "Opfordring til lovsang",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        },
+        {
+          "text": "Det vides ikke hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.",
+          "type": "T",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "\fBryd ud i jubel for Gud, vor styrke,\fråb af fryd for Jakobs Gud!",
+      "number": 2,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fIstem sang og lad pauke lyde,\fliflige citer sammen med harpe!",
+      "number": 3,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fStød i horn ved nymånen,\fved fuldmånen for vor festdag!",
+      "number": 4,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "På hebraisk: * šôfār*. Der er formodentlig tænkt på vædderhorn der blev brugt til at indvarsle højtider og til at kalde til kamp.",
+          "type": "T",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "text": "\fFor det er bestemmelse i Israel,\fforordning fra Jakobs Gud.",
+      "number": 5,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHan gjorde det til et vidnesbyrd i Josef,\fda han drog ud imod Egyptens land.\fJeg hører en tale som jeg ikke kendte:",
+      "title": "Formaning til troskab og bod",
+      "number": 6,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »et pagtsvilkår/en vedtægt«.",
+          "type": "T",
+          "position": 33
+        },
+        {
+          "text": "Præpositionen *ʕal* kan også oversættes: »over«. Ofte retter man til præpositionen *min*: »fra«, men det passer ikke specielt godt med at Gud er subjekt i sætningen. Meningen må enten være at Gud »drog ud imod Egypten« for at befri Israel, eller at han »drog ud« i spidsen for sit folk »over« det slagne »Egypten«.",
+          "type": "E",
+          "position": 62
+        },
+        {
+          "text": "Ordret: »læbe«. Det kan også oversættes både som: »sprog« og: »stemme«.",
+          "type": "T",
+          "position": 95
+        }
+      ]
+    },
+    {
+      "text": "\f»Jeg befriede hans skulder for byrde,\fhans hænder blev befriet for bærekurv.",
+      "number": 7,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fI nøden kaldte du, og jeg udfriede dig,\fjeg svarede dig i tordenens skjul,\fjeg prøvede dig ved Meribas vand. Sela",
+      "number": 8,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 114
+        }
+      ]
+    },
+    {
+      "text": "\fHør, mit folk, så vil jeg formane dig,\fIsrael, gid du ville høre på mig.",
+      "number": 9,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »vidne imod dig«.",
+          "type": "T",
+          "position": 34
+        }
+      ]
+    },
+    {
+      "text": "\fDer skal ingen fremmed gud være hos dig,\fog du skal ikke tilbede andre folks gud.",
+      "number": 10,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fJeg er JHVH din Gud,\fsom førte dig op fra Egyptens land.\fLuk din mund vidt op, så vil jeg fylde den.",
+      "number": 11,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMen mit folk hørte ikke på min røst,\fog Israel ville ikke adlyde mig.",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fSå overgav jeg det til deres hjertes forstokkethed,\fså de kunne vandre efter deres egne planer.",
+      "number": 13,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGid at mit folk ville høre på mig,\fat Israel ville vandre ad mine veje!",
+      "number": 14,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDa ville jeg hastigt undertvinge deres fjender\fog vende min hånd mod deres modstandere.",
+      "number": 15,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »let«.",
+          "type": "T",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fDe som hader JHVH, skal hyklende krybe for det,\fog deres tid skal vare evigt.",
+      "number": 16,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Nemlig for Guds folk. Kan dog også oversættes: »for ham«.",
+          "type": "T",
+          "position": 48
+        },
+        {
+          "text": "Nemlig Guds folks.",
+          "type": "T",
+          "position": 57
+        },
+        {
+          "text": "Hele verset er omdiskuteret, koncentreret især omkring de to ord der er sat note ved. Verset oversættes ofte: »De som hader JHVH, skal hyklende krybe for ham / og deres tid (med underkastelse) skal vare evigt«. Andre omskriver den sidste sætning: »og deres tid skal endegyldigt være omme«. Det er dog vanskeligt at se støtte for »være omme« i grundteksten.",
+          "type": "E",
+          "position": 78
+        }
+      ]
+    },
+    {
+      "text": "\fOg jeg vil bespise det med hvedens fedme,\fja, jeg vil mætte dig med honning fra en klippe«.",
+      "number": 17,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har *wayyaˀᵃxîlēhû*: »og han vil bespise«. I sammenhængen retter man til: *wāʔaˀᵃxîlēhû*: »og jeg vil …«.",
+          "type": "T",
+          "position": 7
+        }
+      ]
+    }
+  ]
+}

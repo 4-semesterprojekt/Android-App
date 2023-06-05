@@ -1,0 +1,131 @@
+{
+  "book": "Dommerbogen",
+  "abbreviation": "Dom",
+  "chapter": 8,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen, Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEfraimitterne sagdetil Gideon: »Hvad har du gjort mod os? Hvorfor indkaldte du os ikke da du gik i kamp modmidjanitterne?« De bebrejdede ham voldsomt.",
+      "title": "Efraimitterne kritiserer Gideon, men stilles tilfreds af ham",
+      "number": 1,
+      "version": 1550012400000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens *ʔîš ʔefrayim,* ordret »Efraims mand«, kan være en kollektivbetegnelse for Efraims ledere, men der er traditionen for at oversætte med »efraimitterne«.",
+          "type": "E",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "\fGideon svarede dem: »Hvad har jeg gjort i sammenligning med jer? Er Efraims efterhøst ikke bedreend Abiezers vinhøst? v3 Gud har givet jer sejren over midjanitternes fyrster Oreb og Ze'eb. Hvadhar jeg gjort der kan stå mål med det?« Da han havde sagt det, aftog deres vrede.",
+      "title": "Sukkots og Penuels indbyggere vil ikke give Gideon brød",
+      "number": 2,
+      "version": 1550012400000
+    },
+    {
+      "text": "\fDa Gideon kom til Jordanfloden, gik han og de 300 mand som var med ham, over. Selv om de varudmattede, genoptog de forfølgelsen. v5 Han sagde til mændene i Sukkot: »Vil I ikke nok give mineledsagere nogle brød, for de er trætte, og jeg forfølger Zeba og Salmunna, midjanitternes konger?«",
+      "number": 4,
+      "version": 1550012400000
+    },
+    {
+      "text": "\fMen Sukkots ledere sagde: »Har du da allerede pågrebet Zeba og Salmunna siden vi skal give dinhær brød?«",
+      "number": 6,
+      "version": 1550012400000
+    },
+    {
+      "text": "\fGideon sagde: »På grund af den bemærkning vil jeg tæske jeres legemer med ørkenens torne og medtidsler når JHVH har givet Zeba og Salmunna i min magt.«",
+      "number": 7,
+      "version": 1550012400000
+    },
+    {
+      "text": "\fHan drog derfra op til Penuel og talte til dem på samme måde, og mændene i Penuel svarede hamligesom mændene i Sukkot havde gjort. v9 Han sagde så til mændene i Penuel: »Når jeg kommer tilbagemed fred, vil jeg rive dette tårnned.«",
+      "title": "Gideon fanger to midjanittiske konger og slår deres hær",
+      "number": 8,
+      "version": 1550012400000,
+      "footnotes": [
+        {
+          "text": "Udtrykket *bᵊšûvî vᵊšālôm* »vender tilbage i fred« må vel meningsmæssigt betyde enten»vender uskadt tilbage« (GT1931) eller måske snarere »komme tilbage efter at have sikret freden«(cf »vender tilbage som sejrherre« DO92). Det er dog interessant at bevare den ironiske kontrastmellem at han taler om at vinde fred og så truer med en militær handling.",
+          "type": "E",
+          "position": 202
+        }
+      ]
+    },
+    {
+      "text": "\fZeba og Salmunna var i Karkor sammen med de 15.000 mand som var alt hvad der var tilbage af helehæren fra østen. Der var faldet 120.000 våbenføre mænd. v11 Gideon drog op ad teltboernes vej, østfor Noba og Jogbeha, og han besejrede dem, for de troede de var i sikkerhed. v12 Og Zeba og Salmunnaflygtede, men han forfulgte dem og pågreb de to midjanitterkonger, Zeba og Salmunna. Det blev helederes hær forfærdet over.",
+      "title": "Gideon straffer Sukkots og Penuels indbyggere hårdt",
+      "number": 10,
+      "version": 1550012400000
+    },
+    {
+      "text": "\fMen da Gideon, Joashs søn, kom tilbage fra slaget via Heres-passet, v14 greb han en ung mand fraSukkot og udspurgte ham. Den unge mand skrev navnene på Sukkots ledere og ældste op for ham. Det vari alt 77 mænd. v15 Gideon kom til mændene i Sukkot og sagde: »Se, her er Zeba og Salmunna som Ihånede mig med og sagde: ›Har du da allerede pågrebet Zeba og Salmunna siden vi skal give dinetrætte folk brød?‹« v16 Han tog byens ældste til fange og tæskede dem med ørkenens torne og medtidsler for at give Sukkots indbyggere en lærestreg. v17 Penuels tårn rev han ned, og han dræbtebyens mænd.",
+      "title": "Gideon dræber Zeba og Salmunna",
+      "number": 13,
+      "version": 1550012400000
+    },
+    {
+      "text": "\fHan sagde så til Zeba og Salmunna: »Hvordan så de mænd ud som I dræbte ved Tabor?«\fDe svarede: »De var ligesom dig; hver af dem lignede en kongesøn.«",
+      "number": 18,
+      "version": 1550012400000
+    },
+    {
+      "text": "\fHan sagde: »Det var mine brødre, min mors sønner. Så sandt JHVH lever: Hvis I havde ladet demleve, ville jeg ikke have dræbt jer.« v20 Og han sagde til Jeter, sin førstefødte: »Rejs dig ogslå dem ihjel.«\fMen drengen trak ikke sit sværd; han var nemlig bange, for han var endnu kun en dreng.",
+      "number": 19,
+      "version": 1550012400000
+    },
+    {
+      "text": "\fMen Zeba og Salmunna sagde: »Rejs du dig og hug os ned; for som manden er, sådan er også hansstyrke.« Så rejste Gideon sig og slog Zeba og Salmunna ihjel, og han tog de halvmåner der hang påderes kamelers halse.\fhvilket bliver en snare for Israel; landet har ro==",
+      "title": "Gideon vil ikke herske over Israel, beder dem om en gave, laver en efod og sætter den i Ofr",
+      "number": 21,
+      "version": 1550012400000
+    },
+    {
+      "text": "\fDa sagde alle i Israel til Gideon: »Hersk over os, både du og din søn og din sønnesøn, for duhar frelst os fra midjanitterne.«",
+      "number": 22,
+      "version": 1550012400000
+    },
+    {
+      "text": "\fGideon svarede dem: »Jeg vil ikke herske over jer, og min søn skal ikke herske over jer. JHVHskal herske over jer.« v24 Gideon sagde så til dem: »Jeg vil gerne bede jer om noget: Lad mig fåen ørering fra hver af jer fra jeres bytte.« De besejrede havde nemlig øreringe af guld fordi devar ismaelitter.",
+      "number": 23,
+      "version": 1550012400000
+    },
+    {
+      "text": "\fDe svarede: »Det gør vi gerne.« De bredte så et klæde ud, og hver af dem kastede en øreringfra sit bytte på det. v26 Vægten af de guldringe som Gideon bad om, var 1700 sekel guld, foruden dehalvmåner, halskæder og purpurklæder som midjanitternes konger havde på, og foruden de kæder somhang på deres kamelers halse. v27 Gideon anvendte det til en efod og anbragte den i sin by Ofra, oghele Israel horede med den. Det blev en fælde for Gideon og hans hus.",
+      "number": 25,
+      "version": 1550012400000
+    },
+    {
+      "text": "\fSåledes blev midjanitterne undertvunget for øjnene af israelitterne, og midjanitterne viste sigikke igen. Landet havde ro i 40 år i Gideons dage. v29 Jerub-ba'al, Joashs søn, bosatte sig i sithus.",
+      "title": "Gideons børn og død; Israel synder mod JHVH og mod Gideon",
+      "number": 28,
+      "version": 1550012400000,
+      "footnotes": [
+        {
+          "text": "Vers 29 hører sandsynligvis sammen med det efterfølgende afsnit.",
+          "type": "E",
+          "position": 197
+        }
+      ]
+    },
+    {
+      "text": "\fGideon var far til 70 sønner, for han havde mange koner. v31 Hans medhustru i Sikem fødte hamogså en søn, som han gav navnet Abimelek. v32 Gideon, Joashs søn, døde i en høj alder, og han blevbegravet i sin fars, abiezritten Joashs, grav i Ofra. v33 Efter at Gideon var død, gav israelitternesig igen til at hore med Ba'alerne, og de gjorde Ba'al-Berit til deres gud. v34 Israelitternehuskede ikke på JHVH, deres Gud, som havde befriet dem fra alle de fjender der boede rundt om dem,",
+      "number": 30,
+      "version": 1550012400000
+    },
+    {
+      "text": "og de viste ikke kærlighed mod Jerub-Ba'als - altså Gideons - hus efter alt det gode som hanhavde gjort mod Israel.",
+      "number": 35,
+      "version": 1550012400000
+    }
+  ]
+}

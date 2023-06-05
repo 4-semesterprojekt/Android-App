@@ -1,0 +1,57 @@
+{
+  "book": "Apostlenes Gerninger",
+  "abbreviation": "Apg",
+  "chapter": 7,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen da de hørte dette, skar det dem i deres hjerter, og de skar tænder imod ham.",
+      "number": 54,
+      "version": 1639954800000
+    },
+    {
+      "text": "Men fuld af Helligånden stirrede han op mod himlen og så Guds herlighed og Jesus stående ved Guds højre hånd.",
+      "number": 55,
+      "version": 1639954800000
+    },
+    {
+      "text": "Og han sagde: »Se, jeg ser himlene åbne og Menneskesønnen stående ved Guds højre hånd.«",
+      "number": 56,
+      "version": 1639954800000
+    },
+    {
+      "text": "Men de råbte med høj røst og holdt sig for ørene og stormede alle som én ind på ham,",
+      "number": 57,
+      "version": 1639954800000
+    },
+    {
+      "text": "og de jog ham ud uden for byen og stenede ham. Og vidnerne lagde deres kapper ved fødderne af en ung mand som hed Saulus.",
+      "number": 58,
+      "version": 1639954800000
+    },
+    {
+      "text": "Så stenede de Stefanus som bad og sagde: »Herre Jesus, tag imod min ånd!«",
+      "number": 59,
+      "version": 1639954800000
+    },
+    {
+      "text": "Og han faldt på knæ og råbte med høj røst: »Herre, tilregn dem ikke denne synd!« Og som han sagde dette, sov han hen.",
+      "number": 60,
+      "version": 1639954800000
+    }
+  ]
+}

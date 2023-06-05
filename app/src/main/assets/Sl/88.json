@@ -1,0 +1,198 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 88,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEn sang. Salme af Koras sønner.\fTil korlederen. Al-mahalat-le-annot. Maskil af Heman, ezraitten.",
+      "title": "Første klage",
+      "number": 1,
+      "version": 1675810800000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 48
+        },
+        {
+          "text": "Betydningen af *ʕal-māḥᵃlat lᵊʕannôt* er usikker. Det kan evt. betyde: »at synge på lidende vis/under sygdom« eller være en melodihenvisning (på melodien »mahalat«) eller anvisning om et fløjteinstrument.",
+          "type": "E",
+          "position": 69
+        },
+        {
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "\fHERRE, min frelses Gud,\fom dagen har jeg råbt,\fom natten var jeg foran dig.",
+      "number": 2,
+      "version": 1675810800000
+    },
+    {
+      "text": "\fLad min bøn komme for dit ansigt,\fbøj dit øre til min klageråb!",
+      "number": 3,
+      "version": 1675810800000
+    },
+    {
+      "text": "\fFor min sjæl er mæt af ulykker,\fog mit liv er kommet nær til gravens rand.",
+      "number": 4,
+      "version": 1675810800000,
+      "footnotes": [
+        {
+          "text": "Hebraisk: *šᵊʔôl*, der traditionelt er blevet oversat: »dødsriget«.",
+          "type": "T",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "\fJeg agtes lige med dem som går ned i graven,\fjeg er blevet som en mand uden kraft,",
+      "number": 5,
+      "version": 1675810800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »som er på vej«.",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fblandt de døde er jeg afsondret,\fsom dræbte der ligger i graven,\fsom du ikke længere husker,\fda de er revet ud af din hånd.",
+      "number": 6,
+      "version": 1675810800000,
+      "footnotes": [
+        {
+          "text": "Betydningen af ordet *ḥāfᵊšî* (»afsondret«) er omstridt. Normalt betyder det: »fri/løsladt«, og nogle fortolkere forstår sætningen som bitter ironi: »jeg har fået frihed blandt de døde«. Snarere må det dog i lighed med 2 Kong 15,5 forstås som: »afsondret«, evt. »lukket inde«.",
+          "type": "E",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\fDu har lagt mig i dybeste grav,\fi mørke, i dybe steder.",
+      "number": 7,
+      "version": 1675810800000
+    },
+    {
+      "text": "\fPå mig har din vrede lagt sig tungt,\fog alle dine brændinger lod du skylle over mig. Sela",
+      "number": 8,
+      "version": 1675810800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »bøjede/ydmygede/fornedrede du «. »Over mig« er underforstået fra foregående sætning, hvor det står pointeret som første ord.",
+          "type": "E",
+          "position": 85
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 90
+        }
+      ]
+    },
+    {
+      "text": "\fDu har fjernet mine fortrolige langt fra mig,\fdu har gjort mig til afsky for dem,\flukket inde, så jeg ikke kan gå ud.",
+      "number": 9,
+      "version": 1675810800000
+    },
+    {
+      "text": "\fMit øje er sløvet af elendighed.\fJeg har råbt til dig, HERRE, hver dag,\fjeg har bredt min håndflade ud mod dig.",
+      "title": "Ny klage",
+      "number": 10,
+      "version": 1675810800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »vansmægter«.",
+          "type": "T",
+          "position": 18
+        }
+      ]
+    },
+    {
+      "text": "\fGør du under for de døde?\fEller vil dødninge rejse sig, vil de takke dig? Sela",
+      "number": 11,
+      "version": 1675810800000
+    },
+    {
+      "text": "\fFortælles der i graven om din nåde,\fom din sandhed i dødsriget?",
+      "number": 12,
+      "version": 1675810800000
+    },
+    {
+      "text": "\fKendes dit under i mørket,\feller din retfærdighed i glemslens land?",
+      "title": "Endnu en klage",
+      "number": 13,
+      "version": 1675810800000
+    },
+    {
+      "text": "\fMen jeg har råbt til dig om hjælp, HERRE,\fog om morgenen kommer min bøn til dig.",
+      "number": 14,
+      "version": 1675810800000
+    },
+    {
+      "text": "\fHvorfor, HERRE, vil du forkaste min sjæl?\fHvorfor vil du skjule dit ansigt for mig?",
+      "number": 15,
+      "version": 1675810800000,
+      "footnotes": [
+        {
+          "text": "»hvorfor« er underforstået fra foregående linje.",
+          "type": "T",
+          "position": 50
+        }
+      ]
+    },
+    {
+      "text": "\fHjælpeløs og døende er jeg fra ungdommen af,\fjeg har båret på rædsler for dig, jeg bliver fortvivlet.",
+      "number": 16,
+      "version": 1675810800000
+    },
+    {
+      "text": "\fDin vredes flammer er gået hen over mig,\frædsel for dig har tilintetgjort mig,",
+      "number": 17,
+      "version": 1675810800000,
+      "footnotes": [
+        {
+          "text": "Verbet har en besynderlig/umulig form (*ṣimmᵊtûtunî*). Man retter som regel til: *ṣimmᵊtûnî* (»har tilintetgjort mig«).",
+          "type": "E",
+          "position": 79
+        }
+      ]
+    },
+    {
+      "text": "\fde har omringet mig som vand hele dagen,\fde har sammen slået kreds omkring mig.",
+      "number": 18,
+      "version": 1675810800000
+    },
+    {
+      "text": "\fDu har fjernet elsket ven og kammerat langt fra mig,\fmine fortrolige er blevet til mørke.",
+      "number": 19,
+      "version": 1675810800000,
+      "footnotes": [
+        {
+          "text": "Sætningen har i grundteksten ikke noget verbum der derfor må underforstås. Formodentlig enten: »er blevet til« (en uhyggelig, fjendtlig magt) eller »er blevet borte i«.",
+          "type": "E",
+          "position": 90
+        }
+      ]
+    }
+  ]
+}

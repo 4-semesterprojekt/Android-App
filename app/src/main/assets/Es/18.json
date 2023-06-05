@@ -1,0 +1,82 @@
+{
+  "book": "Esajas",
+  "abbreviation": "Es",
+  "chapter": 18,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fVe! Land med flagrende vinger,\fsom er på den anden side af Nubiens strømme,",
+      "title": "Ord mod Nubien",
+      "number": 1,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fsom sender bud på havet\fog i sivbåde over vandet:\fGå, I hurtige budbringere,\ftil et folk der er velvoksent og glathudet,\ftil et folk der er frygtet fra det blev til og fremover;\fet folk, stærkt og nedtrampende,\fhvis land vandstrømme skærer igennem.",
+      "number": 2,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fAlle verdens indbyggere,\fog jordens beboere:\fNår man rejser banner på bjergene, så se til!\fOg når man støder i hornet, så hør efter!",
+      "number": 3,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fFor sådan har JHVH sagt til mig:\f»Jeg vil være stille og se til i min bolig,\fnår heden brænder under solskin,\fnår duggen er tæt i høstens hede.«",
+      "number": 4,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fFor før høsten, når blomstringen er forbi,\fog blomst bliver til moden drue,\fskal han skære skuddene af med vingårdsknive,\fog rankerne fjerner han, river af.",
+      "number": 5,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fDe skal alle overlades til bjergenes rovfugle\fog til jordens dyr,\fså rovfuglene kan oversomre på dem,\fog alle jordens dyr overvintre på dem.",
+      "number": 6,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »landets«.",
+          "type": "T",
+          "position": 61
+        }
+      ]
+    },
+    {
+      "text": "\fPå den tid skal der frembæres gave til Hærskarers HERRE fra et velvoksent og glathudet folk og fra et folk der er frygtet fra det blev til og fremover; et folk, stærkt og nedtrampende, hvis land vandstrømme skærer igennem, hen til Hærskarers HERRES navns sted, til Zions bjerg.",
+      "number": 7,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 56
+        },
+        {
+          "text": "Ordet »fra« (hebraisk: *min*) mangler i den hebraiske tekst, men suppleres ud fra bl.a. Septuaginta.",
+          "type": "E",
+          "position": 60
+        },
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 249
+        }
+      ]
+    }
+  ]
+}

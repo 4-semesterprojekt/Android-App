@@ -1,0 +1,100 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 120,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEn valfartssang.\fTil JHVH i min trængsel\fråbte jeg, og han svarede mig.",
+      "title": "Klagen",
+      "number": 1,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Den første af 15 valfartssange. Meningen med ordet: *maʕᵃlôt* (»valfart«) er ganske vist omdiskuteret. Stammen i ordet er verbet: *ʕlt*, der betyder: »at stige op, at gå op«.Det er gammel jødisk opfattelse at ordet betegner de 15 trin op til Nikanorporten til tempelpladsen hvorfra levitterne sang. I så fald skal overskriften oversættes: »Sang på trinene«.Et andet forslag bygger på at verbet: *ʕlt* ofte betegner vandring til det hellige land. Det er derfor foreslået at salmerne stammer fra israelitternes rejse tilbage til deres land fra det babyloniske eksil. Man kan derfor også finde oversættelsen: »Sang til rejserne«.Et tredje forslag, som nu oftest vinder tilslutning, læser verbet: *ʕlt* som betegnelse for opstigning til Jerusalem, der ligger på en bjergtop. Verbet bruges specielt om opstigning til templet, altså om »valfart«.",
+          "type": "E",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "text": "\f»JHVHv, befri min sjæl fra en løgnagtig læbe,\ffra en svigefuld tunge.«",
+      "title": "Gud vil ramme den svigefulde tunge",
+      "number": 2,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »fra løgns læbe«.",
+          "type": "T",
+          "position": 46
+        },
+        {
+          "text": "Ordret: »fra tunge der er bedrag«.",
+          "type": "T",
+          "position": 71
+        }
+      ]
+    },
+    {
+      "text": "\fHvad giver han dig, og hvad giver han dig yderligere,\fdu svigefulde tunge?",
+      "number": 3,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Svaret kommer i næste vers. Verset oversættes undertiden: »Gid han må ramme dig og gøre det yderligere, du svigefulde tunge«. Det er dog tvivlsomt om: *māʰ* (normalt: »hvad«) kan betyde: »gid«.",
+          "type": "E",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "\fKrigerens skarpe pile\fmed gyvelgrenes glødende kul!",
+      "title": "Salmistens trængsel",
+      "number": 4,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fVe mig, for jeg har været fremmed i Meshek,\fjeg har boet blandt Kedars telte.",
+      "number": 5,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Meshek og Kedar var krigeriske stammer.",
+          "type": "T",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\fLænge nok har min sjæl haft sin bolig\fhos ham som hader fred.",
+      "number": 6,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Nogle håndskrifter og de gamle oversættelser har pluralis: »hos dem«.",
+          "type": "T",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "\fJeg er fredsommelig; men når jeg taler,\fer de for krig.",
+      "number": 7,
+      "version": 1504476000000
+    }
+  ]
+}

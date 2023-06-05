@@ -1,0 +1,82 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 93,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJHVH er konge!\fHan har klædt sig i højhed,\fJHVH har klædt sig, har rustet sig med styrke.\fJa, jorden er grundfæstet, den skal ikke rokkes.",
+      "title": "Guds kongedømme er evigt",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »omgjordet sig«.",
+          "type": "T",
+          "position": 78
+        }
+      ]
+    },
+    {
+      "text": "\fDin trone står fast fra ældgammel tid,\ffra evighed er du.",
+      "title": "JHVH er kosmisk konge",
+      "number": 2,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fStrømme løftede, JHVHv,\fstrømme løftede deres røst,\fstrømme løfter deres drøn.",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Egentlig om bølgers (voldsomme) brusen.",
+          "type": "T",
+          "position": 79
+        }
+      ]
+    },
+    {
+      "text": "\fFremfor vældige vandes buldren,\fmajestætiske havets brændinger,\fer JHVH majestætisk i det Høje.",
+      "number": 4,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »røst«.",
+          "type": "T",
+          "position": 32
+        },
+        {
+          "text": "Det er omdiskuteret, hvad adjektivet *ʔaddîrîm* (»majestætiske/mægtige/herlige«) skal lægges til, om det er foregående linjes »vande« eller denne linjes »brændinger«.",
+          "type": "E",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fDine vidnesbyrd er meget pålidelige,\fhellighed sømmer sig for dit hus,\fJHVHv, i evighed.",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »i dages udstrækning«.",
+          "type": "T",
+          "position": 90
+        }
+      ]
+    }
+  ]
+}

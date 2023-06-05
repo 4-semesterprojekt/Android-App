@@ -1,0 +1,93 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 149,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHalleluja!\fSyng for JHVH en ny sang,\fhans lovsang i de frommes forsamling!",
+      "title": "Syng for frelseren!",
+      "number": 1,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »menighed«.",
+          "type": "T",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "\fIsrael skal glæde sig over sin skaber,\fZions sønner skal juble over deres konge!",
+      "number": 2,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens ord står i pluralis der enten må opfattes som pluralis majestatis eller som en superlativ.",
+          "type": "E",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "\fDe skal lovprise hans navn med dans,\ftil pauke og citer skal de lovsynge ham.",
+      "number": 3,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fFor JHVH har velbehag i sit folk,\fhan pryder de ydmyge med frelse.",
+      "title": "Syng for dommeren",
+      "number": 4,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fDe fromme skal juble i herlighed,\fde skal synge med jubel på deres lejer.",
+      "number": 5,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Mange fortolkere og oversættere finder omtalen af »leje« umulig her hvorfor man retter: *ʕal-miškᵊvôtām*: (»på deres lejer«) til: *ʕal-mišmᵊrôtām*: »i deres familier« eller: *ʕal-maʕarᵊxôtām*: »i deres slagrækker«. Andre foreslår at opfatte den masoretiske teksts »leje« som udtryk for det sted hvor man tilbedende knæler eller ligger. Denne brug af roden: *škb* er ganske vist ikke påvist andre steder i GT, men det er næppe nok til helt at afvise muligheden.",
+          "type": "E",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "\fDer er hyldestsang til Gud i deres strube\fog tveægget sværd i deres hånd",
+      "number": 6,
+      "version": 1493330400000
+    },
+    {
+      "text": "\ftil at udføre hævn over folkene,\fstraf over folkeslagene;",
+      "number": 7,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hedningerne«.",
+          "type": "T",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\ftil at binde deres konger med lænker,\fderes fornemme med fodlænker af jern;",
+      "number": 8,
+      "version": 1493330400000
+    },
+    {
+      "text": "\ftil at fuldbyrde på dem den dom som står skrevet!\fDet er en ære for alle hans fromme.\fHalleluja!",
+      "number": 9,
+      "version": 1493330400000
+    }
+  ]
+}

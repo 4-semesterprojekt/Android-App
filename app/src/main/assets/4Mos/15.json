@@ -1,0 +1,273 @@
+{
+  "book": "Fjerde Mosebog",
+  "abbreviation": "4Mos",
+  "chapter": 15,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJHVH talte til Moses:",
+      "title": "JHVH giver love om afgrødeoffer og drikoffer som skal føjes til ethvert offer.",
+      "number": 1,
+      "version": 1494453600000
+    },
+    {
+      "text": "»Tal til israelitterne og sig til dem: ›Når I kommer til det land I skal bo i, det som jeg vil give jer,",
+      "number": 2,
+      "version": 1494453600000
+    },
+    {
+      "text": "og I vil ofre til JHVH et ildoffer, hvad enten det er et brændoffer eller et slagtoffer, for at indfri et særligt løfte eller som et frivilligt offer eller på jeres særlige højtider for at berede en liflig duft for JHVH af hornkvæg og får og geder,",
+      "number": 3,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Således ordret på hebraisk. I mange nyere oversættelse udelades det eller oversættes med »offer« eller »offergave«; det er formodentlig en samlet betegnelse for alle ofre som brændes på alteret.",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "da skal den som ofrer det til JHVH, også ofre et afgrødeoffer af en tiendedel efa mel blandet med en fjerdedel af en hin olie,",
+      "number": 4,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Rummmålet angives ikke i teksten, men det er almindeligt at opfatte det som en tiendedel af en efa, der regnes enten som 22 liter eller 36 liter.",
+          "type": "T",
+          "position": 81
+        }
+      ]
+    },
+    {
+      "text": "og som drikoffer skal du ofre en fjerdedel af en hin vin sammen med brændofferet eller slagtofferet for hvert lam.",
+      "number": 5,
+      "version": 1494453600000
+    },
+    {
+      "text": "Er det til en vædder, skal du give afgrødeoffer af to tiendedele mel blandet med en tredjedel af en hin olie,",
+      "number": 6,
+      "version": 1494453600000
+    },
+    {
+      "text": "og en tredjedel af en hin vin skal du ofre som drikoffer til en liflig duft for JHVH.",
+      "number": 7,
+      "version": 1494453600000
+    },
+    {
+      "text": "Når du vil give en tyrekalv til brændoffer eller slagtoffer for at indfri et særligt løfte eller som et måltidsoffer for JHVH,",
+      "number": 8,
+      "version": 1494453600000
+    },
+    {
+      "text": "da skal man sammen med tyrekalven ofre tre tiendedele mel blandet med en halv hin olie som afgrødeoffer.",
+      "number": 9,
+      "version": 1494453600000
+    },
+    {
+      "text": "Og du skal ofre vin til drikoffer, en halv hin. Det er et ildoffer, en liflig duft for JHVH.",
+      "number": 10,
+      "version": 1494453600000
+    },
+    {
+      "text": "På denne måde skal det gøres for hver okse eller vædder eller lam eller kid;",
+      "number": 11,
+      "version": 1494453600000
+    },
+    {
+      "text": "efter det antal I ofrer, skal I gøre således med hver enkelt i forhold til deres antal.",
+      "number": 12,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Ordret: gør.",
+          "type": "T",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "Enhver indfødt israelit skal gøre disse ting på denne måde for at ofre et ildoffer, en liflig duft for JHVH.",
+      "number": 13,
+      "version": 1494453600000
+    },
+    {
+      "text": "Hvis en fremmed opholder sig midlertidigt hos jer eller bor permanent iblandt jer hos jeres efterkommere, og han vil give et ildoffer, en liflig duft for JHVH, skal han gøre ligesom I skal gøre.",
+      "number": 14,
+      "version": 1494453600000
+    },
+    {
+      "text": "I forsamlingen skal der være samme forordning for jer og for den fremmede som opholder sig hos jer, det er en evig forordning blandt jeres efterkommere: Som det er for jer, sådan skal det være for den fremmede for JHVHs ansigt.",
+      "number": 15,
+      "version": 1494453600000
+    },
+    {
+      "text": "Samme lov og ret skal gælde for jer og for den fremmede som opholder sig hos jer.‹«",
+      "title": "Lov om førstegrødeoffer.",
+      "number": 16,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fJHVH talte til Moses:",
+      "number": 17,
+      "version": 1494453600000
+    },
+    {
+      "text": "»Tal til israelitterne og sig til dem: ›Når I kommer ind i det land jeg vil føre jer til,",
+      "number": 18,
+      "version": 1494453600000
+    },
+    {
+      "text": "og når I spiser af landets brød, skal I bringe en offergave til JHVH.",
+      "number": 19,
+      "version": 1494453600000
+    },
+    {
+      "text": "Det første af jeres dej, nemlig en kage, skal I bringe som gave, ligesom gaven fra tærskepladsen, sådan skal I bringe den.",
+      "number": 20,
+      "version": 1494453600000
+    },
+    {
+      "text": "Af det første af jeres dej skal I give JHVH en gave blandt jeres efterkommere.",
+      "title": "Lov om syndoffer for uforvarende synder, for hele forsamlingen eller for en enkelt person, men ikke for bevidste synder.",
+      "number": 21,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fNår I uforvarende synder og ikke holder alle de bud som JHVH har talt til Moses,",
+      "number": 22,
+      "version": 1494453600000
+    },
+    {
+      "text": "alt det som JHVH har påbudt jer ved Moses, fra den dag af da JHVH befalede det og derefter blandt jeres efterkommere,",
+      "number": 23,
+      "version": 1494453600000
+    },
+    {
+      "text": "hvis noget er skjult for forsamlingens øjne og gjort af vanvare, da skal hele forsamlingen give en tyrekalv som brændoffer, til en liflig duft for JHVH, med afgrødeoffer og drikoffer til ifølge retspraksis, og en gedebuk som syndoffer.",
+      "number": 24,
+      "version": 1494453600000
+    },
+    {
+      "text": "Så skal præsten skaffe soning for hele israelitternes forsamling, og det vil blive dem tilgivet, for det var af vanvare, og de skal føre deres offer frem som et ildoffer for JHVH, og deres syndoffer for JHVHs ansigt for den synd de har gjort af vanvare,",
+      "number": 25,
+      "version": 1494453600000
+    },
+    {
+      "text": "og det bliver tilgivet hele Israels børns forsamling og den fremmede som opholder sig blandt dem, fordi det er sket for hele folket af vanvare.",
+      "number": 26,
+      "version": 1494453600000
+    },
+    {
+      "text": "Men når en enkelt synder af vanvare, skal han ofre en årgammel ged som syndoffer.",
+      "number": 27,
+      "version": 1494453600000
+    },
+    {
+      "text": "Og præsten skal skaffe soning for JHVHs ansigt for ham som har begået en uforvarende synd. Han skal skaffe ham soning, så det bliver ham tilgivet.",
+      "number": 28,
+      "version": 1494453600000
+    },
+    {
+      "text": "For den indfødte blandt israelitterne og for den fremmede som opholder sig iblandt dem, hos jer skal der gælde samme lov for den som gør noget af vanvare.",
+      "number": 29,
+      "version": 1494453600000
+    },
+    {
+      "text": "Men den som gør noget med hævet hånd, det være sig en indfødt israelit eller en fremmed, han har hånet JHVH, og du skal fjerne den person fra at være iblandt hans folk,",
+      "number": 30,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Dette udtryk oversættes forskelligt: »i trodsighed« (GT1871) eller »med forsæt« (GT1931) eller »med vilje« (DO92). Det må dække en betydning som står i kontrast til synd begået ved en fejl, altså uoverlagt.",
+          "type": "T",
+          "position": 37
+        },
+        {
+          "text": "Ordret: sjæl.",
+          "type": "T",
+          "position": 137
+        },
+        {
+          "text": "På hebraisk står der helt ordret: »du skal visselig bortskære den sjæl fra midten af dens folk«. Teksten nævner ikke dødsstraf eksplicit, og det er derfor mest rimeligt at forestille sig at det handler om en ekskommunikation for utilgivelig synd. Om det alene gælder udelukkelse fra deltagelse i gudstjenesten eller der også er tale om bortvisning fra teltlejren, står ikke klart, det er ikke usandsynligt.",
+          "type": "T",
+          "position": 168
+        }
+      ]
+    },
+    {
+      "text": "for han har foragtet JHVHs ord og brudt hans bud. Denne person skal du fjerne; han har skyld.«",
+      "title": "En mand der bevidst har overtrådt sabbatsbuddet, stenes.",
+      "number": 31,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fMens israelitterne var i ørkenen fandt de en mand som samlede brænde på en sabbat.",
+      "number": 32,
+      "version": 1494453600000
+    },
+    {
+      "text": "De som fandt ham i færd med at samle brænde, førte ham frem for Moses og Aron og hele forsamlingen.",
+      "number": 33,
+      "version": 1494453600000
+    },
+    {
+      "text": "De satte ham i forvaring, for det var ikke afklaret hvad der skulle ske med ham.",
+      "number": 34,
+      "version": 1494453600000
+    },
+    {
+      "text": "JHVH sagde til Moses: »Den mand skal så sandelig dø. Hele forsamlingen skal stene ham uden for lejren.«",
+      "number": 35,
+      "version": 1494453600000
+    },
+    {
+      "text": "Da førte hele forsamlingen ham ud uden for lejren, og de stenede ham, og han døde sådan som JHVH havde befalet Moses.",
+      "title": "Israels børn skal lave kvaster på deres kapper for derved at huske på Guds bud.",
+      "number": 36,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fJHVH talte til Moses:",
+      "number": 37,
+      "version": 1494453600000
+    },
+    {
+      "text": "»Tal til israelitterne og sig at de skal lave kvaster på kanterne af deres tøj blandt deres efterkommere, og de skal sætte en blå uldsnor på hver kvast.",
+      "number": 38,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Den moderne betegnelse blandt jøder er »skuesnor«",
+          "type": "T",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "I skal have kvasten, så I kan se den og huske på alle JHVHs bud og holde dem, og I skal ikke forsøge jer med noget efter jeres eget hjerte og efter jeres øjne som I kan være utro med.",
+      "number": 39,
+      "version": 1494453600000
+    },
+    {
+      "text": "Det skal I huske på og holde alle mine bud, og I skal være hellige for jeres Gud.",
+      "number": 40,
+      "version": 1494453600000
+    },
+    {
+      "text": "Jeg er JHVH jeres Gud som har ført jer ud af Egyptens land for at være jeres Gud. Jeg er JHVH jeres Gud.",
+      "number": 41,
+      "version": 1494453600000
+    }
+  ]
+}

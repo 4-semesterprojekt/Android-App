@@ -1,0 +1,111 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 11,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen JHVH sagde til Moses: »Endnu én plage vil jeg bringe over Farao og over Egypten. Derefter vil han lade jer gå herfra. Når han lader jer gå, vil han helt afgjort drive  jer fuldstændig ud herfra!",
+      "title": "Tiende plage annonceres: Drabet på de førstefødte",
+      "number": 1,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har verbet *grš* (»drive«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "type": "T",
+          "position": 171
+        },
+        {
+          "text": "Meningen med grundtekstens *kālāʰ* er omdiskuteret. Grundbetydningen er: »ødelæggelse«, men her må det – som eneste sted i GT – nok opfattes som adverbium. Det kan da eventuelt oversættes: »ligefrem«. Mere oplagt er det dog enten at det oversættes: »(Når han lader jer gå,) vil det være komplet«, eller som i denne oversættelse knyttet til det følgende: »fuldstændig«.",
+          "type": "T",
+          "position": 188
+        }
+      ]
+    },
+    {
+      "text": "Sig så nu til folket at de skal bede – en mand af sin nabo og en kvinde af sin naboerske – om ting af sølv og ting af guld.«",
+      "number": 2,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Sig så nu i folkets ører«.",
+          "type": "T",
+          "position": 20
+        },
+        {
+          "text": "Det hebraiske ord *kᵊlî* kan dække over smykker, skåle, redskaber m.m.",
+          "type": "T",
+          "position": 98
+        }
+      ]
+    },
+    {
+      "text": "JHVH gav folket gunst i egypternes øjne; og manden Moses var meget mægtig i Egyptens land i Faraos tjeneres øjne og i folkets øjne.",
+      "number": 3,
+      "version": 1587506400000
+    },
+    {
+      "text": "Så sagde Moses: »Således har JHVH sagt: ›Ved midnat går jeg ud midt i Egypten.",
+      "number": 4,
+      "version": 1587506400000
+    },
+    {
+      "text": "Og alle førstefødte i Egyptens land skal dø, fra den førstefødte hos Farao som sidder på sin trone til den førstefødte hos trælkvinden som er bag kværnen, og alt førstefødt af kvæget.",
+      "number": 5,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »fra Faraos førstefødte, han som sidder på sin trone.«",
+          "type": "T",
+          "position": 98
+        }
+      ]
+    },
+    {
+      "text": "Der skal blive et stort skrig i hele Egyptens land, hvis lige ikke har været, og hvis lige ikke skal være igen.",
+      "number": 6,
+      "version": 1587506400000
+    },
+    {
+      "text": "Men ikke en hund skal gø ad alle Israels børn, hverken ad menneske eller kvæg, for at I skal vide at JHVH gør skel mellem egypterne og Israel.‹",
+      "number": 7,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »ikke en hund skal true/gøre fortræd med sin tunge.«",
+          "type": "T",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "Da skal alle disse dine tjenere komme ned til mig og kaste sig ned for mig og sige: ›Gå ud, du og hele det folk som er i følge med dig.‹ Derefter vil jeg gå ud.« Så han gik ud fra Farao med glødende vrede.",
+      "number": 8,
+      "version": 1587506400000
+    },
+    {
+      "text": "JHVH sagde til Moses: »Farao vil ikke høre på jer for at mine undere skal blive mange i Egyptens land.«",
+      "number": 9,
+      "version": 1587506400000
+    },
+    {
+      "text": "Moses og Aron gjorde alle disse undere foran Farao; men JHVH forhærdede Faraos hjerte så han lod ikke Israels børn gå ud af sit land.",
+      "number": 10,
+      "version": 1587506400000
+    }
+  ]
+}

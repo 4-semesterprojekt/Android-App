@@ -1,0 +1,119 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 96,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSyng for JHVH en ny sang,\fsyng for JHVH hele jorden!",
+      "title": "Opfordring til lovsang",
+      "number": 1,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fSyng for JHVH, pris hans navn,\fforkynd fra dag til dag hans frelse!",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »velsign«.",
+          "type": "T",
+          "position": 20
+        }
+      ]
+    },
+    {
+      "text": "\fFortæl om hans herlighed blandt folkene,\fblandt alle folkeslagene om hans undere.",
+      "title": "For Gud er stor",
+      "number": 3,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor JHVH er stor og højt lovprist,\fhan er frygtindgydende overfor alle guder.",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor alle folkeslagenes guder er tomme afguder,\fmen JHVH har skabt himlen.",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har blot et ord, der betegner »afguder«, men i sammenhængen ligger der vægt på deres intethed og totale afmagt.",
+          "type": "T",
+          "position": 47
+        }
+      ]
+    },
+    {
+      "text": "\fHøjhed og pragt er for hans ansigt,\fmagt og herlighed i hans helligdom.",
+      "title": "Opfordring til tilbedelse",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGiv JHVH, I folkeslagenes slægter,\fgiv JHVH ære og magt!",
+      "number": 7,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGiv JHVH hans navns ære,\ffrembær offergaver og kom til hans forgårde!",
+      "number": 8,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fKast jer ned for JHVH i hellig klædning,\fskælv for hans ansigt hele jorden!",
+      "number": 9,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens *hᵃdārāh* er omdiskuteret. Det er blevet oversat »smykke, skrud, åbenbaring, tilsynekomst, majestæt«.",
+          "type": "E",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "\fSig blandt folkene: »JHVH er konge!«\fJa, jorden er grundfæstet, den skal ikke rokkes.\fHan skal dømme folkene med retskaffenhed.",
+      "title": "Opfordring til jubel",
+      "number": 10,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHimlen skal glæde sig, og jorden skal juble,\fhavet og dets fylde skal larme,",
+      "number": 11,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fmark og alt hvad der er derpå, skal fryde sig,\fda skal alle skovens træer juble",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\ffor JHVHs ansigt; for han kommer,\ffor han kommer for at dømme jorden;\fhan skal dømme verden med retfærdighed\fog folkeslagene med sin sandhed.",
+      "number": 13,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »trofasthed«.",
+          "type": "T",
+          "position": 142
+        }
+      ]
+    }
+  ]
+}

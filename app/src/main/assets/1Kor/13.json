@@ -1,0 +1,95 @@
+{
+  "book": " Paulus' Første Brev til Korintherne",
+  "abbreviation": "1Kor",
+  "chapter": 13,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTaler jeg med menneskers og engles tunger, men ikke har kærlighed, så er jeg blevet et lydende malm eller en klingende bjælde.",
+      "title": "Kærlighedens uundværlighed; selvom man havde de andre gaver i rigeste mål og udførte åndelige storværker, men ikke havde kærligheden, var man alligevel intet, 1-3. Kærlighedens egenskaber, 4-7; Kærlighedens uforgængelighed; mens de andre gaver på grund af deres mangelfuldhed ophører, når engang det fuldkomne indtræffer, bliver kærligheden med troen og håbet ved med at eksistere, og af disse tre er kærligheden den største, 8-13.",
+      "number": 1,
+      "version": 1539036000000
+    },
+    {
+      "text": "Og har jeg profetisk gave og kender alle hemmelighederne og al kundskaben, og har jeg al troen, så at jeg kan flytte bjerge, men ikke har kærlighed, så er jeg intet.",
+      "number": 2,
+      "version": 1539036000000
+    },
+    {
+      "text": "Og uddeler jeg alt, hvad jeg ejer, til de fattige og giver mit legeme hen til at blive brændt, men ikke har kærlighed, så gavner det mig intet.",
+      "number": 3,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fKærligheden er tålmodig, er velvillig; kærligheden er ikke misundelig; kærligheden praler ikke, er ikke stolt,",
+      "number": 4,
+      "version": 1539036000000
+    },
+    {
+      "text": "gør ikke noget usømmeligt, søger ikke sit eget, forbitres ikke, tilregner ikke det onde;",
+      "number": 5,
+      "version": 1539036000000
+    },
+    {
+      "text": "glæder sig ikke over uretfærdigheden, men glæder sig ved sandheden;",
+      "number": 6,
+      "version": 1539036000000
+    },
+    {
+      "text": "den tåler alt, tror alt, håber alt, udholder alt.",
+      "number": 7,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fKærligheden bortfalder aldrig; men enten det er profetiske gaver, de skal forgå, eller tungetale, den skal ophøre, eller kundskab, den skal forgå;",
+      "number": 8,
+      "version": 1539036000000
+    },
+    {
+      "text": "for vi kender stykkevis og profeterer stykkevis;",
+      "number": 9,
+      "version": 1539036000000
+    },
+    {
+      "text": "men når det fuldkomne kommer, så skal det stykkevise forgå.",
+      "number": 10,
+      "version": 1539036000000
+    },
+    {
+      "text": "Da jeg var barn, talte jeg som et barn, tænkte jeg som et barn, dømte jeg som et barn; efter at jeg er bleven mand, har jeg aflagt det barnagtige.",
+      "number": 11,
+      "version": 1539036000000
+    },
+    {
+      "text": "Nu ser vi jo i et spejl, i en gåde, men da skal vi se ansigt til ansigt; nu kender jeg stykkevis, men da skal jeg erkende, ligesom jeg jo blev erkendt.",
+      "number": 12,
+      "version": 1539036000000,
+      "footnotes": [
+        {
+          "text": "dvs. en poleret, ret uskarp metalplade",
+          "type": "T",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "Så bliver da tro, håb, kærlighed ved, disse tre; men størst iblandt disse er kærligheden.",
+      "number": 13,
+      "version": 1539036000000
+    }
+  ]
+}

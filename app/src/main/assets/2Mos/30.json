@@ -1,0 +1,328 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 30,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\f»Du skal lave et alter til at brænde røgelse på; af akacietræ skal du lave det,",
+      "title": "Forordning om røgelsesofferalteret",
+      "number": 1,
+      "version": 1596837600000
+    },
+    {
+      "text": "én alen langt og én alen bredt, det skal være kvadratisk og to alen højt; dets horn skal være i ét med det.",
+      "number": 2,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »én alen dets længde og én alen dets bredde«.",
+          "type": "T",
+          "position": 31
+        }
+      ]
+    },
+    {
+      "text": "Du skal beklæde det med purt guld, dets overdel og dets sider rundt omkring og dets horn; og du skal lave en kant af guld hele vejen rundt.",
+      "number": 3,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord: *qîr* skal i de fleste sammenhænge oversættes: »mur«. I det næste vers er der brugt to andre hebraiske ord.",
+          "type": "T",
+          "position": 61
+        }
+      ]
+    },
+    {
+      "text": "To guldringe skal du lave til det under dets kant på to af dets sider, du skal lave dem på to af dets sider; de skal være holdere for bærestængerne, så man kan bære det med dem.",
+      "number": 4,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal lave bærestængerne af akacietræ og beklæde dem med guld.",
+      "number": 5,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og du skal stille det foran forhænget som er for Vidnesbyrdets ark, foran sonedækket som er oven over Vidnesbyrdet, hvor jeg vil åbenbare mig for dig.",
+      "number": 6,
+      "version": 1596837600000
+    },
+    {
+      "text": "På det skal Aron brænde velduftende røgelse; hver morgen, når han gør lamperne i stand, skal han brænde det,",
+      "number": 7,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »om morgenen, om morgenen«.",
+          "type": "T",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "og når Aron sætter lamperne på, lige inden mørket falder på, skal han brænde det; det skal være et stadigt røgelsesoffer for JHVHs ansigt hos jeres efterkommere.",
+      "number": 8,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »mellem de to aftner«. Det dækker formodentlig, at det skal finde sted mellem solnedgang og mørke. Jøderne har tolket det som tiden fra solnedgangens begyndelse omkring kl. 3 om eftermiddagen til dens afslutning.",
+          "type": "T",
+          "position": 60
+        },
+        {
+          "text": "Det hebraiske *tāmîd*, der i de fleste sammenhænge skal oversættes: »altid«, kan her enten forstås som: »dagligt« eller som udtryk for at det skal være uafbrudt. Det første er måske mest sandsynligt her.",
+          "type": "T",
+          "position": 106
+        }
+      ]
+    },
+    {
+      "text": "I må ikke bringe fremmed røgelse op på det eller brændoffer eller afgrødeoffer, og drikoffer må I ikke udgyde på det.",
+      "number": 9,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Se note til 24,5.",
+          "type": "E",
+          "position": 59
+        },
+        {
+          "text": "Se note til 29,41",
+          "type": "E",
+          "position": 79
+        }
+      ]
+    },
+    {
+      "text": "Aron skal skaffe soning på dets horn én gang om året; med blodet fra soningssyndofferet skal han én gang om året skaffe soning på det gennem jeres slægtled; det er højhelligt for JHVH.«",
+      "title": "Forordninger om sonepenge",
+      "number": 10,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Se note til 29,14.",
+          "type": "E",
+          "position": 87
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH talte til Moses og sagde:",
+      "number": 11,
+      "version": 1596837600000
+    },
+    {
+      "text": "»Når du tæller Israels sønner for at mønstre dem, skal hver give JHVH løsepenge for sin sjæl, når de bliver mønstret, så ingen plage skal komme over dem når de bliver mønstret.",
+      "number": 12,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »tager summen/hovedet på«.",
+          "type": "T",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "Dette skal de give, enhver som går over til de mønstrede: En halv sekel efter helligdommens vægt; sekelen er tyve gera, den halve sekel er afgift til JHVH.",
+      "number": 13,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord: *šeqel* betyder egentligt: »vægt«, men det bruges også om møntenheden: »sekel«.",
+          "type": "T",
+          "position": 97
+        }
+      ]
+    },
+    {
+      "text": "Enhver som går over til de mønstrede, fra tyve år og opefter, skal give JHVHs afgift.",
+      "number": 14,
+      "version": 1596837600000
+    },
+    {
+      "text": "Den rige skal ikke give mere, og den fattige skal ikke give mindre end den halve sekel når I giver JHVHs afgift for at sone for jeres sjæle.",
+      "number": 15,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal tage sonepengene fra Israels sønner og give dem til tjenesten ved forsamlingsteltet; og det skal bringe Israels sønner i erindring for JHVHs ansigt for at sone for jeres sjæle.«",
+      "title": "Forordning om bronzebækkenet",
+      "number": 16,
+      "version": 1596837600000
+    },
+    {
+      "text": "\fJHVH talte til Moses og sagde:",
+      "number": 17,
+      "version": 1596837600000
+    },
+    {
+      "text": "»Du skal lave et bækken af bronze og dets sokkel af bronze til at vaske sig i; og du skal sætte det mellem forsamlingsteltet og alteret og komme vand i det.",
+      "number": 18,
+      "version": 1596837600000
+    },
+    {
+      "text": "Aron og hans sønner skal vaske deres hænder og deres fødder deri.",
+      "number": 19,
+      "version": 1596837600000
+    },
+    {
+      "text": "Når de går ind i forsamlingsteltet skal de vaske sig med vand, så de ikke skal dø; eller når de nærmer sig alteret for at gøre tjeneste, for at bringe offer til JHVH.",
+      "number": 20,
+      "version": 1596837600000
+    },
+    {
+      "text": "De skal vaske deres hænder og deres fødder så de ikke skal dø; og det skal være en evig bestemmelse for dem, for ham og for hans efterkommere i deres generationer.«",
+      "title": "Forordning om salvningsolien",
+      "number": 21,
+      "version": 1596837600000
+    },
+    {
+      "text": "\fJHVH talte til Moses og sagde:",
+      "number": 22,
+      "version": 1596837600000
+    },
+    {
+      "text": "»Og du, tag dig de bedste vellugtende stoffer, af flydende myrra fem hundrede sekel, halvt så meget vellugtende kanelbark, to hundrede og halvtreds, og af vellugtende kalmus to hundrede og halvtreds,",
+      "number": 23,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »vellugtende stoffers hoved«.",
+          "type": "T",
+          "position": 46
+        },
+        {
+          "text": "»sekel« er her vægtenhed, ca. 16 g.",
+          "type": "E",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "og kassia, fem hundrede efter helligdommens sekel, og en hin olivenolie.",
+      "number": 24,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal lave det til en hellig salvningsolie, en krydret salveblanding som salvefremstillerens arbejde; det skal være en hellig salvningsolie.",
+      "number": 25,
+      "version": 1596837600000
+    },
+    {
+      "text": "Med den skal du salve forsamlingsteltet, Vidnesbyrdets ark,",
+      "number": 26,
+      "version": 1596837600000
+    },
+    {
+      "text": "bordet og alle dets redskaber, lysestagen og dens redskaber, røgelsesofferalteret,",
+      "number": 27,
+      "version": 1596837600000
+    },
+    {
+      "text": "brændofferalteret og alle dets redskaber og bækkenet med dets sokkel.",
+      "number": 28,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal hellige dem, så de bliver højhellige; enhver den som rører ved dem, bliver hellig.",
+      "number": 29,
+      "version": 1596837600000
+    },
+    {
+      "text": "Aron og hans sønner skal du salve, og du skal hellige dem til at gøre præstetjeneste for mig.",
+      "number": 30,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og til Israels børn skal du tale og sige: ›Hellig salvelsesolie skal dette være for mig i jeres generationer.",
+      "number": 31,
+      "version": 1596837600000
+    },
+    {
+      "text": "Den må ikke hældes ud over menneskekrop, og I må ikke lave nogen anden efter dens blandingsforhold; den er hellig, den skal være hellig for jer.",
+      "number": 32,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »menneskekød«.",
+          "type": "T",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "Det menneske som blander salve som den, eller som lader noget deraf komme på en fremmed, han skal udryddes fra sit folk.‹«",
+      "title": "Forordning om røgelsen",
+      "number": 33,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske *zār* kan både være betegnelse for en uindviet/uvedkommende/lægmand og for en ikke-israelit.",
+          "type": "T",
+          "position": 88
+        }
+      ]
+    },
+    {
+      "text": "\fOg JHVH sagde til Moses: »Tag dig velduftende stoffer: stakte-dråber og mollusk-pulver og galban-gummi, velduftende stoffer og ren røgelse; der skal være lige meget af hvert.",
+      "number": 34,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske *sammîm* (»velduftende stoffer«) er omdiskuteret på dette sted; de nævnte stoffer er ikke alle velduftende. Nogle oversættere foreslår det neutrale: »krydderier«.",
+          "type": "T",
+          "position": 55
+        },
+        {
+          "text": "Ordret: »del og del skal det være«.",
+          "type": "T",
+          "position": 175
+        }
+      ]
+    },
+    {
+      "text": "Du skal lave det til en krydret røgelse som salvefremstillerens arbejde; saltet, ren og hellig.",
+      "number": 35,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal støde noget af det til pulver og lægge noget af det foran Vidnesbyrdet i forsamlingsteltet, dér hvor jeg vil åbenbare mig for dig; det skal være højhelligt for jer.",
+      "number": 36,
+      "version": 1596837600000
+    },
+    {
+      "text": "Den røgelse som du laver efter dette forhold, må I ikke lave til jer selv; I skal regne den hellig for JHVH.",
+      "number": 37,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hellig skal den være for jer for JHVH«",
+          "type": "E",
+          "position": 108
+        }
+      ]
+    },
+    {
+      "text": "Et menneske som laver noget som det for at nyde duften af det, skal udryddes af sit folk.«",
+      "number": 38,
+      "version": 1596837600000
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "book": "Johannesevangeliet",
+  "abbreviation": "Joh",
+  "chapter": 1,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDette er Johannes' vidnesbyrd da jøderne fra Jerusalem sendte præster og levitter ud for at de skulle spørge ham: »Hvem er du?«",
+      "number": 19,
+      "version": 1639004400000,
+      "footnotes": [
+        {
+          "text": "Det græske ord her går i Johannesevangeliet oftest på de jødiske ledere.",
+          "type": "T",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "Da bekendte han og nægtede ikke; han bekendte: »Jeg er ikke Kristus.«",
+      "number": 20,
+      "version": 1639004400000
+    },
+    {
+      "text": "De spurgte ham: »Hvad da? Er du Elias?« Han sagde: »Det er jeg ikke.« »Er du Profeten?« Og han svarede: »Nej.«",
+      "number": 21,
+      "version": 1639004400000
+    },
+    {
+      "text": "Da sagde de til ham: »Hvem er du? For at vi kan give dem som har udsendt os, et svar; hvad siger du om dig selv?«",
+      "number": 22,
+      "version": 1639004400000
+    },
+    {
+      "text": "Han sagde: »Jeg er en røst af en som råber i ørkenen: Jævn Herrens vej, som profeten Esajas har sagt.«",
+      "number": 23,
+      "version": 1639004400000
+    },
+    {
+      "text": "De var udsendt fra farisæerne,",
+      "number": 24,
+      "version": 1639004400000
+    },
+    {
+      "text": "og de spurgte ham: »Hvorfor døber du da, hvis du ikke er Kristus eller Elias eller Profeten?«",
+      "number": 25,
+      "version": 1639004400000
+    },
+    {
+      "text": "Johannes svarede dem: »Jeg døber med vand; midt iblandt jer står den I ikke kender,",
+      "number": 26,
+      "version": 1639004400000
+    },
+    {
+      "text": "han som kommer efter mig, hvis skorem jeg ikke er værdig at løse.«",
+      "number": 27,
+      "version": 1639004400000
+    },
+    {
+      "text": "Dette skete i Betania på den anden side af Jordan, hvor Johannes døbte.",
+      "number": 28,
+      "version": 1639004400000
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "book": "Første Mosebog",
+  "abbreviation": "1Mos",
+  "chapter": 12,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJHVH sagde til Abram: »Drag ud af dit land og fra din slægt og din fars hus til det land som jeg vil vise dig.",
+      "number": 1,
+      "version": 1639954800000
+    },
+    {
+      "text": "Og jeg vil gøre dig til et stort folk og velsigne dig og gøre dit navn stort, og du skal være en velsignelse.",
+      "number": 2,
+      "version": 1639954800000
+    },
+    {
+      "text": "Jeg vil velsigne dem som velsigner dig, og den som forbander dig, vil jeg forbande; og i dig skal alle slægter på jorden velsignes.",
+      "number": 3,
+      "version": 1639954800000,
+      "footnotes": [
+        {
+          "text": "Der bruges her to forskellige hebraiske ord for »forbande«. Det første kan oversættes med »ringeagte« eller »erklærer for forbandet«.",
+          "type": "T",
+          "position": 83
+        },
+        {
+          "text": "Kan også oversættes: »og ved dig skal alle jordens slægter velsigne sig«.",
+          "type": "T",
+          "position": 131
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "book": "Jobs Bog",
+  "abbreviation": "Job",
+  "chapter": 38,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen og Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJHVH svarede Job ud af stormen og sagde:",
+      "title": "Gud åbenbares for Job og straffer hans formastelige tale.",
+      "number": 1,
+      "version": 1642633200000
+    },
+    {
+      "text": "»Hvem er den som formørker rådgivning med ord uden forstand?",
+      "number": 2,
+      "version": 1642633200000
+    },
+    {
+      "text": "Gør dig klar til handling som en mand, så vil jeg spørge dig, og du skal undervise mig!",
+      "title": "Gud forholder Job sine store og forfærdelige gerninger ved skabelse, forsyn og regering i himmel, luft, jord og hav, gerninger som Job ikke ville kunne fatte. Herved vil Gud føre ham til ydmyghed og til at erkende sin ubetænksomhed ved at dømme Guds gerninger.",
+      "number": 3,
+      "version": 1642633200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Bind op om dine lænder.«",
+          "type": "T",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "\fHvor var du da jeg lagde jordens fundament? Sig frem, hvis du har indsigt.",
+      "number": 4,
+      "version": 1642633200000
+    },
+    {
+      "text": "Hvem har sat målene for den så du forstår det? Hvem spændte snoren ud over den?",
+      "number": 5,
+      "version": 1642633200000
+    },
+    {
+      "text": "Hvad er dens piller sænket ned på? Eller hvem har lagt dens hjørnesten",
+      "number": 6,
+      "version": 1642633200000
+    },
+    {
+      "text": "dengang morgenstjernerne sang i flok, og alle Guds børn råbte af glæde?",
+      "number": 7,
+      "version": 1642633200000,
+      "footnotes": [
+        {
+          "text": "På hebraisk: »sønner«",
+          "type": "T",
+          "position": 55
+        }
+      ]
+    },
+    {
+      "text": "Og hvem lukkede for havet med døre da det vældede ud af moderlivet,",
+      "number": 8,
+      "version": 1642633200000
+    },
+    {
+      "text": "dengang jeg gjorde skyen til dets klædning og tæt mørke til dets svøb,",
+      "number": 9,
+      "version": 1642633200000
+    },
+    {
+      "text": "da jeg afstak min grænse for det og satte portslå og døre i",
+      "number": 10,
+      "version": 1642633200000
+    },
+    {
+      "text": "og sagde: ›Hertil skal du komme og ikke længere. Her skal der være sat grænse for dine stolte bølger‹?",
+      "number": 11,
+      "version": 1642633200000
+    },
+    {
+      "text": "Har du i dine dage givet befaling til morgenen? Har du forstået morgenrødens sted",
+      "number": 12,
+      "version": 1642633200000
+    },
+    {
+      "text": "så du kan gribe fat i jordens hjørner og så ryste de ugudelige bort fra den.",
+      "number": 13,
+      "version": 1642633200000
+    },
+    {
+      "text": "Den forvandles ligesom det ler et segl trykkes ned i, eller som tøj der afslører formerne.",
+      "number": 14,
+      "version": 1642633200000,
+      "footnotes": [
+        {
+          "text": "Teksten er usikker og uklar. Meningen er måske: »dens konturer er iøjnefaldende som en klædning«. Ofte retter man den hebraiske tekst (*yitᵊyaṣṣᵊvû* til: *wᵊtiṣṣāvaʕ*): »så den farves (som en klædning)«.",
+          "type": "E",
+          "position": 90
+        }
+      ]
+    },
+    {
+      "text": "De ugudelige fratages deres lys, og en løftet arm sønderbrydes.",
+      "number": 15,
+      "version": 1642633200000
+    },
+    {
+      "text": "Er du kommet til havets kilder? Og har du vandret på verdenshavets bund?",
+      "number": 16,
+      "version": 1642633200000
+    },
+    {
+      "text": "Har dødens porte vist sig for dig? Eller ser du det dybe mørkes port?",
+      "number": 17,
+      "version": 1642633200000
+    },
+    {
+      "text": "Har du indsigt i jordens bredde? Fortæl det hvis du kender det alt sammen!",
+      "number": 18,
+      "version": 1642633200000
+    },
+    {
+      "text": "Hvor er vejen til der hvor lyset bor, og mørke – hvor er dets sted,",
+      "number": 19,
+      "version": 1642633200000
+    },
+    {
+      "text": "så du kan bringe det til dets område, og så du kan kende stierne til dets hus?",
+      "number": 20,
+      "version": 1642633200000,
+      "footnotes": [
+        {
+          "text": "Undertiden foreslås en rettelse i vokaliseringen af den hebraiske tekst: *tāvîn* (»du kan kende«) til: *tᵊvîjænnu*: »du kan føre til«.",
+          "type": "E",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "Du ved det, for du blev født den gang, og dine dages tal er stort!",
+      "number": 21,
+      "version": 1642633200000,
+      "footnotes": [
+        {
+          "text": "Kan også opfattes som spørgsmål: »Ved du det?«",
+          "type": "T",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "text": "Er du kommet til sneens forrådskamre, eller har du set haglenes forrådskamre,",
+      "number": 22,
+      "version": 1642633200000
+    },
+    {
+      "text": "som jeg har gemt til trængselstider, til stridens og krigens dag?",
+      "number": 23,
+      "version": 1642633200000
+    },
+    {
+      "text": "Hvor er den vej hvor lyset deler sig, hvor østenvinden spreder sig over jorden?",
+      "number": 24,
+      "version": 1642633200000
+    },
+    {
+      "text": "Hvem lavede kanal til regnskyl og vej for tordensky",
+      "number": 25,
+      "version": 1642633200000
+    },
+    {
+      "text": "for at lade det regne på land hvor der ingen er, i ørken hvor intet menneske er,",
+      "number": 26,
+      "version": 1642633200000
+    },
+    {
+      "text": "for at mætte øde og ødelagt land og få græsset til at spire frem?",
+      "number": 27,
+      "version": 1642633200000
+    },
+    {
+      "text": "Har regnen en far? Eller hvem har avlet duggens dråber?",
+      "number": 28,
+      "version": 1642633200000
+    },
+    {
+      "text": "Fra hvis moderliv er hagl kommet ud? Og rimfrosten fra himlen – hvem fødte den?",
+      "number": 29,
+      "version": 1642633200000
+    },
+    {
+      "text": "Vandet skjuler sig som om det var en sten, og verdensdybets overflade lukkes til.",
+      "number": 30,
+      "version": 1642633200000,
+      "footnotes": [
+        {
+          "text": "Ofte går man ud fra, at der i stedet for: *yitḥabbāʔû*(»skjuler sig«) skulle stå: *yitḥabbārû*: »stivner (som en sten)«",
+          "type": "E",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "Kan du binde Syvstjernens lænker eller løse Orions reb?",
+      "number": 31,
+      "version": 1642633200000
+    },
+    {
+      "text": "Kan du lade Venus komme frem til dens tid? Eller føre Storebjørn med dens unger frem?",
+      "number": 32,
+      "version": 1642633200000,
+      "footnotes": [
+        {
+          "text": "Det er omdiskuteret og usikkert hvad der er tænkt på med ordet: *mazzārôt*. Man følger oftest Septuagintas forslag »Lucifer«, der er et andet navn for »Venus«. Andre oversætter det: »Dyrekredsens stjerner« eller generelt: »stjernebilleder«.",
+          "type": "T",
+          "position": 17
+        },
+        {
+          "text": "Andre oversætter: »Løven« eller: »Aldebaran«.",
+          "type": "T",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "text": "Kender du himlens love? Eller kan du bestemme dens herredømme over jorden?",
+      "number": 33,
+      "version": 1642633200000
+    },
+    {
+      "text": "Kan du hæve din stemme til skyerne så vandmasserne dækker dig?",
+      "number": 34,
+      "version": 1642633200000
+    },
+    {
+      "text": "Kan du sende lynene ud så de farer frem, så de siger til dig: ›Se, her er vi‹?",
+      "number": 35,
+      "version": 1642633200000
+    },
+    {
+      "text": "Hvem lagde visdom i hjertets inderste? Eller hvem gav forstand i tanken?",
+      "number": 36,
+      "version": 1642633200000,
+      "footnotes": [
+        {
+          "text": "Betydningen af det hebraiske ord: *ṭuḥôt* er usikker og omdiskuteret. Andre oversætter med: »ibisfuglen « eller: »sorte skyer«.",
+          "type": "T",
+          "position": 37
+        },
+        {
+          "text": "Betydningen af det hebraiske ord: *śexwî* er usikker og omdiskuteret. Andre oversætter: »sindet« eller »hjertet« eller »tågen« eller »hanen«.",
+          "type": "T",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "Hvem kan tælle skyerne med visdom? Og himlens vandsække – hvem tømmer dem",
+      "number": 37,
+      "version": 1642633200000
+    },
+    {
+      "text": "når støv flyder sammen til en hård masse, og jordknolde hænger sammen?",
+      "number": 38,
+      "version": 1642633200000
+    },
+    {
+      "text": "\fJager du bytte til en hunløve og mætter de grådige løveunger",
+      "number": 39,
+      "version": 1642633200000
+    },
+    {
+      "text": "når de gemmer sig i deres huler eller ligger på lur i buskadset?",
+      "number": 40,
+      "version": 1642633200000
+    },
+    {
+      "text": "Hvem skaffer ravnen dens føde når dens unger skriger til Gud, når de flakker rundt uden føde?",
+      "number": 41,
+      "version": 1642633200000
+    }
+  ]
+}

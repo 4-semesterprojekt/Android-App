@@ -1,0 +1,168 @@
+{
+  "book": "Nahums Bog",
+  "abbreviation": "Nah",
+  "chapter": 1,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fProfeti imod Nineve. Bogen med elkoshitten Nahums syn.\n\n",
+      "title": "JHVHs vrede mod syndere og trofasthed mod de troende",
+      "number": 1,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fJHVH er en lidenskabelig og hævnende Gud,\fJHVH er en hævner og fuld af vrede.\fJHVH er en hævner mod sine modstandere,\fog han bliver ved med at være vred på sine fjender.",
+      "number": 2,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Ordret »vredens herre«.",
+          "type": "T",
+          "position": 78
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH er sen til vrede, men stor i kraft,\fog JHVH lader ikke skyld forblive ustraffet.\fI hvirvelvind og storm er hans vej;\fskyer er hans fødders støv.",
+      "number": 3,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fHan truer havet, udtørrer det og gør alle floderne tørre.\fBashan og Karmel visner, Libanons blomster visner.",
+      "number": 4,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes med »kilderne« eller »strømmene«.",
+          "type": "T",
+          "position": 51
+        }
+      ]
+    },
+    {
+      "text": "\fBjergene skælver for ham,\fog højene smelter.\fJorden ligger øde foran ham,\fjorden og alle som bor derpå.",
+      "number": 5,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "En anden mulighed er at oversætte med »Jorden hæver sig«. Den eneste forskel er om det hebraiske verbum er med *shin* (*nšˀ* = »ligger øde«) eller *sin* (*nśˀ* = »hæver«). Den masoretiske tekst vælger sidste løsning, mens Vulgata og Peshitta vælger første løsning. Problemet med »hæver« er at der ikke er noget objekt i sætningen.",
+          "type": "E",
+          "position": 63
+        }
+      ]
+    },
+    {
+      "text": "\fHvem kan holde stand mod hans harme?\fHvem kan stille sig op mod hans brændende vrede?\fHans vrede udspyes som ild,\fog klipperne knuses foran ham.",
+      "number": 6,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Ordret »udgydes« eller »hældes ud«.",
+          "type": "T",
+          "position": 105
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH er god, et tilflugtssted på nødens dag,\fog han kender dem som søger tilflugt hos ham.",
+      "number": 7,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord *yadaʕ* udtrykker et intimt forhold mellem Gud og dem som søger tilflugt hos ham. Oversættelsen kunne derfor også lyde »han tager sig af«.",
+          "type": "E",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "\fMen med en oversvømmelse drager han forbi og gør ende på dens sted;\fmørke skal forfølge hans fjender.",
+      "title": "JHVHs dom over Nineve",
+      "number": 8,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Sidste del af verset kan også oversættes med »han skal forfølge sine fjender ind i mørket« eller »med mørke«.",
+          "type": "E",
+          "position": 102
+        }
+      ]
+    },
+    {
+      "text": "\fHvad udtænker I mod JHVH?\fHan bringer tilintetgørelse;\fnøden skal ikke komme to gange.",
+      "number": 9,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fFor de filtres sammen til tjørnebuske\fog beruses som drankere.\fDe fortæres fuldstændigt som tørt strå.",
+      "number": 10,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fFra dig udgik han som udtænkte ondt imod JHVH\fog lagde ondskabsfulde planer.",
+      "number": 11,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Dvs. fra Nineve.",
+          "type": "T",
+          "position": 8
+        },
+        {
+          "text": "Måske assyrerkongen Sankerib. 2 Kong 18,13; jf. Nah 2,1b.",
+          "type": "T",
+          "position": 18
+        }
+      ]
+    },
+    {
+      "text": "\fSåledes siger JHVH:\fSelvom de er usvækkede og mange, skal de dog mejes ned og forsvinde.\fSelvom jeg har plaget dig, vil jeg ikke plage dig længere.",
+      "number": 12,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Grundteksten er vanskeligt at tyde i dette vers.",
+          "type": "E",
+          "position": 89
+        },
+        {
+          "text": "Nemlig Jerusalem. 2 Kong 19,35ff.",
+          "type": "T",
+          "position": 116
+        }
+      ]
+    },
+    {
+      "text": "\fMen nu vil jeg bryde hans åg af dig,\fog dine bånd vil jeg rive i stykker.",
+      "number": 13,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fJHVH har bebudet om dig at der ikke længere skal være afkom af dit navn.\fJeg vil udrydde det udskårne og støbte billede fra dine guders hus;\fjeg vil berede din grav, for du er fundet for let.",
+      "number": 14,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Dvs. Nineves Konge. 2 Kong 19,37.",
+          "type": "T",
+          "position": 24
+        },
+        {
+          "text": "Dvs. fra Nineves konges tempel.",
+          "type": "T",
+          "position": 141
+        }
+      ]
+    }
+  ]
+}

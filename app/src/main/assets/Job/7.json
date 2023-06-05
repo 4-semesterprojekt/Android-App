@@ -1,0 +1,194 @@
+{
+  "book": "Jobs bog",
+  "abbreviation": "Job",
+  "chapter": 7,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Lydia Nørrelykke Gad",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEr et menneskes liv på jorden ikke en krigstjeneste\f\n\t\t\t\tog hans dage som en lejesoldats dage?",
+      "title": "Job klager over sit livs elendighed",
+      "number": 1,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "»liv« er tilføjet.",
+          "type": "T",
+          "position": 21
+        },
+        {
+          "text": "Ordret: »hærskare«.",
+          "type": "T",
+          "position": 53
+        },
+        {
+          "text": "Ordret: »lejet, hyret«.",
+          "type": "T",
+          "position": 90
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tSom en arbejder\n\t\t\t\t\t\tder længes efter skygge,\f\n\t\t\t\t\tog som en daglejer\n\t\t\t\t\t\tder venter på sin løn,",
+      "number": 2,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\tsådan har jeg arvet måneder af tomhed,\f\n\t\t\t\t\tog nætter i lidelse er blevet tildelt mig.",
+      "number": 3,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\tNår jeg lægger mig,\n\t\t\t\t\tsiger jeg:\f\n\t\t\t\t\t\t»Hvornår skal jeg stå op?«\n\t\t\t\tNatten bliver lang\f\n\t\t\t\t\tog jeg er så træt af at vende og dreje mig til daggry.",
+      "number": 4,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\tMin krop er dækket af maddiker og tørre skorper,\f\n\t\t\t\tmin hud sprækker\n\t\t\t\t\t\tog væsker.",
+      "number": 5,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »mit kød«",
+          "type": "T",
+          "position": 12
+        },
+        {
+          "text": "Ordret: »tør jord, støv«.",
+          "type": "T",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\tMine dage løber hurtigere end en væveskyttel,\f\n\t\t\t\t\t\tog de svinder hen uden håb.",
+      "title": "Job klager til Gud",
+      "number": 6,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\tHusk på\n\t\t\t\t\tat mit liv er som et åndepust,\f\n\t\t\t\tmit øje får ikke det der er godt, at se mere.",
+      "number": 7,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Det betyder her glæden, lykken.",
+          "type": "T",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\tØjet der ser mig, ser mig ikke igen.\n\t\t\t\t\t\t\f\n\t\t\tSøger dine øjne efter mig,\n\t\t\t\t\ter jeg der ikke.",
+      "number": 8,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\tSkyer opløses\n\t\t\t\t\t\tog forsvinder,\f\n\t\t\t\t\tsådan er det også\n\t\t\t\t\t\t\t\tfor den der går ned i dødsriget,\n\t\t\t\t\t\t\than kommer ikke op igen.",
+      "number": 9,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tHan vender ikke mere tilbage til sit hus,\f\n\t\t\t\t\t\t\tog hans sted genkender ham ikke længere.",
+      "number": 10,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\tJeg vil heller ikke lægge bånd på min mund,\f\n\t\t\t\t\t\tlad mig tale ud af min ånds lidelse,\f\n\t\t\t\t\t\tlad mig klage i min sjæls bitterhed!",
+      "title": "Livet er uudholdeligt og Job ønsker at dø",
+      "number": 11,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Kan her også oversættes med »tale«.",
+          "type": "T",
+          "position": 111
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\tEr jeg et hav\n\t\t\t\t\t\t\teller et havuhyre,\f\n\t\t\t\t\t\tsiden du har anbragt en vagt over mig?",
+      "number": 12,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\tNår jeg siger:\n\t\t\t\t\t\t\t»Min seng skal trøste mig,\f\n\t\t\t\t\t\t\t\tmit leje hjælpe med at bære min sorg,«",
+      "number": 13,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tså forfærdes jeg af drømme,\f\n\t\t\t\t\t\t\tog syner skræmmer mig.",
+      "number": 14,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\t\tMin sjæl foretrækker kvælning,\f\n\t\t\t\t\t\thellere døden end mine pinsler.",
+      "number": 15,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\tJeg foragter mig selv,\n\t\t\t\tjeg vil ikke leve evigt.\f\n\t»Lad mig være,\n\t\t\t\t\tfor mine dage er tomhed!«",
+      "number": 16,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes »forkaster«, samme verbum anvendt i Am 5.21, Es 33.8.",
+          "type": "T",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\tHvad er et menneske\n\t\t\t\t\tat du agter ham højt\f\n\t\t\t\t\t\t\tnår du retter din opmærksomhed  mod ham?",
+      "number": 17,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tDu hjemsøger ham hver morgen,\f\n\t\t\t\t\t\t\tdu prøver ham hvert et øjeblik.",
+      "number": 18,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "I betydningen »undersøge, granske«, Sl 139.23.",
+          "type": "T",
+          "position": 54
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tHvor længe vil du ikke vende dit blik fra mig,\f\n\t\t\t\t\t\tikke lade mig alene\n\t\t\t\t\tindtil jeg har slugt mit spyt?",
+      "number": 19,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Meningen er »for en meget kort tid«.",
+          "type": "T",
+          "position": 113
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\tHar jeg syndet,\n\t\t\t\t\thvad kan det gøre dig,\f\n\t\t\t\t\t\t\t\tdu, menneskets vogter?\f\n\t\t\t\t\t\t\tHvorfor har du gjort mig til skydeskive for dig?\f\n\t\t\t\t\t\t\t\tJeg er blevet en byrde for mig selv.",
+      "number": 20,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tHvorfor tilgiver du mig ikke min synd\f\n\t\t\t\t\t\t\tog fjerner min skyld?\f\n\t\tFor nu vil jeg lægge mig i støvet,\f\n\t\t\tog søger du mig,\n\t\t\t\ter jeg ikke mere.«",
+      "number": 21,
+      "version": 1681336800000
+    }
+  ]
+}

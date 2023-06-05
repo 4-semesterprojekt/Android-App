@@ -1,0 +1,70 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 125,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fValfartssang.\fDe som stoler på JHVH,\fer som Zions bjerg,\fder ikke rokkes, der består til evig tid.",
+      "title": "Tillid til JHVHs omsorg",
+      "number": 1,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "\fJerusalem – der er bjerge omkring den,\fog JHVH er omkring sit folk\ffra nu af og til evig tid.",
+      "number": 2,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »omkring hende«.",
+          "type": "T",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "\fFor uretfærdighedens scepter skal ikke hvile\fover de retfærdiges arvelod\ffor at de retfærdige ikke skal række\fderes hænder til uretfærdighed.",
+      "title": "Bøn",
+      "number": 3,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »ugudelighedens«",
+          "type": "T",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fGør vel, JHVHv, mod de gode\fog mod dem der er oprigtige i deres hjerter.",
+      "number": 4,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fMen dem som slår ind på deres krogede veje,\fskal JHVH lade fare bort med dem som begår synd.\fFred over Israel!",
+      "number": 5,
+      "version": 1504476000000
+    }
+  ]
+}

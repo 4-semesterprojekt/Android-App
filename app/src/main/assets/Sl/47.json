@@ -1,0 +1,119 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 47,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\fAf Koras sønner. En salme.",
+      "title": "Lovprisning af den sejrende Gud",
+      "number": 1,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fAlle folkeslag, klap i hænderne,\fjubel for Gud med frydefuld røst.",
+      "number": 2,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har blot: »klap hånd«.",
+          "type": "T",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\fFor JHVH, den Højeste, er frygtindgydende,\fen stor konge over hele jorden.",
+      "number": 3,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fHan lægger folk under os,\fja, nationer under vore fødder.",
+      "number": 4,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fHan udvælger vor arvelod til os,\fJakobs stolthed, som han elsker. Sela",
+      "title": "Lovprisningen af den almægtige konge",
+      "number": 5,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 71
+        }
+      ]
+    },
+    {
+      "text": "\fGud er draget op under jubelråb,\fJHVH til hornklang.",
+      "number": 6,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fSyng for Gud, syng!\fSyng for vor konge, syng!",
+      "number": 7,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fFor Gud er hele jordens konge,\fsyng en maskil!",
+      "number": 8,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Se note til overskriften til Sl 45. Her ofte oversat »hyldestsang«.",
+          "type": "T",
+          "position": 47
+        }
+      ]
+    },
+    {
+      "text": "\fGud er blevet konge over folkeslagene,\fGud har taget sæde på sin hellige trone.",
+      "number": 9,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fFolkenes fyrster er samlet,\fAbrahams Guds folk,\ffor jordens skjolde tilhører Gud,\fhøjt ophøjet.",
+      "number": 10,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »fornemme«.",
+          "type": "T",
+          "position": 17
+        },
+        {
+          "text": "Linjen begynder på hebraisk med ordet: *ʕam* (»folk«) der har samme konsonanter som ordet: *ʕim* (»med«). De fleste oversættere går ud fra at *ʕim* må være bortfaldet ved haplografi, så der skulle stå: *ʕim ʕam*: »med Abrahams Guds fok«.",
+          "type": "E",
+          "position": 48
+        },
+        {
+          "text": "I stedet for *māginnê-* (»skjolde«) har bl.a. Septuaginta enten forstået ordet billedligt som »herskere« eller har evt. læst *signê-*: »herskere«. Det er den almindeligste – men ikke enerådende – gengivelse i nyere oversættelser.",
+          "type": "E",
+          "position": 68
+        }
+      ]
+    }
+  ]
+}

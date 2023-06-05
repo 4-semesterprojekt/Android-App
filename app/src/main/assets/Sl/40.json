@@ -1,0 +1,149 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 40,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\fSalme af David.",
+      "title": "Lovprisning og taksigelse",
+      "number": 1,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fJeg har håbet fast på JHVH,\fog han bøjede sig til mig og hørte mit skrig om hjælp.",
+      "number": 2,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fOg han trak mig op af undergangens grav,\faf det skidne dynd,\fog han satte mine fødder på en klippe,\fhan gjorde mine skridt faste.",
+      "number": 3,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Andre oversætter: »brusende«",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fOg han lagde en ny sang i min mund,\fen lovsang til vor Gud.\fMange skal se og frygte,\fog de skal stole på JHVH.",
+      "number": 4,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fSalig den mand som har sat sin tillid til JHVH\fog ikke vender sig til hovmodige\fog til dem som er viklet ind i løgn.",
+      "number": 5,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fStore ting har du gjort, du,\fJHVHv, min Gud, dine undere\fog dine tanker for os –\fingen kan sammenlignes med dig.\fLad mig forkynde og tale:\f»De er flere, end man kan tælle«.",
+      "number": 6,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "De to verber i korhortativ kunne også oversættes: »hvis jeg ville forkynde og tale, så er de flere …«",
+          "type": "E",
+          "position": 139
+        }
+      ]
+    },
+    {
+      "text": "\fSlagtoffer og afgrødeoffer har du ikke lyst til,\f- du har gravet ører til mig -\fbrændoffer og syndoffer har du ikke fordret.",
+      "number": 7,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Sætningen er dunkel. Men meningen kan være, at Gud har givet den lydhørhed han ønsker frem for ofre",
+          "type": "T",
+          "position": 78
+        }
+      ]
+    },
+    {
+      "text": "\fDa sagde jeg: »Se, jeg er kommet.\fI bogrullen er der skrevet om mig.",
+      "number": 8,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fJeg har lyst til at gøre din vilje, min Gud,\fog din lov er midt i mit indre.«",
+      "number": 9,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "lov",
+          "type": "N",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fJeg har forkyndt godt budskab om retfærdighed\fi en stor forsamling,\fse, jeg vil ikke lukke mine læber,\fJHVHv, det ved du.",
+      "number": 10,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fJeg har ikke skjult din retfærdighed\finde i mit hjerte,\fjeg har talt om din trofasthed og din frelse,\fjeg har ikke fortiet din nåde og din sandhed\ffor en stor forsamling.",
+      "title": "Klage og bøn",
+      "number": 11,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDu, JHVH! vil ikke holde din barmhjertighed tilbage fra mig,\fdin nåde og din sandhed vil altid beskytte mig.",
+      "number": 12,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fFor ulykker har omspændt mig,\fså der intet tal er derpå,\fmine synder har indhentet mig,\fså jeg ikke kan se;\fde er flere end hårene på mit hoved,\fog mit hjerte har forladt mig.",
+      "number": 13,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fVær nådig, JHVHv, og red mig,\fJHVHv, skynd dig til hjælp for mig.",
+      "number": 14,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fLad alle dem blive til skam og spot\fsom efterstræber min sjæl for at udrydde den,\flad dem vige tilbage og blive til skamme,\fde som vil mig ondt.",
+      "number": 15,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fLad dem forfærdes som løn for deres skændsel,\fde som siger til mig: »Ha, ha!«",
+      "number": 16,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fLad dem frydes og glædes i dig,\falle som søger dig;\fde skal altid sige: »JHVH viser sin storhed!«\fde som elsker din frelse.",
+      "number": 17,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fSelv om jeg er hjælpeløs og fattig,\fvil Herren tænke på mig.\fMin hjælper og befrier er du;\fmin Gud! tøv ikke!",
+      "number": 18,
+      "version": 1457218800000
+    }
+  ]
+}

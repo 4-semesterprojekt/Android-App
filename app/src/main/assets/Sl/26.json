@@ -1,0 +1,120 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 26,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAf David.\fSkaf mig ret, JHVHv,\ffor jeg har vandret i min uskyld,\fog på JHVH har jeg stolet,\fjeg skal ikke vakle.",
+      "title": "Bøn om hjælp",
+      "number": 1,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »Døm mig« i betydningen: »Bedøm mig« parallelt med vers 2.",
+          "type": "T",
+          "position": 24
+        },
+        {
+          "text": "Kan også oversættes: »uden at vakle«.",
+          "type": "T",
+          "position": 113
+        }
+      ]
+    },
+    {
+      "text": "\fPrøv mig, JHVHv, og test mig,\fransag mine nyrer og mit hjerte.",
+      "title": "David søger ikke venskab med onde",
+      "number": 2,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »prøv ved at smelte « (som metalsmelteren).",
+          "type": "T",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "\fFor din nåde har jeg for mine øjne,\fog jeg har vandret i din sandhed.",
+      "number": 3,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "text": "\fJeg har ikke siddet hos løgnagtige mænd,\fog jeg vil ikke komme hos lumske.",
+      "number": 4,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fJeg har hadet ugerningsmænds forsamling,\fog hos ugudelige vil jeg ikke sidde.",
+      "title": "David længes kun efter at være Gud nær",
+      "number": 5,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fJeg vil vaske mine hænder i uskyld,\fog jeg vil gå omkring dit alter, JHVHv,",
+      "number": 6,
+      "version": 1457218800000
+    },
+    {
+      "text": "\ffor at lade taksigelses røst lyde,\fog for at fortælle om alle dine undere.",
+      "number": 7,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Konsonantteksten forudsætter nok qal inf. *lišmoₐʕ*: »høre« (»for at høre lyden af …«), men masoreterne har foreslået vokalisering som (forkortet) hif’il inf.: *lašmiₐʕ* (som oversættelsen her).",
+          "type": "E",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv, jeg elsker dit hus’ bo\fog stedet for din herligheds bolig.",
+      "title": "Ny bøn om hjælp",
+      "number": 8,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fRiv ikke min sjæl bort med syndere,\feller mit liv med blodtørstige folk",
+      "number": 9,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fi hvis hænder der er skændsel,\fog hvis højre hånd er fuld af bestikkelse.",
+      "number": 10,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fMen jeg vil vandre i min uskyld,\fforløs mig og vær mig nådig!",
+      "title": "Vished om Guds hjælp",
+      "number": 11,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fMin fod har stået på fast grund,\fi forsamlinger vil jeg prise JHVH.",
+      "number": 12,
+      "version": 1457218800000
+    }
+  ]
+}

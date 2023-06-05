@@ -1,0 +1,120 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 52,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\fMaskil af David.",
+      "title": "Overskrift",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        },
+        {
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt« idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
+          "position": 23
+        }
+      ]
+    },
+    {
+      "text": "\fDengang edomiten Do’eg kom og fortalte Saul: David er kommet til Akimeleks hus.",
+      "title": "Profetiske trusselsord",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »fortalte Saul og sagde til ham:«.",
+          "type": "T",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fHvorfor roser du dig af ondskab, du stærke?\fGuds nåde varer hele dagen.",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Der kunne også oversættes: »du helt« der må opfattes ironisk spottende.",
+          "type": "T",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\fDu planlægger ondskab, din tunge er\fsom en hvæsset ragekniv,\fdu som begår svig!",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDu elskede ondt frem for godt,\fløgn frem for retfærdig tale. Sela",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "\fDu elskede alle fordærvelige ord,\fdu svigefulde tunge!",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDog, Gud skal ødelægge dig for evigt,\fhan skal snuppe dig op og udrydde dig af teltet,\frykke dig op med rode fra de levendes land. Sela",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Strengt taget står »telt« uden artikel. Der kan enten være tænkt på Guds »telt« (helligdommen) eller på den ondes eget. Det sidste afspejles i en del oversættelser: »dit telt«.",
+          "type": "T",
+          "position": 87
+        }
+      ]
+    },
+    {
+      "text": "\fOg de retfærdige skal se det og frygte,\fog de skal le ad ham:",
+      "number": 8,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fSe den mand, der ikke gør Gud til sit værn,\fmen forlader sig på sin store rigdom,\fføler sig stærk ved sin ondskab!",
+      "title": "Afsluttende vidnesbyrd og tak",
+      "number": 9,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMen jeg er som et grønt oliventræ i Guds hus,\fjeg har forladt mig på Guds nåde\ffor evigt og altid.",
+      "number": 10,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fJeg vil takke dig for evigt\ffor at du gjorde det.\fOg jeg vil håbe på dit navn\f- for det er godt –\fi nærvær af dine fromme.",
+      "number": 11,
+      "version": 1500242400000
+    }
+  ]
+}

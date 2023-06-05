@@ -1,0 +1,234 @@
+{
+  "book": "Jeremias' Bog",
+  "abbreviation": "Jer",
+  "chapter": 7,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDet ord som kom fra JHVH til Jeremias:",
+      "title": "Jeremias råder jøderne til at de skal omvende sig og ikke stole på deres hykleriske gudstjeneste, og forkynder at Jerusalem og templet skal ødelægges ligesom Shilo.",
+      "number": 1,
+      "version": 1494453600000
+    },
+    {
+      "text": "Stil dig i porten til JHVHs hus. Der skal du udråbe dette ord og sige: Hør JHVHs ord, hele Juda! I som går ind ad disse porte for at tilbede JHVH!",
+      "number": 2,
+      "version": 1494453600000
+    },
+    {
+      "text": "Således taler Hærskarers JHVHv, Israels Gud: Ret op på jeres veje og jeres gerninger, så vil jeg lade jer bo på dette sted.",
+      "number": 3,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Ordret »gør jeres veje og jeres gerninger gode«.",
+          "type": "T",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "I må ikke stole på løgnagtige ord, når de siger: »JHVHs tempel, JHVHs tempel, JHVHs tempel er her!«",
+      "number": 4,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "*hemmah* »er her« er vanskeligt at oversætte. Ordret betyder det »de«, og KJV oversætter det med »JHVHs tempel er disse«. DO92 udelader helt at oversætte det.",
+          "type": "E",
+          "position": 97
+        }
+      ]
+    },
+    {
+      "text": "Men hvis I virkelig retter op på jeres veje og jeres gerninger, og hvis I virkelig gør ret mellem en mand og hans næste,",
+      "number": 5,
+      "version": 1494453600000
+    },
+    {
+      "text": "og I lader være med at udnytte den fremmede, den faderløse og enken, og ikke udgyder uskyldigt blod på dette sted, og ikke følger andre guder til ulykke for jer selv,",
+      "number": 6,
+      "version": 1494453600000
+    },
+    {
+      "text": "da vil jeg lade jer bo på dette sted, i det land som jeg gav jeres fædre, fra evighed og til evighed.",
+      "number": 7,
+      "version": 1494453600000
+    },
+    {
+      "text": "Se, I stoler på løgnagtige ord, som intet gavner.",
+      "number": 8,
+      "version": 1494453600000
+    },
+    {
+      "text": "Skulle I stjæle, slå ihjel og bedrive hor og sværge falsk og tænde ild for Ba'al og følge fremmede guder som I ikke kender,",
+      "number": 9,
+      "version": 1494453600000
+    },
+    {
+      "text": "og så komme og stå for mit ansigt i dette hus som bærer mit navn, og sige: »Vi er frelst«, for så at kunne gøre alle disse afskyelige ting?",
+      "number": 10,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Ordret »som kaldes mit navn over det«.",
+          "type": "T",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "text": "Er dette hus som bærer mit navn, blevet en røverhule i jeres øjne? Ja, jeg har selv set det, siger JHVH.",
+      "number": 11,
+      "version": 1494453600000
+    },
+    {
+      "text": "Gå dog til mit sted som var i Shilo, hvor jeg lod mit navn bo i begyndelsen, og se hvad jeg har gjort ved det på grund af mit folk Israels ondskab.",
+      "number": 12,
+      "version": 1494453600000
+    },
+    {
+      "text": "Jeg talte til jer tidligt og ustandseligt, men I hørte ikke. Jeg kaldte på jer, men I svarede ikke. Så nu, siger Herren, fordi I gør alle disse gerninger,",
+      "number": 13,
+      "version": 1494453600000
+    },
+    {
+      "text": "vil jeg gøre det samme ved dette hus, som jeg har gjort ved Shilo; dette hus som bærer mit navn, og som I stoler på, det sted som jeg gav jer og jeres fædre..",
+      "number": 14,
+      "version": 1494453600000
+    },
+    {
+      "text": "Og jeg vil smide jer bort fra mit ansigt, ligesom jeg smed alle jeres brødre, alt Efraims afkom, bort.",
+      "title": "Profeten må ikke bede for dem på grund af deres alvorlige afgudsdyrkelse som er skyld i at landet skal ødelægges.",
+      "number": 15,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fOg du, du må ikke bede for dette folk og ikke opløfte klageskrig eller bøn for dem og ikke trænge ind på mig med forbøn, for jeg vil ikke høre dig.",
+      "number": 16,
+      "version": 1494453600000
+    },
+    {
+      "text": "Ser du ikke hvad de gør i Judas byer og på Jerusalems gader?",
+      "number": 17,
+      "version": 1494453600000
+    },
+    {
+      "text": "Børnene samler træ, og fædrene tænder ilden, og kvinderne ælter dej for at lave kager til himmelens dronning, og de udøser drikofre for andre guder for at fornærme mig.",
+      "number": 18,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes med »provokere«.",
+          "type": "T",
+          "position": 163
+        }
+      ]
+    },
+    {
+      "text": "Er det mig, de fornærmer? siger JHVH. Er det ikke sig selv, så de må skamme sig ved det?",
+      "number": 19,
+      "version": 1494453600000
+    },
+    {
+      "text": "Derfor siger den herre JHVH således: Se min vrede og min harme udøses over dette sted, over mennesker og over dyr og over markens træer og landets frugt, og den skal brænde og ikke gå ud.",
+      "title": "JHVH forkaster deres hykleriske offer og klager over deres store ulydighed mod alle profeternes taler.",
+      "number": 20,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fSåledes siger Hærskarers JHVHv, Israels Gud: Føj jeres brændofre til jeres slagtofre og spis kødet!",
+      "number": 21,
+      "version": 1494453600000
+    },
+    {
+      "text": "For jeg talte ikke med jeres fædre, og gav dem heller ikke befalinger den dag da jeg førte dem ud af Egyptens land, angående brændoffer og slagtoffer.",
+      "number": 22,
+      "version": 1494453600000
+    },
+    {
+      "text": "Men dette befalede jeg dem: Hør min røst, så vil jeg være jeres Gud, og I skal være mit folk, og I skal vandre på hele den vej jeg befaler jer, for at det må gå jer godt.",
+      "number": 23,
+      "version": 1494453600000
+    },
+    {
+      "text": "Men de hørte ikke og spidsede ikke ører, men de fulgte i deres onde hjerters stædighed deres egne råd, og de gik tilbage og ikke fremad.",
+      "number": 24,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Ordret »strakte ikke deres ører«.",
+          "type": "T",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "Fra den dag jeres fædre forlod Egyptens land, og indtil denne dag sendte jeg alle mine tjenere, profeterne, til jer dagligt, tidligt og ustandseligt.",
+      "number": 25,
+      "version": 1494453600000
+    },
+    {
+      "text": "Men de hørte mig ikke og spidsede ikke ører, men de gjorde deres nakke stiv. De var værre end deres fædre.",
+      "number": 26,
+      "version": 1494453600000
+    },
+    {
+      "text": "Og du skal sige alle disse ord til dem, men de skal ikke høre dig. Du skal kalde på dem, men de skal ikke svare dig.",
+      "number": 27,
+      "version": 1494453600000
+    },
+    {
+      "text": "Og du skal sige til dem: »Dette er det folk som ikke hører på JHVHs deres Guds røst og ikke tager imod opdragelse. Troskaben er gået til grunde og tilintetgjort fra deres mund.«",
+      "title": "JHVH byder dem at hyle og græde, for deres glæde skal vendes til sorg.",
+      "number": 28,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fKlip dit hår af og kast det bort. Opløft en dødsklage på de nøgne høje, for JHVH har forkastet og forladt den slægt som hans vrede er vendt imod.",
+      "number": 29,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Ordret »sin vredes slægt«.",
+          "type": "T",
+          "position": 145
+        }
+      ]
+    },
+    {
+      "text": "For Judas børn har handlet ondt i mine øjne, siger JHVH. De har sat deres afskyelige ting i det hus som bærer mit navn, så de har besmittet det.",
+      "number": 30,
+      "version": 1494453600000
+    },
+    {
+      "text": "Og de har bygget Tofets høje, som er i Ben-Hinnoms dal, for at brænde deres sønner og døtre i ilden. Det har jeg ikke befalet, og det er heller ikke faldet mig på sinde.",
+      "number": 31,
+      "version": 1494453600000
+    },
+    {
+      "text": "Derfor, se, de dage kommer, siger JHVH, hvor man ikke mere skal kalde det Tofet og Ben-Hinnoms dal, men Morderdalen. Og af mangel på plads skal de begrave i Tofet.",
+      "number": 32,
+      "version": 1494453600000
+    },
+    {
+      "text": "Og dette folks døde kroppe skal blive til føde for himmelens fugle og dyrene på jorden, og ingen skal skræmme dem bort.",
+      "number": 33,
+      "version": 1494453600000
+    },
+    {
+      "text": "Og jeg vil lade fryds og glædes stemme, brudgoms og bruds stemme ophøre i Judas byer og i Jerusalems gader, for landet skal blive til en ruin.",
+      "number": 34,
+      "version": 1494453600000
+    }
+  ]
+}

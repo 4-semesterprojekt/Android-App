@@ -1,0 +1,161 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 5,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard, Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Til fløjtespil. En Salme af David.",
+      "title": "Bøn om bønhørelse",
+      "number": 1,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 15
+        },
+        {
+          "text": "Lidt usikkert. Det kan evt. være en melodiangivelse.",
+          "type": "T",
+          "position": 31
+        }
+      ]
+    },
+    {
+      "text": "\fLyt til mine ord, JHVHv,\flæg mærke til min stønnen!",
+      "number": 2,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fHør mit råb om hjælp,\fmin konge og min Gud!\fFor til dig beder jeg.",
+      "number": 3,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fJHVHv! Hør min røst om morgenen!\fOm morgenen fremlægger jeg min bøn for dig - og spejder.",
+      "title": "De onde kan ikke bestå for Gud, men David stoler på Guds nåde imod ham",
+      "number": 4,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Verbet bruges i GT om at tilberede ofre, men kan i andre sammenhænge betyde »fremlægge«.",
+          "type": "E",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fFor du er ikke en Gud, der holder af ondskab,\fondt kan ikke bo hos dig.",
+      "number": 5,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fDe overmodige kan ikke træde frem for dine øjne!\fdu hader alle dem der begår synd.",
+      "number": 6,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Formodentlig er der tænkt på gudløse.",
+          "type": "T",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "\fDu udrydder dem der taler løgn.\fJHVH afskyr morderen og bedrageren.",
+      "number": 7,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »blodets mand«.",
+          "type": "T",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "\fMen jeg kan ved din store nåde komme til dit hus,\fjeg vil i ærefrygt bøje mig i bøn vendt mod dit hellige tempel\fi ærefrygt for dig.",
+      "title": "David beder for sig og for alle troende imod fjendernes ondskab",
+      "number": 8,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 31
+        },
+        {
+          "text": "Der er formodentlig tænkt på templets Allerhelligste, hvor pagtens ark stod. Kun ypperstepræsten måtte træde derind, og kun én dag om året. David stod i forgården.",
+          "type": "E",
+          "position": 113
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv! led mig ved din retfærdighed for mine fjenders skyld,\fudjævn din vej foran mig!",
+      "number": 9,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "*lᵊmaʕan* betyder ordret »for … skyld«, men oversættes her ofte »mod«.",
+          "type": "T",
+          "position": 61
+        },
+        {
+          "text": "Ordret: »for mit ansigt«.",
+          "type": "T",
+          "position": 87
+        }
+      ]
+    },
+    {
+      "text": "\fFor i deres mund er intet sandt,\fderes indre er fordærv,\fderes strube er en åben grav,\fde gør deres tunge glat.",
+      "number": 10,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Modstandernes ønske er at føre bort fra Gud, i fordærv.",
+          "type": "T",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fLad dem bøde for det, Gud!\fså de falder på grund af deres planer,\fdriv dem væk for deres mange synders skyld,\ffor de trodser dig.",
+      "number": 11,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Meningen kan enten være at de falder i egne fælder, eller at deres planer mislykkes.",
+          "type": "T",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "\fMen alle der søger tilflugt hos dig, skal glæde sig,\ftil evig tid skal de juble,\fog du skal beskytte dem,\fog de der elsker dit navn,\fskal fryde sig i dig.",
+      "number": 12,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fFor du velsigner en retfærdig, Herre!\fDu dækker ham med velbehag som med et skjold.",
+      "number": 13,
+      "version": 1486335600000
+    }
+  ]
+}

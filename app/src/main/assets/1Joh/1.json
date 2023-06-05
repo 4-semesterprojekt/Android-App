@@ -1,0 +1,68 @@
+{
+  "book": "Johannes' Første Brev",
+  "abbreviation": "1Joh",
+  "chapter": 1,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDet som var fra begyndelsen, det vi har hørt, det vi har set med vores egne øjne, det vi betragtede, og vores hænder følte på, nemlig om livets ord",
+      "title": "Johannes skriver som øjenvidne om Jesus som livets ord",
+      "number": 1,
+      "version": 1646002800000
+    },
+    {
+      "text": "– og livet åbenbarede sig, og vi har set og vidnet og forkyndt jer det evige liv, som jo var hos Faderen og blev åbenbaret for os –",
+      "number": 2,
+      "version": 1646002800000
+    },
+    {
+      "text": "hvad vi har set og hørt, forkynder vi også jer for at også I må have fællesskab med os; og vores fællesskab er også med Faderen og med hans søn Jesus Kristus.",
+      "number": 3,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDette er det budskab som vi har hørt af ham og forkynder for jer: at Gud er lys, og der er slet intet mørke i ham.",
+      "number": 5,
+      "version": 1646002800000
+    },
+    {
+      "text": "Hvis vi siger at vi har fællesskab med ham, og vandrer i mørket, så lyver vi og gør ikke sandheden.",
+      "number": 6,
+      "version": 1646002800000
+    },
+    {
+      "text": "Men hvis vi vandrer i lyset ligesom han er i lyset, har vi fællesskab med hinanden, og Jesu, hans søns, blod renser os fra al synd.",
+      "number": 7,
+      "version": 1646002800000
+    },
+    {
+      "text": "Hvis vi siger at vi ikke har synd, bedrager vi os selv, og sandheden er ikke i os.",
+      "number": 8,
+      "version": 1646002800000
+    },
+    {
+      "text": "Hvis vi bekender vores synder, er han trofast og retfærdig så at han tilgiver os synderne og renser os fra al uretfærdighed.",
+      "number": 9,
+      "version": 1646002800000
+    },
+    {
+      "text": "Hvis vi siger at vi ikke har syndet, gør vi ham til en løgner, og hans ord er ikke i os.",
+      "number": 10,
+      "version": 1646002800000
+    }
+  ]
+}

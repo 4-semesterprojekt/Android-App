@@ -1,0 +1,1430 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 119,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSalige er de hvis færd er fuldkommen,\fde som vandrer efter JHVHs lov.",
+      "title": "I.",
+      "number": 1,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Oversættes nu ofte: »lykkelige«.",
+          "type": "T",
+          "position": 7
+        },
+        {
+          "text": "Ordret: »vej«.",
+          "type": "T",
+          "position": 23
+        },
+        {
+          "text": "Ordret: »i«.",
+          "type": "T",
+          "position": 59
+        },
+        {
+          "text": "lov",
+          "type": "N",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "\fSalige er de som overholder hans vedtægter,\fde søger ham af ganske hjerte.",
+      "number": 2,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDe har heller ikke begået uretfærdighed,\fde har vandret på hans veje.",
+      "number": 3,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Verset indeholder ingen af de otte hovedord. Fortolkere har foreslået at rette: *bidrāxāʸw* (»på hans veje«) til: *bidvārāʸw*: »i/efter hans ord«, men det har ingen støtte i hverken håndskrifter eller gamle oversættelser.",
+          "type": "E",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "\fDu har givet dine forordninger,\ffor at de nøje skulle holdes.",
+      "number": 4,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fGid mine veje må være faste\fså jeg kan holde dine lovbud.",
+      "number": 5,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDa skal jeg ikke blive til skamme\fnår jeg ser hen til alle dine befalinger.",
+      "number": 6,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg vil takke dig af et oprigtigt hjerte\fnår jeg lærer dine retfærdige bestemmelser at kende.",
+      "number": 7,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din retfærdigheds bestemmelser«.",
+          "type": "T",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil holde dine lovbud,\fforlad mig ikke fuldstændig.",
+      "title": "II.",
+      "number": 8,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »indtil meget«.",
+          "type": "T",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fHvordan skal en ung holde sin sti ren?\fVed at han retter sig efter dit ord.",
+      "number": 9,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har søgt dig af hele mit hjerte,\flad mig ikke fare vild fra dine befalinger!",
+      "number": 10,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har gemt dit ord i mit hjerte,\ffor at jeg ikke skal synde imod dig.",
+      "number": 11,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fLovet være du, JHVHv!\flær mig dine lovbud!",
+      "number": 12,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »velsignet«.",
+          "type": "T",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "text": "\fMed mine læber forkyndte jeg\falle din munds bestemmelser.",
+      "number": 13,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg glædede mig ved dine vedtægters vej\fsom over al mulig rigdom.",
+      "number": 14,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg vil grunde over dine forordninger\fog give agt på dine stier.",
+      "number": 15,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg vil glæde mig ved dine lovbud,\fjeg vil ikke glemme dit ord.",
+      "title": "III.",
+      "number": 16,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fGør vel imod din tjener så jeg må leve,\fså vil jeg holde dit ord.",
+      "number": 17,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fÅbn mine øjne så jeg kan iagttage\funderne fra din lov.",
+      "number": 18,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg er fremmed på jorden,\fskjul ikke dine befalinger for mig!",
+      "number": 19,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »i landet«.",
+          "type": "T",
+          "position": 26
+        }
+      ]
+    },
+    {
+      "text": "\fMin sjæl hentæredes af længsel\fefter dine bestemmelser til enhver tid.",
+      "number": 20,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDu truede overmodige, forbandede,\fsom forvilder sig bort fra dine befalinger.",
+      "number": 21,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Mange oversættere flytter – med støtte i bl.a. Septuaginta - »forbandede« ned til næste linje der så oversættes: »forbandede er de som forvilder sig bort fra dine befalinger«.",
+          "type": "T",
+          "position": 34
+        }
+      ]
+    },
+    {
+      "text": "\fVælt hån og foragt bort fra mig,\ffor jeg har overholdt dine vedtægter.",
+      "number": 22,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fSelv når højtstående embedsmænd har sat sig ned og rådslået imod mig,\fgrunder din tjener over dine lovbud.",
+      "number": 23,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fOgså dine vedtægter er min glæde,\fde er mine rådgivere.",
+      "title": "IV.",
+      "number": 24,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »mit råds mænd«.",
+          "type": "T",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fMin sjæl er klæbet ved støvet,\fgiv mig liv efter dit ord!",
+      "number": 25,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har fortalt om mine veje, og du svarede mig,\flær mig dine lovbud!",
+      "number": 26,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fLad mig forstå dine forordningers vej\fså jeg kan grunde over dine undere.",
+      "number": 27,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fMin sjæl er svundet hen af bekymring,\frejs mig op efter dit ord!",
+      "number": 28,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fHold løgnens vej borte fra mig,\fog giv mig i nåde din lov!",
+      "number": 29,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har valgt trofastheds vej,\fjeg har stillet dine bestemmelser foran mig.",
+      "number": 30,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret blot: »jeg har stillet dine bestemmelser«. Enten må der underforstås: »foran mig«, eller man kan med støtte i den syriske oversættelse rette: *šiwwîtî* (»jeg har stillet«) til: *ʔiwwîtî*: »jeg har begæret«.",
+          "type": "E",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "\fJeg har holdt fast ved dine vedtægter,\fJHVH, gør mig ikke til skamme!",
+      "number": 31,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg vil løbe ad dine befalingers vej,\ffor du giver mit hjerte at ånde frit.",
+      "title": "V.",
+      "number": 32,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »du gør mit hjerte vidt/bredt«.",
+          "type": "T",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "\fLær mig, JHVHv, dine lovbuds vej,\fså vil jeg overholde den indtil enden.",
+      "number": 33,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Det er omdiskuteret om: *ʕēqev* her (og v.122) er brugt i betydningen: »indtil enden/helt og fuldt« eller: »løn«. Det sidste vil give oversættelsen: »så vil jeg overholde den som (min) løn«.",
+          "type": "E",
+          "position": 73
+        }
+      ]
+    },
+    {
+      "text": "\fGiv mig indsigt så jeg kan overholde din lov\fog holde den af helt hjerte.",
+      "number": 34,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fLed mig ad dine befalingers sti,\ffor den holder jeg af.",
+      "number": 35,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fBøj mit hjerte til dine vedtægter\fog ikke til vinding.",
+      "number": 36,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fVend mine øjne bort så de ikke ser efter tomhed,\fgiv mig liv på dine veje!",
+      "number": 37,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "I stedet for: *bidrāxexā* (»på dine veje«) har to hånskrifter (og Targum): *bidvārexā*: »ved dit ord«. Derved findes ét af salmens otte hovedord også i dette vers, og derfor følges denne læsemåde af mange oversættere. Men det er et meget spinkelt grundlag at foretage rettelse på.",
+          "type": "E",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "\fOpfyld for din tjener dit ord,\fsom skal fremme frygt for dig.",
+      "number": 38,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 31
+        },
+        {
+          "text": "Ordret: »som for at frygte dig«. Nogle oversættere vælger at rette: *lᵊyirʔātexā* (»for at frygte dig«) til: *lîrēʔeʸxā*: »for dem som frygter dig« - oversættelsen bliver: »som gælder dem der frygter dig«.",
+          "type": "E",
+          "position": 62
+        }
+      ]
+    },
+    {
+      "text": "\fVend min vanære, som jeg frygtede for, bort,\ffor dine bestemmelser er gode.",
+      "number": 39,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fSe, jeg har længtes efter dine forordninger,\fgiv mig liv i din retfærdighed!",
+      "title": "VI.",
+      "number": 40,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fLad din nåde, JHVHv, komme over mig,\fdin frelse, efter dit ord,",
+      "number": 41,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "I grundteksten er ordet pluralis, der understreger storheden.",
+          "type": "T",
+          "position": 14
+        },
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "text": "\fså jeg kan svare den som forhåner mig, et ord,\ffor jeg har stolet på dit ord.",
+      "number": 42,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fOg tag ikke sandheds ord fuldstændig ud af min mund,\ffor jeg har sat mit håb til dine bestemmelser.",
+      "number": 43,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »indtil meget«.",
+          "type": "T",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "\fOg jeg vil bestandigt holde din lov,\fevigt og altid.",
+      "number": 44,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fOg lad mig vandre i åbent land,\ffor jeg har søgt råd i dine forordninger.",
+      "number": 45,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fOg jeg vil tale om dine vedtægter foran konger,\fog jeg skal ikke blive til skamme.",
+      "number": 46,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fOg jeg vil glæde mig over dine befalinger\fsom jeg har elsket.",
+      "number": 47,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fOg jeg vil løfte mine hænder til dine befalinger\fsom jeg har elsket, og jeg vil grunde over dine lovbud.",
+      "title": "VII.",
+      "number": 48,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Mange opfatter ordene: *miṣwōteʸxā ʔᵃšer ʔāhāvᵊtî* (»dine befalinger som jeg har elsket«) som dittografi fra v.47 og udelader dem derfor. Det forudsætter ændring af: *ʔel-* (»til«) i første linje til: *ʔēleʸxā*: »til dig«.",
+          "type": "E",
+          "position": 69
+        }
+      ]
+    },
+    {
+      "text": "\fHusk ordet til din tjener,\fsom du lod mig håbe på.",
+      "number": 49,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDette er min trøst i min elendighed,\fat dit ord har givet mig liv.",
+      "number": 50,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDe overmodige har spottet mig uden ophør,\fjeg veg ikke fra din lov.",
+      "number": 51,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »indtil meget«.",
+          "type": "T",
+          "position": 42
+        }
+      ]
+    },
+    {
+      "text": "\fJeg har husket dine bestemmelser fra gammel tid,\fog jeg blev trøstet, JHVHv.",
+      "number": 52,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fEn glødende harme har grebet mig over de ugudelige\fsom forlader din lov.",
+      "number": 53,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDine lovbud har været mine sange\fi huset hvor jeg var fremmed.",
+      "number": 54,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »i min fremmedheds hus.«",
+          "type": "T",
+          "position": 63
+        }
+      ]
+    },
+    {
+      "text": "\fOm natten har jeg husket på dit navn, JHVHv,\fog jeg har holdt din lov.",
+      "number": 55,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDette gjaldt mig:\fAt jeg har overholdt dine forordninger.",
+      "title": "VIII.",
+      "number": 56,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Dette var for mig«. Meningen er enten at det kendetegnede salmisten, eller der kan oversættes: »Dette har jeg fået som gave«.",
+          "type": "E",
+          "position": 18
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH er min del,\fjeg har lovet at holde dine ord.",
+      "number": 57,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »jeg har sagt«. Formodentlig er det underforstået at det følgende er sagt til Gud. En anden mulighed er dog at salmisten har sagt det ved sig selv, så der må oversættes: »jeg har sat mig for«.",
+          "type": "E",
+          "position": 31
+        }
+      ]
+    },
+    {
+      "text": "\fJeg tryglede for dit ansigt af ganske hjerte:\f»Vær mig nådig efter dit ord!«",
+      "number": 58,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »jeg har blødgjort dit ansigt«.",
+          "type": "T",
+          "position": 28
+        },
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 77
+        }
+      ]
+    },
+    {
+      "text": "\fJeg har overvejet mine veje,\fog jeg vil atter vende mine fødder til dine vedtægter.",
+      "number": 59,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg hastede og tøvede ikke\fmed at holde dine befalinger.",
+      "number": 60,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDe ugudeliges bånd omspændte mig,\fdin lov glemte jeg ikke.",
+      "number": 61,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fVed midnat står jeg op for at takke dig\ffor retfærdigheden i dine vedtægter.",
+      "number": 62,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din retfærdigheds vedtægter«. *mišpoṭ* (»vedtægt«) oversættes her af andre enten: »bud« eller: »dom«.",
+          "type": "E",
+          "position": 77
+        }
+      ]
+    },
+    {
+      "text": "\fJeg er ven med alle dem som frygter dig,\fog med dem som holder dine forordninger.",
+      "number": 63,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDin nåde, JHVHv, fylder jorden,\flær mig dine lovbud!",
+      "title": "IX.",
+      "number": 64,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »landet«.",
+          "type": "T",
+          "position": 32
+        }
+      ]
+    },
+    {
+      "text": "\fDu har handlet godt mod din tjener,\fJHVHv, efter dit ord.",
+      "number": 65,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fLær mig god dømmekraft og kundskab,\ffor jeg stoler på dine befalinger.",
+      "number": 66,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordet: *ṭûv* (»god«) slettes af nogle oversættere med den begrundelse at linjen er længere end de andre linjer. Der er dog flere linjer med samme længde i salmen, bl.a. v.67a.",
+          "type": "E",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "text": "\fFør jeg blev ydmyget, for jeg vild,\fmen nu har jeg holdt dit ord.",
+      "number": 67,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "\fDu er god og gør godt,\flær mig dine lovbud!",
+      "number": 68,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDe overmodige har opdigtet løgn imod mig,\fjeg vil overholde dine forordninger af ganske hjerte.",
+      "number": 69,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDeres hjerte er følelsesløst som fedt,\fjeg har glædet mig ved din lov.",
+      "number": 70,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDet var godt for mig at jeg blev ydmyget\fså jeg kunne lære dine lovbud.",
+      "number": 71,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDin munds lov er bedre for mig\fend tusind stykker guld og sølv.",
+      "title": "X.",
+      "number": 72,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDine hænder har skabt mig og formet mig,\fgiv mig indsigt så jeg kan lære dine befalinger.",
+      "number": 73,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDe som frygter dig, skal se mig og glæde sig,\ffor jeg har sat mit håb til dit ord.",
+      "number": 74,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har vidst, JHVHv, at dine bestemmelser er retfærdige,\fog at du af trofasthed ydmygede mig.",
+      "number": 75,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fLad dog din nåde tjene til at trøste mig\fefter dit ord til din tjener.",
+      "number": 76,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 55
+        }
+      ]
+    },
+    {
+      "text": "\fLad din barmhjertighed komme til mig så jeg må leve,\ffor din lov er min glæde.",
+      "number": 77,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDe overmodige skal blive til skamme, for med løgn har de forurettet mig,\fjeg vil grunde over dine forordninger.",
+      "number": 78,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fMå de som frygter dig, vende tilbage til mig,\fog de som kender dine vedtægter.",
+      "number": 79,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fGid mit hjerte må være fuldkomment efter dine lovbud\ffor at jeg ikke skal blive til skamme.",
+      "title": "XI.",
+      "number": 80,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fMin sjæl hentæredes af venten efter din frelse,\fjeg har sat mit håb til dit ord.",
+      "number": 81,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fMine øjne er udmattede af at vente på dit ord\fidet jeg sagde: »Hvornår vil du trøste mig?«",
+      "number": 82,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "\fVar jeg end som en lædersæk i røg,\fså glemte jeg ikke dine lovbud.",
+      "number": 83,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Der er formodentlig tænkt på en tom lædersæk der hang under loftet og med tiden blev ubrugelig.",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fHvor mange er din tjeners dage?\fHvornår vil du holde dom over dem som forfølger mig?",
+      "number": 84,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordet: *mišpāṭ* (»dom«) skal som regel oversættes: »bestemmelse« eller evt.: »bud«. Her er det udtryk for, at Gud må dømme i overensstemmelse med hans bestemmelser.",
+          "type": "E",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\fDe overmodige har gravet grave for mig,\fde som ikke lever efter din lov.",
+      "number": 85,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fAlle dine befalinger er pålidelige,\fmed løgn forfølger de mig; hjælp mig!",
+      "number": 86,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDe havde nær udryddet mig fra jorden,\fmen jeg forlod ikke dine forordninger.",
+      "number": 87,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »af landet«. Landet (Israel) var for GTs fromme stedet hvor de levede med Gud.",
+          "type": "T",
+          "position": 38
+        }
+      ]
+    },
+    {
+      "text": "\fGiv mig liv efter din nåde,\fså vil jeg holde din munds vedtægt.",
+      "title": "XII.",
+      "number": 88,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 27
+        }
+      ]
+    },
+    {
+      "text": "\fI evighed, JHVHv,\fstår dit ord fast i himlen.",
+      "number": 89,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fI slægt efter slægt varer din trofasthed.\fDu grundfæstede jorden så den står fast.",
+      "number": 90,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fEfter dine bestemmelser består de endnu i dag,\ffor de er alle dine tjenere.",
+      "number": 91,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Dvs. både himmel, jord, ord og trofasthed.",
+          "type": "T",
+          "position": 34
+        },
+        {
+          "text": "Sætningen oversættes undertiden: »Dine bestemmelser/bud består endnu i dag«, men så må man se bort fra præpositionen: *lᵊ-* (»for, efter, til, i overensstemmelse med«.)",
+          "type": "E",
+          "position": 47
+        }
+      ]
+    },
+    {
+      "text": "\fHvis ikke din lov havde været min glæde,\fvar jeg gået til grunde i min elendighed.",
+      "number": 92,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg vil i evighed ikke glemme dine forordninger,\ffor ved dem har du givet mig liv.",
+      "number": 93,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDin er jeg, frels mig,\ffor jeg har søgt råd i dine forordninger.",
+      "number": 94,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDe ugudelige lurede på mig for at tilintetgøre mig,\fjeg vil give agt på dine vedtægter.",
+      "number": 95,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fFor al fuldkommenhed har set en ende,\fdin befaling strækker sig meget vidt.",
+      "title": "XIII.",
+      "number": 96,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den præcise oversættelse af ordet: *tixlāʰ* er omdiskuteret. Andre oversætter: »det fuldendte/higen«.",
+          "type": "E",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fHvor har jeg elsket din lov!\fHele dagen er den i min tanke.",
+      "number": 97,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDin befaling gør mig visere end mine fjender,\ffor den er for evigt hos mig.",
+      "number": 98,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den masoretiske tekst har: *miṣwōtexā*: »dine befalinger«, men verbet og det følgende pronomen (*hîʔ*: »hun/den«) er singularis. Det enkleste er (med et enkelt manuskript og Septuaginta) at ændre vokaliseringen til singularis: *miṣwātexā*: »din befaling«.",
+          "type": "E",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "text": "\fJeg har fået mere indsigt end alle mine lærere,\ffor dine vedtægter er i min tanke.",
+      "number": 99,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg er blevet forstandigere end de gamle,\ffor jeg har overholdt dine forordninger.",
+      "number": 100,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har holdt mine fødder tilbage fra enhver ond sti\ffor at jeg kan holde dit ord.",
+      "number": 101,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg afveg ikke fra dine bestemmelser,\ffor du har undervist mig.",
+      "number": 102,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fHvor var dit ord sødt for min gane,\fmere end honning for min mund.",
+      "number": 103,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "text": "\fJeg er blevet forstandig af dine forordninger,\fderfor har jeg hadet enhver løgnens sti.",
+      "title": "XIV.",
+      "number": 104,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDit ord er en lygte for min fod\fog et lys på min sti.",
+      "number": 105,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har svoret, og jeg vil opfylde det:\fAt overholde dine retfærdige bestemmelser.",
+      "number": 106,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din retfærdigheds bestemmelser«.",
+          "type": "T",
+          "position": 83
+        }
+      ]
+    },
+    {
+      "text": "\fJeg er blevet dybt bøjet,\fJHVHv, giv mig liv efter dit ord.",
+      "number": 107,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fLad min munds frivilligofre behage dig, JHVHv,\fog lær mig dine bestemmelser.",
+      "number": 108,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har altid mit liv i min hånd,\fmen jeg har ikke glemt din lov.",
+      "number": 109,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Salmistens liv (ordret: »min sjæl«) er altid udsat for fare.",
+          "type": "T",
+          "position": 34
+        }
+      ]
+    },
+    {
+      "text": "\fDe ugudelige lagde fælde for mig,\fmen jeg forvildede mig ikke bort fra dine forordninger.",
+      "number": 110,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg fik dine vedtægter til ejendom for evigt,\fja, de er mit hjertes glæde.",
+      "number": 111,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg bøjede mit hjerte til at handle efter dine lovbud.\fLønnen er for evigt.",
+      "title": "XV.",
+      "number": 112,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Det er omdiskuteret om: *ʕēqev* her (og v.33) er brugt i betydningen: »indtil enden/helt og fuldt« eller: »løn«. Her må »løn« foretrækkes.",
+          "type": "E",
+          "position": 62
+        }
+      ]
+    },
+    {
+      "text": "\fDe vægelsindede har jeg hadet,\fmen din lov har jeg elsket.",
+      "number": 113,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDu er mit skjul og mit skjold,\fjeg har sat mit håb til dit ord.",
+      "number": 114,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fVig fra mig, I der handler ondt,\fog jeg vil overholde min Guds befalinger.",
+      "number": 115,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fStøt mig efter dit ord så jeg må leve,\fog lad mig ikke blive til skamme på grund af mit håb!",
+      "number": 116,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 23
+        },
+        {
+          "text": "Ordret: »fra mit håb«.",
+          "type": "T",
+          "position": 93
+        }
+      ]
+    },
+    {
+      "text": "\fStyrk mig så jeg bliver frelst,\fså vil jeg altid se hen til dine lovbud.",
+      "number": 117,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDu har forkastet alle dem som farer vild fra dine lovbud,\ffor deres svig er falskhed.",
+      "number": 118,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Sætningen er omdiskuteret. Meningen er formodentlig enten: »for deres svig fører til falskhed«, eller: »for deres svig er forgæves«. Mange oversættere følger dog de gamle oversættelser, der i stedet for: *tarmîtām* (»deres svig«), må have læst: *tarʕîtām*: »deres overvejelse«. Det vil give oversættelsen: »for de planlægger falskhed«.",
+          "type": "E",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "\fDu skaffede alle jordens ugudelige bort som slagger,\fderfor har jeg elsket dine vedtægter.",
+      "number": 119,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "I stedet for: *hišbattā* (»du skaffede bort«) følger mange oversættere tre håndskrifter som har: *ḥiššavtā*: »du regnede (alle jordens ugudelige) for (slagger)«.",
+          "type": "E",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "\fAf rædsel for dig gyste mit kød,\fog jeg frygtede for dine bestemmelser.",
+      "title": "XVI.",
+      "number": 120,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har øvet ret og retfærdighed,\foverlad mig ikke til mine undertrykkere!",
+      "number": 121,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordet: *mišpāṭ* (»ret«) skal som regel oversættes: »bestemmelse« eller evt.: »dom/bud«. Her er det udtryk for at salmisten har fulgt Guds bestemmelser",
+          "type": "E",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "text": "\fStå inde for din tjener til det gode,\flad ikke hovmodige øve vold imod mig.",
+      "number": 122,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Da ingen af salmens otte hovedord forekommer i verset, forslår man undertiden at rette: *ʕavdᵊxā* (»din tjener«) til: *dvorxā*: »dit ord«. Det har dog ingen støtte i hverken håndskrifter eller de gamle oversættelser. Det synes tilsigtet i sammenhængen at lægge vægt på tjener-begrebet.",
+          "type": "E",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "\fMine øjne er udmattede af venten på din frelse\fog på dit retfærdige ord.",
+      "number": 123,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din retfærdigheds ord«. Den hebraiske tekst har: *ʔimrāʰ* (»ord«). Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 73
+        }
+      ]
+    },
+    {
+      "text": "\fGør med din tjener efter din nåde,\fog lær mig dine lovbud!",
+      "number": 124,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Tidligere oversat: »miskundhed«.",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fJeg er din tjener; giv mig indsigt\fså jeg kan lære dine vedtægter at kende.",
+      "number": 125,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Verbet (»lære at kende«) kan også oversættes: »give agt på«.",
+          "type": "T",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "\fDet er tid for JHVH at handle,\fde har brudt din lov.",
+      "number": 126,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den masoretiske tekst har præpositionen: *lᵊ-* (»for«) foran »JHVH«. I næste linje tales der dog igen direkte i 2. person til »JHVH«, hvorfor mange oversættere (med et enkelt håndskrift) sletter *lᵊ-* her så linjen oversættes: »Det er tid at handle, JHVH«.",
+          "type": "E",
+          "position": 20
+        }
+      ]
+    },
+    {
+      "text": "\fDerfor har jeg elsket dine befalinger\fmere end guld og mere end lutret guld.",
+      "number": 127,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDerfor følger jeg ligefremt alle forordninger om alt,\fjeg har hadet enhver løgnens sti.",
+      "title": "XVII.",
+      "number": 128,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »alts forordninger«. Meningen er enten som oversat her, eller: »alle alles forordninger«, eller måske: »hver enkelt forordning«. De fleste oversættere følger Septuaginta, der har læst det sidste: *kol* (»alts/om alt«) som suffix: *-xā*: »dine« så oversættelsen bliver: »Derfor følger jeg ligefremt alle dine forordninger«.",
+          "type": "E",
+          "position": 54
+        }
+      ]
+    },
+    {
+      "text": "\fDine vedtægter er vidunderlige,\fderfor overholder min sjæl dem.",
+      "number": 129,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDine ords åbenbaring spreder lys,\fdet giver enfoldige indsigt.",
+      "number": 130,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den masoretiske tekst har et ord der kun findes på dette ene sted i GT: *pētaḥ*. Mange vælger at ændre vokaliseringen til: *petaḥ*: »dør/åbning« så der kan oversættes: »Dine ord spreder lys når de åbner sig«.",
+          "type": "E",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fJeg spærrede min mund op og tørstede,\ffor jeg længtes efter dine befalinger.",
+      "number": 131,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fVend dig til mig, og vær mig nådig\fsom det er deres ret, der elsker dit navn.",
+      "number": 132,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordet: *mišpāṭ* (»ret«) skal som regel oversættes: »bestemmelse« eller evt.: »dom/bud«. Her er det udtryk for at mennesker har fulgt Guds bestemmelser.",
+          "type": "E",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\fGør mine skridt faste ved dit ord,\fog lad ingen uret herske over mig!",
+      "number": 133,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fBefri mig fra menneskers undertrykkelse,\fså vil jeg overholde dine forordninger.",
+      "number": 134,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fLad dit ansigt lyse over din tjener,\fog lær mig dine lovbud!",
+      "number": 135,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDer flød vandstrømme ned fra mine øjne\ffordi de ikke holdt din lov.",
+      "title": "XVIII.",
+      "number": 136,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDu er retfærdig, JHVHv,\fog dine bestemmelser er retskafne.",
+      "number": 137,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "*mišpāṭeʸxā* kan her også oversættes: »dine domme« eller: »dine bud«.",
+          "type": "E",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fDu har påbudt dine vedtægter i retfærdighed\fog i stor trofasthed.",
+      "number": 138,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fMin iver har tilintetgjort mig,\ffor mine modstandere har glemt dine ord.",
+      "number": 139,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDit ord er gennemlutret,\fog din tjener har elsket det.",
+      "number": 140,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 8
+        },
+        {
+          "text": "Ordret: »lutret meget«.",
+          "type": "T",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "\fJeg er ringe og foragtet,\fmen jeg har ikke glemt dine forordninger.",
+      "number": 141,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Dette: »men« står ikke udtrykkeligt i den hebraiske tekst, men er underforstået ved sætningsopbygningen.",
+          "type": "T",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "\fDin retfærdighed er retfærdig i evighed,\fog din lov er sandhed.",
+      "number": 142,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fNød og trængsel har ramt mig,\fdine befalinger er min glæde.",
+      "number": 143,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDine vedtægter er retfærdighed i evighed,\fgiv mig indsigt så jeg kan leve.",
+      "title": "XIX.",
+      "number": 144,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har råbt af helt hjerte; svar mig, JHVHv!\fJeg vil overholde dine lovbud.",
+      "number": 145,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har råbt til dig, frels mig,\fså vil jeg holde fast ved dine vedtægter.",
+      "number": 146,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fFør daggryet råbte jeg om hjælp,\fjeg håbede på dit ord.",
+      "number": 147,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Jeg kom forud for daggryet og råbte«.",
+          "type": "T",
+          "position": 23
+        },
+        {
+          "text": "Konsonantteksten har pluralis: »dine ord«, men masoreterne har vokaliseret som singularis: »dit ord«.",
+          "type": "E",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fFør nattevagterne var mine øjne åbne\ffor at grunde på dit ord.",
+      "number": 148,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Der er muligvis tænkt på de sene nattevagter fra kl. 2 til kl. 6. De blev ofte af de fromme brugt til studier og bøn. Meningen er da at salmisten begyndte endnu tidligere.",
+          "type": "T",
+          "position": 63
+        }
+      ]
+    },
+    {
+      "text": "\fHør mit råb i overensstemmelse med din nåde,\fJHVHv, giv mig liv i overensstemmelse med din bestemmelse.",
+      "number": 149,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fDe som jager efter skændselsgerning, nærmede sig,\fde var langt borte fra din lov.",
+      "number": 150,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fNær er du, JHVHv,\fog alle dine befalinger er sandhed.",
+      "number": 151,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har for længst vidst fra dine vedtægter\fat du har grundfæstet dem for evigt.",
+      "title": "XX.",
+      "number": 152,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fSe min elendighed, og red mig,\ffor din lov har jeg ikke glemt.",
+      "number": 153,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fFør min sag, og befri mig,\fgiv mig liv efter dit ord.",
+      "number": 154,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 54
+        }
+      ]
+    },
+    {
+      "text": "\fFrelsen er fjernt fra de ugudelige,\ffor de har ikke søgt efter dine lovbud.",
+      "number": 155,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fOverordentlig stor er din barmhjertighed, JHVHv,\fgiv mig liv i overensstemmelse med dine bestemmelser!",
+      "number": 156,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Store er dine barmhjertigheder«. Pluralis skal her understrege storheden.",
+          "type": "T",
+          "position": 42
+        }
+      ]
+    },
+    {
+      "text": "\fMine forfølgere og modstandere er mange,\fjeg veg ikke fra dine vedtægter.",
+      "number": 157,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har set troløse og må væmmes,\ffor de har ikke holdt dit ord.",
+      "number": 158,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "\fSe hvor jeg har elsket dine forordninger,\fJHVH, giv mig liv i overensstemmelse med din nåde.",
+      "number": 159,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fSummen af dit ord er sandhed,\fog evig er hver af dine retfærdigheds bestemmelser.",
+      "title": "XXI.",
+      "number": 160,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hoved«.",
+          "type": "T",
+          "position": 7
+        },
+        {
+          "text": "Kan også oversættes: »bud« eller: »dom«.",
+          "type": "T",
+          "position": 82
+        }
+      ]
+    },
+    {
+      "text": "\fHøjtstående embedsmænd forfulgte mig uden grund,\fmen mit hjerte skælvede for dine ord.",
+      "number": 161,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg glædede mig over dit ord\fsom en der finder et stort bytte.",
+      "number": 162,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 29
+        }
+      ]
+    },
+    {
+      "text": "\fJeg har hadet og afskyet løgn,\fdin lov har jeg elsket.",
+      "number": 163,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fSyv gange om dagen har jeg lovprist dig\ffor dine retfærdige bestemmelser.",
+      "number": 164,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »for din retfærdigheds bestemmelser«. Sætningen kan dog også oversættes: »for dine retfærdige bud/domme«.",
+          "type": "T",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "\fDer er stor fred for dem som elsker din lov,\fog der er ikke noget der får dem til at snuble.",
+      "number": 165,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har håbet på din frelse, JHVHv,\fog jeg har udført dine befalinger.",
+      "number": 166,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fMin sjæl har holdt dine vedtægter,\fog jeg elskede dem højt.",
+      "number": 167,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har holdt dine forordninger og dine vedtægter,\ffor alle mine veje er åbenbare for dig.",
+      "title": "XXII.",
+      "number": 168,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fGid mit råb må komme frem for dit ansigt, JHVHv,\fgiv mig indsigt efter dit ord!",
+      "number": 169,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fGid min tryglen må komme frem for dit ansigt,\fred mig efter dit ord!",
+      "number": 170,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 69
+        }
+      ]
+    },
+    {
+      "text": "\fMine læber skal strømme over med lovsang,\ffor du lærer mig dine lovbud.",
+      "number": 171,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fMin tunge skal synge om dit ord,\ffor alle dine befalinger er retfærdighed.",
+      "number": 172,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: *ʔimrāʰ*. Se note ovenfor til salmens nummer.",
+          "type": "T",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\fGid din hånd må være mig til hjælp,\ffor jeg har valgt dine forordninger.",
+      "number": 173,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har længtes efter din frelse, JHVHv,\fog din lov er min glæde.",
+      "number": 174,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fGid min sjæl må leve og lovprise dig,\fog gid dine bestemmelser må hjælpe mig!",
+      "number": 175,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fJeg har flakket om som et fortabt får,\fsøg efter din tjener,\ffor dine befalinger har jeg ikke glemt.",
+      "number": 176,
+      "version": 1492552800000
+    }
+  ]
+}

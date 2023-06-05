@@ -1,0 +1,69 @@
+{
+  "book": "Johannesevangeliet",
+  "abbreviation": "Joh",
+  "chapter": 4,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHan kom da atter til Kana i Galilæa, hvor han havde gjort vandet til vin. Og der var en kongelig embedsmand hvis søn lå syg i Kapernaum.",
+      "number": 46,
+      "version": 1634076000000
+    },
+    {
+      "text": "Da denne hørte at Jesus var kommet fra Judæa til Galilæa, gik han til ham og bad om at han ville komme ned og helbrede hans søn; for han lå for døden.",
+      "number": 47,
+      "version": 1634076000000
+    },
+    {
+      "text": "Da sagde Jesus til ham: »Hvis I ikke ser tegn og undere, vil I absolut ikke tro.«",
+      "number": 48,
+      "version": 1634076000000
+    },
+    {
+      "text": "Embedsmanden sagde til ham: »Herre! Kom derned før mit barn dør.«",
+      "number": 49,
+      "version": 1634076000000
+    },
+    {
+      "text": "Jesus sagde til ham: »Gå, din søn lever.« Manden troede det ord Jesus sagde til ham, og gik.",
+      "number": 50,
+      "version": 1634076000000
+    },
+    {
+      "text": "Men allerede mens han var på hjemvejen, mødte hans tjenere ham og meddelte at hans barn levede.",
+      "number": 51,
+      "version": 1634076000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »på vej ned«.",
+          "type": "T",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "Da spurgte han dem ud om den time i hvilken han fik det bedre; og de sagde til ham: »I går ved den syvende time forlod feberen ham.«",
+      "number": 52,
+      "version": 1634076000000
+    },
+    {
+      "text": "Da forstod faderen at det var sket i den time, da Jesus sagde til ham: »Din søn lever.« Og han selv og hele hans hus kom til tro.",
+      "number": 53,
+      "version": 1634076000000
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 123,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fValfartssang.\fTil dig har jeg løftet mine øjne,\fdu som troner i himlen!",
+      "title": "De troendes tillid og forventning",
+      "number": 1,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "\fSe, som trælles øjne\fer rettet mod deres herrers hånd,\fsom en trælkvindes øjne\fer rettet mod hendes frues hånd,\fsådan er vore øjne rettet mod JHVH, vor Gud,\findtil han er os nådig.",
+      "title": "Vær os nådig!",
+      "number": 2,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fVær os nådig, JHVHv, vær os nådig,\ffor vi er voldsomt mættede med foragt!",
+      "number": 3,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fVor sjæl er overmæt\faf spotten, de sorgløse,\fforagten fra stolte.",
+      "number": 4,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Udtrykket kan måske betyde: »af spotten, nemlig fra de sorgløse«. Mange oversættere følger dog Septuginta, der i stedet for: *haššaˀᵃnannîm* (»de sorgløse«) ser ud til at have læst: *laššaˀᵃnannîm*: »fra de sorgløse«.",
+          "type": "E",
+          "position": 45
+        },
+        {
+          "text": "Således konsonantteksten. Masoreterne har vokaliseret som om: *ligᵊʔēyônîm* (»fra stolte«) skal deles i to ord: *ligᵊʔê yônîm*: »fra undertrykkeres stolte« = »fra stolte blandt undertrykkere«.",
+          "type": "E",
+          "position": 66
+        }
+      ]
+    }
+  ]
+}

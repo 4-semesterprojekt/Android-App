@@ -1,0 +1,104 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 101,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAf David. En salme.\fOm nåde og ret vil jeg synge,\fdig, JHVHv, vil jeg lovsynge.",
+      "title": "Kongen lover renhed i sit personlige liv",
+      "number": 1,
+      "version": 1616454000000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 28
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil indprente mig en fuldkommen vej –\fhvornår vil du komme til mig?\fJeg vil vandre i mit hjertes oprigtighed\fi mit hus.",
+      "number": 2,
+      "version": 1616454000000
+    },
+    {
+      "text": "\fJeg vil ikke sætte mig\fen nederdrægtig sag for øje;\fjeg har hadet at begå overtrædelser,\fdet skal ikke hænge ved mig.",
+      "title": "Kongen lover retfærdighed og oprigtighed i forhold til sit folk",
+      "number": 3,
+      "version": 1616454000000,
+      "footnotes": [
+        {
+          "text": "Ordene: »for øje« hører i grundteksten til foregående linje.",
+          "type": "T",
+          "position": 52
+        },
+        {
+          "text": "Mange oversættere følger Septuaginta, der i stedet for *ʕᵃśōʰ* (»at begå«) forudsætter: *ʕōśê*: »dem der begår«.",
+          "type": "E",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "\fEt falsk hjerte skal vige fra mig,\fen ond vil jeg ikke vide af.",
+      "number": 4,
+      "version": 1616454000000
+    },
+    {
+      "text": "\fDen som i hemmelighed bagtaler sin næste,\fham vil jeg udslette.\fDen som har stolte øjne og hovmodigt hjerte,\fham vil jeg ikke tåle.",
+      "number": 5,
+      "version": 1616454000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »bringe til tavshed«.",
+          "type": "T",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "text": "\fMine øjne skal hvile på de trofaste i landet\ffor at de skal bo hos mig.\fDen som vandrer ad fuldkommen vej,\fhan skal tjene mig.",
+      "number": 6,
+      "version": 1616454000000
+    },
+    {
+      "text": "\fI mit hus skal ingen bo\fsom handler bedragerisk.\fDen som taler løgn, skal ikke bestå\ffor mine øjne.",
+      "number": 7,
+      "version": 1616454000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »bedrag«.",
+          "type": "T",
+          "position": 49
+        }
+      ]
+    },
+    {
+      "text": "\fHver morgen vil jeg udslette\falle landets ugudelige\ffor at udrydde fra JHVHs by\falle dem som begår synd.",
+      "number": 8,
+      "version": 1616454000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »bringe til tavshed«, jf. v.5.",
+          "type": "T",
+          "position": 29
+        }
+      ]
+    }
+  ]
+}

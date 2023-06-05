@@ -1,0 +1,104 @@
+{
+  "book": "Lukasevangeliet",
+  "abbreviation": "Luk",
+  "chapter": 10,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fIdet han vendte sig mod disciplene, sagde han til dem alene: »Lykkelige er de øjne som ser det I ser.",
+      "number": 23,
+      "version": 1648591200000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »Salige«.",
+          "type": "T",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "For jeg siger jer: Mange profeter og konger har ønsket at se det I ser, og har ikke set det, og at høre det I hører, og har ikke hørt det.«",
+      "number": 24,
+      "version": 1648591200000
+    },
+    {
+      "text": "\fEn lovkyndig stod frem og satte ham på prøve og sagde: »Mester! Hvad skal jeg gøre for at jeg kan arve evigt liv?«",
+      "number": 25,
+      "version": 1648591200000
+    },
+    {
+      "text": "Men han sagde til ham: »Hvad er der skrevet i loven, hvad læser du?«",
+      "number": 26,
+      "version": 1648591200000
+    },
+    {
+      "text": "Han svarede ham: »Du skal elske Herren din Gud af hele dit hjerte og med hele din sjæl og med hele din styrke og med hele dit sind, og din næste som dig selv.«",
+      "number": 27,
+      "version": 1648591200000
+    },
+    {
+      "text": "Han sagde til ham: »Du svarede rigtigt; gør dette, så skal du leve.«",
+      "number": 28,
+      "version": 1648591200000
+    },
+    {
+      "text": "Men han ville retfærdiggøre sig selv og sagde til Jesus: »Hvem er da min næste?«",
+      "number": 29,
+      "version": 1648591200000
+    },
+    {
+      "text": "Jesus tog ordet og sagde: »En mand gik ned fra Jerusalem til Jeriko, og han faldt blandt røvere, som trak tøjet af ham og slog ham, hvorefter de gik bort og lod ham ligge halvdød tilbage.",
+      "number": 30,
+      "version": 1648591200000
+    },
+    {
+      "text": "Tilfældigvis gik en præst den samme vej ned, og da han så ham, gik han forbi på den anden side.",
+      "number": 31,
+      "version": 1648591200000
+    },
+    {
+      "text": "Ligeledes også en levit; da han kom til stedet og så ham, gik han forbi på den anden side.",
+      "number": 32,
+      "version": 1648591200000
+    },
+    {
+      "text": "Men en samaritaner som var på rejse, kom til ham, og da han så ham, fik han medlidenhed med ham.",
+      "number": 33,
+      "version": 1648591200000
+    },
+    {
+      "text": "Han gik hen til ham, forbandt hans sår idet han hældte olie og vin på dem, løftede ham op på sit eget ridedyr og førte ham til et herberg hvor han plejede ham.",
+      "number": 34,
+      "version": 1648591200000
+    },
+    {
+      "text": "Næste dag tog han to denarer frem, gav værten dem og sagde: ›Plej ham! Og hvad du yderligere lægger ud, vil jeg betale dig tilbage når jeg kommer igen.‹",
+      "number": 35,
+      "version": 1648591200000
+    },
+    {
+      "text": "Hvem af disse tre synes du er blevet næste for ham der var faldet iblandt røverne?«",
+      "number": 36,
+      "version": 1648591200000
+    },
+    {
+      "text": "Han sagde: »Han som øvede barmhjertighed imod ham.« Jesus sagde til ham: »Gå du hen og gør ligeså!«",
+      "number": 37,
+      "version": 1648591200000
+    }
+  ]
+}

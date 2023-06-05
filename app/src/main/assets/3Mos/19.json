@@ -1,0 +1,108 @@
+{
+  "book": "Tredje Mosebog",
+  "abbreviation": "3Mos",
+  "chapter": 19,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHERREN talte til Moses:",
+      "number": 1,
+      "version": 1648591200000
+    },
+    {
+      "text": "»Tal til hele Israels børns menighed og sig til dem: I skal være hellige, for jeg, HERREN jeres Gud, er hellig.",
+      "number": 2,
+      "version": 1648591200000
+    },
+    {
+      "text": "\fNår I høster jeres lands høst, må du ikke høste helt ud til kanten af din mark, og du må heller ikke være grundig med at samle det ind der er tilbage efter din høst.",
+      "number": 9,
+      "version": 1648591200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din høsts efterslæt«.",
+          "type": "T",
+          "position": 165
+        }
+      ]
+    },
+    {
+      "text": "Din vingård må du ikke plukke ren og ikke samle de nedfaldne druer i din vingård; du skal lade dem blive til den fattige og til den fremmede; jeg er HERREN, jeres Gud.",
+      "number": 10,
+      "version": 1648591200000
+    },
+    {
+      "text": "\fI må ikke stjæle, og I må ikke lyve, og ingen af jer må bedrage sin landsmand.",
+      "number": 11,
+      "version": 1648591200000
+    },
+    {
+      "text": "I må ikke sværge falsk ved mit navn så du vanhelligerer din Guds navn; jeg er HERREN!",
+      "number": 12,
+      "version": 1648591200000
+    },
+    {
+      "text": "\fDu må ikke øve vold mod din næste eller udplyndre ham, du må ikke beholde daglejerens arbejdsløn natten over til næste dag.",
+      "number": 13,
+      "version": 1648591200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din daglejers arbejdsløn må ikke overnatte hos dig«.",
+          "type": "T",
+          "position": 109
+        }
+      ]
+    },
+    {
+      "text": "Du må ikke forbande den døve, og foran en blind må du ikke lægge en sten at snuble over; men du skal frygte din Gud; jeg er HERREN!",
+      "number": 14,
+      "version": 1648591200000
+    },
+    {
+      "text": "\fI må ikke gøre uret i dommen, du må ikke holde med en fattig og heller ikke tage parti for en anset; men du skal dømme din landsmand med retfærdighed.",
+      "number": 15,
+      "version": 1648591200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »løfte en fattigs ansigt«.",
+          "type": "T",
+          "position": 61
+        },
+        {
+          "text": "Ordret: »ære en ansets ansigt«.",
+          "type": "T",
+          "position": 101
+        }
+      ]
+    },
+    {
+      "text": "Gå ikke omkring med sladder i dit folk, du må ikke stræbe efter din næstes blod; jeg er HERREN!",
+      "number": 16,
+      "version": 1648591200000
+    },
+    {
+      "text": "\fDu må ikke hade din bror i dit hjerte; men du skal stærkt irettesætte din landsmand for at du ikke skal bære synd for hans skyld.",
+      "number": 17,
+      "version": 1648591200000
+    },
+    {
+      "text": "Du må ikke hævne dig og ikke bære nag mod dit folks børn, du skal elske din næste som dig selv; jeg er HERREN!«",
+      "number": 18,
+      "version": 1648591200000
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 39,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Literært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAf purpurblå, purpurrød og karminrød uld lavede de vævede klæder til at tjene i ved helligdommen; og de lavede de hellige klæder som skulle være til Aron, sådan som JHVH havde befalet Moses.",
+      "title": "Fremstilling af efoden",
+      "number": 1,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Se note til 31,30.",
+          "type": "T",
+          "position": 58
+        }
+      ]
+    },
+    {
+      "text": "\fHan lavede efoden af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned.",
+      "number": 2,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Navnet: »efod« bruges i GT i tre betydninger: Det kan være et gudebillede, en simpel dragt eller – som her – en del af ypperstepræstens dragt.",
+          "type": "E",
+          "position": 18
+        }
+      ]
+    },
+    {
+      "text": "De udhamrede guldpladerne og skar dem op til snore til at indarbejde i det purpurblå, i det purpurrøde og i den karminrøde uld og i det fine linned i kunstfærdigt arbejde.",
+      "number": 3,
+      "version": 1616022000000
+    },
+    {
+      "text": "De lavede skulderbånd fæstnet i de to ender så den var bundet sammen.",
+      "number": 4,
+      "version": 1616022000000
+    },
+    {
+      "text": "Bæltet på efoden gik i ét med den, af samme arbejde af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned, sådan som JHVH havde befalet Moses.",
+      "number": 5,
+      "version": 1616022000000
+    },
+    {
+      "text": "De satte shoham-stenene i indfatninger af guld og indgraverede dem, som man graverer en seglring, med Israels sønners navne.",
+      "number": 6,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Se note til 25,7.",
+          "type": "T",
+          "position": 23
+        }
+      ]
+    },
+    {
+      "text": "Man satte dem på efodens skulderbånd som sten der skulle bringe Israels sønner i erindring, sådan som JHVH havde befalet Moses.",
+      "title": "Fremstilling af brystskjoldet",
+      "number": 7,
+      "version": 1616022000000
+    },
+    {
+      "text": "\fHan lavede brystskjoldet i kunstfærdigt arbejde, af samme arbejde som efoden; af guld, purpurblå, purpurrød og karminrød uld og tvundet, fint linned.",
+      "number": 8,
+      "version": 1616022000000
+    },
+    {
+      "text": "Det var kvadratisk, de foldede brystskjoldet dobbelt, et fingerspand langt og et fingerspand bredt, foldet dobbelt.",
+      "number": 9,
+      "version": 1616022000000
+    },
+    {
+      "text": "De satte fire rækker sten på det; en række med en rubin, en topas og en smaragd, den første række;",
+      "number": 10,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Der er usikkerhed om oversættelsen af godt halvdelen af stenene, men det drejer sig utvivlsomt om meget kostbare og sjældne sten.",
+          "type": "E",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "den anden række: en turkis, en safir og en månesten;",
+      "number": 11,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske *nōfex* er ofte oversat: »granat«, men angiver formodentlig: »turkis«.",
+          "type": "T",
+          "position": 27
+        }
+      ]
+    },
+    {
+      "text": "den tredje række: en opal, en agat og en ametyst;",
+      "number": 12,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Tidligere ofte oversat: »hyacint«, men oversættelsen er usikker.",
+          "type": "T",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "og den fjerde række: en krysolit og en shoham og en jaspis; de var monteret med  fletninger  af guld i deres indfatninger.",
+      "number": 13,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Se note til 25,7.",
+          "type": "T",
+          "position": 45
+        },
+        {
+          "text": "Det skal muligvis opfattes som øskener.",
+          "type": "E",
+          "position": 91
+        }
+      ]
+    },
+    {
+      "text": "Stenene svarede til Israels sønners navne, tolv svarende til deres navne; som indgravering i en seglring, hver med sit navn, efter de tolv stammer.",
+      "number": 14,
+      "version": 1616022000000
+    },
+    {
+      "text": "Til brystskjoldet lavede de snoede kæder, som reb, af purt guld.",
+      "number": 15,
+      "version": 1616022000000
+    },
+    {
+      "text": "De lavede to fletninger af guld og to guldringe, og de satte de to ringe på brystskjoldets to ender.",
+      "number": 16,
+      "version": 1616022000000
+    },
+    {
+      "text": "De satte de to snoede guldkæder i de to ringe på brystskjoldets ender.",
+      "number": 17,
+      "version": 1616022000000
+    },
+    {
+      "text": "De to ender af de to snoede kæder satte de i de to fletninger og satte dem på efodens skulderbånd, på forsiden af den.",
+      "number": 18,
+      "version": 1616022000000
+    },
+    {
+      "text": "De lavede to guldringe og satte dem på brystskjoldets to ender, på den kant af det som vender indad mod efoden.",
+      "number": 19,
+      "version": 1616022000000
+    },
+    {
+      "text": "De lavede to guldringe og satte dem på efodens to skulderbånd, forneden på forsiden, dér hvor den bindes sammen, oven over efodens bælte.",
+      "number": 20,
+      "version": 1616022000000
+    },
+    {
+      "text": "De bandt brystskjoldet ved dets ringe til ringene på efoden med en purpurblå, ulden snor, så det var oven over efodens bælte, og så brystskjoldet ikke skiltes fra efoden, sådan som JHVH havde befalet Moses.",
+      "title": "Fremstilling af efodens kappe",
+      "number": 21,
+      "version": 1616022000000
+    },
+    {
+      "text": "\fHan lavede efodens kappe, vævet arbejde, helt igennem af purpurblå uld,",
+      "number": 22,
+      "version": 1616022000000
+    },
+    {
+      "text": "og kappens åbning var midt i den som åbningen på en panserskjorte; der var en bort rundt om dens åbning for at den ikke kunne rives itu.",
+      "number": 23,
+      "version": 1616022000000
+    },
+    {
+      "text": "På kappens nedre sømme lavede de granatæbler af purpurblå, purpurrød og karminrød uld, tvundet arbejde.",
+      "number": 24,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Oversættes undertiden: »slæb«.",
+          "type": "T",
+          "position": 22
+        }
+      ]
+    },
+    {
+      "text": "De lavede bjælder af purt guld, og de satte bjælderne mellem granatæblerne på kappens sømme, hele vejen rundt mellem granatæblerne,",
+      "number": 25,
+      "version": 1616022000000
+    },
+    {
+      "text": "der var en bjælde og et granatæble, en bjælde og et granatæble på kappens sømme hele vejen rundt, til brug ved tjenesten, sådan som JHVH havde befalet Moses.",
+      "title": "Fremstilling af kjortlerne",
+      "number": 26,
+      "version": 1616022000000
+    },
+    {
+      "text": "\fKjortlerne til Aron og hans sønner lavede de af fint linned, vævet arbejde,",
+      "number": 27,
+      "version": 1616022000000
+    },
+    {
+      "text": "turbanen af fint linned, huebåndene af fint linned, linnedbukser af tvundet, fint linned,",
+      "number": 28,
+      "version": 1616022000000
+    },
+    {
+      "text": "og bæltet af tvundet, fint linned og purpurblå, purpurrød og karminrød uld i broget vævning, sådan som JHVH havde befalet Moses.",
+      "title": "Fremstilling af rosetten",
+      "number": 29,
+      "version": 1616022000000
+    },
+    {
+      "text": "\fDe lavede en roset, det hellige diadem af purt guld, og de skrev på den, som man graverer i en seglring: »Hellig for JHVH.«",
+      "number": 30,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske: *ṣîṣ* (»roset«) er beslægtet med ordet: *ṣîṣāʰ*: »blomst« og verbet: *nṣṣ*: »funkle/skinne«. Man kan finde forskelige oversættelser: »blomst/plade/diadem«. Det har formodentlig været en plade der var formet som en blomst, en roset.",
+          "type": "T",
+          "position": 20
+        }
+      ]
+    },
+    {
+      "text": "De satte en purpurblå, ulden snor på den for at sætte den ovenpå turbanen, sådan som JHVH havde befalet Moses.",
+      "title": "Arbejdets fuldførelse",
+      "number": 31,
+      "version": 1616022000000
+    },
+    {
+      "text": "\fSådan blev hele arbejdet med forsamlingsteltets bolig fuldført; og Israels børn gjorde det efter alt det som JHVH havde befalet Moses, sådan gjorde de det.",
+      "number": 32,
+      "version": 1616022000000
+    },
+    {
+      "text": "De bragte boligen til Moses, teltet og alle dets redskaber, dets hager, dets planker, dets tværlægter og dets stolper og dets fodstykker;",
+      "number": 33,
+      "version": 1616022000000
+    },
+    {
+      "text": "dækket af rødfarvede vædderskind, dækket af delfinskind og tæppets forhæng;",
+      "number": 34,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "type": "T",
+          "position": 55
+        }
+      ]
+    },
+    {
+      "text": "Vidnesbyrdets ark med dens bærestænger og sonedækket;",
+      "number": 35,
+      "version": 1616022000000
+    },
+    {
+      "text": "bordet med alle dets redskaber og skuebrødet;",
+      "number": 36,
+      "version": 1616022000000
+    },
+    {
+      "text": "lysestagen af purt guld, dens lamper, lamper i række, alle dens redskaber, og lampeolien;",
+      "number": 37,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har her kun ordet: »pur«, men ud fra den tidligere omtale er det forudsat at der er tale om guld.",
+          "type": "T",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "guldalteret, salvningsolien og den vellugtende røgelse og tæppet til teltets indgang;",
+      "number": 38,
+      "version": 1616022000000
+    },
+    {
+      "text": "bronzealteret og bronzegitteret som hører til det, dets bærestænger og alle dets redskaber, bækkenet og dets sokkel;",
+      "number": 39,
+      "version": 1616022000000
+    },
+    {
+      "text": "forgårdens forhæng, dens stolper og dens fodstykker, og tæppet til forgårdens port, dens barduner og dens pløkke, og alle redskaber til tjenesten ved boligen i forsamlingsteltet;",
+      "number": 40,
+      "version": 1616022000000
+    },
+    {
+      "text": "vævede klæder til tjenesten i helligdommen, de hellige klæder til præsten Aron og hans sønners klæder til at gøre præstetjeneste i.",
+      "number": 41,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Se note til 31,30.",
+          "type": "T",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "text": "Efter alt det som JHVH havde befalet Moses, sådan udførte Israels børn hele arbejdet.",
+      "number": 42,
+      "version": 1616022000000
+    },
+    {
+      "text": "Og Moses så hele arbejdet, og se, de havde gjort det sådan om JHVH havde befalet, sådan havde de gjort; og Moses velsignede dem.",
+      "number": 43,
+      "version": 1616022000000
+    }
+  ]
+}

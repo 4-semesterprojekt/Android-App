@@ -1,0 +1,178 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 56,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Al-jonat-elem-rehokim.\fAf David. Miktam.\fDengang filistrene i Gat greb ham.",
+      "title": "Klagende bøn",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        },
+        {
+          "text": "Formodentlig et musikudtryk (evt. en melodiangivelse) af ukendt betydning. Ordret evt.: »Efter stumhedens due, de fjerne/blandt de fjerne«.",
+          "type": "T",
+          "position": 39
+        },
+        {
+          "text": "Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 57-60) fastholde en alvorlig situation i folkets erindring.",
+          "type": "T",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\fVær mig nådig, Gud, for et menneske efterstræber mig,\fdagen lang trænger en stridsmand sig ind på mig.",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "»menneske« kan her evt. være ment kollektivt: »mennesker«.",
+          "type": "T",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "\fMine fjender efterstræber mig hele dagen,\ffor mange fører krig imod mig i hovmod.",
+      "title": "Erklæring af tillid",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "*mārôm* betyder »det høje/ophøjede«, men oversættes her ofte »i hovmod«. Andre tager det som indledning til v. 4: »du Højeste!«.",
+          "type": "T",
+          "position": 82
+        }
+      ]
+    },
+    {
+      "text": "\fPå en dag, hvor jeg gribes af frygt, stoler jeg på dig.",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fVed Guds hjælp vil jeg prise hans ord.\fJeg har stolet på Gud, jeg skal ikke frygte;\fhvad kan kød gøre mig?",
+      "title": "Ny klage",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Her brugt som betegnelse for et svagt, dødeligt menneske.",
+          "type": "E",
+          "position": 97
+        }
+      ]
+    },
+    {
+      "text": "\fHele dagen krænker de mine ord,\falle deres tanker er rettet imod mig til ondt.",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDe angriber, de lurer,\fde vogter på mine hæle,\fligesom de har tragtet efter min sjæl.",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Udtrykket har dobbelt brod: Dels vogter fjenderne på salmistens skridt, og dels lurer de som slanger der hugger i hælen.",
+          "type": "E",
+          "position": 47
+        },
+        {
+          "text": "Formodentlig i betydningen: »mit liv«.",
+          "type": "T",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "\fSkal de undslippe trods deres ondskab?\fStød folkene ned i vrede, Gud!",
+      "title": "Vished om hjælp og omsorg",
+      "number": 8,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDu har optegnet min elendighed,\fanbring min tåre i din lædersæk;\fstår det ikke i din bog?",
+      "number": 9,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Andre oversætter: »landflygtighed«. Ordet *nōd* optræder i GT kun her og i stednavnet »Nod« (1 Mos 4,16) som stedet her spiller på.",
+          "type": "E",
+          "position": 32
+        },
+        {
+          "text": "Accenten på første stavelse i *śîmāʰ* angiver at ordet er imperativ. Hvis den flyttes til anden stavelse, er det part.fem.: »min tåre er anbragt …«.",
+          "type": "E",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "\fDa skal mine fjender vige tilbage\fpå den dag da jeg råber.\fDette ved jeg: at Gud er for mig.",
+      "number": 10,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fVed Guds hjælp vil jeg prise et ord;\fved JHVHs hjælp vil jeg prise et ord.",
+      "number": 11,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Meningen er omdiskuteret. Mange oversættere går ud fra at: *dāvār* (»et ord«) skal læses som: *dᵊvārô*: »›hans ord«, hvor »ord« er forstået som et nådesord. Andre oversætter lidt friere: »På Gud, hvis ord jeg vil prise, / på JHVH, hvis ord jeg vil prise, / på Gud har jeg stolet, jeg skal ikke frygte. / Hvad kan et menneske gøre mig?«",
+          "type": "E",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "\fJeg har stolet på Gud, jeg skal ikke frygte.\fHvad kan et menneske gøre mig?",
+      "title": "Tak",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fPå mig, Gud, hviler de løfter jeg har givet dig,\fjeg vil indfri med takofre.",
+      "number": 13,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor du befriede min sjæl fra døden,\fja, mine fødder fra fald,\fså jeg kan vandre for Guds ansigt\fi livets lys.",
+      "number": 14,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »mon ikke mine fødder fra fald?«",
+          "type": "T",
+          "position": 39
+        },
+        {
+          "text": "Kan også oversættes: »de levendes lys«.",
+          "type": "T",
+          "position": 105
+        }
+      ]
+    }
+  ]
+}

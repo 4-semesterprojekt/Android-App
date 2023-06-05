@@ -1,0 +1,131 @@
+{
+  "book": "Jobs bog",
+  "abbreviation": "Job",
+  "chapter": 35,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fElihu forsatte så\n\tmed at svare:",
+      "title": "Elihu anklager Job.",
+      "number": 1,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t»Har du mon tænkt på dette i forhold til retten:\n\t\t\t\tDu sagt:\n\t\t\t\t\t\t›Min retfærdighed er fra Gud,‹",
+      "number": 2,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Denne ordrette oversættelse kunne tolkes på mange andre måder: Jeg er mere retfærdig end Gud, jeg er retfærdig uden Gud eller jeg vil få ret i forhold til Gud.",
+          "type": "E",
+          "position": 100
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\tskønt du siger:\n\t\t\t\t\t\t\t\t›Hvad gavner det mig?\n\t\t\t\t\t\t\t\t\tHvordan får jeg gavn af at undgå synd?‹",
+      "number": 3,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen af  kî »for, fordi, at, når, skønt« vil helt afhænge af fortolkningen af sammenhængen og læsningen af bogen.",
+          "type": "E",
+          "position": 20
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tJeg vil svare dig igen med ord\n\t\t\t\t\t\t\t\t\tog dine venner med dig:",
+      "number": 4,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\tKig op mod himlen\n\t\t\t\t\t\t\t\t\t\t\tog se;\n\t\t\t\t\t\t\t\t\t\t\tbetragt skyerne,\n\t\t\t\t\t\t\t\t\t\tde ligger højt over dig.",
+      "number": 5,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\tHvis du har syndet,\n\t\t\t\t\t\t\t\t\t\t\thvad kunne du udføre iforhold til ham?\n\t\t\t\t\t\t\t\t\t\tEr dine overtrædelser mange,\n\t\t\t\t\t\t\t\t\t\t\thvad kunne du gøre imod ham?",
+      "number": 6,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\tMen hvis du har ret,\n\t\t\t\t\t\t\t\t\t\t\thvad kunne du så give ham\n\t\t\t\t\t\t\t\t\t\t\t\teller hvad ville han da tage imod fra din hånd?",
+      "number": 7,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\tFor et menneske som dig, hvad ville din ugudelighed gælde,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\teller for en menneskesøn din retfærdighed?",
+      "number": 8,
+      "version": 1668726000000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tOver de mange tilfælde af undertrykkelse råber de,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tde skriger om hjælp på grund af de mægtiges arm.",
+      "number": 9,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\tMen ingen siger:\n\t\t\t\t\t\t\t\t\t\t\t\t\t›Hvor er Gud som skabte mig,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\than som giver lovsange om natten,",
+      "number": 10,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\tsom belærer os bedre end dyrene på jorden\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog gør os visere end himlens fugle?‹",
+      "number": 11,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\tDa råber de,\n\t\t\t\t\t\t\t\t\t\t\t\t\tmen han svarer ikke på grund af de ondes hovmod.",
+      "number": 12,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\tDog, falskhed lytter Gud ikke til,\n\t\t\t\t\t\t\t\t\t\t\t\t\tog den Almægtige kigger ikke efter den.",
+      "number": 13,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\tMon du da for alvor vil sige:\n\t\t\t\t\t\t\t\t›Du må ikke kigge.‹\n\t\t\t\t\t\t\tRetten er jo sat i hans nærvær,\n\t\t\t\t\t\t\t\tog du skal bare vente på ham!",
+      "number": 14,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »for hans ansigt«.",
+          "type": "T",
+          "position": 102
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tMen nu,\n\t\t\t\tfordi hans vrede ikke straffer,\n\t\t\t\t\t\tog han ikke går op i overmodet,",
+      "number": 15,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Hebraisk: *wᵊlōˀ-yādaʕ bappaš mᵊʔōd* »ikke kender (personligt)/vedkender sig tåbelighed særlig meget.«",
+          "type": "E",
+          "position": 85
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\tså åbner Job sin mund med tom snak,\n\t\t\t\t\t\than kommer med mange ord uden forstand.«",
+      "number": 16,
+      "version": 1668726000000
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 58,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Al-tashket.\fAf David. Miktam.",
+      "title": "De uretfærdige ledere tiltales",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        },
+        {
+          "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt - salme",
+          "type": "T",
+          "position": 28
+        },
+        {
+          "text": "Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56-57; 59-60) fastholde en alvorlig situation i folkets erindring.",
+          "type": "T",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "\fTaler I virkelig retfærdighed i stumhed?\fDømmer I menneskets børn retskaffent?",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Forståelsen af linjen er usikker. Meningen kan være at ledere og dommere tier, hvor de burde hævde retfærdigheden. Ofte ændrer man dog vokaliseringen af ordet *ʔēlem* (»stumhed«) til *ʔēlîm*: »I guder« eller »I mægtige«. I så fald passer det sidste bedst i sammenhængen.",
+          "type": "T",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "\fNej, i hjertet øver I uret i landet,\fbaner vej for jeres hænders vold.",
+      "title": "De ugudeliges væsen",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordet »landet« kan evt. henføres til andet halvvers: »baner vej for jeres hænders vold i landet«.",
+          "type": "T",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "\fDe ugudelige er frafaldne fra moders skød,\fde som taler løgn, for vild fra moders liv.",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDe har gift som en slanges gift,\fde er som en døv kobra der stopper sit øre til",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord *peten* er navn på en giftslange, formodentlig en »kobra« eller lignende.",
+          "type": "T",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fså den ikke kan høre besværgerens røst,\fden øvede slangetæmmer.",
+      "title": "Bøn om dom",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGud! Knus deres tænder i deres mund,\fsønderbryd de unge løvers kæber, JHVHv!",
+      "number": 7,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fLad dem flyde ud som vand der løber bort,\fhan skal skyde sine pile af som om de er uden kraft,",
+      "number": 8,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »han rette sine pile som om de er afskårne/afstumpede/uden kraft«. På baggrund af parallellen v. 8a foreslås ofte en omstilling i konsonantteksten: »de skal visne som græs ved vejen«. Omstillingen har dog hverken støtte i hebraiske håndskrifter eller i gamle oversættelser.",
+          "type": "E",
+          "position": 95
+        }
+      ]
+    },
+    {
+      "text": "\fsom en snegl der opløses, idet den bevæger sig af sted,\fsom en kvindes dødfødte barn, som de der ikke har set solen.",
+      "number": 9,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFør jeres gryder mærker tjørnen,\fsom frisk eller som glød, blæser han ham bort.",
+      "title": "Den retfærdiges glæde og tro",
+      "number": 10,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Underforstået formodentlig: »varmen fra tjørnen«.",
+          "type": "T",
+          "position": 33
+        },
+        {
+          "text": "Oversættelsen af v. 9-10 er højst usikker. Der er mange forslag til rettelser, men de bliver alle vilkårlige.",
+          "type": "E",
+          "position": 80
+        }
+      ]
+    },
+    {
+      "text": "\fDen retfærdige skal glæde sig, for han har set hævn,\fhan skal vaske sine fødder i den ugudeliges blod,",
+      "number": 11,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fog mennesker skal sige:\f»Ja, der er løn til den retfærdige,\fJa, der er en Gud, som dømmer på jorden!«",
+      "number": 12,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »et menneske«, men det må opfattes kollektivt«.",
+          "type": "T",
+          "position": 13
+        }
+      ]
+    }
+  ]
+}

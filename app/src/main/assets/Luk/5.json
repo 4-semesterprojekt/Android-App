@@ -1,0 +1,77 @@
+{
+  "book": "Lukasevangeliet",
+  "abbreviation": "Luk",
+  "chapter": 5,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen det skete da folkeskaren trængte sig sammen om ham og hørte Guds ord mens han stod ved Genezaret sø,",
+      "number": 1,
+      "version": 1645052400000
+    },
+    {
+      "text": "da så han to både ligge ved søen; men fiskerne var gået fra borde og rensede deres garn.",
+      "number": 2,
+      "version": 1645052400000
+    },
+    {
+      "text": "Han gik om bord i en af bådene, den der tilhørte Simon, og bad ham om at lægge lidt fra land; og siddende der underviste han skarerne fra båden.",
+      "number": 3,
+      "version": 1645052400000
+    },
+    {
+      "text": "Men da han holdt op med at tale, sagde han til Simon: »Sejl ud på dybet og kast jeres garn ud til fangst!«",
+      "number": 4,
+      "version": 1645052400000
+    },
+    {
+      "text": "Simon sagde til ham: »Mester! Vi har slidt hele natten og fik ingenting; men på dit ord vil jeg kaste garnene ud.«",
+      "number": 5,
+      "version": 1645052400000
+    },
+    {
+      "text": "Da de gjorde det, fik de en stor mængde fisk i deres garn, men garnene var ved at gå i stykker.",
+      "number": 6,
+      "version": 1645052400000
+    },
+    {
+      "text": "De gjorde tegn til deres kammerater i den anden båd at de skulle komme og hjælpe dem. De kom, og de fyldte begge både så de var lige ved at synke.",
+      "number": 7,
+      "version": 1645052400000
+    },
+    {
+      "text": "Men da Simon Peter så det, faldt han ned for Jesu knæ og sagde: »Gå bort fra mig, for jeg er en syndig mand, Herre!«",
+      "number": 8,
+      "version": 1645052400000
+    },
+    {
+      "text": "For en rædsel var kommet over ham og alle dem som var med ham, over den fiskefangst de havde fået;",
+      "number": 9,
+      "version": 1645052400000
+    },
+    {
+      "text": "ligeledes også Jakob og Johannes, Zebedæus's sønner, som var Simons partnere. Jesus sagde til Simon: »Frygt ikke, fra nu af skal du fange mennesker.«",
+      "number": 10,
+      "version": 1645052400000
+    },
+    {
+      "text": "Og de lagde bådene til land og forlod alting og fulgte ham.",
+      "number": 11,
+      "version": 1645052400000
+    }
+  ]
+}

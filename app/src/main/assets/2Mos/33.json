@@ -1,0 +1,189 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 33,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Literært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJHVH talte til Moses: »Gå, drag op herfra, du og det folk, du førte op fra Egyptens land, til det land som jeg tilsvor Abraham, Isak og Jakob, idet jeg sagde: ›Dine efterkommere vil jeg give det.‹",
+      "title": "Folket skal fortsætte vandringen, men JHVH vil ikke gå med",
+      "number": 1,
+      "version": 1616022000000
+    },
+    {
+      "text": "Jeg vil sende en engel foran dig – jeg vil fordrive kana’anæerne, amoritterne, hittitterne, perizzitterne, hivvtiterne og jebusitterne —",
+      "number": 2,
+      "version": 1616022000000
+    },
+    {
+      "text": "til et land som flyder med mælk og honning; men jeg vil ikke drage op i din midte, for du er et stivnakket folk, så jeg ikke skal udslette dig på vejen.«",
+      "number": 3,
+      "version": 1616022000000
+    },
+    {
+      "text": "Da folket hørte denne tunge besked, sørgede de, og ingen tog smykker på.",
+      "number": 4,
+      "version": 1616022000000
+    },
+    {
+      "text": "JHVH sagde til Moses: »Sig til Israels børn: ›I er et stivnakket folk; hvis jeg et øjeblik drog op i din midte, måtte jeg udslette dig. Men tag nu dine smykker af, så vil jeg vide hvad jeg skal gøre ved dig.‹«",
+      "number": 5,
+      "version": 1616022000000
+    },
+    {
+      "text": "Så aflagde Israels børn deres smykker efter bjerget Horeb.",
+      "title": "Forsamlingsteltet flyttes uden for lejren",
+      "number": 6,
+      "version": 1616022000000
+    },
+    {
+      "text": "\fMen Moses tog teltet og slog det op uden for lejren, langt fra lejren, og kaldte det forsamlingsteltet. Og enhver som ville søge JHVH, måtte gå ud til forsamlingsteltet, som var uden for lejren.",
+      "number": 7,
+      "version": 1616022000000
+    },
+    {
+      "text": "Når Moses gik ud til teltet, rejste hele folket sig, og de stillede sig hver i sin teltåbning og så efter Moses indtil han kom ind i teltet.",
+      "number": 8,
+      "version": 1616022000000
+    },
+    {
+      "text": "Og når Moses kom ind i teltet, steg skysøjlen ned og stod i teltåbningen, og han talte med Moses.",
+      "number": 9,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Det er JHVH.",
+          "type": "E",
+          "position": 80
+        }
+      ]
+    },
+    {
+      "text": "Hele folket så skysøjlen stå i teltåbningen, og hele folket rejste sig, og de kastede sig ned, hver i sin teltåbning.",
+      "number": 10,
+      "version": 1616022000000
+    },
+    {
+      "text": "Og JHVH talte til Moses, ansigt til ansigt, som en mand taler med sin ven. Så vendte han tilbage til lejren, men hans tjener Josva, Nuns søn, en ung mand, veg ikke fra teltet.",
+      "title": "Dialog mellem Moses og JHVH",
+      "number": 11,
+      "version": 1616022000000
+    },
+    {
+      "text": "\fMoses sagde til JHVH: »Se, du siger til mig: ›Før dette folk op,‹ men du har ikke ladet mig vide hvem du vil sende med mig; du har dog sagt: ›Jeg kender dig ved navn, og du har også fundet nåde for mine øjne.‹",
+      "number": 12,
+      "version": 1616022000000
+    },
+    {
+      "text": "Og nu, hvis jeg virkelig har fundet nåde for dine øjne,  beder jeg dig om at vise mig dine veje så jeg kan kende dig, for at jeg kan finde nåde for dine øjne; og se, denne skare er dit folk!«",
+      "number": 13,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske *gôy* skal i mange sammenhænge oversættes: »folk«, men det bruges oftest om folkeslag uden for Israel.",
+          "type": "T",
+          "position": 177
+        }
+      ]
+    },
+    {
+      "text": "Han sagde: »Jeg vil selv gå med, og jeg vil skaffe dig hvile.«",
+      "number": 14,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »mit ansigt«.",
+          "type": "T",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "Men han sagde til ham: »Hvis du ikke selv går med, skal du ikke føre os op herfra.",
+      "number": 15,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »dit ansigt«.",
+          "type": "T",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "Og hvorpå skulle det dog kendes, at jeg har fundet nåde for dine øjne, jeg og dit folk? Mon ikke derpå at du går med os? Og at vi er udvalgte, jeg og dit folk, frem for hvert folk som er på jordens overflade?«",
+      "number": 16,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »jordens ansigt«.",
+          "type": "T",
+          "position": 209
+        }
+      ]
+    },
+    {
+      "text": "Da sagde JHVH til Moses: »Også det, du her har talt om, vil jeg gøre; for du har fundet nåde for mine øjne, og jeg kender dig ved navn.«",
+      "number": 17,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »den sag/det ord«",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "Men han sagde: »Jeg beder dig, lad mig se din herlighed!«",
+      "number": 18,
+      "version": 1616022000000
+    },
+    {
+      "text": "Og han sagde: »Jeg vil lade al min skønhed drage forbi for dit ansigt, og jeg vil udråbe JHVHs navn for dit ansigt; og jeg vil være nådig mod den som jeg er nådig mod, og forbarme mig over den som jeg forbarmer mig over«",
+      "number": 19,
+      "version": 1616022000000
+    },
+    {
+      "text": "Han sagde: »Du kan ikke se mit ansigt; for mennesket kan ikke se mig og leve«",
+      "number": 20,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »skal«.",
+          "type": "T",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "JHVH sagde: »Se, her er et sted hos mig, og du skal stå på klippen.",
+      "number": 21,
+      "version": 1616022000000
+    },
+    {
+      "text": "Men når min herlighed går forbi, stiller jeg dig i klippens kløft, og jeg vil dække over dig med min hånd  indtil jeg er gået forbi.",
+      "number": 22,
+      "version": 1616022000000
+    },
+    {
+      "text": "Så tager jeg min hånd væk, og du skal se mig bagfra; men mit ansigt kan ikke ses.«",
+      "number": 23,
+      "version": 1616022000000
+    }
+  ]
+}

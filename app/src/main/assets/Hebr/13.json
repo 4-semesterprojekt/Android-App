@@ -1,0 +1,47 @@
+{
+  "book": "Brevet til Hebræerne",
+  "abbreviation": "Hebr",
+  "chapter": 13,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDerfor led også Jesus uden for porten for at han kunne hellige folket ved sit eget blod.",
+      "number": 12,
+      "version": 1618351200000
+    },
+    {
+      "text": "Så lad os da gå ud til ham uden for lejren idet vi bærer hans vanære;",
+      "number": 13,
+      "version": 1618351200000
+    },
+    {
+      "text": "for her har vi ikke en blivende by, men vi søger den kommende.",
+      "number": 14,
+      "version": 1618351200000
+    },
+    {
+      "text": "Lad os da ved ham altid frembære et lovprisningsoffer til Gud, det er: frugten af læber der bekender hans navn.",
+      "number": 15,
+      "version": 1618351200000
+    },
+    {
+      "text": "Men glem ikke godgørenhed og uselviskhed; for sådanne ofre behager Gud.",
+      "number": 16,
+      "version": 1618351200000
+    }
+  ]
+}

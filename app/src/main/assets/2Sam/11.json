@@ -1,0 +1,39 @@
+{
+  "book": "Anden Samuelsbog",
+  "abbreviation": "2Sam",
+  "chapter": 11,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDa Urias’ hustru hørte at hendes mand Urias var død, sørgede hun over sin ægtemand.",
+      "number": 26,
+      "version": 1644274800000
+    },
+    {
+      "text": "Men da sørgetiden var forbi, sendte David bud og lod hende hente hjem til sig, og hun blev hans hustru og fødte ham en søn. Men det David havde gjort var ondt i HERRENS øjne.",
+      "number": 27,
+      "version": 1644274800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »og tog hende ind i sit hus«.",
+          "type": "T",
+          "position": 69
+        }
+      ]
+    }
+  ]
+}

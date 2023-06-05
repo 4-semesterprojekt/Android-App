@@ -1,0 +1,257 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 44,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\fMaskil af Koras sønner.",
+      "title": "Lovsang for Guds gerninger for folket",
+      "number": 1,
+      "version": 1527026400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        },
+        {
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
+          "position": 23
+        }
+      ]
+    },
+    {
+      "text": "\fGud, med vore ører har vi hørt det,\fvore fædre har fortalt os det,\fden gerning du udførte i deres dage,\fi gamle dage.",
+      "number": 2,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fDu – din hånd - fordrev folkeslag, men dem plantede du,\fdu sønderbryder nationer, men dem lader du brede sig.",
+      "number": 3,
+      "version": 1527026400000,
+      "footnotes": [
+        {
+          "text": "»du – din hånd« trækkes ofte tilbage som afslutning af v. 2 (»i gamle dage, med din hånd«).",
+          "type": "E",
+          "position": 14
+        },
+        {
+          "text": "Det er »fædrene«.",
+          "type": "T",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\fFor ikke ved deres sværd indtog de landet,\fog deres arm hjalp dem ikke,\fmen din højre hånd og din arm\fog dit ansigts lys,\ffor du holdt af dem.",
+      "title": "Erklæring af tillid til Gud",
+      "number": 4,
+      "version": 1527026400000,
+      "footnotes": [
+        {
+          "text": "Eller: »havde velbehag i dem«.",
+          "type": "T",
+          "position": 143
+        }
+      ]
+    },
+    {
+      "text": "\fDu, du er min konge, Gud,\fbefal Jakobs frelse at komme!",
+      "number": 5,
+      "version": 1527026400000,
+      "footnotes": [
+        {
+          "text": "Se note til næste linje.",
+          "type": "T",
+          "position": 26
+        },
+        {
+          "text": "Bl.a. med støtte i Septuaginta retter man ofte så imperativen undgås: *ʔᵉlōhîm ṣawwēʰ* (»Gud, befal«) til *ʔᵉlōhāj mᵉṣawweʰ*: »(du er min konge,) min Gud, du befaler …«. I konsonantteksten er der blot tale om at lade det *m*, der er sidste bogstav i *ʔᵉlōhîm* være første bogstav i det efterfølgende *ṣawwēʰ*.",
+          "type": "E",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fVed dig skal vi støde vore fjender ned,\fi dit navn skal vi træde modstandere ned.",
+      "number": 6,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fFor jeg vil ikke stole på min bue,\fog mit sværd kan ikke frelse mig.",
+      "number": 7,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fMen du har frelst os fra vore fjender,\fog du har gjort dem som hader os, til skamme.",
+      "number": 8,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fGud har vi lovprist hele dagen,\fog dit navn vil vi takke til evig tid. Sela",
+      "title": "Klage over katastrofen",
+      "number": 9,
+      "version": 1527026400000,
+      "footnotes": [
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "\fAlligevel har du forstødt os og gjort os til skamme\fog vil ikke drage ud med vore hære.",
+      "number": 10,
+      "version": 1527026400000,
+      "footnotes": [
+        {
+          "text": "Verberne i afsnittet skifter mellem qatal og yiqtol. Man kunne vælge at lade dem alle være afhængige af det første (»du har forstødt os«) og oversætte alle ved fortid. Her afspejles skiftet i de hebraiske verber, så yiqtol angiver nutid eller nær forestående fremtid.",
+          "type": "E",
+          "position": 52
+        }
+      ]
+    },
+    {
+      "text": "\fDu lader os vige tilbage for fjenden,\fog de som hader os, har taget sig bytte.",
+      "number": 11,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fDu giver os hen som småkvæg til at fortæres\fog har spredt os blandt folkeslagene.",
+      "number": 12,
+      "version": 1527026400000,
+      "footnotes": [
+        {
+          "text": "Oversættes ofte: »slagtefår«.",
+          "type": "T",
+          "position": 44
+        },
+        {
+          "text": "Kan også oversættes: »hedningerne«.",
+          "type": "T",
+          "position": 82
+        }
+      ]
+    },
+    {
+      "text": "\fDu sælger dit folk for intet,\fog du fik ingen gevinst ved prisen for dem.",
+      "number": 13,
+      "version": 1527026400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »for ikke-rigdom«.",
+          "type": "T",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "\fDu gør os til skændsel for vore naboer,\ftil spot og spe for vore omgivelser.",
+      "number": 14,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fDu gør os til et ordsprog blandt folkeslagene,\fman ryster på hovedet over os blandt folkene.",
+      "number": 15,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fHele dagen har jeg min skændsel foran mig,\fog mit ansigts skam har tildækket mig",
+      "number": 16,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fpå grund af en spottende og hånende stemme,\fpå grund af fjendes og hævngerrigs blik.",
+      "title": "Vi var ikke utro imod din pagt",
+      "number": 17,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fAlt dette er kommet over os, men vi havde ikke glemt dig,\fog vi var ikke utro imod din pagt.",
+      "number": 18,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fVort hjerte veg ikke tilbage,\fog vor gang bøjede ikke af fra din vej,",
+      "number": 19,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fså at du skulle knuse os i sjakalers tilholdssted\fog dække os med dødsskygge.",
+      "number": 20,
+      "version": 1527026400000,
+      "footnotes": [
+        {
+          "text": "Det er enten ørken eller ruinby.",
+          "type": "T",
+          "position": 50
+        },
+        {
+          "text": "*ṣalmāwæt* er usædvanligt ved at være sammensat af to ord: *ṣel* (»skygge«) og *māwæt* (»død«). Og skygge er normalt i Mellemøsten et gode. Men digteren kan have villet understrege den yderste hjælpeløshed ved et sammensat ord. Ofte oversættes ordet nu blot: »mørke, skygge«.",
+          "type": "E",
+          "position": 78
+        }
+      ]
+    },
+    {
+      "text": "\fHvis vi glemte vor Guds navn\fog bredte vore hænder ud mod en fremmed gud,",
+      "number": 21,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fville Gud så ikke gennemskue det?\fFor han kender et hjertes hemmeligheder.",
+      "number": 22,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fAlligevel dræbes vi dagen lang på grund af dig,\fvi regnes som slagtefår.",
+      "title": "Afsluttende bøn",
+      "number": 23,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fVågn, hvorfor vil du sove, Herre?\fVågn op, forkast ikke for evigt!",
+      "number": 24,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fHvorfor vil du skjule dit ansigt,\fglemme vor nød og vor trængsel?",
+      "number": 25,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fFor vor sjæl er bøjet ned i støvet,\fvor krop er klæbet til jorden.",
+      "number": 26,
+      "version": 1527026400000
+    },
+    {
+      "text": "\fRejs dig som hjælp for os\fog forløs os for din nådes skyld!",
+      "number": 27,
+      "version": 1527026400000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 53
+        }
+      ]
+    }
+  ]
+}

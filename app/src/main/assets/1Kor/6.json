@@ -1,0 +1,130 @@
+{
+  "book": " Paulus' Første Brev til Korintherne",
+  "abbreviation": "1Kor",
+  "chapter": 6,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fNår nogen har en sag imod en anden, hvordan tør han så få den pådømt hos de uretfærdige, og ikke hos de hellige?",
+      "title": "Paulus bebrejder dem, at de fører retssager imod hinanden for hedenske domstole, hvad der strider mod de kristnes værdighed, 1-6. Det er i det hele taget forkert, at de har den slags sager med hinanden og ikke i stedet lider uret, men begår uret og glemmer, at det at leve syndigt udelukker fra Guds rige, hvorimod de som kristne er bestemt til hellighed, 7-11. Han advarer mod misbrug af den kristne frihed, særlig når det drejer sig om seksuelle synder, og formaner til at undgå seksuel umoral og ære sit legeme som en bolig for Guds ånd, 12-20.",
+      "number": 1,
+      "version": 1539036000000,
+      "footnotes": [
+        {
+          "text": "de hedenske Dommere",
+          "type": "T",
+          "position": 89
+        }
+      ]
+    },
+    {
+      "text": "Eller ved I ikke, at de hellige skal dømme verden? og når verden dømmes af jer, er I da ikke værdige til at sidde til doms i de mindste sager?",
+      "number": 2,
+      "version": 1539036000000
+    },
+    {
+      "text": "Ved I ikke, at vi skal dømme engle? Hvor meget mere så ikke det, der hører denne verden til!",
+      "number": 3,
+      "version": 1539036000000
+    },
+    {
+      "text": "Når I så har sager om ting, der hører dette liv til, sætter I da dem til at være dommere, der ikke bliver regnet for noget i Menigheden?",
+      "number": 4,
+      "version": 1539036000000
+    },
+    {
+      "text": "Til Skam for jer siger jeg det: Så er der altså slet ingen viis iblandt jer, der kan dømme sine brødre imellem.",
+      "number": 5,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men broder fører sag imod broder, og det for vantro!",
+      "number": 6,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fDet er jo i det hele taget allerede en fejl hos jer, at I har retssager med hinanden. Hvorfor lider I ikke hellere uret? Hvorfor lader I jer ikke hellere udplyndre?",
+      "number": 7,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men I gør uret og udplyndrer, og det brødre!",
+      "number": 8,
+      "version": 1539036000000
+    },
+    {
+      "text": "Eller ved I ikke, at uretfærdige ikke skal arve Guds rige? Bliv ikke vildledt! Hverken seksuelt umoralske eller afgudsdyrkere eller ægteskabsbrydere eller de, der lader sig bruge til unaturlig sex, eller de, der udøver den,",
+      "number": 9,
+      "version": 1539036000000
+    },
+    {
+      "text": "eller tyve eller havesyge eller drankere, ingen bagtalere, ingen røvere skal arve Guds rige.",
+      "number": 10,
+      "version": 1539036000000
+    },
+    {
+      "text": "Og sådan var nogle af jer; men I blev vasket rene, ja, I blev gjort hellige, ja, I blev gjort retfærdige ved Herren Jesu navn og ved vor Guds Ånd.",
+      "number": 11,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fAlt er tilladt for mig, men ikke alt er gavnligt; alt er tilladt for mig, men jeg skal ikke lade mig beherske af noget.",
+      "number": 12,
+      "version": 1539036000000
+    },
+    {
+      "text": "Maden er til for maven og maven for maden; men Gud skal tilintetgøre både den ene og den anden. Legemet derimod er ikke til for seksuel umoral, men for Herren, og Herren for legemet;",
+      "number": 13,
+      "version": 1539036000000
+    },
+    {
+      "text": "og Gud har både oprejst Herren og skal oprejse os ved sin kraft.",
+      "number": 14,
+      "version": 1539036000000
+    },
+    {
+      "text": "Ved I ikke, at jeres legemer er Kristi lemmer? Skal jeg da tage Kristi lemmer og gøre dem til en luders lemmer? Det må ikke ske!",
+      "number": 15,
+      "version": 1539036000000
+    },
+    {
+      "text": "Eller ved I ikke, at den, der holder sig til luderen, er ét legeme med hende? »Thi de to,« hedder det, »skal blive til ét kød.«",
+      "number": 16,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men den, der holder sig til Herren, er én ånd med ham.",
+      "number": 17,
+      "version": 1539036000000
+    },
+    {
+      "text": "Flygt for seksuel umoral! Enhver synd, som et menneske ellers gør, er uden for legemet; men den, der gør noget seksuelt umoralsk, synder imod sit eget legeme.",
+      "number": 18,
+      "version": 1539036000000
+    },
+    {
+      "text": "Eller ved I ikke, at jeres legeme er et tempel for Helligånden, der er i jer, og som I har fra Gud, og at I ikke ejer jer selv?",
+      "number": 19,
+      "version": 1539036000000
+    },
+    {
+      "text": "For I blevet købt dyrt; ær derfor Gud i jeres legeme!",
+      "number": 20,
+      "version": 1539036000000
+    }
+  ]
+}

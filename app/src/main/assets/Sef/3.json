@@ -1,0 +1,217 @@
+{
+  "book": "Sefanias' Bog",
+  "abbreviation": "Sef",
+  "chapter": 3,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fVe den oprørske og besmittede, den undertrykkende by!",
+      "title": "Den oprørske by",
+      "number": 1,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fDen hører ikke på nogen røst, den tager ikke imod tugt,\fden stoler ikke på JHVH, den holder sig ikke nær til sin Gud.",
+      "number": 2,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes med »opdragelse« eller »formaning«.",
+          "type": "E",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fDens fyrster i dens midte er brølende løver,\fdens dommere er aftenulve som ikke levner til om morgenen.",
+      "number": 3,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fDens profeter er uforskammede, bedrageriske mænd,\fdens præster vanhelliger det hellige, gør vold på vejledningen.",
+      "title": "JHVHs retfærdighed og Jerusalems genoprettelse",
+      "number": 4,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Eller »instruktionen«. Ordret »torah'en«.",
+          "type": "E",
+          "position": 114
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH er retfærdig i dens midte, han gør ikke uret.\fMorgen efter morgen lader han sin beslutning komme for lyset.\f- Det slår ikke fejl. –\fMen den uretfærdige kender ikke til skam.",
+      "number": 5,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Ordret »hendes«, sandsynligvis refererende til Jerusalem.",
+          "type": "E",
+          "position": 25
+        },
+        {
+          "text": "Det hebraiske *mišpāṭ* kan også oversættes med »ret« eller »bud«. »Beslutning« er dog det mest oplagte i konteksten, jf. v. 8.",
+          "type": "E",
+          "position": 96
+        },
+        {
+          "text": "Sidste del af verset kan også oversættes »han [= JHVH] kender ikke til uretfærdighed, skam«, jf. LXX og Vulgata.",
+          "type": "E",
+          "position": 179
+        }
+      ]
+    },
+    {
+      "text": "\fJeg udryddede folkeslag,\fderes hjørnetårne er ødelagte,\fjeg har knust deres gader så ingen går gennem dem,\fderes byer er ødelagt så der ikke er nogen;\fingen bor der.",
+      "number": 6,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fJeg sagde: »Sandelig, du skal frygte mig, tag imod tugt!«\fså ville hendes bolig ikke blive udryddet,\fintet af alt det jeg havde bestemt over hende.\fMen de stod tidligt op;\falle deres gerninger var fordærvede.",
+      "number": 7,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Udtrykket »havde bestemt over hende« kan også oversættes med »jeg straffede hende«, sådan at verset ville have betydningen at selvom Gud straffede byen, ville han ikke helt udrydde den.",
+          "type": "E",
+          "position": 148
+        }
+      ]
+    },
+    {
+      "text": "\fDerfor, vent på mig, siger JHVH,\fpå den dag hvor jeg rejser mig efter bytte!\fFor min beslutning er at jeg vil indsamle folkeslagene,\fat jeg vil samle kongerigerne\ffor at udøse min fortørnelse over dem, al min brændende vrede.\fFor ved min lidenskabelige ild skal hele jorden fortæres.",
+      "number": 8,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fFor da vil jeg forvandle folkenes læber til rene læber for at de alle kan påkalde JHVHs navn og tjene ham i enhed.",
+      "number": 9,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Ordret »med én skulder«, der på dansk kan gengives med »skulder ved skulder«.",
+          "type": "E",
+          "position": 115
+        }
+      ]
+    },
+    {
+      "text": "\fFra regionen bag Kush's floder skal mine tilbedere, mit spredte folk, bringe mine afgrødeofre.",
+      "number": 10,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fDen dag skal du ikke skamme dig på grund af alle de gerninger hvormed du forbrød dig imod mig,\ffor da vil jeg fjerne de stolte og pralende fra din midte,\fog du skal ikke længere ophøje dig selv på mit hellige bjerg.",
+      "number": 11,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fMen jeg vil lade et ydmygt og svagt folk blive tilbage i din midte,\fog de skal søge tilflugt i JHVHs navn.",
+      "number": 12,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fIsraels rest skal ikke gøre uret og ikke lyve,\fog der skal ikke findes en bedragerisk tunge i deres mund,\ffor de skal finde føde og hvile,\fog ingen skal skræmme dem.\n\n",
+      "number": 13,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Ordret »græsse«, der er taget fra en hyrde-metaforik.",
+          "type": "E",
+          "position": 129
+        }
+      ]
+    },
+    {
+      "text": "\fSyng, Zions datter!\fRåb højt, Israel!\fLovsyng, og fryd dig af hele dit hjerte, Jerusalems datter!",
+      "number": 14,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fJHVH har fjernet dommene over dig;\fhan har udryddet din fjende.\fJHVH, Israels konge, er i din midte,\fdu skal ikke længere frygte noget ondt.",
+      "number": 15,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Eller »beslutningerne«, jf. v. 5 og 8.",
+          "type": "E",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "\fPå den dag skal der siges til Jerusalem:\f»Frygt ikke, Zion! Lad ikke dine hænder synke!«",
+      "number": 16,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fJHVH din Gud i din midte;\fen kriger som frelser.\fHan skal glæde sig over dig med fryd,\fhan skal tie i sin kærlighed,\fhan skal juble over dig med lovsang.",
+      "number": 17,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "»som« er underforstået i »en kriger som frelser«.",
+          "type": "E",
+          "position": 49
+        }
+      ]
+    },
+    {
+      "text": "\fDe som var bedrøvede fordi de ikke kunne komme til højtiden,\fdem vil jeg samle, fra dig var de.\fForhånelse har hvilet som en byrde over dem.",
+      "number": 18,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Verset er vanskeligt, og der er foreslået mange oversættelser. En anden mulig oversættelse end den der er forslået her, er at forstå *môʕēd* mere ordret som »den fastsatte tid« i stedet for »højtid« og at forstå *ʔāsaftî* som »jeg straffede« i stedet for »jeg samlede« (jf. 1,2-3), hvilket ville give oversættelsen »De som led på grund af den fastsatte tid [hvor] jeg straffede jer, de var en forhånelse [som] lå over dem«.",
+          "type": "E",
+          "position": 141
+        }
+      ]
+    },
+    {
+      "text": "\fSe, til den tid vil jeg skride ind mod alle som plager dig;\fjeg vil frelse den haltende og samle de fordrevne\fog gøre dem til pris og til ære i hele det land hvori de blev til skamme.",
+      "number": 19,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Ordret »navn«.",
+          "type": "E",
+          "position": 142
+        },
+        {
+          "text": "Eller »over hele jorden«.",
+          "type": "E",
+          "position": 158
+        }
+      ]
+    },
+    {
+      "text": "\fTil den tid vil jeg bringe jer;\ftil den tid vil jeg samle.\fFor jeg vil gøre jer til ære og pris blandt alle jordens folk\fnår jeg omvender jeres fangenskab for øjnene af jer,\fsiger JHVH.",
+      "number": 20,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Ordret »navn«.",
+          "type": "E",
+          "position": 88
+        },
+        {
+          "text": "Se noten til 2,7.",
+          "type": "E",
+          "position": 155
+        }
+      ]
+    }
+  ]
+}

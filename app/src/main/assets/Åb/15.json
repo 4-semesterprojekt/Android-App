@@ -1,0 +1,33 @@
+{
+  "book": " Johannes’ Åbenbaring",
+  "abbreviation": "Åb",
+  "chapter": 15,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Torben Kjær",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Literært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJeg så et andet tegn i himlen, stort og forunderligt: Syv engle med de syv sidste plager, for med dem er Guds harme afsluttet. v2 Jeg så noget ligesom et glashav blandet med ild og dem som havde sejret over dyret og dets billedet og dets navns tal, stående ved glashavet med Guds harper, v3 og de synger Guds tjener Moses’ sang og Lammets sang:\f»Store og forunderlige er dine gerninger,Herre Gud, den almægtige\fretfærdige og sande er dine veje,\ffolkenes konge,\fv4 hvem vil ikke frygte dig, Herre\fog herliggøre dit navn,\ffor du alene er hellig,\fja, alle folkene vil komme\fog tilbede for dit ansigt,\ffor dine retfærdige gerninger er blevet åbenbaret.«",
+      "title": "De syv engle med de sidste syv plager",
+      "number": 1,
+      "version": 1648076400000
+    },
+    {
+      "text": "\fDerefter så jeg dette, og se, templet, det vil sige vidnesbyrdets telt, i himlen var åbnet, v6 og de syv engle med de syv plager kom ud af templet, iført lysende rene linnedklæder og guldbælter om brystet. v7 Et af de fire livsvæsener gav de syv engle syv guldskåle fyldt med Guds harme, han som lever i evighederne evigheder. v8 Templet blev fyldt med røg fra Guds herlighed og fra hans kraft, og ingen kunne gå ind i templet før de syv engles syv plager var afsluttet.",
+      "number": 5,
+      "version": 1648076400000
+    }
+  ]
+}

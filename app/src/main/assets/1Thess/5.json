@@ -1,0 +1,109 @@
+{
+  "book": " Paulus' Første Brev til Thessalonikerne",
+  "abbreviation": "1Thess",
+  "chapter": 5,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Ulrik Sandborg-Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen om timer og tider, brødre, har I ikke brug for, at der skrives til jer. v2 For I ved selv nøje, at Herrens dag kommer på samme måde som en tyv om natten.  v3 Når de siger: ›Fred og ingen fare,‹ da kommer undergangen pludseligt over dem, ligesom veerne kommer over en, der er gravid, og de skal på ingen måde undslippe.  v4 I, derimod, brødre, er ikke i mørket, så at dagen skulle kunne overgribe jer som en tyv.  v5 For I er alle lysets børn og dagens børn.  Vi tilhører ikke natten, og heller ikke mørket.  v6 Så lad os da ikke sove ligesom de andre, men lad os være vågne og ædru.  v7 For de, som sover, sover om natten, og de, som bliver fulde, er fulde om natten.  v8 Men da vi nu hører til dagen, så lad os være ædru, iførte troens og kærlighedens brynje, og som hjelm håbet om frelsen. v9 For Gud bestemte os ikke til vrede, men til at opnå frelse ved vor Herre, Jesus Kristus, v10 som døde i vort sted, for at vi skulle leve sammen med ham, hvad enten vi våger eller sover.  v11 Trøst derfor hinanden og opbyg hinanden indbyrdes, således som I også gør.",
+      "number": 1,
+      "version": 1494540000000
+    },
+    {
+      "text": "\fMen vi beder jer, brødre, om at I påskønner dem, som slider iblandt jer, som er jeres forstandere i Herren, og som formaner jer. v13 Og vi beder jer om, at I tænker overstrømmende højt om dem i kærlighed, på grund af deres arbejde. Hold fred med hinanden!",
+      "number": 12,
+      "version": 1494540000000,
+      "footnotes": [
+        {
+          "text": "*vi beder jer* Disse ord er indføjet fra vers 12, da sætningen ellers ville blive for knudret.",
+          "type": "T",
+          "position": 149
+        }
+      ]
+    },
+    {
+      "text": "\fVi formaner jer, brødre: Retled dem, som er ude af geled; Opmuntr de modløse, tag jer af de syge, vær langmodige mod alle. v15 Se til, at ingen gengælder nogen ondt med ondt, men stræb altid efter at gøre det gode, både mod hinanden og mod alle.\n\n",
+      "number": 14,
+      "version": 1494540000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »forman de uordentlige«.",
+          "type": "T",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\fGlæd jer altid;",
+      "number": 16,
+      "version": 1494540000000
+    },
+    {
+      "text": "\fbed uophørligt;",
+      "number": 17,
+      "version": 1494540000000
+    },
+    {
+      "text": "\fsig tak under alle forhold, for det er Guds gode vilje for jer i Kristus Jesus.\n\n",
+      "number": 18,
+      "version": 1494540000000
+    },
+    {
+      "text": "\fUdsluk ikke Ånden;",
+      "number": 19,
+      "version": 1494540000000
+    },
+    {
+      "text": "\fforagt ikke profetier,",
+      "number": 20,
+      "version": 1494540000000
+    },
+    {
+      "text": "\fmen vurder alt, behold det gode;",
+      "number": 21,
+      "version": 1494540000000
+    },
+    {
+      "text": "\fhold jer væk fra enhver form for ondskab.\n\n",
+      "number": 22,
+      "version": 1494540000000
+    },
+    {
+      "text": "\fMå fredens Gud selv hellige jer helt og aldeles.  Og må hele jeres ånd, sjæl og legeme blive bevaret ulasteligt ved vor Herres Jesu Kristi komme. v24 Trofast er han, som kaldte jer; han vil også gøre det.",
+      "number": 23,
+      "version": 1494540000000
+    },
+    {
+      "text": "\fBrødre, bed også for os.",
+      "number": 25,
+      "version": 1494540000000
+    },
+    {
+      "text": "\fHils alle brødrene med et helligt kys. v27 Jeg besværger jer ved Herren, at I lader brevet oplæse for alle brødrene.",
+      "number": 26,
+      "version": 1494540000000,
+      "footnotes": [
+        {
+          "text": "Mange håndskrifter har: … oplæse for alle de hellige brødre.",
+          "type": "T",
+          "position": 117
+        }
+      ]
+    },
+    {
+      "text": "\fVor Herres Jesu Kristi nåde være med jer.",
+      "number": 28,
+      "version": 1494540000000
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 61,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHerren JHVHs Ånd er over mig, derfor har JHVH salvet mig til at forkynde et godt budskab for de fattige; han sendte mig for at helbrede dem, der har et sønderknust hjerte, for at udråbe frihed for de indespærrede og løsladelse for fangerne;",
+      "title": "Herrens tjener taler om sit kald og om indvielsen til sit embede, især til at prædike evangeliet for de bedrøvede; han taler igen om hedningernes omvendelse, 1-9; det frelste folk takker Gud med glæde for hans retfærdighed, for hans Ånds gaver og Åndens herlige frugter, 10-11.",
+      "number": 1,
+      "version": 1479423600000
+    },
+    {
+      "text": "for at udråbe JHVHs velbehags år og vores Guds hævns dag, for at trøste alle sørgende;",
+      "number": 2,
+      "version": 1479423600000
+    },
+    {
+      "text": "for at lægge det til rette for de sørgende i Zion, at der skal gives dem hovedprydelse i stedet for aske, glædens olie i stedet for sorg, lovprisningsdragt i stedte for en afmægtig ånd, så de skal kaldes retfærdighedens terebinter, JHVHs plantning, til hans herlighed.",
+      "number": 3,
+      "version": 1479423600000,
+      "footnotes": [
+        {
+          "text": "Terebinte er en vellugtende træsort",
+          "type": "T",
+          "position": 231
+        }
+      ]
+    },
+    {
+      "text": "Og de skal bygge de byer, de lå øde hen fra gammel tid, og opbygge det, der var ødelagt fra fortiden af, og genopføre de øde byer, der lå i grus fra slægt til slægt.",
+      "number": 4,
+      "version": 1479423600000
+    },
+    {
+      "text": "Og fremmede skal stå og vogte jeres får, og udlændinge skal være jeres agerdyrkere og vingårdsmænd.",
+      "number": 5,
+      "version": 1479423600000
+    },
+    {
+      "text": "Men I skal kaldes JHVHs præster, man skal kalde jer vores Guds tjenere; I skal leve af hedningernes gods og overtage deres herlighed.",
+      "number": 6,
+      "version": 1479423600000
+    },
+    {
+      "text": "I stedet for beskæmmelse fra dem, skal I have dobbelt ære, og i stedet for skam skal I få tildelt jubel; derfor skal I få en dobbelt arvelod i jeres land, I skal have evig glæde.",
+      "number": 7,
+      "version": 1479423600000
+    },
+    {
+      "text": "For jeg, JHVH, elsker ret og hader uretfærdigheds rov; og jeg vil trofast give dem deres løn og oprette en evig pagt med dem.",
+      "number": 8,
+      "version": 1479423600000
+    },
+    {
+      "text": "Og man skal kenderes deres afkom iblandt hedningerne og deres efterkommere midt iblandt folkene, alle, der ser dem, skal kende dem, at de er den slægt, som JHVH har velsignet.",
+      "number": 9,
+      "version": 1479423600000
+    },
+    {
+      "text": "\fJeg vil glæde mig højt, min sjæl skal fryde sig i min Gud; for han gav mig frelsens dragt på, han iklædte mig retfærdighedens kappe, som en brudgom, der sætter hovedpynten på, og som en brud, der pryder sig med sit smykke.",
+      "number": 10,
+      "version": 1479423600000
+    },
+    {
+      "text": "For som jorden, der giver sin afgrøde, og som en have, der lader sit frø vokse op, sådan skal Herren JHVH lade retfærdighed og lovsang vokse op for øjnene af alle hedningerne.",
+      "number": 11,
+      "version": 1479423600000
+    }
+  ]
+}

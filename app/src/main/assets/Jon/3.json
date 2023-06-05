@@ -1,0 +1,102 @@
+{
+  "book": "Jonas’ Bog",
+  "abbreviation": "Jon",
+  "chapter": 3,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Literært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHERRENS ord kom for anden gang til Jonas\n\tsom følger:",
+      "title": "Gud kalder igen Jonas",
+      "number": 1,
+      "version": 1645570800000
+    },
+    {
+      "text": "\t\t»Rejs dig,\n\t\tgå til den store by Nineve,\n\t\t\tog råb over den det budskab\n\t\t\t\tsom jeg nu taler til dig.«",
+      "title": "Jonas’ forkyndelse redder Nineve",
+      "number": 2,
+      "version": 1645570800000
+    },
+    {
+      "text": "Jonas rejste sig\n\tog gik til Nineve efter HERRENS ord.\n\t\tNineve var en stor by for Gud,\n\t\t\ten tur på tre dagsrejser.",
+      "number": 3,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "Ordet *mahᵃlāx* »rejse, vandring« bruges kun fem gange; det betyder næppe at byen er tre dagsrejser a 15 km i bredde, men snarere at forkynderturen skal foregå over tre dage.",
+          "type": "T",
+          "position": 116
+        }
+      ]
+    },
+    {
+      "text": "Jonas begyndte\n\t\tat gå ind i byen på første dagsrejse,\n\tog han råbte\n\tog sagde:\n\t\t»Om yderligere 40 dage\n\t\t\tvil Nineve gå til grunde.«",
+      "number": 4,
+      "version": 1645570800000
+    },
+    {
+      "text": "Da troede mændene i Nineve på Gud,\n\tog de udråbte en faste,\n\tog både store og små klædte sig i sæk.",
+      "number": 5,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "*Mændene* refererer måske her til lederne der har autoritet til at udråbe en faste.",
+          "type": "T",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "text": "Ordet nåede også kongen af Nineve,\n\tog han rejste sig fra sin trone,\n\tlagde sin prægtige kåbe fra sig\n\tog tildækkede sig i sæk,\n\tog han sad i asken.",
+      "number": 6,
+      "version": 1645570800000
+    },
+    {
+      "text": "\tHan lod udråbe\n\tog sige\n\t\ti Nineve ved et dekret fra kongen og hans stormænd\n\t\t\tfølgende:\n\t\t\t\t»Mennesker og husdyr som okser og småkvæg bør ikke indtage føde.\n\t\t\t\t\t\t\tDe bør ikke græsse,\n\t\t\t\t\t\tog vand bør de heller drikke.",
+      "number": 7,
+      "version": 1645570800000
+    },
+    {
+      "text": "\t\t\t\t\t\t\tMen de skal tildække sig i sæk, både mennesker og dyr,\n\t\t\t\t\t\t\t\tog råbe højt til Gud,\n\t\t\t\t\t\t\t\t\tog de skal omvende sig\n\t\t\t\t\t\t\t\t\t\thver især fra deres onde vej og fra den uret\n\t\t\t\t\t\t\t\t\t\t\tsom de har begået.",
+      "number": 8,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "Ordret »som [er] i deres hænder.«",
+          "type": "T",
+          "position": 208
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\tHvem ved\n\t\t\t\t\t\tom Gud igen\n\t\t\t\t\t\t\t\tvil angre\n\t\t\t\t\t\t\tog vende sig fra sin brændende vrede\n\t\t\t\t\t\t\t\tså vi ikke forgår.«",
+      "number": 9,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "»...om Gud igen vil angre«: Konstruktion på hebraisk er *yāšûv wᵊniḥam hāˀᵉlōhîm*: »...han vil gøre det igen, og så vil han angre, guden«. Effekten er at verbet *šwv* her både bruges grammatisk om at gentage noget, og efterfølgende om omvendelse.",
+          "type": "E",
+          "position": 50
+        }
+      ]
+    },
+    {
+      "text": "Gud så deres gerninger,\n\tat de omvendte sig fra deres onde vej,og Gud angrede det onde\n\t\than havde meddelt\n\t\t\tat han ville gøre mod dem,\n\tog han gjorde det ikke.",
+      "number": 10,
+      "version": 1645570800000
+    }
+  ]
+}

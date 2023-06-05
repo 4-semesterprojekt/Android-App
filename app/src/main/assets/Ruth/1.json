@@ -1,0 +1,175 @@
+{
+  "book": "Ruths bog",
+  "abbreviation": "Ruth",
+  "chapter": 1,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fPå den tid\n\t\thvor dommerne virkede\n\tvar der hungersnød i landet,\n\tog en mand fra Betlehem i Juda\n\t\t\t\t\trejste til Moabs land for at slå sig ned der\n\t\t\t\tsammen med sin hustru og deres to sønner.",
+      "title": "Hungersnød får Elimelek til at drage med sin hustru og to sønner fra Betlehem til landet Moab hvor han dør; hans sønner gifter sig og dør også.",
+      "number": 1,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "*šōfᵊṭîm* »dommere« bibeholdes men verbet *šᵊfōṭ* »dømme« oversættes ikke med »dømme«, fordi dommerne ikke først og fremmest fungerede i retssalen, men mere var ledere af befrielseskampene.",
+          "type": "E",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\t\t\tManden hed Elimelek,\n\t\t\t\thans hustru No'omi,\n\t\t\t\tog de to sønner hed Maklon og Kiljon.\n\t\t\t\t\tDe var efratiter fra Betlehem i Juda,\n\t\tog de kom til Moab\n\t\tog blev der.",
+      "number": 2,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tElimelek, No'omis mand, døde,\n\t\tog hun sad tilbage med sine to sønner.",
+      "number": 3,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\tDe giftede sig med moabitiske kvinder,\n\t\t\t\tden ene hed Orpa,\n\t\t\t\t\tog den anden hed Ruth.\n\t\t\tDe boede der i omkring ti år.",
+      "number": 4,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tSå døde også både Maklon og Kiljon.\n\tKvinden havde nu mistet begge sine sønner og sin mand.",
+      "title": "Hustruen, No'omi, vil drage tilbage til Betlehem; hendes ene svigerdatter tager tilbage til sin familie, men den anden, nemlig Ruth, vil ikke forlade hende.",
+      "number": 5,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\tDa besluttede hun og hendes svigerdøtre sig\n\t\t\t\t\tfor at vende tilbage fra Moabs land.\n\t\t\t\tFor i Moab havde hun hørt\n\t\t\t\t\tat JHVH havde besøgt sit folk\n\t\t\t\t\t\tog givet dem brød.",
+      "number": 6,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Udtrykket betyder at »skaffe mad«, men ved at bevare »brød« er det muligt at se en allusion til Bet-lehem »brødets hus«",
+          "type": "T",
+          "position": 177
+        }
+      ]
+    },
+    {
+      "text": "\t\t\tHun tog af sted\n\t\t\t\t\t\tderfra,\n\t\t\t\t\tog begge hendes svigerdøtre\n\t\t\t\tfulgte med hende på vejen\n\t\t\t\t\ttilbage til Judas land.",
+      "number": 7,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tDa sagde No'omi til sine to svigerdøtre:\n\t\t\t»Gå\n\t\t\tI hjem\n\t\t\t\t\thver til jeres mors hus.\n\t\t\t\tMå JHVH være trofast mod jer,\n\t\t\t\t\tligesom I har været det mod de afdøde og mod mig!",
+      "number": 8,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "1871 har »gøre Miskundhed«. En mulighed her er »vise sin trofaste kærlighed«",
+          "type": "T",
+          "position": 113
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\tMå JHVH lade jer\n\t\t\t\t\tfinde hvile hver\n\t\t\t\t\t\ti sin mands hus!«\n\t\tHun kyssede dem,\n\t\t\tog de græd\n\t\t\thøjlydt.",
+      "number": 9,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\tDe sagde til hende:\n\t\t\t\t»Vi vil følges med dig til dit folk.«",
+      "number": 10,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tMen No'omi sagde:\n\t\t\t»Gå tilbage,\n\t\t\t\t\tmine døtre!\n\t\t\t\tHvorfor skulle I tage med mig?\n\t\t\t\t\tMon der fra min livmoder kan komme flere sønner\n\t\t\t\t\t\tsom kunne blive jeres mænd?",
+      "number": 11,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\tGå tilbage,\n\t\t\t\t\t\t\tmine døtre!\n\t\t\t\t\t\tGå,\n\t\t\t\t\t\t\tfor jeg er for gammel\n\t\t\t\t\t\t\t\ttil at få en mand.\n\t\t\t\t\tSelv hvis jeg sagde:\n\t\t\t\t\t\t\t\tDer er endnu håb for mig,\n\t\t\t\t\t\t\tja, selv hvis jeg havde en mand i nat\n\t\t\t\t\t\t\t\tog endnu fødte sønner,",
+      "number": 12,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\t\tskulle I så vente på dem\n\t\t\t\t\t\t\ttil de blev voksne?\n\t\t\t\t\t\tSkulle I holde jer tilbage\n\t\t\t\t\t\t\tog ikke få mænd?\n\t\t\t\tNej,\n\t\t\t\t\t\tmine døtre!\n\t\t\t\t\tDet er mere trist for mig end for jer\n\t\t\t\t\t\tat JHVHs hånd greb ud efter mig.«",
+      "number": 13,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\tDa græd de endnu mere,\n\t\t\tog Orpa kyssede sin svigermor farvel,\n\t\t\t\tmen Ruth klyngede sig til hende.",
+      "number": 14,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\t\tDa sagde hun:\n\t\t\t\t\t\t\t»Se, din svigerinde er vendt tilbage til sit folk og til sin gud.\n\t\t\t\t\t\t\t\tFølg efter din svigerinde og vend tilbage!«",
+      "number": 15,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\tOg Ruth sagde:\n\t\t\t\t\t\t\t»Tving mig ikke til\n\t\t\t\t\t\t\t\t\t\tat forlade dig\n\t\t\t\t\t\t\t\t\t\t\tog gå fra dig,\n\t\t\t\t\t\t\t\t\tfor\n\t\t\t\t\t\t\t\t\t\t\t\t\thvor du går hen,\n\t\t\t\t\t\t\t\t\t\t\t\tder vil jeg gå hen,\n\t\t\t\t\t\t\t\t\t\t\tog\n\t\t\t\t\t\t\t\t\t\t\t\t\thvor du overnatter,\n\t\t\t\t\t\t\t\t\t\t\t\tder vil jeg overnatte.\n\t\t\t\t\t\t\t\t\t\tDit folk er mit folk,\n\t\t\t\t\t\t\t\t\t\t\t\tog din Gud er min Gud.",
+      "number": 16,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\tHvor du dør,\n\t\t\t\t\t\t\t\t\t\t\tder vil jeg dø,\n\t\t\t\t\t\t\t\t\t\t\t\tog der vil jeg begraves.\n\t\t\t\t\t\t\t\tMå JHVH handle med mig\n\t\t\t\t\t\t\t\t\t\tsådan og føje mere til\n\t\t\t\t\t\t\t\t\thvis\n\t\t\t\t\t\t\t\t\t\tandet end døden skiller os ad.«",
+      "number": 17,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Bag dette udtryk ligger en meget højtidelig ed, hvor Ruth nedkalder død og anden ulykke over sig selv hvis hun ikke følger sin svigermor til den bitre ende.",
+          "type": "E",
+          "position": 207
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\tDa hun så\n\t\t\t\t\t\t\tat hun var fast besluttet på\n\t\t\t\t\t\t\t\tat gå med hende,\n\t\t\t\t\t\tholdt hun op med\n\t\t\t\t\t\t\tat tale hende fra det.",
+      "title": "No'omi og Ruth kommer til Betlehem under byghøsten.",
+      "number": 18,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\tDe gik begge\n\t\t\t\t\t\ttil Betlehem.\n\t\t\t\t\tDa\n\t\t\t\t\t\t\tde kom til Betlehem,\n\t\t\t\t\t\tblev der opstandelse i hele byen,\n\t\t\t\t\t\t\tog de sagde:\n\t\t\t\t\t\t\t\t\t»Er det ikke No'omi?«",
+      "number": 19,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\tHun sagde til dem:\n\t\t\t\t\t\t\t\t\t»Kald mig ikke No'omi.\n\t\t\t\t\t\t\t\t\t\t\t\tKald mig Mara,\n\t\t\t\t\t\t\t\t\t\t\t\t\tfor den Almægtige har gjort det bittert for mig.",
+      "number": 20,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "liflighed.",
+          "type": "T",
+          "position": 57
+        },
+        {
+          "text": "bitter.",
+          "type": "T",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\tJeg drog af sted med fulde hænder,\n\t\t\t\t\t\t\t\t\t\t\t\tmen JHVH har ført mig hjem med tomme hænder.\n\t\t\t\t\t\t\t\t\t\tHvorfor skulle I kalde mig No'omi,\n\t\t\t\t\t\t\t\t\t\t\tnår JHVH har vidnet imod mig,\n\t\t\t\t\t\t\t\t\t\t\tog den Almægtige har behandlet mig dårligt?«",
+      "number": 21,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tSådan kom No'omi tilbage,\n\t\t\tog Ruth, hendes moabitiske svigerdatter,\n\t\t\t\tvar med hende\n\t\tda hun kom tilbage fra Moab, og de ankom sammen til Betlehem ved begyndelsen af byghøsten.",
+      "number": 22,
+      "version": 1668034800000
+    }
+  ]
+}

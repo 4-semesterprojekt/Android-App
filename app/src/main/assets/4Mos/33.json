@@ -1,0 +1,300 @@
+{
+  "book": "Fjerde Mosebog",
+  "abbreviation": "4Mos",
+  "chapter": 33,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDette er israelitternes rejser, da de var rejst ud af Egypten, efter deres hære, under Moses og Aron.",
+      "title": "Moses beskriver israelitternes rejser fra de rejste ud af Egypten til de kom til Kana’ans grænser.",
+      "number": 1,
+      "version": 1500328800000
+    },
+    {
+      "text": "Moses nedskrev de steder hvorfra de på deres rejser efter JHVHs ord brød op, og dette er deres rejser efter de steder de brød op fra.",
+      "number": 2,
+      "version": 1500328800000
+    },
+    {
+      "text": "De rejste fra Ramses i den første måned, på den femtende dag i den første måned, på den anden dag i påsken rejste israelitterne med løftet hånd for alle egypternes øjne.",
+      "number": 3,
+      "version": 1500328800000
+    },
+    {
+      "text": "Da var egypterne ved at begrave alle førstefødte som JHVH havde slået ihjel blandt dem, og JHVH havde holdt dom over deres guder.",
+      "number": 4,
+      "version": 1500328800000
+    },
+    {
+      "text": "Israelitterne brød op fra Ramses og slog lejr i Sukkot.",
+      "number": 5,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Sukkot og slog lejr i Etam på grænsen til ørkenen.",
+      "number": 6,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Etam og vendte om til Pi-ha-Kirot, som er lige over for Ba’al-Sefon, og de slog lejr lige foran Migdol.",
+      "number": 7,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Pi-ha-Kirot og gik midt igennem Sivhavet ind i ørkenen, og de gik tre dagsrejser ind i Etams ørken og slog lejr i Mara.",
+      "number": 8,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Mara og kom til Elim. I Elim var der 12 vandkilder og 70 palmetræer, og de slog lejr der.",
+      "number": 9,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Elim og slog lejr ved Det Røde Hav.",
+      "number": 10,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Det Røde Hav og slog lejr i Sins ørken.",
+      "number": 11,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Sins ørken og slog lejr i Dofka.",
+      "number": 12,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Dofka og slog lejr i Alush.",
+      "number": 13,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Alush og slog lejr i Refidim. Der havde folket ikke vand at drikke.",
+      "number": 14,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Refidim og slog lejr i Sinajs ørken.",
+      "number": 15,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Sinajs ørken og slog lejr i Kibrot-ha-Ta’ava.",
+      "number": 16,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Kibrot-ha-Ta’ava og slog lejr i Haserot.",
+      "number": 17,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Haserot og slog lejr i Ritma.",
+      "number": 18,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Ritma og slog lejr i Rimmon-Peres.",
+      "number": 19,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Rimmon-Peres og slog lejr i Libna.",
+      "number": 20,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Libna og slog lejr i Rissa.",
+      "number": 21,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Rissa og slog lejr i Kehelata.",
+      "number": 22,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Kehelata og slog lejr ved Har-Shefer.",
+      "number": 23,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Har-Shefer og slog lejr i Harada.",
+      "number": 24,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Harada og slog lejr i Makhelot.",
+      "number": 25,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Makhelot og slog lejr i Tahat.",
+      "number": 26,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Tahat og slog lejr i Tara.",
+      "number": 27,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Tara og slog lejr i Mitka.",
+      "number": 28,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Mitka og slog lejr i Hashmona.",
+      "number": 29,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Hashmona og slog lejr i Moserot.",
+      "number": 30,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Moserot og slog lejr i Bene-Ja’akan.",
+      "number": 31,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Bene-Ja’akan og slog lejr i Hor-ha-Gidgad.",
+      "number": 32,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Hor-ha-Gidgad og slog lejr i Jotbata.",
+      "number": 33,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Jotbata og slog lejr i Abrona.",
+      "number": 34,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Abrona og slog lejr i Esjongeber.",
+      "number": 35,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Esjongeber og slog lejr i Zins ørken, det er Kadesh.",
+      "number": 36,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Kadesh og slog lejr ved bjerget Hor på grænsen til Edom.",
+      "number": 37,
+      "version": 1500328800000
+    },
+    {
+      "text": "Da gik præsten Aron op på bjerget Hor, efter JHVHs ord, og døde der i det 40. år efter at israelitterne var gået ud af Egypten, i den femte måned på den første dag i måneden.",
+      "number": 38,
+      "version": 1500328800000
+    },
+    {
+      "text": "Aron var 123 år gammel da han døde på bjerget Hor.",
+      "number": 39,
+      "version": 1500328800000
+    },
+    {
+      "text": "Den kana’anæiske konge i Arad, som boede i den sydlige del af Kana’an, hørte om israelitternes komme.",
+      "number": 40,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra bjerget Hor og slog lejr i Salmona.",
+      "number": 41,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Salmona og slog lejr i Punon.",
+      "number": 42,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Punon og slog lejr i Obot.",
+      "number": 43,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Obot og slog lejr i Ijje-ha-Abarim ved Moabs landegrænse.",
+      "number": 44,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Ijjim og slog lejr i Dibon-Gad.",
+      "number": 45,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Dibon-Gad og slog lejr i Almon-Diblatajim.",
+      "number": 46,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Almon-Diblatajim og slog lejr i Abarimbjergene foran Nebo.",
+      "number": 47,
+      "version": 1500328800000
+    },
+    {
+      "text": "De brød op fra Abarimbjergene og slog lejr på Moabs sletter ved Jordan over for Jeriko.",
+      "number": 48,
+      "version": 1500328800000
+    },
+    {
+      "text": "De slog lejr ved Jordan i området fra Bet-ha-Jeshimot til Abel-Shittim på Moabs sletter.",
+      "title": "JHVH befaler dem atter at uddrive alle landets indbyggere og at uddele landet ved lodkastning.",
+      "number": 49,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fJHVH talte til Moses på Moabs sletter ved Jordan over for Jeriko. Han sagde:",
+      "number": 50,
+      "version": 1500328800000
+    },
+    {
+      "text": "»Tal til israelitterne og sig til dem: ›Når I er gået over Jordan ind i Kana’an,",
+      "number": 51,
+      "version": 1500328800000
+    },
+    {
+      "text": "da skal I uddrive alle landets indbyggere foran jer og tilintetgøre alle deres billedstøtter, og I skal tilintetgøre alle deres støbte billeder og ødelægge alle deres høje.",
+      "number": 52,
+      "version": 1500328800000
+    },
+    {
+      "text": "I skal indtage landet og bo i det, for jeg har givet jer landet i eje.",
+      "number": 53,
+      "version": 1500328800000
+    },
+    {
+      "text": "I skal tage landet til arv ved lodkastning efter jeres slægter, den som er mange, hans arv skal I gøre stor, og den som er få, hans arv skal du gøre lille. Der hvor loddet falder ud for ham, det skal tilhøre ham. Efter jeres fædres stammer skal I tage det til arv.",
+      "number": 54,
+      "version": 1500328800000
+    },
+    {
+      "text": "Hvis I ikke uddriver landets indbyggere foran jer, da skal de som I lader blive tilbage af dem, blive som torne i øjnene på jer og som brod i jeres sider, og de skal plage jer i det land I bor i.",
+      "number": 55,
+      "version": 1500328800000
+    },
+    {
+      "text": "Det skal ske således at det jeg tænkte at gøre ved dem, det vil jeg gøre ved jer.‹«",
+      "number": 56,
+      "version": 1500328800000
+    }
+  ]
+}

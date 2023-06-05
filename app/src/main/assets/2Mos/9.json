@@ -1,0 +1,294 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 9,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJHVH sagde til Moses: »Kom til Farao og tal til ham: ›Således har JHVH, hebræernes Gud, sagt: Lad mit folk gå så de kan dyrke mig.",
+      "title": "Femte plage: Kvægpest",
+      "number": 1,
+      "version": 1587506400000
+    },
+    {
+      "text": "Men hvis du vægrer dig ved at lade dem gå, og du fremdeles holder fast på dem,",
+      "number": 2,
+      "version": 1587506400000
+    },
+    {
+      "text": "se, så skal JHVHs hånd komme over dit kvæg som er på marken, over hestene, over æslerne, over kamelerne, over hornkvæget og over småkvæget, en meget tung pest.",
+      "number": 3,
+      "version": 1587506400000
+    },
+    {
+      "text": "Og JHVH skal gøre forskel mellem Israels kvæg og Egypternes kvæg, og der skal intet dø af alt det der tilhører Israels børn.‹«",
+      "number": 4,
+      "version": 1587506400000
+    },
+    {
+      "text": "JHVH fastsatte en bestemt tid og sagde: »I morgen vil JHVH gøre denne gerning i landet.«",
+      "number": 5,
+      "version": 1587506400000
+    },
+    {
+      "text": "JHVH gjorde denne gerning den næste dag, og alt Egyptens kvæg døde; men af Israels børns kvæg døde ikke et eneste.",
+      "number": 6,
+      "version": 1587506400000
+    },
+    {
+      "text": "Farao sendte bud, og se, end ikke et eneste af Israels kvæg var død. Men Faraos hjerte var hårdt, og han lod ikke folket gå.",
+      "title": "Sjette plage: Bylder",
+      "number": 7,
+      "version": 1587506400000
+    },
+    {
+      "text": "\fDa sagde JHVH til Moses og til Aron: »Fyld hænderne med sod fra en smelteovn, og Moses skal strø det ud mod himlen for Faraos øjne,",
+      "number": 8,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »tag jer jeres hænders fylde«.",
+          "type": "T",
+          "position": 52
+        }
+      ]
+    },
+    {
+      "text": "og det skal blive til støv over hele Egyptens land, og over menneskene og over dyrene skal det blive til betændelse som bryder ud i bylder i hele Egyptens land.«",
+      "number": 9,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Både her og i vers 10 har den hebraiske tekst »mennesket« og »dyret« (singularis), men det må opfattes kollektivt.",
+          "type": "T",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "Så tog de sod fra smelteovne og stillede sig for Faraos ansigt, og Moses strøede det ud mod himlen; og der kom udslæt som brød ud i bylder, på mennesker og på dyr.",
+      "number": 10,
+      "version": 1587506400000
+    },
+    {
+      "text": "Og mirakelmagerne kunne ikke møde op foran Moses på grund af udslættet, for der var udslæt på mirakelmagerne og på hele Egypten.",
+      "number": 11,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »kunne ikke stå«. Det kan også oversættes: »kunne ikke bestå«.",
+          "type": "T",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "Men JHVH gjorde Faraos hjerte hårdt så at han ikke hørte på dem, sådan som JHVH havde talt til Moses.",
+      "title": "Syvende plage: Hagl",
+      "number": 12,
+      "version": 1587506400000
+    },
+    {
+      "text": "\fDa sagde JHVH til Moses: »Stå tidligt op om morgenen og stil dig foran Faraos ansigt og sig til ham: ›Således har JHVH, hebræernes Gud, sagt: Lad mit folk gå så de kan dyrke mig.",
+      "number": 13,
+      "version": 1587506400000
+    },
+    {
+      "text": "Ja, denne gang vil jeg sende alle mine plager mod dit hjerte og over dine tjenere og over dit folk for at du skal vide at der er ingen som mig på hele jorden.",
+      "number": 14,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Meningen er formodentlig dels at de skal ramme Farao selv, og dels at de skal ramme ham meget dybt.",
+          "type": "E",
+          "position": 60
+        },
+        {
+          "text": "Der kunne også oversættes: »i hele landet«, men det er næppe meningen her eller i vers 16.",
+          "type": "T",
+          "position": 158
+        }
+      ]
+    },
+    {
+      "text": "Hvis jeg allerede havde rakt min hånd ud og slået dig og dit folk med pest, så havde du været udslettet fra jorden;",
+      "number": 15,
+      "version": 1587506400000
+    },
+    {
+      "text": "men derimod for dette har jeg rejst dig op: for at vise dig min magt og for at kundgøre mit navn over hele jorden.",
+      "number": 16,
+      "version": 1587506400000
+    },
+    {
+      "text": "Du ophøjer dig stadig over mit folk så du ikke vil lade dem gå.",
+      "number": 17,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Nogle fortolkere mener at der må være underforstået et: »hvis«: »Hvis du stadig ophøjer dig over mit folk …«, hvor vers 18 giver Guds svar.",
+          "type": "T",
+          "position": 63
+        }
+      ]
+    },
+    {
+      "text": "Derfor vil jeg i morgen på denne tid lade det regne med meget tung hagl hvis lige ikke har været i Egypten fra den dag det blev grundlagt, og til nu.",
+      "number": 18,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Se!«",
+          "type": "T",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "text": "Så send nu bud ud, bring dine kreaturer og alt det du har på marken, i sikkerhed. Hvert menneske og kvæget som findes på marken og ikke bliver samlet i hus, over dem vil haglen falde, og de vil dø.‹«",
+      "number": 19,
+      "version": 1587506400000
+    },
+    {
+      "text": "Den af Faraos tjenere som frygtede JHVHs ord, lod sine tjenere og sit kvæg flygte til husene,",
+      "number": 20,
+      "version": 1587506400000
+    },
+    {
+      "text": "men den som ikke vendte sit hjerte til JHVHs ord, lod sine tjenere og sit kvæg blive på marken.",
+      "number": 21,
+      "version": 1587506400000
+    },
+    {
+      "text": "JHVH sagde til Moses: »Ræk din hånd op mod himlen, så skal der være hagl i hele Egyptens land, over menneskene og over kvæget og over alle markens urter i Egyptens land.«",
+      "number": 22,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord er singularis (»mennesket«), men må opfattes som kollektivt.",
+          "type": "T",
+          "position": 110
+        }
+      ]
+    },
+    {
+      "text": "Moses rakte sin stav mod himlen, og JHVH gav torden og hagl, og der kom ild ned på jorden. JHVH lod hagl regne over Egyptens land.",
+      "number": 23,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »gav røst« (det hebraiske ord er flertal, der understreger voldsomheden). Udtrykket anvendes især i poetiske tekster hvor tordenen er udtryk for Guds røst.",
+          "type": "T",
+          "position": 51
+        }
+      ]
+    },
+    {
+      "text": "Der blev hagl og ild, som blev ført frem og tilbage midt i haglen, megetvoldsom, som der ikke havde været magen til i hele Egyptens land fra dengang det blev et folk.",
+      "number": 24,
+      "version": 1587506400000
+    },
+    {
+      "text": "Og i hele Egyptens land slog haglen alt det ned som var på marken, fra menneske til kreatur; også hver en markens urt slog haglen ned, og hvert et markens træ smadrede den.",
+      "number": 25,
+      "version": 1587506400000
+    },
+    {
+      "text": "Kun i Goshens land, hvor Israels børn var, var der ikke hagl.",
+      "number": 26,
+      "version": 1587506400000
+    },
+    {
+      "text": "Da sendte Farao bud og kaldte på Moses og Aron og sagde til dem: »Jeg har syndet denne gang; JHVH er den retfærdige, men jeg og mit folk har uret.",
+      "number": 27,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "*rāšāʕ* skal i mange sammenhænge oversættes: »gudløs«, og det spiller måske også med her.",
+          "type": "T",
+          "position": 146
+        }
+      ]
+    },
+    {
+      "text": "Bed til JHVH om at det må være nok med den Guds torden og hagl, så vil jeg lade jer gå så I ikke skal blive længere.«",
+      "number": 28,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »røst«. Se note til vers 23.",
+          "type": "T",
+          "position": 54
+        }
+      ]
+    },
+    {
+      "text": "Moses sagde til ham: »Når jeg går ud af byen, vil jeg brede mine hænder ud til JHVH, så vil tordenen høre op, og haglen vil ikke være mere for at du skal forstå at jorden tilhører JHVH.",
+      "number": 29,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Se note til 8,6.",
+          "type": "T",
+          "position": 160
+        },
+        {
+          "text": "Kan også oversættes: »landet«.",
+          "type": "T",
+          "position": 170
+        }
+      ]
+    },
+    {
+      "text": "Men om dig og dine tjenere ved jeg at I endnu ikke frygter for JHVH, Gud.«",
+      "number": 30,
+      "version": 1587506400000
+    },
+    {
+      "text": "Hørren og byggen blev slået ned, for byggen var i aks og hørren i blomst.",
+      "number": 31,
+      "version": 1587506400000
+    },
+    {
+      "text": "Men hveden og spelten blev ikke slået ned, for de er senere.",
+      "number": 32,
+      "version": 1587506400000
+    },
+    {
+      "text": "Moses gik ud fra Farao, fra byen, og han bredte sine hænder ud til JHVH; så hørte tordenen og haglen op, og regn blev ikke mere øst ud over landet.",
+      "number": 33,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »jorden« i betydningen: jordkloden. Men her drejer det sig alene om Egypten.",
+          "type": "T",
+          "position": 147
+        }
+      ]
+    },
+    {
+      "text": "Da Farao så at regnen og haglen og tordenen holdt op, da fortsatte han med at synde; og han forhærdede sit hjerte, han og hans tjenere.",
+      "number": 34,
+      "version": 1587506400000
+    },
+    {
+      "text": "Faraos hjerte var hårdt, og han lod ikke Israels børn gå, sådan som JHVH havde talt ved Moses.",
+      "number": 35,
+      "version": 1587506400000
+    }
+  ]
+}

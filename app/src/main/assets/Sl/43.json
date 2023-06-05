@@ -1,0 +1,69 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 43,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSkaf mig ret, Gud!\fog før min sag imod et folk uden mildhed,\fred mig fra en bedragerisk og uretfærdig mand!",
+      "title": "Bøn om at måtte komme til Gud igen",
+      "number": 1,
+      "version": 1614207600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »døm mig«.",
+          "type": "T",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "\fFor du, min tilflugts Gud,\fhvorfor har du forkastet mig?\fHvorfor skal jeg gå omkring og sørge,\fidet en fjende trænger mig?",
+      "number": 2,
+      "version": 1614207600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »fæstnings«.",
+          "type": "T",
+          "position": 22
+        }
+      ]
+    },
+    {
+      "text": "\fSend dit lys og din sandhed\fså de kan lede mig,\fde må bringe mig til dit hellige bjerg\fog til dine boliger.",
+      "number": 3,
+      "version": 1614207600000,
+      "footnotes": [
+        {
+          "text": "Der er formodentlig tænkt på templet, hvor pluralis skal understrege storheden, rigdommen og helligheden i Guds tempel.",
+          "type": "T",
+          "position": 108
+        }
+      ]
+    },
+    {
+      "text": "\fSå kommer jeg til Guds alter,\ftil min glædes og jubels Gud,\fog vil takke dig med citer,\fGud, min Gud!",
+      "number": 4,
+      "version": 1614207600000
+    },
+    {
+      "text": "\fHvorfor er du nedbøjet, min sjæl?\fOg hvorfor er du i oprør i mig?\fVent på Gud, for jeg skal takke ham på ny,\fmit ansigts frelse og min Gud.",
+      "number": 5,
+      "version": 1614207600000
+    }
+  ]
+}

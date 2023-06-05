@@ -1,0 +1,237 @@
+{
+  "book": " Paulus' Første Brev til Korintherne",
+  "abbreviation": "1Kor",
+  "chapter": 14,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSøg kærligheden, og tragt efter de åndelige gaver, men mest efter at profetere.",
+      "title": "Apostelen formaner til at eftertragte kærligheden og blandt de åndelige nådegaver at give den profetiske fortrinnet, navnlig frem for gaven til at tale i tunger, eftersom den er til menighedens opbyggelse, mens den uden udlægning er uforståelig for menigheden, 1-6. Gennem eksempler fra musikken og fra sprogene belyses det nærmere, at talen i tunger ikke er at foretrække, 7-19; den er desuden et tegn, ikke for menigheden, men for de vantro, hvorimod den profetiske gave har en mægtigt overbevisende kraft, 20-25. I forsamlingerne bør alt ske til opbyggelse, og det forklares nærmere for tungetalens og profetiens vedkommende, 26-33; Kvinderne tillades det ikke at tage ordet, 34-36. Det skal alle rette sig efter, og alt skal foregå med sømmelighed og orden, 37-40.",
+      "number": 1,
+      "version": 1539036000000
+    },
+    {
+      "text": "For den, der taler i tunger, taler ikke for mennesker, men for Gud; for ingen forstår det, men han taler hemmeligheder i Ånden.",
+      "number": 2,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men den, der profeterer, taler til menneskers opbyggelse og formaning og trøst.",
+      "number": 3,
+      "version": 1539036000000
+    },
+    {
+      "text": "Den, der taler i tunger, opbygger sig selv; men den, der profeterer, opbygger en menighed.",
+      "number": 4,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men jeg ønsker, at I alle måtte tale i tunger, men endnu hellere, at I måtte profetere; den, der profeterer, er større end den, der taler i tunger, med mindre han udlægger det, for at menigheden kan få opbyggelse af det.",
+      "number": 5,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men nu,brødre, hvis jeg kommer til jer og taler i tunger, hvad gavn vil jeg så være for jer, hvis jeg ikke taler til jer enten ved åbenbaring eller ved kundskab, enten ved profeti eller ved lære?",
+      "number": 6,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fSelv de livløse ting, der give lyd, hvad enten det er en fløjte eller en harpe, når de ikke gør forskel imellem tonerne, hvordan skal man så kunne forstå, hvad der spilles på fløjten eller harpen?",
+      "number": 7,
+      "version": 1539036000000
+    },
+    {
+      "text": "Ja, også når en basun giver en utydelig lyd, hvem vil så gøre sig klar til krig?",
+      "number": 8,
+      "version": 1539036000000
+    },
+    {
+      "text": "Sådan også med jer: Hvis I ikke med tungen taler tydeligt, hvordan skal man så kunne forstå det, der siges? I vil jo tale hen i vejret.",
+      "number": 9,
+      "version": 1539036000000
+    },
+    {
+      "text": "Der er i verden, lad os sige, så og så mange slags sprog, og der er ikke noget af dem, der ikke har sin betydning.",
+      "number": 10,
+      "version": 1539036000000
+    },
+    {
+      "text": "Hvis jeg nu ikke kender sprogets betydning, bliver jeg en barbar for den, der taler, og den, der taler, bliver en barbar for mig.",
+      "number": 11,
+      "version": 1539036000000,
+      "footnotes": [
+        {
+          "text": "fremmed.",
+          "type": "T",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "text": "Sådan også med jer: når I tragter efter åndelige gaver, lad det så være til menighedens opbyggelse, at I søger at blive rige på dem!",
+      "number": 12,
+      "version": 1539036000000
+    },
+    {
+      "text": "Derfor, lad den, der taler i tunger, bede om, at han må kunne udlægge det.",
+      "number": 13,
+      "version": 1539036000000
+    },
+    {
+      "text": "For hvis jeg taler i tunger og beder, så beder min ånd ganske vist, men min forstand er uden frugt.",
+      "number": 14,
+      "version": 1539036000000
+    },
+    {
+      "text": "Hvad så? Jeg vil bede med ånden, men jeg vil også bede med forstanden; jeg vil lovsynge med ånden, men jeg vil også lovsynge med forstanden.",
+      "number": 15,
+      "version": 1539036000000
+    },
+    {
+      "text": "Når du priser Gud i ånden, hvordan vil så ellers den, der sidder son en uindviet, kunne sige sit amen til din takkebøn, eftersom han ikke ved, hvad du siger?",
+      "number": 16,
+      "version": 1539036000000,
+      "footnotes": [
+        {
+          "text": "i Tungetalen.",
+          "type": "T",
+          "position": 26
+        }
+      ]
+    },
+    {
+      "text": "For din takkebøn er ganske vist smuk, men den anden opbygges ikke.",
+      "number": 17,
+      "version": 1539036000000
+    },
+    {
+      "text": "Jeg takker Gud for, at jeg mere end jer allesammen taler i tunger.",
+      "number": 18,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men i en menighed vil jeg hellere tale fem ord med min forstand, for at jeg også kan undervise andre, end ti tusind ord i tunger.",
+      "number": 19,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fBrødre, bliv ikke børn i forstand, men vær småbørn i ondskab, i forstand derimod skal I blive fuldvoksne!",
+      "number": 20,
+      "version": 1539036000000
+    },
+    {
+      "text": "Der står skrevet i Loven: »Ved folk med fremmede tungemål og ved fremmedes læber vil jeg tale til dette folk, og selv ikke sådan skal de høre mig, siger Herren.«",
+      "number": 21,
+      "version": 1539036000000
+    },
+    {
+      "text": "Sådan er tungetalen til et tegn, ikke for dem, der tror, men for de vantro; men den profetiske gave er det ikke for de vantro, men for dem, der tror.",
+      "number": 22,
+      "version": 1539036000000
+    },
+    {
+      "text": "Når altså hele menigheden kommer sammen, og alle taler i tunger, men der kommer uindviede eller vantro ind, vil de så ikke sige, at I er vanvittige?",
+      "number": 23,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men hvis alle profeterer, og der kommer en vantro eller uindviet ind, så overbevises han af alle, han bedømmes af alle,",
+      "number": 24,
+      "version": 1539036000000
+    },
+    {
+      "text": "hans hjertes skjulte tanker åbenbares, og så vil han falde på sit ansigt og tilbede Gud og forkynde, at Gud virkelig er iblandt jer.",
+      "number": 25,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fHvad så, brødre? Når I kommer sammen, har hver især en lovsang, en belæring, en åbenbaring, en tungetale, en udlægning; lad alt ske til opbyggelse!",
+      "number": 26,
+      "version": 1539036000000
+    },
+    {
+      "text": "Hvis nogen taler i tunger, skal det være to eller højst tre hver gang, og den ene efter den anden, og én skal udlægge det.",
+      "number": 27,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men hvis der ikke er nogen udlægger til stede, så skal vedkommende tie stille i menigheden, men han skal tale for sig selv og for Gud!",
+      "number": 28,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men af profeter skal to eller tre tale, og de andre skal bedømme det;",
+      "number": 29,
+      "version": 1539036000000
+    },
+    {
+      "text": "men hvis en anden, der sidder der, får en åbenbaring, skal den første tie stille!",
+      "number": 30,
+      "version": 1539036000000
+    },
+    {
+      "text": "For I kan alle sammen profetere, den ene efter den anden, for at alle kan lære, og alle blive formanet,",
+      "number": 31,
+      "version": 1539036000000
+    },
+    {
+      "text": "og profeters ånder underordner sig profeter.",
+      "number": 32,
+      "version": 1539036000000
+    },
+    {
+      "text": "For Gud er ikke forvirringens, men fredens Gud.Ligesom i alle de helliges menigheder",
+      "number": 33,
+      "version": 1539036000000
+    },
+    {
+      "text": "skal jeres kvinder tie stille i forsamlingerne; for det tillades dem ikke at tale, men lad dem underordne sig, ligesom også Loven siger.",
+      "number": 34,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men vil de lære noget, lad dem så spørge deres egne mænd hjemme; for det er usømmeligt for en kvinde at tale i en menighedsforsamling.",
+      "number": 35,
+      "version": 1539036000000
+    },
+    {
+      "text": "Eller er det fra jer, at Guds Ord er udgået? Eller er det til jer alene, at det er kommet?",
+      "number": 36,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fHvis nogen synes, at han er en profet eller åndelig, skal han erkende, at det er Herrens bud, hvad jeg skriver til jer.",
+      "number": 37,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men er nogen uvidende om det, så får han være uvidende!",
+      "number": 38,
+      "version": 1539036000000
+    },
+    {
+      "text": "Altså, mine brødre, tragt efter at profetere, og I skal ikke forhindre talen i tunger!",
+      "number": 39,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men lad alt ske sømmeligt og med orden!",
+      "number": 40,
+      "version": 1539036000000
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "book": "Esajas’ Bog",
+  "abbreviation": "Es",
+  "chapter": 6,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fI kong Uzzijas dødsår\n\tså jeg Herren\n\t\t\tsidde på en høj og ophøjet trone,\n\t\t\t\tog hans slæb fyldte templet.",
+      "title": "Esajas kaldes til profet",
+      "number": 1,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\tDer stod serafer over ham.\n\t\t\tHver af dem havde seks vinger;\n\t\t\t\t\tog med to skjulte de ansigtet,\n\t\t\t\t\t\tmed to skjulte de deres fødder,\n\t\t\t\t\t\tog med to fløj de.",
+      "number": 2,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\tOg de råbte til hinanden\n\t\t\t\t\tog sagde:\f\n\t\t\t\t\t\t\t»Hellig, hellig, hellig er Hærskarers HERRE;\n\t\t\t\t\t\t\t\thele jorden er fuld af hans herlighed.«",
+      "number": 3,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Denne råbte til denne og sagde.«",
+          "type": "T",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tOg dørposterne med dørtærsklerne rystede ved lyden af den der råbte,\n\t\t\t\t\t\t\tog huset blev fuldt af røg.",
+      "number": 4,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tDa sagde jeg:\f\n\t\t\t»Ve mig,\n\t\t\t\tfor det er ude med mig!\f\n\t\t\t\t\tFor jeg er en mand med urene læber,\f\n\t\t\t\t\t\t\tog jeg bor midt iblandt et folk der har urene læber.\f\n\t\t\t\t\t\tOg nu har mine øjne set Kongen, Hærskarers HERRE.«",
+      "number": 5,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »For mine øjne har set Kongen…«.",
+          "type": "T",
+          "position": 216
+        }
+      ]
+    },
+    {
+      "text": "\f\t\tSå fløj en af seraferne hen til mig.\n\t\t\t\tI sin hånd havde han et stykke glødende kul,\n\t\t\t\t\than havde taget fra alteret med en tang.",
+      "number": 6,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\tOg han berørte min mund\n\t\t\tog sagde:\f\n\t\t\t\t»Se, dette kul har rørt ved dine læber;\f\n\t\t\t\t\tdin skyld er fjernet,\f\n\t\t\t\t\t\tog din synd er sonet.«\n\n",
+      "number": 7,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\tOg jeg hørte Herrens stemme,\n\t\tsom sagde:\n\t\t\t»Hvem skal jeg sende?\n\t\t\t\tOg hvem vil gå for os?«\n\tDa sagde jeg:\n\t\t\t»Se, her er jeg,\n\t\t\t\tsend mig!«",
+      "number": 8,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\tOg han sagde:\f\n\t\t\t»Gå hen\n\t\t\t\tog sig til dette folk:\f\n\t\t\t\t\tI skal høre og høre,\n\t\t\t\t\t\t\tmen ikke forstå,\f\n\t\t\t\t\t\tse og se,\n\t\t\t\t\t\t\tmen ikke erkende!",
+      "number": 9,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\tGør dette folks hjerte fedt,\f\n\t\t\t\t\tgør dets ører tunghøre,\n\t\t\t\t\tog smør dets øjne ind,\f\n\t\t\t\tså det ikke ser med dets øjne\n\t\t\t\t\t\tog hører med dets ører\f\n\t\t\t\t\t\t\tog forstår med dets hjerte,\f\n\t\t\t\t\tså det omvender sig,\n\t\t\t\t\tog han må helbrede det.«",
+      "number": 10,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\tMen jeg spurgte:\n\t\t\t»Hvor længe,\n\t\t\t\tJHVHv?«\n\t\tOg han svarede:\f\n\t\t\t»Indtil byerne ligger øde\n\t\t\t\t\t\t\tuden indbyggere,\f\n\t\t\t\t\t\thusene\n\t\t\t\t\t\t\tuden beboere,\f\n\t\t\t\t\tlandet er helt ødelagt,",
+      "number": 11,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\tJHVH har ført folket langt bort,\f\n\t\t\t\t\tog der er mange forladte steder i landet.",
+      "number": 12,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tOg bliver der en tiendedel\n\t\t\t\t\t\t\t\ttil overs i det,\n\t\t\t\t\t\t\tskal også den\n\t\t\t\t\t\t\t\t\tødelægges.\f\n\t\t\t\t\t\t\t\tMen ligesom der bliver en stub tilbage af terebinten\n\t\t\t\t\t\t\t\t\t\tog stenegen når de er fældet,\n\t\t\t\t\t\t\t\t\tsådan skal denne stub være hellig sæd.«",
+      "number": 13,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »brændes ned«.",
+          "type": "T",
+          "position": 99
+        }
+      ]
+    }
+  ]
+}

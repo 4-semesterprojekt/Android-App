@@ -1,0 +1,102 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 138,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAf David.\fJeg vil takke dig af hele mit hjerte,\fforan guderne vil jeg lovsynge dig.",
+      "title": "Tak",
+      "number": 1,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fJeg vil kaste mig ned hen imod dit hellige tempel\fog takke dit navn\ffor din nåde og for din sandhed,\ffor du har gjort dit ord stort ud over hele dit navn.",
+      "number": 2,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din helligheds tempel«.",
+          "type": "T",
+          "position": 50
+        },
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 81
+        },
+        {
+          "text": "Oversættes ofte: »troskab«.",
+          "type": "T",
+          "position": 101
+        },
+        {
+          "text": "Grundtekstens ord (*ʔimrāʰ*) har en biklang af: »løfte«.",
+          "type": "T",
+          "position": 126
+        },
+        {
+          "text": "Linjen er omdiskuteret. Septuaginta har ikke læst: *kol-šimxā* (»hele dit navn«), men: *kol-šēm*: »hvert navn«. Mange oversættere retter: *šimxā* (»dit navn«) til: *šāmeʸxā*: »din himmel«. En tredje mulighed er at ændre vokaliseringen af: *kol-* (»hele«, status constructus med qamæs) til status absolutus (med cholæm): *kōl* og indføje et: *wᵊ* (»og«) foran: »dit navn«. Oversættelsen lyder da: »for du har ladet dit ord og dit navn overgå alt andet«.",
+          "type": "E",
+          "position": 155
+        }
+      ]
+    },
+    {
+      "text": "\fDen dag jeg råbte, svarede du mig,\fdu gjorde mig stolt, jeg fik styrke.",
+      "title": "Lovprisning",
+      "number": 3,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »min sjæl«.",
+          "type": "T",
+          "position": 60
+        }
+      ]
+    },
+    {
+      "text": "\fAlle jordens konger skal takke dig,\ffor de har hørt din munds ord.",
+      "number": 4,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fOg de skal synge om JHVHs veje,\ffor stor er JHVHs herlighed.",
+      "number": 5,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fJa, ophøjet er JHVH, men han ser til den ringe,\fog den stolte kender han på lang afstand.",
+      "title": "Tillid",
+      "number": 6,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fSkal jeg vandre midt i trængsel, holder du mig i live,\fmod mine fjenders vrede rækker du din hånd ud,\fog din højre frelser mig.",
+      "number": 7,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fJHVH skal fuldføre det for mig.\fJHVHv, din nåde varer til evig tid,\fopgiv ikke dine hænders værker.",
+      "number": 8,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 48
+        }
+      ]
+    }
+  ]
+}

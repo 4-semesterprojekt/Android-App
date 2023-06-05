@@ -1,0 +1,178 @@
+{
+  "book": "Fjerde Mosebog",
+  "abbreviation": "4Mos",
+  "chapter": 23,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fBileam sagde til Balak: »Byg syv altre for mig her, og skaf mig syv okser og syv væddere.«",
+      "title": "Balak og Bileam ofrer. Efter Guds vilje må Bileam velsigne folket, og Balak bliver vred.",
+      "number": 1,
+      "version": 1496181600000
+    },
+    {
+      "text": "Balak gjorde som Bileam sagde, og Balak og Bileam ofrede en okse og en vædder på hvert alter.",
+      "number": 2,
+      "version": 1496181600000
+    },
+    {
+      "text": "Bileam sagde til Balak: »Stil dig ved dit brændoffer, og jeg vil gå lidt væk. Måske møder JHVH mig, og det han lader mig se, vil jeg fortælle dig.« Han gik op på et højtliggende sted.",
+      "number": 3,
+      "version": 1496181600000
+    },
+    {
+      "text": "Gud mødte Bileam som sagde til ham: »Jeg har rejst syv altre og ofret en okse og en vædder på hvert alter.«",
+      "number": 4,
+      "version": 1496181600000
+    },
+    {
+      "text": "JHVH lagde ord i Bileams mund og sagde: »Vend tilbage til Balak, og således skal du tale.«",
+      "number": 5,
+      "version": 1496181600000
+    },
+    {
+      "text": "Han vendte tilbage til ham, og se, han stod ved sit brændoffer sammen med alle moabitternes ledere.",
+      "number": 6,
+      "version": 1496181600000
+    },
+    {
+      "text": "Da tog han til orde og sagde: »Fra Aram har Balak, moabitternes konge, ladet mig hente, fra bjergene mod øst: ›Kom herhen, forband Jakob for mig. Kom herhen, fordøm  Israel!‹",
+      "number": 7,
+      "version": 1496181600000
+    },
+    {
+      "text": "Hvordan skal jeg forbande når Gud ikke forbander ham? Hvordan skal jeg fordømme når JHVH ikke fordømmer?",
+      "number": 8,
+      "version": 1496181600000
+    },
+    {
+      "text": "Fra klippernes top ser jeg ham, og fra højene skuer jeg ham. Se, det folk bor alene og regner sig ikke blandt nationerne.",
+      "number": 9,
+      "version": 1496181600000
+    },
+    {
+      "text": "Hvem kan tælle Jakobs støv eller udregne antallet på en fjerdedel af Israel? Må jeg dø som en af de oprigtige og må mit endeligt blive som hans!«",
+      "number": 10,
+      "version": 1496181600000
+    },
+    {
+      "text": "Da sagde Balak til Bileam: »Hvad er det du gør mod mig? Jeg bragte dig hertil for at forbande mine fjender, og se, du har velsignet dem.«",
+      "number": 11,
+      "version": 1496181600000
+    },
+    {
+      "text": "Han svarede: »Skal jeg ikke være omhyggelig med  at sige det som JHVH lægger mig i munden?«",
+      "title": "Balak og Bileam ofrer et andet sted, og Bileam velsigner folket for anden gang. Balak bliver atter vred.",
+      "number": 12,
+      "version": 1496181600000
+    },
+    {
+      "text": "\fBalak sagde til ham: »Kom med mig til et andet sted hvorfra du kan se dem. Dog skal du kun se den yderste del af dem, du skal ikke se dem alle. Forband dem for mig derfra.«",
+      "number": 13,
+      "version": 1496181600000
+    },
+    {
+      "text": "Han tog ham med sig hen til Zofims mark på Pisgas top. Han byggede syv altre og ofrede en okse og en vædder på hvert alter.",
+      "number": 14,
+      "version": 1496181600000
+    },
+    {
+      "text": "Han sagde til Balak: »Stil dig her ved dit brændoffer, og jeg vil så søge et møde på den måde.«",
+      "number": 15,
+      "version": 1496181600000
+    },
+    {
+      "text": "JHVH mødte Bileam og lagde ham ord i munden, og han sagde: »Vend tilbage til Balak, og således skal du tale.«",
+      "number": 16,
+      "version": 1496181600000
+    },
+    {
+      "text": "Han kom tilbage til ham, og se, han stod ved sit brændoffer sammen med Moabs ledere. Balak sagde til ham: »Hvad sagde JHVH?«",
+      "number": 17,
+      "version": 1496181600000
+    },
+    {
+      "text": "Han tog til orde og sagde: »Rejs dig, Balak, og hør. Bøj dit øre til mig, Sippors søn!",
+      "number": 18,
+      "version": 1496181600000
+    },
+    {
+      "text": "Gud er ikke et menneske at han lyver, heller ikke et menneskebarn at han angrer. Har han sagt noget, skulle han så ikke gøre det? Har han talt, skulle han så ikke holde det?",
+      "number": 19,
+      "version": 1496181600000
+    },
+    {
+      "text": "Se, det er overdraget til mig at velsigne. Han velsignede, og jeg kan ikke ændre det.",
+      "number": 20,
+      "version": 1496181600000,
+      "footnotes": [
+        {
+          "text": "Nemlig Gud.",
+          "type": "T",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "Han så ingen uret i Jakob og så ingen elendighed i Israel. JHVH, hans Gud, er med ham, og der lyder kongejubel.",
+      "number": 21,
+      "version": 1496181600000
+    },
+    {
+      "text": "Gud førte dem ud af Egypten, han er for ham som vildoksens horn.",
+      "number": 22,
+      "version": 1496181600000
+    },
+    {
+      "text": "For der er ingen tydning af varsler i Jakob og ingen trolddom i Israel. I rette tid tales der til Jakob og til Israel om hvad Gud har gjort.",
+      "number": 23,
+      "version": 1496181600000
+    },
+    {
+      "text": "Se, det folk skal rejse sig som en løvinde og ophøje sig som en løve. Det skal ikke lægge sig før det æder rovet og drikker de dræbtes blod.«",
+      "number": 24,
+      "version": 1496181600000
+    },
+    {
+      "text": "Da sagde Balak til Bileam: »Du skal ikke forbande det, og du skal heller ikke velsigne det.«",
+      "number": 25,
+      "version": 1496181600000
+    },
+    {
+      "text": "Bileam svarede Balak: »Har jeg ikke sagt til dig: Alt det som JHVH siger, det vil jeg gøre?«",
+      "title": "Balak tager Bileam med sig hen til et tredje sted hvor de ofrer.",
+      "number": 26,
+      "version": 1496181600000
+    },
+    {
+      "text": "\fBalak sagde til Bileam: »Gå med. Jeg vil tage dig med hen til et andet sted. Måske er det ret for Guds øjne at du forbander det for mig derfra.«",
+      "number": 27,
+      "version": 1496181600000
+    },
+    {
+      "text": "Balak tog Bileam med sig til Peors top, hvorfra der er udsigt ud over ørkenen.",
+      "number": 28,
+      "version": 1496181600000
+    },
+    {
+      "text": "Bileam sagde til Balak: »Byg syv altre for mig her, og skaf mig syv okser og syv væddere.«",
+      "number": 29,
+      "version": 1496181600000
+    },
+    {
+      "text": "Balak gjorde som Bileam sagde, og ofrede en okse og en vædder på hvert alter.",
+      "number": 30,
+      "version": 1496181600000
+    }
+  ]
+}

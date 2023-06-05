@@ -1,0 +1,64 @@
+{
+  "book": "Johannes' Første Brev",
+  "abbreviation": "1Joh",
+  "chapter": 3,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fI skal ikke undre jer, brødre, hvis verden hader jer.",
+      "number": 13,
+      "version": 1643670000000
+    },
+    {
+      "text": "Vi ved at vi er gået over fra døden til livet, for vi elsker brødrene. Den som ikke elsker, forbliver i døden.",
+      "number": 14,
+      "version": 1643670000000
+    },
+    {
+      "text": "Enhver som hader sin broder, er en morder; og I ved at ingen morder har evigt liv blivende i sig.",
+      "number": 15,
+      "version": 1643670000000
+    },
+    {
+      "text": "Derpå kender vi kærligheden, at han har sat sit liv til for os; så er vi også skyldige at sætte livet til for brødrene.",
+      "number": 16,
+      "version": 1643670000000
+    },
+    {
+      "text": "Men den som har jordisk gods og ser sin bror lide nød og lukker sit hjerte for ham, hvordan kan Guds kærlighed forblive i ham?",
+      "number": 17,
+      "version": 1643670000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »er tilskuer til«.",
+          "type": "T",
+          "position": 35
+        },
+        {
+          "text": "Ordret: »sit indre«.",
+          "type": "T",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "Børn! Lad os ikke elske med ord eller med tungen, men i gerning og sandhed!",
+      "number": 18,
+      "version": 1643670000000
+    }
+  ]
+}

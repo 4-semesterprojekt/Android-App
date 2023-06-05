@@ -1,0 +1,74 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 15,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSalme af David.\fJHVHv, hvem kan nyde gæstevenskab i dit telt?\fHvem kan bo på dit hellige bjerg?",
+      "title": "Svar til selvprøvelse",
+      "number": 1,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Den, der blev modtaget som »gæst« hos orientaleren, fik tilsagt venskab og beskyttelse. Gæsten kunne vide sig helt under værtens beskyttelse og omsorg.",
+          "type": "E",
+          "position": 50
+        }
+      ]
+    },
+    {
+      "text": "\fDen som vandrer retskaffent,\fog som øver retfærdighed\fog taler sandhed i sit hjerte;",
+      "number": 2,
+      "version": 1475704800000
+    },
+    {
+      "text": "\fden som ikke løber omkring og bagtaler med sin tunge,\fikke gør sin næste ondt\fog ikke bringer skam over sin nærmeste;",
+      "number": 3,
+      "version": 1475704800000
+    },
+    {
+      "text": "\fden som foragter den forkastede,\fog som ærer dem der frygter JHVH,\fden som ikke bryder hvad han har svoret, selvom det skader ham;",
+      "number": 4,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Ordret »den i hvis øjne den forkastede er foragtet.",
+          "type": "T",
+          "position": 33
+        },
+        {
+          "text": "Linjen er på kun 4 ord på hebraisk, og oversættelsen er usikker. Ordret: »som sværger at skade og ændrer det ikke«. Meningen er formodentlig at skønt en ed viser sig at have andre (skadelige) konsekvenser end den sværgende forudså, holder han den alligevel. Andre vil forstå *lᵊ* (»at«) separativt: »Han sværger ikke at skade og svigter det ikke«.",
+          "type": "E",
+          "position": 131
+        }
+      ]
+    },
+    {
+      "text": "\fden som ikke låner sine penge ud mod renter\fog ikke tager imod bestikkelse i sager mod en uskyldig.\fDen der gør disse ting, skal ikke rokkes i evighed.",
+      "number": 5,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord dækker både »renter« og »åger«.",
+          "type": "T",
+          "position": 44
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "book": "Esajas’ Bog",
+  "abbreviation": "Es",
+  "chapter": 5,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJeg vil synge om min elskede,\f\n\t\tmin elskedes sang om hans vingård.\fMin elskede havde en vingård på en frugtbar skråning.",
+      "title": "Sangen om vingården",
+      "number": 1,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "I grundteksten står der *qeren ben-šāmen*, »på et horn, en søn af olie/fedt«. Hornet er her et billede på en bakke, mens »søn af olie« er et billede på frugtbarhed og velsignelse.",
+          "type": "E",
+          "position": 122
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tHan gravede den,\f\n\t\t\trensede den for sten\f\n\t\t\tog plantede den til med vinstokke.\f\n\t\t\t\tHan byggede et tårn midt i den\f\n\t\t\t\t\tog udhuggede endda en vinperse i den.\f\n\t\t\t\tOg så ventede han\n\t\t\t\t\t\tat den skulle bære gode druer,\f\n\t\t\t\t\tmen den bar vilde druer.",
+      "number": 2,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\tOg nu,\n\t\t\t\tJerusalems indbyggere og Judas mænd,\f\n\t\t\tdøm imellem mig og min vingård!",
+      "number": 3,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\tHvad\n\t\t\t\t\t\t\tvar der mere at gøre ved min vingård\f\n\t\t\t\t\t\tsom jeg ikke havde gjort ved den?\f\n\t\t\t\t\tHvorfor ventede jeg\n\t\t\t\t\t\t\tat den skulle bære gode druer,\f\n\t\t\t\t\t\tnår den bar vilde druer?",
+      "number": 4,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\tOg nu vil jeg lade jer vide\f\n\t\t\t\thvad jeg vil gøre ved min vingård:\f\n\t\t\tJeg vil fjerne dens hegn\n\t\t\t\tså\n\t\t\t\t\tden afgnaves;\f\n\t\t\tjeg vil rive dens gærde ned\n\t\t\t\t\tså den nedtrædes.",
+      "number": 5,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\tOg jeg vil lægge den øde;\f\n\t\t\t\t\t\tden skal ikke beskæres\n\t\t\t\t\t\t\t\tog ikke hakkes,\f\n\t\t\t\t\t\t\tmen der skal vokse tjørn og tidsler.\f\n\t\t\t\t\t\t\t\tJeg vil forbyde skyerne\n\t\t\t\t\t\t\t\t\tat lade regn falde på den.",
+      "number": 6,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\tFor Israels hus er Hærskarers HERRES vingård,\f\n\t\t\t\t\t\t\tog Judas mænd er hans kæreste plante.\f\n\t\t\t\t\t\tHan ventede lovlighed,\n\t\t\t\t\t\t\t\tmen der blev lovløshed,\f\n\t\t\t\t\t\t\tretfærd,\n\t\t\t\t\t\t\t\tmen der blev voldsfærd!",
+      "title": "Seks veråb over det ulydige folk",
+      "number": 7,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "I grundteksten er der ordspil mellem lovlighed (*mišpāṭ*) og lovløshed (*miśpāḥ*).",
+          "type": "E",
+          "position": 159
+        },
+        {
+          "text": "I grundteksten er der ordspil mellem retfærd (*ṣdāqāʰ*) og voldsfærd (*ṣᵊʕāqāʰ*).",
+          "type": "E",
+          "position": 208
+        }
+      ]
+    },
+    {
+      "text": "\f\tVe\n\t\t\t\tdem der lægger hus til hus,\f\n\t\t\tføjer mark til mark,\ftil der ikke er mere plads tilbage,\f\n\t\t\t\tså I bliver siddende alene midt i landet.",
+      "number": 8,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\tI mine ører lyder det fra Hærskarers HERRE:\f\n\t\t\t»Sandelig, de mange huse skal ødelægges,\f\n\t\t\t\t\tde store og gode huse være uden indbyggere!",
+      "number": 9,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "»lyder det fra« er tilføjet her, men findes dog i Septuaginta.",
+          "type": "E",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\tFor en vingård på ti spand skal kun give en bat,\n\t\t\t\t\tog en homer såsæd skal kun give en efa.«\n\n",
+      "number": 10,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Et spand er det areal, som et spand okser kan pløje på en dag.",
+          "type": "T",
+          "position": 31
+        },
+        {
+          "text": "En bat svarer til mellem 17 og 34 liter.",
+          "type": "T",
+          "position": 53
+        },
+        {
+          "text": "Homer betyder ordret »æsellast«. En homer svarer altså til den vægt et æsel kan bære.",
+          "type": "T",
+          "position": 70
+        },
+        {
+          "text": "En efa svarer til en tiendedel af en homer.",
+          "type": "T",
+          "position": 99
+        }
+      ]
+    },
+    {
+      "text": "\f\tVe\n\t\t\t\t\tdem som står tidligt op om morgenen\f\n\t\t\t\tog jager efter stærke drikke,\f\n\t\t\tsom sidder langt ud på aftenen\n\t\t\t\t\tog blusser af vin!",
+      "number": 11,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\tOg citar og harpe,\ftamburin og fløjte\fog vin hører til deres gilder;\f\n\t\t\t\t\tmen de vil ikke se JHVHs gerning,\f\n\t\t\t\t\t\tog de har ikke syn for hans hænders værk.",
+      "number": 12,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\tDerfor skal mit folk føres bort,\ffor de har ingen kundskab;\f\n\t\t\t\tdets herlighed er sultne mænd,\f\n\t\t\t\t\tog dets folkemængde er vansmægtet af tørst.",
+      "number": 13,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\tDerfor skal dødsriget spærre sit gab vidt op\f\n\t\t\t\t\tog spile sin mund helt ud,\f\n\t\t\t\tså både de fornemme og folkemængden,\fden buldrende og den lystige,\fskal styrte ned i det.",
+      "number": 14,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Ordret »hendes fornemme og hendes folkemængde og hendes buldrende og den jublende hos hende.« »Hendes« refererer til Jerusalem.",
+          "type": "E",
+          "position": 153
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tMennesket skal nedbøjes,\n\t\t\t\t\t\tog manden ydmyges,\f\n\t\t\t\t\t\t\t\tog de hovmodiges øjne skal ydmyges.",
+      "number": 15,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tMen Hærskarers HERRE skal være ophøjet ved dommen,\f\n\t\t\t\t\t\t\t\tden hellige Gud skal helliges ved retfærdighed.",
+      "number": 16,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\tDa skal lammene gå på græs som om marken var deres egen,\f\n\t\t\t\t\t\tog fremmede skal æde de riges øde marker.\n\n",
+      "number": 17,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Med støtte i Septuaginta vælger nogle at oversætte med »geder« i stedet for fremmede. På hebraisk ligner ordene hinanden, så den oversættelse kan forsvares.",
+          "type": "E",
+          "position": 81
+        },
+        {
+          "text": "Ordret »fede« som her er et billede på de rige og velnærede.",
+          "type": "T",
+          "position": 99
+        }
+      ]
+    },
+    {
+      "text": "\f\tVe\n\t\tdem der trækker ondskaben fremad med falskhedens tøjler\f\n\t\t\t\tog synden med vognreb;",
+      "number": 18,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes med »tomhedens«.",
+          "type": "T",
+          "position": 55
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tdem der siger:\n\t\t\t\t»Lad ham skynde sig,\f\n\t\t\t\tlad hans gerning komme hurtigt,\f\n\t\t\t\t\t\tså vi kan se den;\f\n\t\t\t\t\tlad det nærme sig,\f\n\t\t\t\t\t\tlad det komme,\fdet som Israels Hellige har bestemt,\f\n\t\t\t\t\t\t\tså vi kan kende det!«\n\n",
+      "number": 19,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\tVe\n\t\tdem der kalder det onde\n\t\t\t\t\tgodt\f\n\t\t\t\tog det gode\n\t\t\t\t\tondt;\f\n\t\t\tdem der gør mørke til lys\f\n\t\t\t\t\tog lys til mørke;\f\n\t\t\t\tdem der gør bittert til sødt\f\n\t\t\t\t\tog sødt til bittert!\n\n",
+      "number": 20,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\tVe\n\t\t\tdem der er vise i deres egne øjne\f\n\t\t\t\tog forstandige i deres egne tanker!\n\n",
+      "number": 21,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\tVe dem der er helte\n\t\t\t\t\t\ttil at drikke vin\f\n\t\t\t\t\tog mestre\n\t\t\t\t\t\ti at blande stærke drikke!",
+      "number": 22,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\tDem der frikender den ugudelige for bestikkelse\f\n\t\t\t\t\tog berøver de retfærdige den ret, de har!",
+      "number": 23,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\tDerfor,\n\t\t\t\t\t\t\tligesom ildens tunge fortærer halm,\f\n\t\t\t\t\t\t\t\tog strå synker sammen i luen,\f\n\t\t\t\t\t\tsådan skal deres rod blive som rådnet,\f\n\t\t\t\t\t\t\tog deres blomster hvirvles op som støv!\f\n\t\t\t\t\tDe har jo forkastet Hærskarers HERRES lov\f\n\t\t\t\t\t\tog foragtet Israels Helliges tale.",
+      "number": 24,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\tDerfor er JHVHs vrede blusset op imod hans folk,\f\n\t\t\t\t\t\tog han strækker sin hånd ud over det\f\n\t\t\t\t\t\t\tog slår det,\n\t\t\t\t\t\t\t\tså bjergene ryster,\f\n\t\t\t\t\t\t\t\t\tog deres døde kroppe ligger som affald midt på gaderne.\f\n\t\t\t\t\tTrods alt dette fortryder han ikke sin vrede;\f\n\t\t\t\t\t\t\thans hånd er stadig strakt ud.",
+      "number": 25,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tOg han vil rejse et banner for folkeslagene i det fjerne\f\n\t\t\t\t\t\t\t\t\t\tog fløjte efter dem fra jordens ende;\f\n\t\t\t\t\t\t\t\t\tog se, de skal komme med lysets hast,",
+      "number": 26,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Verset starter med at referere til folkeslag i pluralis, men i resten af afsnittet er alle referencerne i singularis. Det kan måske skyldes, at folkeslagene ses som et kollektivt. I denne oversættelse er referencerne omskrevet til pluralis.",
+          "type": "E",
+          "position": 160
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tder er ingen udmattet,\n\t\t\t\t\t\t\t\t\t\t\t\tingen der snubler iblandt dem;\f\n\t\t\t\t\t\t\t\t\t\t\tingen blunder\n\t\t\t\t\t\t\t\t\t\t\t\teller sover,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tbæltet om deres lænder løsnes ikke,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tog ingens sandalrem går i stykker.",
+      "number": 27,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tDeres pile er spidsede,\f\n\t\t\t\t\t\t\t\t\t\tog alle deres buer spændte;\f\n\t\t\t\t\t\t\t\t\tderes hestehove er som flint\f\n\t\t\t\t\t\t\t\t\t\tog deres hjul som en hvirvelvind.",
+      "number": 28,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tDeres brøl er som hunløvens,\f\n\t\t\t\t\t\t\t\tde brøler som ungløverne.\f\n\t\t\t\t\t\t\t\t\tDe knurrer\n\t\t\t\t\t\t\t\t\t\t\tog griber byttet\n\t\t\t\t\t\t\t\t\t\t\t\t\tog fører det væk;\f\n\t\t\t\t\t\t\t\t\t\t\t\tog der er ingen, der redder det.",
+      "number": 29,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tOg de skal bruse ind over dem på den dag,\fsom når havet bruser,\f\n\t\t\t\t\t\t\t\t\t\t\tog ser man på landet,\n\t\t\t\t\t\t\t\t\t\t\t\tda er der mørke og trængsel;\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tlyset er formørket af de tykke skyer.",
+      "number": 30,
+      "version": 1668034800000
+    }
+  ]
+}

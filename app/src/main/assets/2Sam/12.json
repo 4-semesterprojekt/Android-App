@@ -1,0 +1,78 @@
+{
+  "book": "Anden Samuelsbog",
+  "abbreviation": "2Sam",
+  "chapter": 12,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHERREN sendte Natan til David, og han kom ind til ham og sagde: »Der var to mænd i samme by, en rig og en fattig.",
+      "number": 1,
+      "version": 1644274800000
+    },
+    {
+      "text": "Den rige havde overordentlig meget af både småkvæg og hornkvæg.",
+      "number": 2,
+      "version": 1644274800000
+    },
+    {
+      "text": "Men den fattige havde intet andet end et lille lam som han havde købt og taget sig af. Det voksede op hos ham sammen med hans børn; det spiste af hans brød og drak af hans bæger og lå i hans skød, og det var som en datter for ham.",
+      "number": 3,
+      "version": 1644274800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »holdt i live«.",
+          "type": "T",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "Men da der kom en rejsende til den rige mand, nænnede han ikke at tage af sit eget småkvæg og af sine køer for at lave noget til den vejfarende mand som var kommet til ham, så han tog den fattige mands lam og tilberedte det til den mand som var kommet til ham.«",
+      "number": 4,
+      "version": 1644274800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »han havde medlidenhed (med sig selv)«.",
+          "type": "T",
+          "position": 62
+        }
+      ]
+    },
+    {
+      "text": "Da optændtes Davids vrede voldsomt imod den mand, og han sagde til Natan: »Så sandt HERREN lever, den mand som gør det, fortjener døden.",
+      "number": 5,
+      "version": 1644274800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »er dødens søn«.",
+          "type": "T",
+          "position": 136
+        }
+      ]
+    },
+    {
+      "text": "Og han skal betale lammet firdobbelt tilbage fordi han øvede denne ugerning, og fordi han ikke havde medlidenhed.«",
+      "number": 6,
+      "version": 1644274800000
+    },
+    {
+      "text": "Da sagde Natan til David: »Du er manden!« Så sagde HERREN, Israels Gud: Jeg salvede dig til Konge over Israel, og jeg reddede dig fra Saul.",
+      "number": 7,
+      "version": 1644274800000
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "book": "Lukasevangeliet",
+  "abbreviation": "Luk",
+  "chapter": 7,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDerefter gik han til en by som hed Nain, og hans disciple og en stor skare gik med ham.",
+      "number": 11,
+      "version": 1630360800000
+    },
+    {
+      "text": "Men da han nærmede sig byporten, se, da blev en død båret ud, som var sin mors eneste søn, og hun var enke; og en stor skare fra byen gik med hende.",
+      "number": 12,
+      "version": 1630360800000
+    },
+    {
+      "text": "Da Herren så hende, ynkedes han over hende og sagde til hende: »Græd ikke!«",
+      "number": 13,
+      "version": 1630360800000
+    },
+    {
+      "text": "Og han trådte hen og rørte ved båren; men de som bar den, stod stille, og han sagde: »Du unge mand, jeg siger dig, rejs dig op!«",
+      "number": 14,
+      "version": 1630360800000
+    },
+    {
+      "text": "Den døde satte sig op og begyndte at tale; og han gav ham til hans mor.",
+      "number": 15,
+      "version": 1630360800000
+    },
+    {
+      "text": "Men frygt greb alle, og de priste Gud og sagde: »Der er oprejst en stor profet iblandt os, og Gud har besøgt sit folk.«",
+      "number": 16,
+      "version": 1630360800000
+    },
+    {
+      "text": "Og det ord om ham kom ud i hele Judæa og i hele omegnen.",
+      "number": 17,
+      "version": 1630360800000
+    }
+  ]
+}

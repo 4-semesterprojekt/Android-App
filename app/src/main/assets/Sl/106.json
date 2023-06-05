@@ -1,0 +1,379 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 106,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHalleluja!\fTak JHVH, for han er god,\ffor hans nåde varer til evig tid.",
+      "title": "Lovprisning og bøn",
+      "number": 1,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHvem kan fremsige JHVHs vældige gerninger,\fforkynde al hans pris?",
+      "number": 2,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fSalige er de som våger over ret,\fog den som øver retfærdighed til alle tider.",
+      "number": 3,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Oversættes nu ofte: »lykkelige«.",
+          "type": "T",
+          "position": 7
+        },
+        {
+          "text": "Således den masoretiske tekst. En del håndskrifter har dog pluralis: »de som øver« (*ʕōśê* i stedet for *ʕōśēʰ*).",
+          "type": "E",
+          "position": 49
+        }
+      ]
+    },
+    {
+      "text": "\fHusk mig, JHVHv, med velviljen til dit folk,\ftag dig af mig med din frelse",
+      "number": 4,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fså jeg må se dine udvalgtes lykke,\fglæde mig ved dit folks glæde,\fprise mig lykkelig med din arvelod!",
+      "title": "Israels synd og Guds trofasthed",
+      "number": 5,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fVi har syndet med vore fædre,\fvi har handlet slet og ugudeligt.",
+      "number": 6,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fVore fædre i Egypten\fgav ikke agt på dine undere,\fde huskede ikke mængden af dine nådesbevisninger,\fmen var genstridige ved et hav, ved Sivhavet.",
+      "number": 7,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Mange går ud fra at *ʕal-yām* (»ved et hav«) er en skrivefejl. Teksten er på ingen måde umulig, men det er bemærkelsesværdigt at der i sætningen er benyttet to forskellige præpositioner der begge oversættes: »ved« (*ʕal* og *bᵊ*). De fleste går ud fra at der skulle stå: *ʕelyôn*: »(mod) den Højeste«. Det giver god mening: »men (de) var genstridige mod den Højeste ved Sivhavet«. Der er dog også andre forslag, og der er ingen afvigelser i håndskrifterne.",
+          "type": "E",
+          "position": 132
+        }
+      ]
+    },
+    {
+      "text": "\fDog frelste han dem for sit navns skyld\ffor at kundgøre sin magt.",
+      "number": 8,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan truede Sivhavet, og det tørrede ud,\fog han lod dem gå gennem dybet som gennem ørkenen.",
+      "number": 9,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan frelste dem af haders hånd,\fog udfriede dem af fjendes hånd.",
+      "number": 10,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fVand dækkede deres modstandere,\fder blev ikke én eneste tilbage af dem.",
+      "number": 11,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDa troede de på hans ord,\fde sang hans pris.",
+      "number": 12,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDe glemte hurtigt hans gerninger,\fde ventede ikke på hans beslutning.",
+      "number": 13,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »de ilede, de glemte«.",
+          "type": "T",
+          "position": 18
+        }
+      ]
+    },
+    {
+      "text": "\fDe fik et voldsomt begær i ørkenen\fog fristede Gud i ødemarken.",
+      "number": 14,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "»de begærede med begær«.",
+          "type": "T",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "\fDa gav han dem det de begærede,\fmen sendte tærende sygdom mod dem.",
+      "number": 15,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »mod deres sjæl«. Andre oversætter: »på halsen«.",
+          "type": "T",
+          "position": 67
+        }
+      ]
+    },
+    {
+      "text": "\fDe blev skinsyge på Moses i lejren,\fpå Aron, JHVHs hellige.",
+      "number": 16,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fJorden åbnede sig og opslugte Datan,\fog den tildækkede Abirams flok,",
+      "number": 17,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fild brændte deres flok,\fflamme fortærede ugudelige.",
+      "number": 18,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens ord skal i de fleste sammenhænge oversættes: »forsamling/menighed«.",
+          "type": "T",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "\fDe lavede en kalv ved Horeb\fog tilbad et støbt gudebillede.",
+      "number": 19,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDe ombyttede deres herlighed\fmed en figur af en okse som æder græs.",
+      "number": 20,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDe glemte Gud, deres frelser,\fsom havde gjort store ting i Egypten,",
+      "number": 21,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fundere i Kams land,\ffrygtindgydende gerninger ved Sivhavet.",
+      "number": 22,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan sagde at han ville udrydde dem,\fhvis ikke Moses, hans udvalgte,\fvar trådt beskyttende frem for hans ansigt,\ffor at afvende hans vrede fra at ødelægge dem.",
+      "number": 23,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Andre oversætter her *wayyōˀmer* ved: »han havde besluttet« eller: »han truede med«.",
+          "type": "E",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "text": "\fDe vragede det attråværdige land,\fde troede ikke hans ord.",
+      "number": 24,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDe murrede i deres telte,\fde hørte ikke på JHVHs røst.",
+      "number": 25,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDa løftede han sin hånd mod dem\ffor at slå dem ned i ørkenen,",
+      "number": 26,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst kan både betyde at Gud aktivt slår folket ned – og at han aflægger ed på at han vil gøre det.",
+          "type": "E",
+          "position": 32
+        }
+      ]
+    },
+    {
+      "text": "\fog for at slå deres efterkommere ned blandt folkene\fog strø dem ud i landene.",
+      "number": 27,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Mange oversættere følger den gamle syriske oversættelse, der forudsætter: *ûlᵊhafîṣ*: »og for at sprede« (som Ez 20,23)i stedet for den masoretiske teksts *ûlᵊhappîl* (»og for at slå ned/og for at lade falde«.",
+          "type": "E",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "\fDe tog Ba’al-Peors åg på sig\fog spiste af ofrene til de døde.",
+      "number": 28,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDe vakte hans harme med deres gerninger,\fså en plage brød løs mod dem.",
+      "number": 29,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDa stod Pinehas frem og holdt dom,\fog plagen hørte op.",
+      "number": 30,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDet blev regnet ham til retfærdighed\fi generation efter generation til evig tid.",
+      "number": 31,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDe vakte hans vrede ved Meribas vand,\fog det gik Moses ilde for deres skyld.",
+      "number": 32,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fFor de var genstridige imod hans ånd,\fså han talte uoverlagt med sine læber.",
+      "number": 33,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDe udryddede ikke folkene,\fsom JHVH havde sagt det til dem.",
+      "number": 34,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDe blandede sig med folkene\fog lærte deres gerninger.",
+      "number": 35,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske *gôyim* (»folkene«) oversættes i en del sammenhænge: »hedninger«, og det spiller utvivlsomt med her (samme ord i v.34).",
+          "type": "E",
+          "position": 28
+        }
+      ]
+    },
+    {
+      "text": "\fDe tilbad deres gudebilleder\fsom blev til en snare for dem.",
+      "number": 36,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDe ofrede deres sønner\fog deres døtre til dæmonerne.",
+      "number": 37,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDe udgød uskyldigt blod,\fderes sønners og deres døtres blod,\fsom de ofrede til Kana’ans gudebilleder,\fog landet blev vanhelliget af blodet.",
+      "number": 38,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Formodentlig her i betydningen: »blodskyld«.",
+          "type": "T",
+          "position": 140
+        }
+      ]
+    },
+    {
+      "text": "\fDe gjorde sig urene ved deres gerninger,\fog de bedrev hor ved deres handlinger.",
+      "number": 39,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDa blussede JHVHs vrede op mod hans folk,\fog han fik afsky for sin arv.",
+      "number": 40,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan gav dem i folkenes hånd,\fderes fjender herskede over dem,",
+      "number": 41,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fderes modstandere undertrykte dem,\fog de blev ydmygede under deres hånd.",
+      "number": 42,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fMange gange reddede han dem,\fmen de var genstridige mod ham med deres beslutning\fog sank ned i deres skyld.",
+      "number": 43,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDog så han til dem i nøden\fda han hørte deres skrig.",
+      "number": 44,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan huskede for deres skyld sin pagt\fog havde medlidenhed, som hans nåde er stor.",
+      "number": 45,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan lod dem finde barmhjertighed\fhos alle dem som havde ført dem i fangenskab.",
+      "title": "Bøn",
+      "number": 46,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Han gjorde dem til barmhjertighed«.",
+          "type": "T",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\fFrels os, JHVHv, vor Gud,\fog saml os fra folkene\fså vi kan takke dit hellige navn,\frose os af at lovprise dig.",
+      "title": "Lovprisning",
+      "number": 47,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din helligheds navn«.",
+          "type": "T",
+          "position": 83
+        },
+        {
+          "text": "Ordret: »din lovprisning«.",
+          "type": "T",
+          "position": 111
+        }
+      ]
+    },
+    {
+      "text": "\fLovet være JHVH, Israels Gud,\ffra evighed og til evighed,\fog hele folket skal sige: Amen!\fHalleluja!",
+      "number": 48,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »velsignet«.",
+          "type": "T",
+          "position": 6
+        },
+        {
+          "text": "Mange oversættere lader (med støtte i Septuaginta) »halleluja« være indledning til Sl 107",
+          "type": "T",
+          "position": 101
+        }
+      ]
+    }
+  ]
+}

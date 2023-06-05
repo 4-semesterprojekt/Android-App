@@ -1,0 +1,153 @@
+{
+  "book": "Ruths bog",
+  "abbreviation": "Ruth",
+  "chapter": 4,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fBoaz var da gået hen til byporten\n\tog havde sat sig der,\n\t\tog se løseren,\n\t\t\tsom Boaz havde talt om,\n\tgik forbi.\n\tHan sagde til ham:\n\t\t\t»Kom herhen,\n\t\t\tsæt dig her,\n\t\t\t\tmin ven.«\n\t\tHan kom derhen\n\t\tog satte sig.",
+      "title": "I byens ældstes påhør spørger Boaz den anden arving om han vil løskøbe No'omis mark og tage Ruth til kone; men da han ikke vil, lover Boaz at gifte sig med hende, og de ønsker ham tillykke.",
+      "number": 1,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tHan fik fat på ti af de ældste i byen\n\tog sagde:\n\t\t\t»Sæt jer her.«\n\t\tOg de satte sig.",
+      "number": 2,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tDa sagde han til løseren:\n\t\t\t»Det jordstykke\n\t\t\t\t\t\tsom tilhørte vores bror Elimelek,\n\t\t\t\t\thar No'omi,\n\t\t\t\t\t\tsom er kommet tilbage fra Moab,\n\t\t\t\t\tsat til salg.",
+      "number": 3,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\tDerfor erklærer jeg nu:\n\t\t\t\t\t›Jeg meddeler dig hermed\n\t\t\t\t\t\tfølgende:\n\t\t\t\t\t\t\tKøb det i overværelse af dem der sidder her, mit folks ældste.‹\n\t\t\t\t\t\t\t\tDersom du vil løskøbe det,\n\t\t\t\t\t\t\t\t\t\tløskøb det,\n\t\t\t\t\t\t\t\t\tmen dersom du ikke vil løskøbe det,\n\t\t\t\t\t\t\t\t\t\tså sig mig det,\n\t\t\t\t\t\t\t\t\t\t\t\tså jeg kan vide det.\n\t\t\t\t\t\t\t\t\t\t\tFor der er ingen anden\n\t\t\t\t\t\t\t\t\t\t\t\t\ttil at løskøbe det\n\t\t\t\t\t\t\t\t\t\t\tend dig\n\t\t\t\t\t\t\t\t\t\t\t\tog efter dig mig selv.\n\t\t« Han sagde:\n\t\t\t»Jeg vil løskøbe det.«",
+      "number": 4,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "*waˀᵃnî ʔāmartî* »og jeg har sagt« kan tolkes som et handlingsverbum af juridisk bindende karakter.",
+          "type": "E",
+          "position": 26
+        },
+        {
+          "text": "*ʔegleʰ ʔoznxā lēˀmōr* »jeg åbenbarer dine ører sigende« opfattes bedst som en juridisk gyldig kundgørelse.",
+          "type": "E",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "\tBoaz sagde:\n\t\t»Den dag\n\t\t\t\tdu køber jorden af No'omi,\n\t\t\tkøber du også moabitten Ruth, den afdødes hustru,\n\t\t\t\tfor at oprejse den afdøde et navn over hans arvelod.«",
+      "number": 5,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tDa sagde løseren:\n\t\t\t»Jeg kan ikke\n\t\t\t\t\t\tløskøbe det,\n\t\t\t\t\tfor så vil jeg forringe min egen arvelod.\n\t\t\t\tBrug du min løskøbelsesret,\n\t\t\t\t\tfor jeg vil ikke\n\t\t\t\t\t\tløskøbe det.«",
+      "number": 6,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\tI gamle dage var det sædvane i Israel ved løskøbelse og byttehandel\n\t\t\t\t\tat den ene som tegn på gennemførelsen af handlen\n\t\t\t\ttog sin sko af\n\t\t\t\t\tog gav den til den anden.\n\t\t\tDet gjaldt som bevisførelse i Israel.",
+      "number": 7,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tLøseren sagde til Boaz:\n\t\t\t»Køb du det.«\n\t\tOg han tog sin sko af.",
+      "number": 8,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tDa sagde Boaz til de ældste og til alt folket:\n\t\t»I er i dag vidner på\n\t\t\tat jeg\n\t\t\t\t\t\taf No'omi har købt alt de\n\t\t\t\t\t\tsom tilhørte Elimelek,\n\t\t\t\t\tog alt det\n\t\t\t\t\t\t\tsom tilhørte Kiljon og Maklon.",
+      "number": 9,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\tOg jeg har ydermere taget moabitten Ruth, Maklons hustru, til hustru\n\t\t\t\t\tfor at oprejse et navn for den afdøde over hans arvelod,\n\t\t\t\t\t\tfor at den dødes navn ikke skal udslettes blandt hans brødre og fra hans hjembys port.\n\t\tDet er I i dag vidner på.«",
+      "number": 10,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tOg alt folket\n\t\t\t\tsom var i porten,\n\t\t\tog de ældste sagde:\n\t\t»Vi er vidner.\n\t\t\tMå JHVH give at den kvinde der kommer ind i dit hus,\n\t\t\t\t\t\tbliver som Rakel og som Lea,\n\t\t\t\t\t\t\tder begge byggede Israels hus.\n\t\t\t\t\tMå du blive mægtig i Efrata\n\t\t\t\t\t\tog berømt i Betlehem!",
+      "number": 11,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\tOg må dit hus blive ligesom Perez' hus,\n\t\t\t\t\t\than som Tamar fødte Juda,\n\t\t\t\t\tved den efterkommer\n\t\t\t\t\t\tsom JHVH skal give dig af denne unge kvinde.«",
+      "title": "Boaz tager Ruth til kone, og hun føder en søn som No'omi opfostrer; hans efterslægt opremses indtil kong David.",
+      "number": 12,
+      "version": 1668034800000
+    },
+    {
+      "text": "\fSå tog Boaz Ruth\n\t\tsom sin hustru\n\tog han gik ind til hende.\n\t\tJHVH lod hende blive gravid,\n\tog hun fødte en søn.",
+      "number": 13,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Udtrykket er en eufemisme for seksuelt samvær, dvs. han var sammen med sin kone.",
+          "type": "E",
+          "position": 60
+        }
+      ]
+    },
+    {
+      "text": "Da sagde kvinderne til No'omi:\n\t\t»Velsignet være JHVH,\n\t\t\t\tsom ikke lod dig mangle en løser i dag.\n\t\t\tHans navn være priset i Israel!",
+      "number": 14,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\tOg han skal givet dig livet tilbage\n\t\t\t\t\t\tog være din forsørger i din alderdom,\n\t\t\t\tfor din svigerdatter,\n\t\t\t\t\t\t\tsom elskede dig,\n\t\t\t\t\t\thar født ham.\n\t\t\t\t\tHun er dig mere værd end syv sønner.«",
+      "number": 15,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tOg No'omi tog barnet\n\t\tpå sit skød,\n\t\t\tog hun blev hans plejemor.",
+      "number": 16,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tNabokonerne gav ham et navn\n\t\t\tog sagde:\n\t\t\t\t»No'omi har fået en søn.«\n\t\tDe kaldte ham Obed.\n\t\t\tHan blev far til Isaj, Davids far.",
+      "number": 17,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\tDette er Perez' slægt:\n\t\t\t\t\tPerez fik Hesron,",
+      "number": 18,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\t\tHezron fik Ram,\n\t\t\t\t\t\tog Ram fik Amminadab,",
+      "number": 19,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\t\tAmminadab fik Nakshon,\n\t\t\t\t\t\tog Nakshon fik Salma,",
+      "number": 20,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\t\tSalma fik Boaz,\n\t\t\t\t\t\tog Boaz fik Obed,",
+      "number": 21,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\t\tog Obed fik Isaj,\n\t\t\t\t\t\tog Isaj fik David.",
+      "number": 22,
+      "version": 1668034800000
+    }
+  ]
+}

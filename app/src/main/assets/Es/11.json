@@ -1,0 +1,201 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 11,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen der skal spire en kvist frem af Isajs stub,\fog et skud fra hans rødder skal bære frugt.",
+      "title": "Isajs rodskud",
+      "number": 1,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "En del oversættere følger Septuaginta, der skal oversættes: »gro frem«, der forudsætter disse hebræiske konsonanter: *yfrḥ* i stedet for den masoretiske teksts: *yfrh*",
+          "type": "E",
+          "position": 92
+        }
+      ]
+    },
+    {
+      "text": "\fOg JHVHs Ånd skal hvile over ham,\fvisdoms og indsigts Ånd,\fråds og styrkes Ånd,\fden Ånd der giver kundskab og frygt for JHVH.",
+      "number": 2,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fHans glæde skal være i frygt for JHVH,\fog han skal ikke dømme efter det hans øjne ser,\fog ikke fælde dom efter det hans ører hører.",
+      "number": 3,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fMen han skal dømme ringe med retfærdighed\fog fælde dom med retfærdighed for landets elendige;\fhan skal slå jorden med sin munds stav\fog dræbe gudløs med sine læbers ånde.",
+      "number": 4,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »jordens«.",
+          "type": "T",
+          "position": 84
+        },
+        {
+          "text": "Kan også oversættes: »landet«.",
+          "type": "T",
+          "position": 114
+        },
+        {
+          "text": "En del oversættere går ud fra en fejlskrivning i den hebraiske tekst så der ikke skal stå: *ʔereṣ* (»jord«), men: *ʕārēṣ*: »voldsmand«.",
+          "type": "E",
+          "position": 114
+        }
+      ]
+    },
+    {
+      "text": "\fRetfærdighed skal være hans hofters bælte\fog trofastheden hans lænders bælte.",
+      "number": 5,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fUlv skal bo sammen med lam,\fog panter ligge sammen med kid;\fkalv og ungløve og fedekalv skal være sammen,\fog en lille dreng skal vogte dem.",
+      "number": 6,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Mange oversættere følger her bl.a. Septuaginta, der i stedet for *ûmᵊrîʔ* (»og fedekalv«) ser ud til at have læst: *yirʕû*: »skal græsse«.",
+          "type": "E",
+          "position": 88
+        }
+      ]
+    },
+    {
+      "text": "\fKo og bjørn skal græsse,\fderes unger skal ligge sammen,\fog løve skal æde strå som oksen.",
+      "number": 7,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Hebraisk: *tirʕeʸnāʰ*. Man går ofte ud fra at der skulle have stået: *titrāʕeʸnāʰ*: »skal blive venner«.",
+          "type": "E",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "\fSpædbarn skal lege over giftslangens hul\fog hen over hugormens hule\fskal fravænnet barn stikke sin hånd.",
+      "number": 8,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Der er formodentlig tænkt på en bestemt giftslange, men det er uvist, hvilken det er.",
+          "type": "T",
+          "position": 63
+        }
+      ]
+    },
+    {
+      "text": "\fDe skal ikke gøre ondt og ikke ødelægge på hele mit hellige bjerg,\ffor landet er fuldt af kundskab om JHVH,\fsom vandene dækker havets bund.",
+      "title": "Profeti om Israels hjemkomst og genrejsning",
+      "number": 9,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »jorden«.",
+          "type": "T",
+          "position": 78
+        },
+        {
+          "text": "Ordret blot: »som vandene dækker havet«.",
+          "type": "T",
+          "position": 140
+        }
+      ]
+    },
+    {
+      "text": "\fDet skal ske på den dag\fat Isajs rodskud, der står som et banner for folkeslag\f– til ham skal folkene søge,\fog hans bolig skal være herlig.",
+      "number": 10,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hedninger«.",
+          "type": "T",
+          "position": 102
+        }
+      ]
+    },
+    {
+      "text": "\fOg det skal ske på den dag\fat Herren igen, for anden gang, skal række sin hånd ud\ffor at løskøbe den rest af sit folk\fsom er tilbage fra Assyrien og Egypten,\ffra Pathros, Nubien, Elam,\fSinear, Hamat og fra havets øer.",
+      "number": 11,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fOg han skal rejse et banner for folkene\fog samle Israels fordrevne\fog bringe Judas spredte sammen\ffra jordens fire hjørner.",
+      "number": 12,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hedningerne«.",
+          "type": "T",
+          "position": 40
+        },
+        {
+          "text": "I grundteksten er »fordrevne« maskulinum, og »spredte« er femininum. Dermed understreges det, at løftet gælder både mænd og kvinder.",
+          "type": "E",
+          "position": 91
+        }
+      ]
+    },
+    {
+      "text": "\fEfraims skinsyge skal forsvinde,\fog Judas fjendskab skal udryddes;\fEfraim skal ikke være skinsyg på Juda,\fog Juda skal ikke være fjendtlig mod Efraim.",
+      "number": 13,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »fjendtlige«.",
+          "type": "T",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "\fMen de skal flyve ind på filistrenes skuldre imod vest,\fsammen skal de plyndre østens sønner.\fEdom og Moab skal blive et bytte for deres hånd,\fog Ammons sønner skal blive deres undersåtter.",
+      "number": 14,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Der er tænkt på filistrenes »bakker«.",
+          "type": "T",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH skal lægge band på Egypterhavets vig\fog svinge sin hånd ud over floden med sin Ånds glød,\fog han skal splitte den til syv bække,\fså man kan gå over med sko.",
+      "number": 15,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "De gamle oversættelser har tilsyneladende i stedet for: *baʕyām rûḥô* (»med sin Ånds glød«) læst: *bᵊʕōṣēm rûḥô*: »med sin kraftige storm«.",
+          "type": "E",
+          "position": 96
+        }
+      ]
+    },
+    {
+      "text": "\fOg der skal være en ryddet vej for den rest af hans folk\fder bliver tilbage fra Assyrien,\fligesom der var for Israel\fden dag det drog op fra Egyptens land.",
+      "number": 16,
+      "version": 1674774000000
+    }
+  ]
+}

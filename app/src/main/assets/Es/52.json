@@ -1,0 +1,141 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 52,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fVågn op, vågn op, klæd dig i din styrke, Zion! Tag din herligheds klæder på, Jerusalem, du hellige by! For ingen uomskåren eller uren skal mere komme ind i dig.",
+      "title": "Profeten lover Guds folk en uforskyldt og herlig befrielse gennem JHVHs tjener, 1-6; taler om, at evangeliet skal prædikes vidunderligt, 7-10; formaner de troende til at holde sig fra al urenhed og profeterer om Guds tjeners ophøjelse efter hans fornedrelse og om hedningernes omvendelse, 11-15.",
+      "number": 1,
+      "version": 1639004400000
+    },
+    {
+      "text": "Ryst støvet af dig, rejs dig, tag plads på dit sæde, Jerusalem! Gør dig løs af lænkerne om din hals, du Zions fangne datter!",
+      "number": 2,
+      "version": 1639004400000
+    },
+    {
+      "text": "For sådan siger JHVH: I er solgt for intet, I skal heller ikke løskøbes med penge.",
+      "number": 3,
+      "version": 1639004400000
+    },
+    {
+      "text": "For sådan siger Herren JHVH: I begyndelsen tog mit folk ned til Egypten for at være fremmed dér; og så undertrykker Assur det for intet.",
+      "number": 4,
+      "version": 1639004400000
+    },
+    {
+      "text": "Og nu, hvad har jeg fået her? siger JHVH; for mit folk er bortført for intet; dets herskere hyler op, siger JHVH, og mit navn bliver spottet hele dagen.",
+      "number": 5,
+      "version": 1639004400000
+    },
+    {
+      "text": "Derfor skal mit folk lære at kende mit navn; ja, derfor, på denne dag; for det er mig, der taler, se, her er jeg.",
+      "number": 6,
+      "version": 1639004400000
+    },
+    {
+      "text": "\fHvor herlige er fødderne på bjergene af en der kommer med er et glædeligt budskab, der forkynder fred, der kommer med glædesbudskab om noget godt, der forkynder frelse, der siger til Zion: »Din Gud er konge!«",
+      "number": 7,
+      "version": 1639004400000
+    },
+    {
+      "text": "Hør, dine vægtere løfter røsten samtidigt! De jubler, for med egne øjne ser de at JHVH vender tilbage til Zion.",
+      "number": 8,
+      "version": 1639004400000,
+      "footnotes": [
+        {
+          "text": "Der er tvivl om oversættelsen af det første *qôl*, der oftest skal oversættes »røst«, men her oftest opfattes som opfordring til at lytte. Sætningen kan dog også oversættes: »Dine vægteres røst, de løfter røsten samtidig, de jubler«.",
+          "type": "E",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "Råb med fryd, syng med jubel, alle I Jerusalems øde steder, for JHVH har trøstet sit folk, han har løskøbt Jerusalem.",
+      "number": 9,
+      "version": 1639004400000
+    },
+    {
+      "text": "JHVH har blottet sin hellige arm for alle folkenes øjne, og alle jordens ender skal se vores Guds frelse.",
+      "number": 10,
+      "version": 1639004400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hedningernes«.",
+          "type": "T",
+          "position": 50
+        }
+      ]
+    },
+    {
+      "text": "\fAfsted, afsted! Gå bort fra den, rør ikke ved noget urent; gå væk fra dens midte, rens jer, I, der bærer JHVHs kar!",
+      "number": 11,
+      "version": 1639004400000,
+      "footnotes": [
+        {
+          "text": "dvs. ud fra Babylon",
+          "type": "T",
+          "position": 82
+        }
+      ]
+    },
+    {
+      "text": "For I skal ikke tage af sted i hast, og heller ikke forsvinde i flugt; for foran jeres ansigt går JHVH, og Israels Gud er jeres bagtrop.",
+      "number": 12,
+      "version": 1639004400000
+    },
+    {
+      "text": "Se, min tjener får lykken med sig; han skal ophøjes og løftes op og blive vældig høj.",
+      "number": 13,
+      "version": 1639004400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »skal handle klogt«",
+          "type": "T",
+          "position": 34
+        }
+      ]
+    },
+    {
+      "text": "Ligesom mange blev forfærdede over ham – så skamferet var hans udseende at han ikke var som en mand, og hans skikkelse at han ikke var som menneskebørn -",
+      "number": 14,
+      "version": 1639004400000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: »over dig«, man følger som regel de gamle oversættelser.",
+          "type": "T",
+          "position": 38
+        }
+      ]
+    },
+    {
+      "text": "sådan skal han rense mange folkeslag, konger skal holde deres mund lukket for ham; for det der ikke var fortalt dem, har de set, og det de ikke havde hørt, har de erfaret.",
+      "number": 15,
+      "version": 1639004400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »bestænke«. Ofte følger man gamle oversættelser der oversætter: »sætter i forundring«.",
+          "type": "T",
+          "position": 20
+        },
+        {
+          "text": "Kan også oversættes: »hedninger«",
+          "type": "T",
+          "position": 37
+        }
+      ]
+    }
+  ]
+}

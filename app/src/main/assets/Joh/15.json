@@ -1,0 +1,32 @@
+{
+  "book": "Johannesevangeliet",
+  "abbreviation": "Joh",
+  "chapter": 15,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\f»Når Talsmanden kommer, som jeg sender jer fra Faderen, sandhedens Ånd, som udgår fra Faderen, da skal han vidne om mig.",
+      "number": 26,
+      "version": 1620165600000
+    },
+    {
+      "text": "Men også I skal vidne; for I var med mig fra begyndelsen.",
+      "number": 27,
+      "version": 1620165600000
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 24,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEn salme af David.\fJHVHs er jorden og dens fylde,\fverden og dens beboere.",
+      "title": "David lovpriser JHVH, som er herre over alle ting",
+      "number": 1,
+      "version": 1466114400000,
+      "footnotes": [
+        {
+          "text": "Der er især tænkt på det dyrkede land",
+          "type": "T",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\fFor han grundlagde den på havene;\fgjorde den fast på strømmene.",
+      "title": "Betingelsen for at et menneske kan træde ind i Guds tempel",
+      "number": 2,
+      "version": 1466114400000,
+      "footnotes": [
+        {
+          "text": "I det gammeltestamentlige verdensbillede (kosmologi) opfattede man jorden som fastgjort på søjler over det store underjordiske urhav eller strømmene, som det også kan kaldes.",
+          "type": "T",
+          "position": 63
+        }
+      ]
+    },
+    {
+      "text": "\fHvem kan gå op på JHVHs bjerg?\fHvem kan stå på hans hellige sted?",
+      "number": 3,
+      "version": 1466114400000
+    },
+    {
+      "text": "\fDen som har uskyldige hænder og et rent hjerte;\fden som ikke har rettet sin sjæl mod falskhed\fog ikke har svoret bedragerisk.",
+      "number": 4,
+      "version": 1466114400000
+    },
+    {
+      "text": "\fHan skal få velsignelse fra JHVH;\fretfærdighed fra sin frelses Gud.",
+      "number": 5,
+      "version": 1466114400000
+    },
+    {
+      "text": "\fDette er den slægt som spørger efter ham,\fde som søger dit ansigt, Jakobs Gud. Sela",
+      "title": "JHVH holder sejrrigt indtog i helligdommen",
+      "number": 6,
+      "version": 1466114400000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er usikker, for ordet »Gud« mangler i grundteksten. Det indføjes oftest med støtte i to håndskrifter og bl.a. LXX. Ellers skal der oversættes: »de som søger dit ansigt, er Jakob«. Meningen kan så være at de der kommer til templet, erkender at de ikke kan opfylde kravene, men ikke vil slippe Gud før han velsigner dem (1 Mos 32,27.)",
+          "type": "E",
+          "position": 78
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "\fLøft, I porte, jeres hoveder;\fløft jer, I ældgamle døre,\fså ærens konge kan drage ind!",
+      "number": 7,
+      "version": 1466114400000
+    },
+    {
+      "text": "\fHvem er denne ærens konge?\fJHVH, stærk og mægtig,\fJHVH, mægtig i krig.",
+      "number": 8,
+      "version": 1466114400000
+    },
+    {
+      "text": "\fLøft, I porte, jeres hoveder;\fløft jer, I ældgamle døre,\fså ærens konge kan drage ind!",
+      "number": 9,
+      "version": 1466114400000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har: »og løft (dem), I ældgamle døre«. Men med enkelte håndskrifter og bl.a. LXX forudsætter man oftest verbalformen nif’al som i v.7.",
+          "type": "E",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fHvem er han, den ærens konge?\fHærskarers JHVHv,\fhan er ærens konge! Sela",
+      "number": 10,
+      "version": 1466114400000,
+      "footnotes": [
+        {
+          "text": "I ældre tid oversat: »Zebaoth«.",
+          "type": "T",
+          "position": 42
+        }
+      ]
+    }
+  ]
+}

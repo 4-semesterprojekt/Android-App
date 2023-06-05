@@ -1,0 +1,42 @@
+{
+  "book": "Paulus' Brev til Romerne",
+  "abbreviation": "Rom",
+  "chapter": 15,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fFor alt hvad der hidtil er skrevet, er skrevet for at vi skulle lære af det, for at vi kan fastholde håbet ved den udholdenhed og trøst som skrifterne giver.",
+      "number": 4,
+      "version": 1637535600000
+    },
+    {
+      "text": "Må udholdenhedens og trøstens Gud give jer at være enige indbyrdes, som Kristus Jesus vil det,",
+      "number": 5,
+      "version": 1637535600000
+    },
+    {
+      "text": "for at I enigt med én mund kan prise Gud og vor Herres Jesu Kristi far.",
+      "number": 6,
+      "version": 1637535600000
+    },
+    {
+      "text": "Tag derfor imod hinanden, ligesom også Kristus har taget imod os til Guds ære.",
+      "number": 7,
+      "version": 1637535600000
+    }
+  ]
+}

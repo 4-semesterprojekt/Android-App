@@ -1,0 +1,32 @@
+{
+  "book": "Johannes' Første Brev",
+  "abbreviation": "1Joh",
+  "chapter": 2,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMine børn! Dette skriver jeg til jer for at I ikke skal synde. Men hvis nogen synder, har vi en talsmand hos Faderen, Jesus Kristus, den retfærdige,",
+      "number": 1,
+      "version": 1646002800000
+    },
+    {
+      "text": "og han er soning for vores synder, dog ikke kun for vores, men også for hele verdens.",
+      "number": 2,
+      "version": 1646002800000
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "book": "Fjerde Mosebog",
+  "abbreviation": "4Mos",
+  "chapter": 7,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDen dag Moses var færdig med at rejse boligen og havde salvet og helliget den og alle dens redskaber og havde salvet og helliget alteret og alle dets redskaber,",
+      "title": "Israelitternes tolv stammeledere ofrer seks vogne og tolv okser til helligdommens tjeneste, og de gives til gershonitterne og meraritterne.",
+      "number": 1,
+      "version": 1499378400000,
+      "footnotes": [
+        {
+          "text": "Ordet »dag« bruges her om handlinger som strækker sig over en længere periode.",
+          "type": "E",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "text": "kom israelitternes ledere, som var overhoveder for deres fædrenehus, de som var stammernes ledere, og som stod i spidsen for de mønstrede, og de trådte frem med deres offergaver.",
+      "number": 2,
+      "version": 1499378400000
+    },
+    {
+      "text": "De førte deres offer frem for JHVHs ansigt: Seks tildækkede vogne og tolv okser, en vogn for to ledere og en okse for hver, og de førte dem frem foran boligen.",
+      "number": 3,
+      "version": 1499378400000
+    },
+    {
+      "text": "JHVH sagde til Moses:",
+      "number": 4,
+      "version": 1499378400000
+    },
+    {
+      "text": "»Tag imod dette af dem for at det kan bruges til tjenesten ved forsamlingsteltet, og du skal give det til levitterne alt efter hvad de har brug for til deres tjeneste.«",
+      "number": 5,
+      "version": 1499378400000
+    },
+    {
+      "text": "Da tog Moses vognene og okserne og gav dem til levitterne.",
+      "number": 6,
+      "version": 1499378400000
+    },
+    {
+      "text": "Han gav gershonitterne to vogne og fire okser efter hvad de havde brug for til deres tjeneste.",
+      "number": 7,
+      "version": 1499378400000
+    },
+    {
+      "text": "Han gav meraritterne fire vogne og otte okser efter hvad de havde brug for til deres tjeneste, under tilsyn af Itamar, præsten Arons søn.",
+      "number": 8,
+      "version": 1499378400000
+    },
+    {
+      "text": "Men kehatitterne gav han ikke noget, for deres tjeneste angik de hellige ting som skulle bæres på skuldrene.",
+      "title": "Israelitternes ledere ofrer derefter andre gaver til alterets tjeneste, hver på sin dag.",
+      "number": 9,
+      "version": 1499378400000
+    },
+    {
+      "text": "\fStammelederne ofrede til alterets indvielse den dag det blev salvet, og stammelederne bar selv deres ofre frem for alteret.",
+      "number": 10,
+      "version": 1499378400000
+    },
+    {
+      "text": "JHVH sagde til Moses: »Lad stammelederne bringe deres offer, hver enkelt en dag ad gangen til alterets indvielse.«",
+      "number": 11,
+      "version": 1499378400000
+    },
+    {
+      "text": "Den som gav sit offer den første dag, var Nakson, Amminadabs søn, lederen af Judas stamme.",
+      "number": 12,
+      "version": 1499378400000
+    },
+    {
+      "text": "Hans offer var et sølvfad, der vejede 130 sekel, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,",
+      "number": 13,
+      "version": 1499378400000
+    },
+    {
+      "text": "en røgelsesskål på ti sekel guld, fuld af røgelse,",
+      "number": 14,
+      "version": 1499378400000
+    },
+    {
+      "text": "en tyrekalv, en vædder og et årgammelt lam til brændoffer,",
+      "number": 15,
+      "version": 1499378400000
+    },
+    {
+      "text": "en gedebuk til syndoffer",
+      "number": 16,
+      "version": 1499378400000
+    },
+    {
+      "text": "og to okser, fem væddere, fem bukke og fem årgamle lam til takoffer. Dette var Naksons, Amminadabs søns, offer.",
+      "number": 17,
+      "version": 1499378400000
+    },
+    {
+      "text": "Den anden dag ofrede Netan’el, Suars søn, Issakars leder.",
+      "number": 18,
+      "version": 1499378400000
+    },
+    {
+      "text": "Han gav sit offer: Et sølvfad, der vejede 130 sekel, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,",
+      "number": 19,
+      "version": 1499378400000
+    },
+    {
+      "text": "en røgelsesskål på ti sekel guld, fuld af røgelse,",
+      "number": 20,
+      "version": 1499378400000
+    },
+    {
+      "text": "en tyrekalv, en vædder og et årgammelt lam til brændoffer,",
+      "number": 21,
+      "version": 1499378400000
+    },
+    {
+      "text": "en gedebuk til syndoffer",
+      "number": 22,
+      "version": 1499378400000
+    },
+    {
+      "text": "og to okser, fem væddere, fem bukke og fem årgamle lam til takoffer. Dette var Netan’els, Suars søns, offer.",
+      "number": 23,
+      "version": 1499378400000
+    },
+    {
+      "text": "Den tredje dag ofrede zebulonitternes leder, Eliab, Helons søn.",
+      "number": 24,
+      "version": 1499378400000
+    },
+    {
+      "text": "Hans offer var et sølvfad, der vejede 130 sekel, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,",
+      "number": 25,
+      "version": 1499378400000
+    },
+    {
+      "text": "en røgelseskål på ti sekel guld, fuld af røgelse,",
+      "number": 26,
+      "version": 1499378400000
+    },
+    {
+      "text": "en tyrekalv, en vædder og et årgammelt lam til brændoffer,",
+      "number": 27,
+      "version": 1499378400000
+    },
+    {
+      "text": "en gedebuk til syndoffer",
+      "number": 28,
+      "version": 1499378400000
+    },
+    {
+      "text": "og to okser, fem væddere, fem bukke og fem årgamle lam til takoffer. Dette var Eliabs, Helons søns, offer.",
+      "number": 29,
+      "version": 1499378400000
+    },
+    {
+      "text": "Den fjerde dag ofrede rubenitternes leder, Elisur, Shede’urs søn.",
+      "number": 30,
+      "version": 1499378400000
+    },
+    {
+      "text": "Hans offer var et sølvfad, der vejede 130 sekel sølv, en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,",
+      "number": 31,
+      "version": 1499378400000
+    },
+    {
+      "text": "en røgelseskål på ti sekel guld, fuld af røgelse,",
+      "number": 32,
+      "version": 1499378400000
+    },
+    {
+      "text": "en tyrekalv, en vædder og et årgammelt lam til brændoffer,",
+      "number": 33,
+      "version": 1499378400000
+    },
+    {
+      "text": "en gedebuk til syndoffer",
+      "number": 34,
+      "version": 1499378400000
+    },
+    {
+      "text": "og to okser, fem væddere, fem bukke og fem årgamle lam til takoffer. Dette var Elisurs, Shede’urs søns, offer.",
+      "number": 35,
+      "version": 1499378400000
+    },
+    {
+      "text": "Den femte dag ofrede simeonitternes leder, Shelumiel, Surishaddajs søn.",
+      "number": 36,
+      "version": 1499378400000
+    },
+    {
+      "text": "Hans offer var et sølvfad, der vejede 130 sekel, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,",
+      "number": 37,
+      "version": 1499378400000
+    },
+    {
+      "text": "en røgelseskål på ti sekel guld, fuld af røgelse,",
+      "number": 38,
+      "version": 1499378400000
+    },
+    {
+      "text": "en tyrekalv, en vædder og et årgammelt lam til brændoffer,",
+      "number": 39,
+      "version": 1499378400000
+    },
+    {
+      "text": "en gedebuk til syndoffer",
+      "number": 40,
+      "version": 1499378400000
+    },
+    {
+      "text": "og to okser, fem væddere, fem bukke og fem årgamle lam til takoffer. Dette var Shelumiels, Surishaddajs søns, offer.",
+      "number": 41,
+      "version": 1499378400000
+    },
+    {
+      "text": "Den sjette dag ofrede gaditternes leder, Eljasaf, De’uels søn.",
+      "number": 42,
+      "version": 1499378400000
+    },
+    {
+      "text": "Hans offer var et sølvfad, der vejede 130 sekel, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,",
+      "number": 43,
+      "version": 1499378400000
+    },
+    {
+      "text": "en røgelseskål på ti sekel guld, fuld af røgelse,",
+      "number": 44,
+      "version": 1499378400000
+    },
+    {
+      "text": "en tyrekalv, en vædder og et årgammelt lam til brændoffer,",
+      "number": 45,
+      "version": 1499378400000
+    },
+    {
+      "text": "en gedebuk til syndoffer",
+      "number": 46,
+      "version": 1499378400000
+    },
+    {
+      "text": "og to okser, fem væddere, fem bukke og fem årgamle lam til takoffer. Dette var Eljasafs, De’uels søns, offer.",
+      "number": 47,
+      "version": 1499378400000
+    },
+    {
+      "text": "Den syvende dag ofrede efraimitternes leder, Elishama, Ammihuds søn.",
+      "number": 48,
+      "version": 1499378400000
+    },
+    {
+      "text": "Hans offer var et sølvfad, der vejede 130 sekel, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,",
+      "number": 49,
+      "version": 1499378400000
+    },
+    {
+      "text": "en røgelseskål på ti sekel guld, fuld af røgelse,",
+      "number": 50,
+      "version": 1499378400000
+    },
+    {
+      "text": "en tyrekalv, en vædder og et årgammelt lam til brændoffer,",
+      "number": 51,
+      "version": 1499378400000
+    },
+    {
+      "text": "en gedebuk til syndoffer",
+      "number": 52,
+      "version": 1499378400000
+    },
+    {
+      "text": "og to okser, fem væddere, fem bukke og fem årgamle lam til takoffer. Dette var Elishamas, Ammihuds søns, offer.",
+      "number": 53,
+      "version": 1499378400000
+    },
+    {
+      "text": "Den ottende dag ofrede manassitternes leder, Gamliel, Pedasurs søn.",
+      "number": 54,
+      "version": 1499378400000
+    },
+    {
+      "text": "Hans offer var et sølvfad, der vejede 130 sekel, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,",
+      "number": 55,
+      "version": 1499378400000
+    },
+    {
+      "text": "en røgelseskål på ti sekel guld, fuld af røgelse,",
+      "number": 56,
+      "version": 1499378400000
+    },
+    {
+      "text": "en tyrekalv, en vædder og et årgammelt lam til brændoffer,",
+      "number": 57,
+      "version": 1499378400000
+    },
+    {
+      "text": "en gedebuk til syndoffer",
+      "number": 58,
+      "version": 1499378400000
+    },
+    {
+      "text": "og to okser, fem væddere, fem bukke og fem årgamle lam til takoffer. Dette var Gamliels Pedasurs søns, offer.",
+      "number": 59,
+      "version": 1499378400000
+    },
+    {
+      "text": "Den niende dag ofrede benjaminitternes leder, Abidan, Gid’onis søn.",
+      "number": 60,
+      "version": 1499378400000
+    },
+    {
+      "text": "Hans offer var et sølvfad, der vejede 130 sekel, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,",
+      "number": 61,
+      "version": 1499378400000
+    },
+    {
+      "text": "en røgelseskål på ti sekel guld, fuld af røgelse,",
+      "number": 62,
+      "version": 1499378400000
+    },
+    {
+      "text": "en tyrekalv, en vædder og et årgammelt lam til brændoffer,",
+      "number": 63,
+      "version": 1499378400000
+    },
+    {
+      "text": "en gedebuk til syndoffer",
+      "number": 64,
+      "version": 1499378400000
+    },
+    {
+      "text": "og to okser, fem væddere, fem bukke og fem årgamle lam til takoffer. Dette var Abidans, Gid’onis søns, offer.",
+      "number": 65,
+      "version": 1499378400000
+    },
+    {
+      "text": "Den tiende dag ofrede danitternes leder, Akiezer, Ammishaddajs søn.",
+      "number": 66,
+      "version": 1499378400000
+    },
+    {
+      "text": "Hans offer var et sølvfad, der vejede 130 sekel, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,",
+      "number": 67,
+      "version": 1499378400000
+    },
+    {
+      "text": "en røgelseskål på ti sekel guld, fuld af røgelse,",
+      "number": 68,
+      "version": 1499378400000
+    },
+    {
+      "text": "en tyrekalv, en vædder og et årgammelt lam til brændoffer,",
+      "number": 69,
+      "version": 1499378400000
+    },
+    {
+      "text": "en gedebuk til syndoffer",
+      "number": 70,
+      "version": 1499378400000
+    },
+    {
+      "text": "og to okser, fem væddere, fem bukke og fem årgamle lam til takoffer. Dette var Akiezers, Ammishaddajs søns, offer.",
+      "number": 71,
+      "version": 1499378400000
+    },
+    {
+      "text": "Den ellevte dag ofrede asheritternes leder, Patiel, Okrans søn.",
+      "number": 72,
+      "version": 1499378400000
+    },
+    {
+      "text": "Hans offer var et sølvfad, der vejede 130 sekel, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,",
+      "number": 73,
+      "version": 1499378400000
+    },
+    {
+      "text": "en røgelseskål på ti sekel guld, fuld af røgelse,",
+      "number": 74,
+      "version": 1499378400000
+    },
+    {
+      "text": "en tyrekalv, en vædder og et årgammelt lam til brændoffer,",
+      "number": 75,
+      "version": 1499378400000
+    },
+    {
+      "text": "en gedebuk til syndoffer",
+      "number": 76,
+      "version": 1499378400000
+    },
+    {
+      "text": "og to okser, fem væddere, fem bukke og fem årgamle lam til takoffer. Dette var Pagiels, Okrans søns offer.",
+      "number": 77,
+      "version": 1499378400000
+    },
+    {
+      "text": "Den tolvte dag ofrede naftalitternes leder Akira, Enans søn.",
+      "number": 78,
+      "version": 1499378400000
+    },
+    {
+      "text": "Hans offer var et sølvfad, der vejede 130 sekel, og en sølvskål på 70 sekel efter helligdommens sekel, begge fulde af mel blandet med olie, til afgrødeoffer,",
+      "number": 79,
+      "version": 1499378400000
+    },
+    {
+      "text": "en røgelseskål på ti sekel guld, fuld af røgelse,",
+      "number": 80,
+      "version": 1499378400000
+    },
+    {
+      "text": "en tyrekalv, en vædder og et årgammelt lam til brændoffer,",
+      "number": 81,
+      "version": 1499378400000
+    },
+    {
+      "text": "en gedebuk til syndoffer,",
+      "number": 82,
+      "version": 1499378400000
+    },
+    {
+      "text": "og to okser, fem væddere, fem bukke og fem årgamle lam til takoffer. Dette var Akiras, Enans søns, offer.",
+      "title": "Summen af alle disse gaver.",
+      "number": 83,
+      "version": 1499378400000
+    },
+    {
+      "text": "\fDette er gaverne fra israelitternes ledere til alterets indvielse på den dag det blev salvet: 12 sølvfade, 12 sølvskåle, 12 guldrøgelseskåle.",
+      "number": 84,
+      "version": 1499378400000
+    },
+    {
+      "text": "Hvert fad var på 130 sekel sølv, og hver skål på 70 sekel. Alt sølvet af karrene beløb sig til 2400 sekel efter helligdommens sekel.",
+      "number": 85,
+      "version": 1499378400000
+    },
+    {
+      "text": "12 guldrøgelseskåle, fulde af røgelse. Hver røgelsesskål var på ti sekel efter helligdommens sekel. Alt guldet af røgelseskålene beløb sig til 120 sekel.",
+      "number": 86,
+      "version": 1499378400000
+    },
+    {
+      "text": "Alle husdyr til brændofret udgjorde 12 okser, 12 væddere, 12 årgamle lam og deres afgrødeoffer, og 12 gedebukke til syndoffer.",
+      "number": 87,
+      "version": 1499378400000
+    },
+    {
+      "text": "Alle husdyr til takofret udgjorde 24 okser, 60 væddere, 60 bukke og 60 årgamle lam. Dette var til alterets indvielse efter det var blevet salvet.",
+      "title": "JHVH taler med Moses fra nådestolen.",
+      "number": 88,
+      "version": 1499378400000
+    },
+    {
+      "text": "\fNår Moses gik ind i forsamlingsteltet for at tale med ham, da hørte han stemmen tale til sig fra nådestolen oven på vidnesbyrdets ark mellem de to keruber, og den talte til ham.",
+      "number": 89,
+      "version": 1499378400000,
+      "footnotes": [
+        {
+          "text": "Dvs. med JHVH.",
+          "type": "T",
+          "position": 59
+        }
+      ]
+    }
+  ]
+}

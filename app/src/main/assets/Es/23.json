@@ -1,0 +1,153 @@
+{
+  "book": "Esajas",
+  "abbreviation": "Es",
+  "chapter": 23,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fUdsagn om Tyrus.\fI skal jamre, Tarshish-skibe!\fFor den er ødelagt, intet hus, ingen indgang; fra kittæernes land blev det meddelt dem.",
+      "title": "Ord mod Tyrus og Sidon",
+      "number": 1,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fI skal tie af skræk, I kystbeboere,\fSidons handelsfolk,\fder rejser over havet, fyldte dig op!",
+      "number": 2,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Med støtte i et ugaritisk ord der stort set er enslydende med *dōmmû*, og ud fra forventning om en parallel til »jamre« i vers 2, oversætter mange: »klag«.",
+          "type": "E",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fOg på store vande blev Shihors sæd, Nilens høst, dens indtjening,\fog den var folkeslags erhvervelse.",
+      "number": 3,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hedningernes«.",
+          "type": "T",
+          "position": 88
+        }
+      ]
+    },
+    {
+      "text": "\fSkam dig, Sidon!\fFor havet har talt,\fhavets fæstning har sagt:\f»Jeg har ikke haft fødselsveer og har ikke født\fog ikke opfostret unge mænd\fog ikke opdraget unge piger.«",
+      "number": 4,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fSå snart rygtet når Egypten,\fskal de skælve ved rygtet om Tyrus.",
+      "number": 5,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fRejs over til Tarshish,\fI skal jamre, kystbeboere!",
+      "number": 6,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fEr dette jeres jublende by,\fhvis oprindelse er fra ældgammel tid,\fden, hvis fødder bærer den\flangt bort for at bo som fremmed?",
+      "number": 7,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fHvem har planlagt dette mod Tyrus,\fder uddeler kroner,\fhvis handelsfolk er ledere,\fhvis købmænd er jordens fornemme?",
+      "number": 8,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fHærskarers HERRE har planlagt det\ffor at vanhellige enhver pragts stolthed,\ffor at vanære jordens fornemme.\n\n",
+      "number": 9,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "text": "\fFlyd ud over dit land som Nilen,\fdu datter af Tarshish!\fDer ikke længere noget bælte.",
+      "number": 10,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "I stedet for: *ʕivrî* (»flyd ud over«) foreslås det undertiden med støtte i Septuaginta at rette til: *ʕivdî*: »dyrk«. Det har dog ingen støtte i hebraiske håndskrifter.",
+          "type": "E",
+          "position": 13
+        },
+        {
+          "text": "Det er noget der binder.",
+          "type": "T",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "\fHan rakte sin hånd ud over havet,\fhan fik kongeriger til at ryste;\fJHVH befalede om Kana’an\fat ødelægge dens fæstninger.",
+      "number": 11,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fOg han sagde: »Du skal ikke længere juble,\fdu mishandlede jomfru, Sidons datter!\fRejs dig, drag over til kittæerne;\fheller ikke dér skal du have ro.«",
+      "number": 12,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fSe, kaldæernes land - det er folket, som ikke var til, Assur har oprettet det til skibsfart – de har rejst belejringstårne, revet dets paladser ned, gjort det til en ruin.",
+      "number": 13,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er usikker. Ordet *ṣî*(som her er pluralis) forekommer kun ganske få gange i GT og oversættes nogle steder: »skib«, andre steder med »ørkenbeboere« eller: »ørkendyr«. Her er alle betydninger mulige.",
+          "type": "E",
+          "position": 92
+        }
+      ]
+    },
+    {
+      "text": "I skal jamre, Tharshish-skibe, for jeres fæstning er ødelagt!",
+      "number": 14,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fOg det skal ske på den dag, da skal Tyrus blive glemt i 70 år, svarende til en konges dage; når de 70 år er slut, skal det gå Tyrus som i skøgesangen:",
+      "number": 15,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f»Tag en citer,\fgå omkring i byen,\fdu glemte skøge!\fSpil smukt,\fsyng meget,\fså du må blive husket!«",
+      "number": 16,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fOg det skal ske, efter at 70 år er gået, da skal JHVH tage sig af Tyrus, så hun igen får sin skøgeløn, og hun skal hore med alle verdens kongeriger på jordens overflade.",
+      "number": 17,
+      "version": 1681336800000
+    },
+    {
+      "text": "Men hendes fortjeneste og hendes skøgeløn skal være helliget JHVH, den skal ikke spares op og ikke opbevares; men de der bor for JHVHs ansigt, skal have det hun har erhvervet, så de kan spise sig mætte og få en prægtig klædning.",
+      "number": 18,
+      "version": 1681336800000
+    }
+  ]
+}

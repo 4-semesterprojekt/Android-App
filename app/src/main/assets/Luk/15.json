@@ -1,0 +1,79 @@
+{
+  "book": "Lukasevangeliet",
+  "abbreviation": "Luk",
+  "chapter": 15,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen alle toldere og syndere holdt sig nær til ham for at høre ham,",
+      "number": 1,
+      "version": 1644274800000
+    },
+    {
+      "text": "og både farisæerne og de skriftkloge knurrede og sagde: »Denne mand tager imod syndere og spiser med dem.«",
+      "number": 2,
+      "version": 1644274800000
+    },
+    {
+      "text": "Men han fortalte dem denne lignelse:",
+      "number": 3,
+      "version": 1644274800000
+    },
+    {
+      "text": "»Hvem af jer som har 100 får og har mistet ét af dem, forlader ikke de 99 i ødemarken og går ud efter det han har mistet, indtil han finder det?",
+      "number": 4,
+      "version": 1644274800000
+    },
+    {
+      "text": "Og når han har fundet det, lægger han det på sine skuldre med glæde.",
+      "number": 5,
+      "version": 1644274800000
+    },
+    {
+      "text": "Når han kommer hjem, sammenkalder han sine venner og naboer og siger til dem: ›Glæd jer med mig; for jeg har fundet det får jeg havde mistet.‹",
+      "number": 6,
+      "version": 1644274800000
+    },
+    {
+      "text": "Jeg siger jer: Således skal der være mere glæde i himlen over én synder som omvender sig, end over 99 retfærdige som ikke har brug for omvendelse.",
+      "number": 7,
+      "version": 1644274800000
+    },
+    {
+      "text": "Eller hvilken kvinde som har ti drakmer og mister en drakme, tænder ikke lys og fejer huset og søger omhyggeligt indtil hun finder den?",
+      "number": 8,
+      "version": 1644274800000,
+      "footnotes": [
+        {
+          "text": "En drakme havde omtrent samme værdi som en denar, se Matt. 18,28.",
+          "type": "T",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "Og når hun har fundet den, sammenkalder hun sine veninder og nabokoner og siger: ›Glæd jer med mig; for jeg har fundet den drakme jeg havde mistet.‹",
+      "number": 9,
+      "version": 1644274800000
+    },
+    {
+      "text": "Således, siger jeg jer, bliver der glæde hos Guds engle over én synder som omvender sig.«",
+      "number": 10,
+      "version": 1644274800000
+    }
+  ]
+}

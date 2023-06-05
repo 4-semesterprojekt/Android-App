@@ -1,0 +1,181 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 7,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard, Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEn Shiggajon af David, som han sang til JHVH, over benjaminitten Kush's ord.",
+      "title": "David beder mod sine forfølgere",
+      "number": 1,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Formodentlig navn på en digttype, muligvis en speciel type klagesang. Hab. 3,1.",
+          "type": "T",
+          "position": 13
+        },
+        {
+          "text": "Meningen kan evt. blot være: »på grund af Kush«.",
+          "type": "T",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv, min Gud! Hos dig søger jeg tilflugt,\ffrels mig fra alle mine forfølgere og befri mig",
+      "number": 2,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fså han ikke som en løve skal sønderrive min sjæl\fidet han sønderflænger den uden at der er nogen der redder.",
+      "title": "David bevidner sin uskyld i forhold til modstanderen",
+      "number": 3,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Ordet »sjæl« bruges ofte i betydningen »jeg/mig« hvor det på en eller anden måde skal betones at det drejer sig om menneskets egentlige og inderste væsen.",
+          "type": "E",
+          "position": 49
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv, min Gud! Hvis jeg har gjort dette,\fhvis der er uret i mine hænder,",
+      "number": 4,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fhvis jeg har handlet ondt mod min ven,\fog uden anledning udplyndret min modstander,",
+      "number": 5,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Roden i ordet *šlm* er »fred«, her altså: »den jeg holder fred med«.",
+          "type": "E",
+          "position": 38
+        },
+        {
+          "text": "En anden mulig oversættelse er: »- jeg har dog udfriet ham der uden anledning var min modstander -« (som indskudt sætning).",
+          "type": "E",
+          "position": 83
+        }
+      ]
+    },
+    {
+      "text": "\fmåtte da fjenden forfølge min sjæl og indhente den\fog træde mit liv til jorden;\flægge min ære i støvet! Sela",
+      "title": "David beder Gud om at dømme",
+      "number": 6,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Ordet »sjæl« bruges ofte i betydningen »jeg/mig« hvor det på en eller anden måde skal betones at det drejer sig om menneskets egentlige og inderste væsen.",
+          "type": "E",
+          "position": 35
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 109
+        }
+      ]
+    },
+    {
+      "text": "\fStå op, JHVHv! i din vrede,\frejs dig imod mine fjenders harme,\fog vågn op for min skyld; du har jo sat retten.",
+      "number": 7,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fLad folkenes forsamling omgive dig,\fog vend så tilbage over den i det høje!",
+      "number": 8,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Meningen må være, at Gud efter dommen skal vende tilbage til sit universelle herredømme. Andre foreslår en lille tekstrettelse (*šûvāʰ* til *šēvāʰ*): »tag sæde over den i det høje«.",
+          "type": "E",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH holder dom over folkene.\fDøm mig, JHVHv,\fefter min retfærdighed og efter min uskyld, som er hos mig.",
+      "number": 9,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fLad dog de ugudeliges ondskab få ende,\fmen støt den retfærdige,\fdu som jo prøver hjerter og nyrer,\fretfærdige Gud!",
+      "title": "Gud er frelser og dommer",
+      "number": 10,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fMit skjold er hos Gud\fder frelser de oprigtige af hjertet.",
+      "number": 11,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fGud er en retfærdig dommer\fog en Gud som kan blive vred hver dag.",
+      "number": 12,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fHvis man ikke vil omvende sig, hvæsser han sit sværd,\fhan har spændt sin bue og gjort den klar,",
+      "number": 13,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens *ʔim-lōˀ* (»hvis ikke«) kan også oversættes: »sandelig/visselig«, der vil give oversættelsen: »Sandelig, han hvæsser på ny sit sværd« I dette tilfælde er fjenden formodentlig grundled, og i v.14 skal der ikke oversættes »mod ham«, men »mod sig selv«.",
+          "type": "E",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "\fog mod ham har han beredt dødelige våben,\fsine pile har han gjort brændende.",
+      "number": 14,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fSe, han undfanger uret,\fog han er svanger med ulykke\fog føder løgn.",
+      "number": 15,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "d. e. den ugudelige.",
+          "type": "T",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "text": "\fHan har gravet en grav og opkastet den,\fmen han falder selv i den grav som han har gravet.",
+      "number": 16,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fHans misgerning skal vende tilbage over hans eget hoved,\fog hans vold skal komme over hans isse.",
+      "title": "Lovprisning",
+      "number": 17,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fJeg vil takke JHVH for hans retfærdighed\fog lovsynge JHVH den Højestes Navn.",
+      "number": 18,
+      "version": 1486335600000
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 34,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAf David.\fDengang han spillede vanvittig over for Abimelek som fordrev ham, så han drog bort.",
+      "title": "Indledende lovprisning",
+      "number": 1,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »forstillede sin forstand«",
+          "type": "T",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil prise JHVH til hver en tid,\fhans lovsang skal altid være i min mund.",
+      "number": 2,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fOver JHVH skal min sjæl rose sig,\fde ydmyge skal høre det og glæde sig.",
+      "number": 3,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fOphøj JHVH sammen med mig,\fog lad os sammen forherlige hans navn.",
+      "title": "Taksigelse for bønhørelse",
+      "number": 4,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fJeg søgte JHVH, og han svarede mig\fog befriede mig for al min frygt.",
+      "number": 5,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDe så på ham og strålede af glæde,\fog deres ansigter skal ikke blive skamfulde.",
+      "number": 6,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Sætningen er vanskelig. Der mangler et subjekt, der må underforstås: »de/man«. Ellers skal *hibbîṭû* (»de så«)og *nāhārû* (»strålede af glæde«) vokaliseres som imperativer: *habbîṭû* og *nᵊhārû*: »Se hen til ham og strål af glæde«. Det kræver dog også rettelse i næste linje, hvor *ûfnêhem* (»og deres ansigt«) skal rettes til *ûfnêkem*: »jeres ansigter«",
+          "type": "E",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fDenne hjælpeløse råbte, og JHVH hørte\fog frelste ham af alle hans trængsler.",
+      "number": 7,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Andre oversætter: »Her er en hjælpeløs, der råbte«",
+          "type": "T",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHs engel lejrer sig\fomkring dem der frygter ham, og udfrier dem.",
+      "number": 8,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fSmag og se, at JHVH er god;\fsalig den mand der søger tilflugt hos ham.",
+      "number": 9,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fFrygt JHVH, I hans hellige,\ffor de der frygter ham, mangler intet.",
+      "number": 10,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fUnge løver lider nød og sulter,\fmen de der søger JHVH, skal ikke mangle noget godt.",
+      "title": "Belærende del: Jeg vil lære jer at frygte JHVH",
+      "number": 11,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fKom, børn! Hør på mig,\fjeg vil lære jer frygt for JHVH.",
+      "number": 12,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fHvem er den mand som er glad for livet,\fsom elsker dage hvor han ser lykke?",
+      "number": 13,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fBevar din tunge fra ondt\fog dine læber fra at tale svig.",
+      "number": 14,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fHold dig fra ondt, og gør godt,\fsøg fred, og jag efter den!",
+      "number": 15,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fJHVHs øjne er vendt til retfærdige\fog hans ører til deres råb om hjælp.",
+      "number": 16,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fJHVHs ansigt er vendt imod dem der gør ondt,\ffor at udslette deres minde fra jorden.",
+      "number": 17,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDe skreg, og JHVH hørte,\fog fra alle deres trængsler befriede han dem.",
+      "number": 18,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Som regel supplerer man med »retfærdige« (med støtte i gamle oversættelser). Andre foreslår at bytte om på v. 16 og v. 17, men dermed brydes salmens alfabetiske orden (se note til salmens nummer). Man skal dog ikke helt afskrive den mulighed at det faktisk er dem »som gør ondt« (v. 17), der »skreg« i smerte og angst, da »trængsler« ramte dem – og JHVH hørte og befriede",
+          "type": "E",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "text": "\fNær er JHVH hos dem hvis hjerte er sønderbrudt,\fog dem hvis ånd er sønderknust, vil han frelse.",
+      "number": 19,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fMange lidelser rammer en retfærdig,\fmen af dem alle vil JHVH udfri ham.",
+      "number": 20,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fHan beskytter alle hans knogler,\fikke en af dem skal blive sønderbrudt.",
+      "number": 21,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fUlykke skal dræbe den gudløse,\fog de der hader en retfærdig, skal bøde.",
+      "number": 22,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fJHVH forløser sine tjeneres sjæl,\fog alle de der søger tilflugt hos ham, skal ikke bøde.",
+      "number": 23,
+      "version": 1457218800000
+    }
+  ]
+}

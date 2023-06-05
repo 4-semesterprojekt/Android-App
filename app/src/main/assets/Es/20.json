@@ -1,0 +1,67 @@
+{
+  "book": "Esajas",
+  "abbreviation": "Es",
+  "chapter": 20,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDet år, da en hærchef kom til Ashdod, da Sargon, Assyrien konge, sendte ham, og belejrede Asdod og indtog den,",
+      "title": "Billedhandling om Egyptens og Nubiens nederlag",
+      "number": 1,
+      "version": 1681336800000
+    },
+    {
+      "text": "på den tid talte JHVH igennem Esajas, Amos’ søn, og sagde: »Gå hen og løs sækken af dine lænder, og tag skoen af dine fødder!« Det gjorde han og gik nøgen og barfodet.",
+      "number": 2,
+      "version": 1681336800000
+    },
+    {
+      "text": "Så sagde JHVH: »Ligesom min tjener Esajas har gået nøgen og barfodet i tre år som tegn og varsel mod Egypten og mod Nubien,",
+      "number": 3,
+      "version": 1681336800000
+    },
+    {
+      "text": "sådan skal Assyriens konge føre fangerne fra Egypten og de bortførte fra Nubien, både unge og gamle, nøgne og barfodede, med blottet bagdel, til skam for Egypten.«",
+      "number": 4,
+      "version": 1681336800000
+    },
+    {
+      "text": "Og de skal blive bestyrtede og skamfulde over Nubien, deres håb, og over Egypten, deres stolthed.",
+      "number": 5,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Dvs. jøderne; Es 11,16",
+          "type": "T",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "text": "Og den der bor på denne kyst, skal sige på den dag: »Se, sådan er det gået vort håb, som vi flygtede til for at få hjælp til at blive reddet fra Assyriens konge; og vi, hvordan skal vi undslippe?«",
+      "number": 6,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Dvs. i Juda",
+          "type": "T",
+          "position": 28
+        }
+      ]
+    }
+  ]
+}

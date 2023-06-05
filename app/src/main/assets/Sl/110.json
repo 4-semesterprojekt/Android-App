@@ -1,0 +1,107 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 110,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAf David. Salme.\fJHVHs udsagn til min herre:\f»Sæt dig ved min højre hånd,\findtil jeg lægger dine fjender\fsom en skammel for dine fødder!«",
+      "title": "Guds salvedes kongelige og præstelige værdighed",
+      "number": 1,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske *nᵊʔum* betegner i GT åbenbaringsord fra Gud (undtagen Sl 36,2). Det oversættes lidt forskelligt, f.eks.: »orakel« eller »kendelse«.",
+          "type": "E",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "\fDin magts scepter skal JHVH række ud fra Zion,\fhersk midt blandt dine fjender!",
+      "number": 2,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDit folk møder villigt frem på din vældes dag.\fI hellig prydelse - fra morgenrødens moderskød\fkommer dit unge mandskabs dug til dig.",
+      "number": 3,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »dit folk er lutter villighed«",
+          "type": "T",
+          "position": 28
+        },
+        {
+          "text": "*bᵊyôm ḥêlexā* oversættes ofte: »på din kampdag«, men *ḥayil* betyder »magt/vælde/hær«. Der er formodentlig tænkt på en mønstringsdag eller parade.",
+          "type": "E",
+          "position": 47
+        },
+        {
+          "text": "Den masoretiske tekst har ikke noget verbum her; det må underforstås. Rimeligst i sammenhængen er: »kommer«, men en anden mulighed er: »tilhører«.",
+          "type": "T",
+          "position": 101
+        },
+        {
+          "text": "Verset er blevet kaldt det dunkleste vers i Salmernes Bog, især de to sidste linjer er omdiskuterede. Mange oversættere vælger at følge Septuaginta, der her kan oversættes: »På hellige bjerge har jeg født dig / som dug af morgenrødens moderskød«. Det kræver følgende ændringer af den hebraiske tekst: *bᵊhadrê* (»i prydelse«) til: *bᵊharᵊrê* (»på bjerge«), *yalduteʸxā* (»dit unge mandskab«) til: *yᵊlidᵊtîxā* (»jeg har født dig«).",
+          "type": "E",
+          "position": 133
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH har svoret, og han angrer ikke:\f»Du er præst for evigt\fpå Melkisedeks vis.«",
+      "title": "Guds salvede skal overvinde sine fjender",
+      "number": 4,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHerren er ved din højre side,\fhan knuser konger på sin vredes dag.",
+      "number": 5,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Qatal, der oftest skal oversættes ved fortid, angiver her og i v.6 vished om det der vil ske.",
+          "type": "E",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "\fHan vil dømme blandt folkene,\fhan fylder op med lig,\fhan knuser hoveder over den vide jord.",
+      "number": 6,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hedningerne«.",
+          "type": "T",
+          "position": 30
+        },
+        {
+          "text": "Kan også oversættes: »overhoveder/ledere«. Grundteksten har singularis (»et hoved«), men ordet skal formodentlig opfattes kollektivt.",
+          "type": "T",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "\fAf bækken ved vejen vil han drikke,\fderfor kan han løfte hovedet højt.",
+      "number": 7,
+      "version": 1499983200000
+    }
+  ]
+}

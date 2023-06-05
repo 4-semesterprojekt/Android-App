@@ -1,0 +1,155 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 132,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fValfartssang.\fHusk, JHVHv, på David\ffor al hans møje",
+      "title": "Bøn om Guds trofaste nærvær i templet",
+      "number": 1,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "\fda han aflagde den ed til JHVH,\fgav Jakobs Mægtige det løfte:",
+      "number": 2,
+      "version": 1492725600000
+    },
+    {
+      "text": "\f»Jeg vil aldrig gå ind i min teltbolig,\fjeg vil aldrig stige op på mit sengeleje,",
+      "number": 3,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fjeg vil aldrig give søvn til mine øjne,\fhvile til mine øjenlåg,",
+      "number": 4,
+      "version": 1492725600000
+    },
+    {
+      "text": "\ffør jeg har fundet et sted til JHVH,\fen bolig til Jakobs Mægtige.«",
+      "number": 5,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens ord er i pluralis der skal understrege storheden og skønheden",
+          "type": "T",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "\fSe, vi hørte om den i Efrata,\fvi fandt den paa Ja’ars mark.",
+      "number": 6,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "At pagtens ark var på Ja’ars mark.",
+          "type": "T",
+          "position": 30
+        },
+        {
+          "text": "Formodentlig et poetisk udtryk for Kirjat-Jearim, 1 Sam 5,1-7,2.",
+          "type": "T",
+          "position": 60
+        }
+      ]
+    },
+    {
+      "text": "\fLad os gå til hans bolig,\flad os kaste os ned for hans fødders skammel.",
+      "number": 7,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fRejs dig, JHVHv, til dit hvilested,\fdu og din magtfulde ark!",
+      "number": 8,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din magts/majestæts ark«.",
+          "type": "T",
+          "position": 61
+        }
+      ]
+    },
+    {
+      "text": "\fDine præster skal iklæde sig retfærdighed\fog dine fromme skal juble.",
+      "number": 9,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fFor Davids, din tjeners, skyld\fmå du ikke afvise din salvedes ansigt!",
+      "title": "Guds løfte til David",
+      "number": 10,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fJHVH svor David\fen troværdig ed, som han ikke går fra:\f»Af dit livs frugt\fvil jeg sætte en på din trone.",
+      "number": 11,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »en sandhed/troværdighed«",
+          "type": "T",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\fHvis dine sønner holder min pagt\fog mine vedtægter, som jeg vil lære dem,\fså skal også deres børn for evigt\fsidde på din trone.«",
+      "title": "Guds løfter over Zion",
+      "number": 12,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fFor JHVH har udvalgt Zion,\fhan har ønsket det som sin bopæl:",
+      "number": 13,
+      "version": 1492725600000
+    },
+    {
+      "text": "\f»Det er mit hvilested for evigt,\fher vil jeg bo, for jeg har ønsket det.",
+      "number": 14,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fDets føde vil jeg velsigne rigeligt,\fjeg vil mætte dets fattige med brød,",
+      "number": 15,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fog jeg vil klæde dets præster i frelse,\fog dets hellige skal juble højt.",
+      "number": 16,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fDér vil jeg lade et horn vokse frem for David,\fjeg har sørget for en lampe for min salvede.",
+      "number": 17,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fHans fjender vil jeg klæde i skam,\fmen på ham skal hans krone stråle.«",
+      "number": 18,
+      "version": 1492725600000
+    }
+  ]
+}

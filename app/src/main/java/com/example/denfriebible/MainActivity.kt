@@ -110,6 +110,7 @@ fun GetBook(navController: NavController) {
             }
         }
     }
+    Spacer(Modifier.height(200.dp))
 }
 
 @Composable
@@ -147,7 +148,7 @@ fun GetChapter(navController: NavController, abbreviation: String) {
                     tranlationLevelFontColor = Color.Black
                     //tranlationLevel = "Rå oversættelse"
                 } else if (listedBooks.chapters[bookList] < 100) {
-                    tranlationLevelBTNColor = Color.Gray
+                    tranlationLevelBTNColor = Color.Blue
                     //tranlationLevel = "Delvis færdig"
                 } else if (listedBooks.chapters[bookList] == 100) {
                     tranlationLevelBTNColor = Color.Green
@@ -172,8 +173,10 @@ fun GetChapter(navController: NavController, abbreviation: String) {
                     )
 
                 }
+                Spacer(Modifier.height(20.dp))
             }
         }
+
     }
 }
 
@@ -181,7 +184,6 @@ fun GetChapter(navController: NavController, abbreviation: String) {
 fun GetText(
     abbreviation: String,
     number: String,
-    navController: NavController,
     modifier: Modifier = Modifier
         .fillMaxSize()
         .wrapContentSize()
@@ -191,11 +193,10 @@ fun GetText(
     val book = getBookByChapter(context, fileName)
     val scrollState = rememberScrollState()
     Column(
-        modifier = Modifier
+        modifier = modifier
             .clip(RoundedCornerShape(5))
-            .background(color = Color.White)
             .fillMaxWidth()
-            .padding(horizontal = 15.dp)
+            .padding(horizontal = 15.dp, vertical = 5.dp)
             .verticalScroll(scrollState)
 
     ) {
@@ -203,7 +204,7 @@ fun GetText(
             text = "${book.book}, Kapitel ${book.chapter}",
             style = replyTypography.headlineLarge,
             modifier = Modifier
-                .align(alignment = Alignment.CenterHorizontally)
+                .align(alignment = Alignment.Start)
 
         )
         book.verses.forEach {
@@ -221,13 +222,12 @@ fun GetText(
                         withStyle(
                             style = SpanStyle(
                                 fontSize = 8.sp,
-                                baselineShift = BaselineShift.Superscript,
-                                color = Color.Black)
+                                baselineShift = BaselineShift.Superscript)
                         ) {
                             append(it.number.toString())
                         }
                         append(it.text)
-                    }, color = Color.Black,
+                    },
                     style = replyTypography.bodyMedium
                 )
 
@@ -236,7 +236,7 @@ fun GetText(
             //hvis det er et vers udskriv vers
 
         }
-        Spacer(Modifier.width(200.dp))
+        Spacer(Modifier.height(200.dp))
     }
 }
 

@@ -1,0 +1,91 @@
+{
+  "book": "Apostlenes Gerninger",
+  "abbreviation": "Apg",
+  "chapter": 1,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMin første bog skrev jeg, kære Theofilus, om alt det som Jesus begyndte både at gøre og lære",
+      "number": 1,
+      "version": 1619647200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »gjorde/udfærdigede«.",
+          "type": "T",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "indtil den dag da han blev taget op efter at han havde givet apostlene, som han havde udvalgt, befaling ved Helligånden.",
+      "number": 2,
+      "version": 1619647200000
+    },
+    {
+      "text": "\fEfter han havde lidt, fremstillede han sig også levende for dem med mange beviser idet han viste sig for dem i fyrre dage og talte om det der hører til Guds rige.",
+      "number": 3,
+      "version": 1619647200000
+    },
+    {
+      "text": "Mens han var sammen med dem, gav han dem besked om at de ikke måtte vige fra Jerusalem, men skulde afvente det Faderen havde lovet. »Det som I har hørt mig tale om,",
+      "number": 4,
+      "version": 1619647200000,
+      "footnotes": [
+        {
+          "text": "Det græske ord betyder muligvis at de spiste sammen, men det er stadig omdiskuteret.",
+          "type": "T",
+          "position": 23
+        }
+      ]
+    },
+    {
+      "text": "for Johannes døbte med vand; men I skal døbes med Helligånden om ikke mange dage.«",
+      "number": 5,
+      "version": 1619647200000
+    },
+    {
+      "text": "Mens de nu var forsamlede, spurgte de ham: »Herre! Opretter du nu riget igen for Israel?«",
+      "number": 6,
+      "version": 1619647200000
+    },
+    {
+      "text": "Han sagde til dem: »Det tilkommer ikke jer at kende tider eller timer som Faderen har fastsat i sin egen magt.",
+      "number": 7,
+      "version": 1619647200000
+    },
+    {
+      "text": "Men I skal få kraft når Helligånden kommer over jer; og I skal være mine vidner både i Jerusalem og i hele Judæa og Samaria og indtil jordens ende.«",
+      "number": 8,
+      "version": 1619647200000
+    },
+    {
+      "text": "Da han sagde det, blev han taget op mens de så på, og en sky tog ham bort fra deres øjne.",
+      "number": 9,
+      "version": 1619647200000
+    },
+    {
+      "text": "Som de stirrede op imod himlen mens han for bort, se, da stod to mænd hos dem i hvide klæder,",
+      "number": 10,
+      "version": 1619647200000
+    },
+    {
+      "text": "og de sagde: »I galilæiske mænd, hvorfor står I og ser op imod himmelen? Denne Jesus, som er taget op fra jer til himlen, skal komme igen på samme måde som I har set ham fare op til himmelen.«",
+      "number": 11,
+      "version": 1619647200000
+    }
+  ]
+}

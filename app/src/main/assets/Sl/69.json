@@ -1,0 +1,347 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 69,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Al-shoshannim. Af David.",
+      "title": "Klage i nød og bøn om frelse",
+      "number": 1,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        },
+        {
+          "text": "Formodentlig en melodioplysning. Ordets betydning er ukendt, men synes at have sammenhæng med ordet for »lilje« (evt. »efter liljerne«).",
+          "type": "E",
+          "position": 31
+        }
+      ]
+    },
+    {
+      "text": "\fFrels mig, Gud,\ffor vandet når mig til halsen,",
+      "number": 2,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sjælen«.",
+          "type": "T",
+          "position": 47
+        }
+      ]
+    },
+    {
+      "text": "\fjeg er sunket i dybets dynd,\fhvor der ikke er fodfæste.\fJeg er kommet i dybt vand,\fog en strøm skyller over mig.",
+      "number": 3,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordet: »vandes dybde«.",
+          "type": "T",
+          "position": 83
+        }
+      ]
+    },
+    {
+      "text": "\fJeg er udmattet af at råbe,\fmin strube er hæs,\fmine øjne er udmattede,\fidet jeg venter på min Gud.",
+      "number": 4,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ofte vælger man at følge Septuaginta og andre gamle oversættelser der i stedet for participiet i pi’el *mᵊyaḥēl* (»idet jeg venter«) har vokaliseret som præposition og infinitiv: *miyyaḥēl*: »af at vente«.",
+          "type": "E",
+          "position": 87
+        }
+      ]
+    },
+    {
+      "text": "\fFlere end hår på mit hoved\fer de som hader mig uden grund.\fTalrige er de blevet som søger at udrydde mig,\fmine løgnagtige fjender.\fDet jeg ikke har røvet,\fdet skal jeg alligevel bringe tilbage.",
+      "number": 5,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »mægtige«.",
+          "type": "T",
+          "position": 67
+        }
+      ]
+    },
+    {
+      "text": "\fGud, du har kendt min tåbelighed,\fog min skyld var ikke skjult for dig.",
+      "number": 6,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fLad ikke dem der håber på dig, blive gjort til skamme ved mig,\fHerre, Hærskarers JHVHv!\fLad ikke dem som søger dig, blive forhånede ved mig,\fIsraels Gud.",
+      "number": 7,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Må ikke de …«.",
+          "type": "T",
+          "position": 13
+        },
+        {
+          "text": "I ældre tid uoversat: »Zebaoth«",
+          "type": "T",
+          "position": 81
+        }
+      ]
+    },
+    {
+      "text": "\fFor på grund af dig har jeg båret hån,\fskændsel har dækket mit ansigt.",
+      "number": 8,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fJeg er fremmedgjort for mine brødre\fog en udlænding for min moders sønner.",
+      "number": 9,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fFor nidkærhed for dit hus har fortæret mig,\fog spot fra dem som spotter dig, er faldet på mig.",
+      "number": 10,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fJeg, min sjæl, græd under faste,\fmen det blev til hån for mig.",
+      "number": 11,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Sætningen er knudret og omdiskuteret. Ordret: »Jeg græd i faste, min sjæl«. Meningen kan være som her i oversættelsen. Andre muligheder er: »Jeg græd og fastede for min sjæl«, eller: »Jeg græd og fastede i mit inderste«.",
+          "type": "E",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\fJeg brugte sæk som min klædning,\fjeg blev genstand for spottetale for dem.",
+      "number": 12,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDe som sidder i porten, vil snakke om mig,\fog drankernes viser handler om mig.",
+      "number": 13,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Der er ikke noget verbum i denne linje der er tæt knyttet til den foregående, og verbet dér gælder også for denne linje. Ordret: »og drankernes viser (taler om mig)«.",
+          "type": "E",
+          "position": 79
+        }
+      ]
+    },
+    {
+      "text": "\fMen jeg - min bøn er til dig,\fJHVHv, om en velbehagelig tid,\fGud, i din store nåde:\fBønhør mig for din frelses sandheds skyld!",
+      "number": 14,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 83
+        },
+        {
+          "text": "Grundtekstens *ʔemet* har ikke nogen nøjagtig ækvivalent på dansk. Ofte skal det oversættes »sandhed«. Det betegner det der står urokkeligt fast, og er et vigtigt ord i pagtssproget, hvor det ofte må oversættes: »trofasthed«.",
+          "type": "T",
+          "position": 120
+        }
+      ]
+    },
+    {
+      "text": "\fRed mig op af dyndet så jeg ikke synker,\flad mig blive reddet fra dem der hader mig, og fra vandenes dyb!",
+      "number": 15,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fLad ikke vandstrømmene skylle over mig,\fog lad ikke dybet opsluge mig,\fog lad ikke en brønd lukke sin mund over mig!",
+      "number": 16,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordet: »brønd« er her muligvis brugt som synonym for »grav«",
+          "type": "T",
+          "position": 92
+        }
+      ]
+    },
+    {
+      "text": "\fSvar mig, JHVHv, for din nåde er god,\fvend dit ansigt til mig efter din store barmhjertighed!",
+      "number": 17,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fOg skjul ikke dit ansigt for din tjener,\ffor jeg er i nød, skynd dig, svar mig!",
+      "number": 18,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fKom nær til mig, genløs,\fudfri mig for mine fjenders skyld!",
+      "number": 19,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »til min sjæl«.",
+          "type": "T",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "text": "\fDu har kendt min hån\fog min skam og min skændsel,\falle der bekriger mig, har du for øje.",
+      "number": 20,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fHån har knust mit hjerte,\fjeg blev svag.\fJeg ventede på medynk, men der var ingen,\fog på trøstere, men jeg fandt ikke nogen.",
+      "number": 21,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Betydningen af verbet *nwš*, der kun forekommer her i GT, er usikker. Andre foreslår: »kan ikke læges/er fortvivlet«.",
+          "type": "T",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "\fDe gav mig gift som føde\fog for min tørst gav de mig eddike at drikke.",
+      "title": "Bøn om Guds straf over fjenderne",
+      "number": 22,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fLad deres bord foran dem blive til en fælde\fog til en snare for sorgløse.",
+      "number": 23,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen og forståelsen af linjen er usikker og omdiskuteret. Grundteksten har *wᵊlišlômîm*, som betyder »og … for fred«, men »fred« står i pluralis. Meningen kan være: »dem som har fred/sikkerhed«, som jeg har valgt at gengive: »sorgløse«. Denne pluralis findes kun tre steder i GT, og alle tre steder er der en række rettelsesforslag. Den mindst indgribende her er at indføje et *h*: *wᵊlišlômēhem*: »og (til en snare) i deres sorgløshed«. De gamle oversættelser har åbenbart læst: *ûlᵊšillômîm*: »og (til en snare) som gengæld«. Targum har læst: *wᵊšalmēhem*: »og deres offerfester (til en snare)«.",
+          "type": "E",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "\fLad deres øjne formørkes så de ikke ser,\fog deres lænder skal altid vakle!",
+      "number": 24,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fUdøs din harme over dem,\fog din vredes glød skal nå dem!",
+      "number": 25,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDeres lejr skal blive øde,\fingen skal bo i deres telte.",
+      "number": 26,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fFor den som du har slået, forfølger de,\fog de øger smerten hos dem som du har såret.",
+      "number": 27,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har: *kî-ʔattāʰ*: »for du, ((den) som du har slået)«. Som regel følger man de gamle oversættelser og læser: *kî-ʔēt*: »for den« (som her). I konsonantteksten er det blot et enkelt *h*, der må slettes.",
+          "type": "E",
+          "position": 8
+        },
+        {
+          "text": "Grundteksten har: »de fortæller til smerten hos dem, som du har såret«. Det kan være en eksemplificering af snakken i porten (v.13), om end brugen af præpositionen *ʔel* (»til«)i denne forbindelse er sjælden og uklar. Man må i givet fald oversætte ved: »om«, men det er tvivlsomt, om *ʔel* faktisk kan betyde »om«. Som regel følger man Septuaginta og læser: *yispāyû* (»de øger«) i stedet for *yᵊsappērû*",
+          "type": "E",
+          "position": 51
+        }
+      ]
+    },
+    {
+      "text": "\fLæg skyld til deres skyld,\fog lad dem ikke komme ind i din retfærdighed!",
+      "number": 28,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fLad dem blive slettet af de levendes bog,\fog lad dem ikke blive optegnet med de retfærdige!",
+      "number": 29,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fMen jeg - hjælpeløs og med smerte -\flad din frelse, Gud, beskytte mig.",
+      "title": "Lovsang og tillid",
+      "number": 30,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fJeg vil lovprise Guds navn med sang,\fog jeg vil ophøje ham med tak.",
+      "number": 31,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fOg det vil behage JHVH mere end en okse,\fen ungtyr med horn og klove.",
+      "number": 32,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDe ydmyge har set, de skal glæde sig,\fde, som søger Gud - og jeres hjerte skal live op!",
+      "number": 33,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »elendige«.",
+          "type": "T",
+          "position": 10
+        },
+        {
+          "text": "Verbet *rāˀû* (»har set/så«) er sætningens første ord i grundteksten. Ofte retter man vokaliseringen til imperativ: *rᵊˀû*: »Se! (De ydmyge skal glæde sig)«, eller man følger Septuaginta og læser jussiv: *jirᵊˀû*: »Lad (de ydmyge) se, (de skal glæde sig)«.",
+          "type": "E",
+          "position": 19
+        }
+      ]
+    },
+    {
+      "text": "\fFor JHVH hører på fattige\fog foragtede ikke sine fangne.",
+      "number": 34,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fHimmel og jord skal lovprise ham,\fhave og alt hvad der rører sig i dem!",
+      "number": 35,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fFor Gud vil frelse Zion\fog opbygge Judas byer,\fog de skal bo der og eje det,",
+      "number": 36,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fog hans tjeneres efterkommere skal arve det,\fog de som elsker hans navn, skal bo i det.",
+      "number": 37,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sæd«.",
+          "type": "T",
+          "position": 30
+        }
+      ]
+    }
+  ]
+}

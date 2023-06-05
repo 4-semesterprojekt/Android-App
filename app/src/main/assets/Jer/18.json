@@ -1,0 +1,55 @@
+{
+  "book": "Jeremias' Bog",
+  "abbreviation": "Jer",
+  "chapter": 18,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Er sket",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDet ord som kom til Jeremias fra JHVH:",
+      "number": 1,
+      "version": 1633471200000
+    },
+    {
+      "text": "»Stå op og gå ned til pottemagerens hus, og der vil jeg lade dig høre mine ord.«",
+      "number": 2,
+      "version": 1633471200000
+    },
+    {
+      "text": "Og jeg gik ned til pottemagerens hus, og se, han var ved at lave et arbejde på drejeskiven.",
+      "number": 3,
+      "version": 1633471200000
+    },
+    {
+      "text": "Og så blev et kar ødelagt under pottemagerens formning mens han var ved at fremstille det i leret, men så begyndte han forfra og lavede et andet kar af det, sådan som det var ret at gøre i pottemagerens øjne.",
+      "number": 4,
+      "version": 1633471200000,
+      "footnotes": [
+        {
+          "text": "Enkelte håndskrifter læser »som leret«, så sætningen kan oversættes »som (det kan gå med) leret i pottemagerens hånd …«",
+          "type": "T",
+          "position": 98
+        }
+      ]
+    },
+    {
+      "text": "Da kom JHVHs ord til mig således:",
+      "number": 5,
+      "version": 1633471200000
+    },
+    {
+      "text": "»Mon ikke jeg kan gøre ved jer, Israels hus, ligesom denne pottemager?« siger JHVH; »Se, ligesom leret er i pottemagerens hånd, således er I, Israels hus, i min hånd.«",
+      "number": 6,
+      "version": 1633471200000
+    }
+  ]
+}

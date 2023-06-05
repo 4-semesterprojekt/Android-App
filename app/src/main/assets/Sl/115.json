@@ -1,0 +1,185 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 115,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fIkke os, JHVHv, ikke os,\fmen dit navn skal du give ære\ffor din nådes, for din sandheds skyld.",
+      "title": "Menighedens klage",
+      "number": 1,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 69
+        },
+        {
+          "text": "Kan også oversættes: »troskab«.",
+          "type": "T",
+          "position": 87
+        }
+      ]
+    },
+    {
+      "text": "\fHvorfor skal folkene sige:\f»Hvor er nu deres Gud?«",
+      "title": "Afgudernes afmagt",
+      "number": 2,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hedningerne«. Her kan det give god mening.",
+          "type": "T",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fMen vores Gud er i himlen,\fhan gør alt hvad han ønsker.",
+      "number": 3,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Qatal skal normalt oversættes: »han har gjort«, men vægten ligger her på Guds aktivitet som modsætning til afgudernes passivitet og afmagt.",
+          "type": "E",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fDeres gudebilleder er sølv og guld,\fmenneskehænders værk.",
+      "number": 4,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fDe har mund, men kan ikke tale,\fde har øjne, men kan ikke se,",
+      "number": 5,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fde har ører, men kan ikke høre,\fde har næse, men kan ikke lugte.",
+      "number": 6,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fDeres hænder – dem kan de ikke føle med,\fderes fødder - dem kan de ikke gå på,\fde kan ikke frembringe lyd med deres strube.",
+      "number": 7,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fLigesom de er, bliver også de der har lavet dem,\fenhver som stoler på dem.",
+      "title": "Formaning til at stole på JHVH",
+      "number": 8,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »Gid de der har lavet dem, må blive som dem« (således Septuaginta). I sammenhængen synes salmen dog at udtrykke vished om at det vil ske.",
+          "type": "E",
+          "position": 49
+        }
+      ]
+    },
+    {
+      "text": "\fIsrael, stol på JHVH!\fHan er deres hjælper og deres skjold.",
+      "number": 9,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Oversættes ofte: »hjælp«.",
+          "type": "T",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\fArons Hus, stol på JHVH!\fHan er deres hjælper og deres skjold.",
+      "number": 10,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fI, som frygter JHVH, stoler på JHVH!\fHan er deres hjælper og deres skjold.",
+      "title": "JHVH velsigner",
+      "number": 11,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fJHVH har husket os, han vil velsigne,\fhan vil velsigne Israels hus,\fhan vil velsigne Arons hus,",
+      "number": 12,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Verberne i denne og de følgende tre linjer kan også oversættes som jussiv: »han velsigne«, men qatal i foregående linje (»har husket«) indicerer nærmere overbevist fremtid.",
+          "type": "E",
+          "position": 55
+        }
+      ]
+    },
+    {
+      "text": "\fhan vil velsigne dem som frygter JHVH,\fde små med de store.",
+      "number": 13,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fMå JHVH gøre jer talrige,\fjer og jeres børn!",
+      "number": 14,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fVelsignede være I af JHVH,\fsom har skabt himmel og jord.",
+      "title": "Menighedens lovprisning",
+      "number": 15,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fHimlen er JHVHs himmel,\fmen jorden gav han menneskene.",
+      "number": 16,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Adams/menneskets børn«.",
+          "type": "T",
+          "position": 55
+        }
+      ]
+    },
+    {
+      "text": "\fDe døde lovpriser ikke JHVH,\fheller ikke de som gik ned i stilheden.",
+      "number": 17,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "På hebraisk: *lōˀ yᵊhalᵊlû-yāh*: »de lovpriser ikke« - i modsætning til menighedens evige halleluja. Guds navn står her i kortformen: *yāh*. Kortformen findes en del steder i poetiske tekster og hører fast til udtrykket: *halᵊlû-yāh*.",
+          "type": "E",
+          "position": 29
+        }
+      ]
+    },
+    {
+      "text": "\fMen vi, vi vil prise JHVH\ffra nu og til evig tid.\fHalleluja!",
+      "number": 18,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Septuginta, der følges af en del oversættere, har dette »halleluja« som indledning til Sl 116.",
+          "type": "T",
+          "position": 61
+        }
+      ]
+    }
+  ]
+}

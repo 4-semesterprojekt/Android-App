@@ -1,0 +1,66 @@
+{
+  "book": "Haggajs Bog",
+  "abbreviation": "Hagg",
+  "chapter": 2,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\f»Dog nu, vær frimodig, Zerubbabel! siger HERREN, og vær frimodig, Josva, Josadaks Søn, du ypperstepræst! og vær frimodig, alt folk i Landet! siger HERREN, og arbejd, for jeg er med jer,« lyder det fra Hærskarers HERRE.",
+      "number": 4,
+      "version": 1620165600000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens *nᵊʔum* angiver at det er et højtideligt udsagn.",
+          "type": "T",
+          "position": 201
+        }
+      ]
+    },
+    {
+      "text": "Det er løftet i min pagt med jer dengang I drog ud af Egypten, og min Ånd vil stadig være midt iblandt jer; frygt ikke!«",
+      "number": 5,
+      "version": 1620165600000,
+      "footnotes": [
+        {
+          "text": "ordret: »ordet«.",
+          "type": "T",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "text": "For dette siger Hærskarers HERRE: »Endnu en gang, om en kort tid, vil jeg få himlene og jorden og havet og det tørre land til at skælve.",
+      "number": 6,
+      "version": 1620165600000
+    },
+    {
+      "text": "Og jeg vil få alle folkene til at skælve, og alle folkenes kostbarheder skal komme; og jeg vil fylde dette hus med herlighed,« siger Hærskarers HERRE.",
+      "number": 7,
+      "version": 1620165600000
+    },
+    {
+      "text": "»Mit er sølvet, mit er guldet,« lyder det fra Hærskarers HERRE.",
+      "number": 8,
+      "version": 1620165600000
+    },
+    {
+      "text": "Dette hus' sidste herlighed skal blive større end den første,« siger Hærskarers HERRE, »og jeg vil give fred på dette sted,« lyder det fra Hærskarers HERRE.",
+      "number": 9,
+      "version": 1620165600000
+    }
+  ]
+}

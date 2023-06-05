@@ -1,0 +1,185 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 140,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\fSalme af David.",
+      "title": "Klage og bøn om hjælp",
+      "number": 1,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fRed mig, JHVHv, fra onde mennesker,\fbevar mig for voldsmænd",
+      "number": 2,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har her og i næste linje singularis, men det må opfattes som kollektive betegnelser, hvilket også støttes af verberne i pluralis i v. 3.",
+          "type": "T",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "\fsom har udtænkt ondt i hjertet,\fhver dag ansporer de til krig.",
+      "number": 3,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Den masoretiske tekst har vokaliseret: *yāgûrû* (af verbet *gwr*): »de angriber«. Det foreslås undertiden at det kan betyde: »de rotter sig sammen«, men det er usikkert. Som regel retter man vokaliseringen til: *yᵊgārû*: »de ansporer/ægger«.",
+          "type": "E",
+          "position": 50
+        }
+      ]
+    },
+    {
+      "text": "\fDe har skærpet deres tunge som en slange,\fder er slangegift under deres læber. Sela",
+      "number": 4,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Det er usikkert hvilken slange der er ment med grundtekstens ord (*ʕaxšûv*). Men formodentlig en bestemt giftslange. I jødisk tradition er der dog tænkt på en giftig edderkop.",
+          "type": "T",
+          "position": 60
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "\fVogt mig, JHVHv, mod synderes hænder,\fbevar mig for voldsmænd\fsom har tænkt at bringe mine skridt til fald.",
+      "number": 5,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »ugudeliges«.",
+          "type": "T",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "\fDe hovmodige har skjult en fælde for mig\fog ondskabsfulde har udspændt net langs stien,\fde har lagt snarer for mig. Sela",
+      "number": 6,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Den masoretiske tekst har: *waḥᵃvālîm*: »og snore«. Oversættelsen må i givet fald lyde: »og med snore spændt net ud langs stien«. Men sprogligt er det ikke oplagt. Man retter derfor oftest nu vokaliseringen til: *wᵊḥōvlîm*: »og ondskabsfulde« eller med indgreb i konsonantteksten: *mᵊḥabbᵊlîm*: »de der ødelægger«.",
+          "type": "E",
+          "position": 58
+        }
+      ]
+    },
+    {
+      "text": "\fJeg har sagt til JHVH: »Du er min Gud,\flyt, JHVHv, til min tryglende røst..",
+      "number": 7,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »til min tryglens (pluralis) røst«",
+          "type": "T",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv, Herre, min frelses styrke,\fdu har skærmet mit hoved på kampens dag.",
+      "number": 8,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Masoreterne har ikke – som oftest – vokaliseret JHVH som: »Herre« (*ʔᵃdōnāʸ*), men som »Gud« (*ʔᵊlōhîm*).",
+          "type": "E",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "text": "\fOpfyld ikke, JHVHv, en ugudeligs begæringer,\flad ikke hans onde anslag lykkes, de vil vise sig overlegne.« Sela",
+      "title": "Bøn om tilintetgørelse af de onde",
+      "number": 9,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Den sidste sætning, der i grundteksten blot består af ét ord (*yārûmû*, ordret blot: »de løfter sig«), er omdiskuteret. De fleste fortolkere og oversættere går ud fra at »Sela« fejlagtigt er blevet anbragt efter *yārûmû*, der egentlig skulle høre til v. 10, hvor det så skal vokaliseres som hif’il: *yārîmû*: »de (der omgiver mig) løfter (hovedet)«. V. 10 kan dog så også opfattes konditionalt: »Hvis de der omgiver mig, løfter hovedet, så lad deres læbers fortræd tildække dem«.",
+          "type": "E",
+          "position": 107
+        }
+      ]
+    },
+    {
+      "text": "\fDe som omgiver mig, deres hoved\fskal den fortræd deres læber voldte, komme til at tildække.",
+      "number": 10,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Se note til v. 9.",
+          "type": "E",
+          "position": 92
+        }
+      ]
+    },
+    {
+      "text": "\fDer skal rystes kul over dem, han skal lade dem falde i ilden,\fi vandfyldte gruber så de ikke kan rejse sig igen.",
+      "number": 11,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fEn mand der bagtaler, skal ikke bestå i landet,\fen voldsmand - ulykke skal jage ham med stød.",
+      "title": "Tillid til Guds omsorg og retfærdighed",
+      "number": 12,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »en tunges mand«.",
+          "type": "T",
+          "position": 22
+        },
+        {
+          "text": "Kan også oversættes: »på jorden«",
+          "type": "T",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\fJeg ved at JHVH vil føre den hjælpeløses sag,\fde fattiges ret.",
+      "number": 13,
+      "version": 1492725600000
+    },
+    {
+      "text": "\fRetfærdige skal sandelig takke dit navn,\foprigtige skal bo for dit ansigt.",
+      "number": 14,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »sidde«.",
+          "type": "T",
+          "position": 59
+        }
+      ]
+    }
+  ]
+}

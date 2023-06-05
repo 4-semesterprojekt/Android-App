@@ -1,0 +1,309 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 25,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJHVH talte til Moses og sagde:",
+      "title": "Afgifter til helligdommen",
+      "number": 1,
+      "version": 1612220400000
+    },
+    {
+      "text": "»Sig til Israels børn at de skal udtage en afgift til mig; fra hver mand, hvis hjerte ansporer ham dertil, skal I modtage afgiften til mig.",
+      "number": 2,
+      "version": 1612220400000
+    },
+    {
+      "text": "Og dette er den afgift, som I skal modtage fra dem: guld og sølv og bronze",
+      "number": 3,
+      "version": 1612220400000
+    },
+    {
+      "text": "og purpurblå, purpurrød og karminrød uld, fint linned og gedeuld,",
+      "number": 4,
+      "version": 1612220400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »karminrød orm«.",
+          "type": "T",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "rødfarvede vædderskind og delfinskind og akacietræ,",
+      "number": 5,
+      "version": 1612220400000,
+      "footnotes": [
+        {
+          "text": "Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "type": "T",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "olie til lampen, balsam til salvningsolien og til vellugtende røgelse,",
+      "number": 6,
+      "version": 1612220400000
+    },
+    {
+      "text": "shoham-sten og sten til at sætte på efoden og til brystskjoldet.",
+      "number": 7,
+      "version": 1612220400000,
+      "footnotes": [
+        {
+          "text": "Der er usikkerhed om, hvilken ædelsten det drejer sig om. Det oversættes både som onyx, sardonyx og karneol. Det hebraiske ord antyder, at stenen må være rødlig; karneol er måske det bedste bud.",
+          "type": "T",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "text": "De skal lave mig en helligdom, og så vil jeg bo iblandt dem.",
+      "number": 8,
+      "version": 1612220400000
+    },
+    {
+      "text": "Efter alt det jeg viser dig, modellen af boligen og modellen af alle dens redskaber – netop sådan skal I lave den.«",
+      "title": "Pagtens ark",
+      "number": 9,
+      "version": 1612220400000,
+      "footnotes": [
+        {
+          "text": "Tidligere oversat: »tabernakel«. Det hebraiske ord *miškān* betyder egentlig: »telt/opholdssted«.",
+          "type": "E",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\f»De skal lave en ark af akacietræ, to og en halv alen lang og halvanden alen bred og halvanden alen høj.",
+      "number": 10,
+      "version": 1612220400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »dens længde to og en halv alen, …«",
+          "type": "T",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "Og du skal beklæde den med purt guld; indeni og udenpå skal du beklæde den, og på den skal du lave en guldkant rundt om den.",
+      "number": 11,
+      "version": 1612220400000
+    },
+    {
+      "text": "Du skal støbe fire guldringe til den og sætte dem på dens fire fødder, nemlig to ringe på dens ene side og to ringe på dens anden side.",
+      "number": 12,
+      "version": 1612220400000
+    },
+    {
+      "text": "Og du skal lave bærestænger af akacietræ og beklæde dem med guld,",
+      "number": 13,
+      "version": 1612220400000
+    },
+    {
+      "text": "og du skal stikke bærestængerne ind i ringene på siderne af arken, så man kan bære arken med dem.",
+      "number": 14,
+      "version": 1612220400000
+    },
+    {
+      "text": "Bærestængerne skal blive i arkens ringe, de må ikke vige fra den.",
+      "number": 15,
+      "version": 1612220400000
+    },
+    {
+      "text": "Og i arken skal du lægge Vidnesbyrdet, som jeg vil give dig.«",
+      "title": "Sonedækket",
+      "number": 16,
+      "version": 1612220400000
+    },
+    {
+      "text": "\f»Så skal du lave et sonedække af purt guld, to og en halv alen langt og halvanden alen bredt,",
+      "number": 17,
+      "version": 1612220400000,
+      "footnotes": [
+        {
+          "text": "Tidligere oversat: »nådestol«.",
+          "type": "E",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "og du skal lave to keruber af guld; du skal lave dem som udhamret arbejde ud fra de to ender af sonedækket.",
+      "number": 18,
+      "version": 1612220400000
+    },
+    {
+      "text": "Lav altså én kerub fra den ene ende og én kerub fra den anden ende; i ét med sonedækket skal I lave keruberne i begge dets ender.",
+      "number": 19,
+      "version": 1612220400000
+    },
+    {
+      "text": "Keruberne skal brede vinger opad, så de dækker over sonedækket med deres vinger, og deres ansigter skal vende den ene mod den anden: mod sonedækket skal kerubernes ansigter være vendt.",
+      "number": 20,
+      "version": 1612220400000
+    },
+    {
+      "text": "Du skal anbringe sonedækket oven på arken, og i arken skal du lægge Vidnesbyrdet, som jeg vil give dig.",
+      "number": 21,
+      "version": 1612220400000
+    },
+    {
+      "text": "Og der vil jeg åbenbare mig for dig og tale med dig fra over sonedækket, fra mellem de to keruber som er oven på Vidnesbyrdets ark, alt det jeg vil befale dig angående Israels børn.«",
+      "title": "Skuebrødsbordet",
+      "number": 22,
+      "version": 1612220400000
+    },
+    {
+      "text": "\f»Du skal lave et bord af akacietræ, to alen langt og en alen bredt og halvanden alen højt",
+      "number": 23,
+      "version": 1612220400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »to alen dets længde«.",
+          "type": "T",
+          "position": 50
+        }
+      ]
+    },
+    {
+      "text": "og beklæde det med purt guld, og til det skal du lave en guldkant rundt om det.",
+      "number": 24,
+      "version": 1612220400000
+    },
+    {
+      "text": "Og på det skal du lave en liste på en håndsbredde rundt om det og lave en guldkant om dets liste rundt om det.",
+      "number": 25,
+      "version": 1612220400000
+    },
+    {
+      "text": "Du skal også lave fire ringe af guld til det og sætte ringene i de fire hjørner som er ved dets fire fødder.",
+      "number": 26,
+      "version": 1612220400000
+    },
+    {
+      "text": "Ringene skal være tæt ved listen som holdere for bærestængerne til at bære bordet.",
+      "number": 27,
+      "version": 1612220400000
+    },
+    {
+      "text": "Du skal lave bærestængerne af akacietræ og beklæde dem med guld, og med dem skal bordet bæres.",
+      "number": 28,
+      "version": 1612220400000
+    },
+    {
+      "text": "Du skal lave dets fade, dets skåle, dets kander og dets offerskåle, ved hvilke der skal udgydes drikoffer; af purt guld skal du lave dem.",
+      "number": 29,
+      "version": 1612220400000,
+      "footnotes": [
+        {
+          "text": "Ordet »drikoffer« står ikke i den hebraiske tekst, men er underforstået ud fra betegnelsen »offerskåle«.",
+          "type": "T",
+          "position": 106
+        }
+      ]
+    },
+    {
+      "text": "Og på bordet skal du til stadighed lægge skuebrød for mit ansigt.«",
+      "title": "Lysestagen",
+      "number": 30,
+      "version": 1612220400000
+    },
+    {
+      "text": "\f»Og du skal lave en lysestage af purt guld; som udhamret arbejde skal du lave lysestagen, dens fod og selve stagen, dens bægre, dens knopper og dens blomster skal gå i ét med den.",
+      "number": 31,
+      "version": 1612220400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »dens rør« (singularis). Det er formodentlig tænkt kollektivt som udtryk for både den centrale del og de seks arme.",
+          "type": "T",
+          "position": 116
+        },
+        {
+          "text": "Ordret: »skal være fra den«. Hele stagen skal laves ud af ét stykke guld.",
+          "type": "T",
+          "position": 180
+        }
+      ]
+    },
+    {
+      "text": "Og der skal gå seks arme ud fra dens sider; tre af lysestagens arme fra dens ene side og tre af lysestagens arme fra dens anden side.",
+      "number": 32,
+      "version": 1612220400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »rør«.",
+          "type": "T",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "Der skal være tre bægre formede som mandelblomster på den første arm, knop og blomst, og tre bægre formede som mandelblomster på den anden arm, knop og blomst; sådan skal det være på de seks arme der går ud fra lysestagen.",
+      "number": 33,
+      "version": 1612220400000
+    },
+    {
+      "text": "Men på lysestagen skal der være fire bægre formede som mandelblomster med dens knopper og dens blomster;",
+      "number": 34,
+      "version": 1612220400000
+    },
+    {
+      "text": "nemlig en knop under de to arme på den og en knop under de to andre arme på den og en knop under de to øvrige arme på den; ved de seks arme, som går ud fra lysestagen.",
+      "number": 35,
+      "version": 1612220400000
+    },
+    {
+      "text": "Deres knopper og deres arme skal være i ét med den; det hele skal være ét udhamret arbejde af purt guld.",
+      "number": 36,
+      "version": 1612220400000
+    },
+    {
+      "text": "Du skal lave dens lamper, syv, og man skal sætte dens lamper op så den lyser ud foran den.",
+      "number": 37,
+      "version": 1612220400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »på den modsatte side foran den«.",
+          "type": "T",
+          "position": 90
+        }
+      ]
+    },
+    {
+      "text": "Dens lysesakse og dens fyrbækkener skal være af purt guld.",
+      "number": 38,
+      "version": 1612220400000
+    },
+    {
+      "text": "Af en talent purt guld skal man lave den med alle disse redskaber.",
+      "number": 39,
+      "version": 1612220400000
+    },
+    {
+      "text": "Og se til og lav tingene efter det forbillede for dem, som du fik vist på bjerget.«",
+      "number": 40,
+      "version": 1612220400000
+    }
+  ]
+}

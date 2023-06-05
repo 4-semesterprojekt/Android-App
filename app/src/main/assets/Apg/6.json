@@ -1,0 +1,71 @@
+{
+  "book": "Apostlenes Gerninger",
+  "abbreviation": "Apg",
+  "chapter": 6,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fOg fuld af nåde og kraft gjorde Stefanus undere og store tegn blandt folket.",
+      "number": 8,
+      "version": 1639954800000
+    },
+    {
+      "text": "Da stod nogle frem af den synagoge som kaldes De Frigivnes og Kyrenæernes og Aleksandrinernes, og nogle af dem fra Kilikien og Asien, og de kom op at diskutere med Stefanus.",
+      "number": 9,
+      "version": 1639954800000
+    },
+    {
+      "text": "De kunne ikke modstå den visdom og den ånd som han talte med.",
+      "number": 10,
+      "version": 1639954800000
+    },
+    {
+      "text": "Da fik de hemmeligt nogle mænd til at sige: »Vi har hørt ham tale bespotteligt om Moses og om Gud.«",
+      "number": 11,
+      "version": 1639954800000
+    },
+    {
+      "text": "Og de ophidsede folket og de ældste og de skriftkloge, og de overfaldt ham og slæbte ham med og førte ham for Rådet;",
+      "number": 12,
+      "version": 1639954800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Synedriet«.",
+          "type": "T",
+          "position": 116
+        }
+      ]
+    },
+    {
+      "text": "og de fremstillede falske vidner som sagde: »Dette menneske holder ikke op med at tale imod dette hellige sted og imod Loven.",
+      "number": 13,
+      "version": 1639954800000
+    },
+    {
+      "text": "For vi har hørt ham sige at denne Jesus fra Nazaret vil bryde dette sted ned og forandre de skikke som Moses har overgivet os.«",
+      "number": 14,
+      "version": 1639954800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Jesus, denne nazaræer«.",
+          "type": "T",
+          "position": 51
+        }
+      ]
+    }
+  ]
+}

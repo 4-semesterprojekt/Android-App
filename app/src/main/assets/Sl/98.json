@@ -1,0 +1,100 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 98,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEn salme.\fSyng for JHVH en ny sang,\f\n\t\tfor han har gjort undere;\f\n\t\t\thans højre hånd og hans hellige arm\fudøvede frelsen for ham.",
+      "title": "Syng for JHVH!",
+      "number": 1,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hans helligheds arm«.",
+          "type": "T",
+          "position": 105
+        },
+        {
+          "text": "Kan også oversættes: »skaffede ham sejr«. For forståelsens skyld er der her byttet om på linjerne. Egentlig: »hans højre hånd udøvede frelsen for ham / og hans hellige arm«.",
+          "type": "T",
+          "position": 130
+        }
+      ]
+    },
+    {
+      "text": "\f\tJHVH har kundgjort sin frelse,\f\n\t\t\tfor folkenes øjne\fhar han åbenbaret sin retfærdighed.",
+      "number": 2,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\tHan har husket sin nåde\fog sin trofasthed mod Israels hus.\f\n\t\tAlle jordens ender\fhar set vor Guds frelse.",
+      "title": "Bryd ud i jubel for JHVH!",
+      "number": 3,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »sandhed«",
+          "type": "T",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "\fBryd ud i fryderåd for JHVH,\n\thele jorden!\fBryd ud i jubel,\n\tfryd jer,\n\tsyng!",
+      "number": 4,
+      "version": 1666562400000
+    },
+    {
+      "text": "\fLovsyng JHVH til citer,\f\n\t\ttil citer og høj sang,",
+      "number": 5,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\ttil trompeter og hornklang;\fbryd ud i fryderåb for kongens, JHVHs, ansigt!",
+      "title": "JHVH kommer!",
+      "number": 6,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\tHavet og dets fylde skal larme,\f\n\t\t\t\tverden og de som bor i den!",
+      "number": 7,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\tStrømme skal klappe i hænderne,\f\n\t\t\t\t\tbjerge skal sammen juble",
+      "number": 8,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »skal klappe hånd«.",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\tfor JHVHs ansigt;\n\t\tfor han kommer\f\n\t\t\t\tfor at dømme jorden.\f\n\t\t\tHan skal dømme verden med retfærdighed\f\n\t\t\t\tog folkeslagene med retskaffenhed.",
+      "number": 9,
+      "version": 1666562400000
+    }
+  ]
+}

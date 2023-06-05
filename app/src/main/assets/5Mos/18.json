@@ -1,0 +1,73 @@
+{
+  "book": "Femte Mosebog",
+  "abbreviation": "5Mos",
+  "chapter": 18,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Claus Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fNår du kommer til det land som JHVH din Gud giver dig, skal du ikke tage ved lære og gøre disse folks afskyeligheder.",
+      "title": "Israelitterne må ikke følge hedningernes afgudsdyrkelse",
+      "number": 9,
+      "version": 1614294000000
+    },
+    {
+      "text": "Der må ikke findes nogen hos dig som lader sin søn eller datter gå gennem ilden eller som beskæftiger sig med spådomme, er sandsiger eller tager varsler eller øver trolddom,",
+      "number": 10,
+      "version": 1614294000000
+    },
+    {
+      "text": "eller fremsiger besværgelser eller rådspørger dødes ånder og spiritistiske medier eller rådfører sig med døde.",
+      "number": 11,
+      "version": 1614294000000
+    },
+    {
+      "text": "For enhver som gør disse ting, er en afskyelighed for JHVH, og på grund af disse afskyeligheder fordriver JHVH din Gud dem fra dit ansigt.",
+      "number": 12,
+      "version": 1614294000000
+    },
+    {
+      "text": "Du skal være fuldkommen for JHVH din Gud.",
+      "number": 13,
+      "version": 1614294000000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske *ʕim* skal i de fleste sammenhænge oversættes: »med/sammen med«, i nogle tilfælde dog: »ligesom«, i enkelte tilfælde: »som«.",
+          "type": "E",
+          "position": 27
+        }
+      ]
+    },
+    {
+      "text": "For disse folk som du skal fordrive, de hører på dem der driver trolddom og spådomme; men dig har JHVH din Gud ikke tilladt noget sådant.",
+      "title": "Gud vil sende dem en stor profet",
+      "number": 14,
+      "version": 1614294000000,
+      "footnotes": [
+        {
+          "text": "Traditionelt oversat: »hedninger«.",
+          "type": "T",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH din Gud vil oprejse dig en profet af din midte, af dine brødre, en som mig; ham skal I høre på.",
+      "number": 15,
+      "version": 1614294000000
+    }
+  ]
+}

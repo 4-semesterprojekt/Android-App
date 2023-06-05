@@ -1,0 +1,129 @@
+{
+  "book": "Ruths bog",
+  "abbreviation": "Ruth",
+  "chapter": 3,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHendes svigermor No'omi sagde nu til hende:\n\t\tMin datter,\n\t\t\t\tmon ikke jeg skulle sørge for et hjem til dig,\n\t\t\t\t\tså det må gå dig godt?",
+      "title": "No'omi råder Ruth til at gå ind på tærskepladsen hvor Boaz har lagt sig efter han har tærsket byg, og lægge sig ved hans fødder for at få at vide om han vil gifte sig med hende i hendes mands sted; dette gør hun.",
+      "number": 1,
+      "version": 1674169200000
+    },
+    {
+      "text": "\t\t\t\tVi er i familie med Boaz\n\t\t\t\t\t\thvis unge piger du har fulgtes med.\n\t\t\t\t\tI nat tærsker han byg på tærskepladsen.",
+      "number": 2,
+      "version": 1674169200000
+    },
+    {
+      "text": "\t\t\t\t\t\t\tTag nu et bad,\n\t\t\t\t\t\t\tsmør dig med salve\n\t\t\t\t\t\t\tog klæd dig på\n\t\t\t\t\t\t\tog gå ned til tærskepladsen.\n\t\t\t\t\t\tDu skal ikke give dig til kende for manden\n\t\t\t\t\t\t\t\t\tfør han er færdig\n\t\t\t\t\t\t\t\t\t\tmed at spise\n\t\t\t\t\t\t\t\t\t\t\tog drikke.",
+      "number": 3,
+      "version": 1674169200000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\tNår\n\t\t\t\t\t\t\t\t\t\than lægger sig,\n\t\t\t\t\t\t\t\t\tskal du lægge mærke til\n\t\t\t\t\t\t\t\t\t\thvor han lægger sig.\n\t\t\t\t\t\t\t\t\tGå så hen\n\t\t\t\t\t\t\t\t\tog fjern kappen fra hans fødder\n\t\t\t\t\t\t\t\t\tog læg dig.\n\t\t\t\t\t\t\tHan skal så give dig besked om\n\t\t\t\t\t\t\t\thvad du skal gøre.«",
+      "number": 4,
+      "version": 1674169200000,
+      "footnotes": [
+        {
+          "text": "*wᵊgillît margᵊlōtāʸw* betyder ordret »afdæk fødderne«. På bibelsk tid sov man med sin kappe (overtøj) over sig om natten (2 Mos 22,25-26), og derfor tilføjes dette ord for at lette forståelsen.",
+          "type": "E",
+          "position": 145
+        }
+      ]
+    },
+    {
+      "text": "\tHun sagde til hende:\n\t\t\t\tJeg vil gøre\n\t\talt det\n\t\t\tdu siger.«",
+      "number": 5,
+      "version": 1674169200000
+    },
+    {
+      "text": "\tHun gik ned til tærskepladsen\n\t\tog gjorde alt det\n\t\t\tsom hendes svigermor havde givet hende besked på.",
+      "number": 6,
+      "version": 1674169200000
+    },
+    {
+      "text": "Da Boaz havde spist\n\t\tog drukket\n\t\t\tog følte sig godt tilpas,\n\t\tgik han hen\n\t\t\tog lagde sig ved en dynge korn.\n\tHun listede hen\n\tog fjernede kappen fra hans ben\n\tog lagde sig.",
+      "title": "Boaz roser hende for det og lover at han vil finde ud af om den anden arving, som er nærmere i familie med Elimelek, vil gifte sig med hende, ellers vil han.",
+      "number": 7,
+      "version": 1674169200000
+    },
+    {
+      "text": "\fMidt på natten\n\tbegyndte manden at ryste af kulde\n\t\tog lænede sig frem,\n\t\t\tog se,\n\t\t\t\tder lå en kvinde ved hans fødder.",
+      "number": 8,
+      "version": 1674169200000
+    },
+    {
+      "text": "\t\tHan sagde:\n\t\t\t\t»Hvem er du?«\n\t\t\t\tHun svarede:\n\t\t\t\t\t»Jeg er Ruth, din tjenestepige,\n\t\t\t\t\t\tgiv din tjenestepige ly under dine vinger,\n\t\t\t\t\t\t\tfor du er løser.«",
+      "number": 9,
+      "version": 1674169200000,
+      "footnotes": [
+        {
+          "text": "ûfāraśtā xᵊnāfexā* »du skal sprede dine vinger« er en allusion til 2,12, hvor det siges om Ruth at hun søgte beskyttelse under Guds vinger. I Ezek 16,8 og andre steder kan det være en vending som refererer til ægteskab.",
+          "type": "E",
+          "position": 132
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\tHan sagde:\n\t\t\t\t\t»Velsignet være du for JHVH,\n\t\t\t\t\t\t\t\t\tmin datter.\n\t\t\t\t\t\t\t\tDu har denne gang bevist at din kærlighed er bedre end første gang,\n\t\t\t\t\t\t\t\t\tfor du er ikke gået efter en af de unge mænd,\n\t\t\t\t\t\t\t\t\t\thvad enten han var fattig\n\t\t\t\t\t\t\t\t\t\t\teller rig.",
+      "number": 10,
+      "version": 1674169200000
+    },
+    {
+      "text": "\t\t\t\t\t\t\tOg nu,\n\t\t\t\t\t\t\t\tmin datter,\n\t\t\t\t\t\t\t\t\tfrygt ikke.\n\t\t\t\t\t\t\t\t\t\t\tAlt det\n\t\t\t\t\t\t\t\t\t\t\t\t\tdu siger,\n\t\t\t\t\t\t\t\t\t\t\t\tvil jeg gøre for dig,\n\t\t\t\t\t\t\t\t\t\tfor hele byen ved\n\t\t\t\t\t\t\t\t\t\t\tat du er en dygtig kvinde.",
+      "number": 11,
+      "version": 1674169200000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\tDet er rigtigt\n\t\t\t\t\t\t\t\t\tat jeg er løser;\n\t\t\t\t\t\t\t\t\t\tmen der er dog en\n\t\t\t\t\t\t\t\t\t\t\tder er nærmere end jeg.",
+      "number": 12,
+      "version": 1674169200000
+    },
+    {
+      "text": "\t\t\t\t\t\tBliv her natten over.\n\t\t\t\t\t\t\tI morgen kan vi se om han vil løse dig.\n\t\t\t\t\t\t\t\tHvis han vil,\n\t\t\t\t\t\t\t\t\t\tså må han løse dig,\n\t\t\t\t\t\t\t\t\tmen hvis han ikke har lyst\n\t\t\t\t\t\t\t\t\t\t\ttil at løse dig,\n\t\t\t\t\t\t\t\t\t\tda vil jeg løse dig,\n\t\t\t\t\t\t\t\t\t\t\tså sandt JHVH lever.\n\t\t\t\t\t\tBliv liggende til det bliver morgen!«",
+      "title": "Boaz giver Ruth seks portioner byg og lader hende gå.",
+      "number": 13,
+      "version": 1674169200000
+    },
+    {
+      "text": "\f\t\t\t\tHun lå ved hans fødder til det blev morgen,\n\t\t\t\tog stod op\n\t\t\t\t\tmens man endnu knapt kunne se hinanden i mørket,\n\t\t\t\tog han sagde:\n\t\t\t\t\t»Lad ingen opdage\n\t\t\t\t\t\tat en kvinde er kommet ind på tærskepladsen.«",
+      "number": 14,
+      "version": 1674169200000
+    },
+    {
+      "text": "\t\t\t\tOg han sagde:\n\t\t\t\t\t»Tag det sjal frem\n\t\t\t\t\t\t\tsom du har på,\n\t\t\t\t\t\tog hold det ud.«\n\t\t\t\tHun holdt det ud,\n\t\t\t\tog han målte seks portioner byg op\n\t\t\t\tog gav hende dem.\n\t\t\t\tSå gik hun ind til byen.",
+      "number": 15,
+      "version": 1674169200000
+    },
+    {
+      "text": "\t\t\t\tDa hun kom til sin svigermor,\n\t\t\t\tspurgte hun:\n\t\t\t\t\t»Hvordan er det gået dig,\n\t\t\t\t\t\tmin datter?«\n\t\t\t\tOg hun fortalte hende alt det\n\t\t\t\t\tmanden havde gjort.",
+      "number": 16,
+      "version": 1674169200000
+    },
+    {
+      "text": "\t\t\t\tOg hun sagde:\n\t\t\t\t\t»Disse seks portioner byg gav han mig,\n\t\t\t\t\t\tfor han sagde til mig:\n\t\t\t\t\t\t\t›Du skal ikke komme tomhændet hjem til din svigermor.‹«",
+      "number": 17,
+      "version": 1674169200000
+    },
+    {
+      "text": "\t\t\t\tOg hun sagde:\n\t\t\t\t\t»Bliv her,\n\t\t\t\t\t\t\t\tmin datter,\n\t\t\t\t\t\t\tindtil du får at vide\n\t\t\t\t\t\t\t\thvordan sagen falder ud.\n\t\t\t\t\t\tFor den mand vil ikke hvile\n\t\t\t\t\t\t\tfør han i dag har fået afsluttet denne sag.«",
+      "number": 18,
+      "version": 1674169200000
+    }
+  ]
+}

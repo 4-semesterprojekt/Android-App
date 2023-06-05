@@ -1,0 +1,156 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 57,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Al-tashket.\fAf David. Miktam.\fDengang han flygtede for Saul ind i hulen.",
+      "title": "Klage",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        },
+        {
+          "text": "Formodentlig en melodiangivelse, betydningen er ukendt. Ordret: »fordærv ikke/ødelæg ikke«. Det kan være begyndelsesordene i en – nu ukendt – salme.",
+          "type": "T",
+          "position": 28
+        },
+        {
+          "text": "Betydningen ukendt, evt. »klenodie, gyldent smykke« (af *ketem*: »guld«), eller »uudslettelig« af *kātam*: »indpræge (på en stele)«. I så fald skal denne og de øvrige salmer med denne overskrift (Sl 16; 56; 58-60) fastholde en alvorlig situation i folkets erindring.",
+          "type": "T",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "\fVær mig nådig, Gud! vær mig nådig,\ffor hos dig har min sjæl søgt tilflugt,\fog i dine vingers skygge vil jeg søge tilflugt,\findtil ulykken er drevet over.",
+      "number": 2,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fJeg vil råbe til Gud, den Højeste,\ftil den Gud som fører min sag igennem.",
+      "number": 3,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHan skal sende fra himlen og frelse mig,\f- den der jager mig, spottede - Sela\fGud skal sende sin nåde og sin sandhed.",
+      "number": 4,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er omdiskuteret. Den valgte er sprogligt den mest sandsynlige, men af indholdsmæssige grunde vælger mange i direkte fortsættelse af den foregående linje: »han gør den der jager mig, til spot«.",
+          "type": "E",
+          "position": 71
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 78
+        }
+      ]
+    },
+    {
+      "text": "\fJeg, ja, jeg må ligge blandt løver\fsom fortærer menneskets børn,\fderes tænder er spyd og pile,\fog deres tunge er et skarpt sværd.",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Min sjæl«.",
+          "type": "T",
+          "position": 13
+        },
+        {
+          "text": "Meningen må være at modstanderne som rovgriske løver hungrer efter menneskekød.",
+          "type": "E",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\fOphøj dig over himlene, Gud!\fdin herlighed komme over hele jorden!",
+      "title": "Tak",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDe lagde net ud for mine skridt,\fman har bøjet min sjæl ned.\fDe gravede en grav foran mig,\fde faldt selv midt i den. Sela",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »de beredte net«.",
+          "type": "T",
+          "position": 16
+        },
+        {
+          "text": "Der er givet forskellige forslag til oversættelsen og til rettelser, men den ordrette oversættelse giver god mening.",
+          "type": "T",
+          "position": 61
+        }
+      ]
+    },
+    {
+      "text": "\fMit hjerte er trygt, Gud!\fmit hjerte er trygt,\fjeg vil synge og spille.",
+      "number": 8,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fVågn op, min ære!\fVågn op, du harpe og citer!\fJeg vil vække morgenrøden.",
+      "number": 9,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Her omskrivning for »sjæl« eller »personlighed«.",
+          "type": "T",
+          "position": 18
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil takke dig blandt folkene, Herre,\fjeg vil lovsynge dig blandt folkeslagene.",
+      "number": 10,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor din nåde er stor indtil himlene,\fog din sandhed indtil skyerne.",
+      "number": 11,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 13
+        },
+        {
+          "text": "Eller: »troskab«.",
+          "type": "T",
+          "position": 52
+        }
+      ]
+    },
+    {
+      "text": "\fOphøj dig over himlene, Gud!\fdin herlighed komme over hele jorden!",
+      "number": 12,
+      "version": 1500242400000
+    }
+  ]
+}

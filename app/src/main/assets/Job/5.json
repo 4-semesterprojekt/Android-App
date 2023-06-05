@@ -1,0 +1,81 @@
+{
+  "book": "Jobs Bog",
+  "abbreviation": "Job",
+  "chapter": 5,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJeg selv ville dog søge Gud,\fog til Gud ville jeg overgive min sag,",
+      "number": 8,
+      "version": 1647817200000
+    },
+    {
+      "text": "\fhan gør store ting, der er uransagelige,\fundere der ikke er tal på.",
+      "number": 9,
+      "version": 1647817200000
+    },
+    {
+      "text": "\fHan giver regn på jorden\fog sender vand over markerne.",
+      "number": 10,
+      "version": 1647817200000
+    },
+    {
+      "text": "\fHan ophøjer ringe,\fog sørgende ophøjes til frelse.",
+      "number": 11,
+      "version": 1647817200000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »lykke«.",
+          "type": "T",
+          "position": 51
+        }
+      ]
+    },
+    {
+      "text": "\fHan gør de snediges planer til intet\fså deres hænder ikke kan skabe succes.",
+      "number": 12,
+      "version": 1647817200000
+    },
+    {
+      "text": "\fHan fanger kloge i deres list\fså de snediges planer hastigt omstødes.",
+      "number": 13,
+      "version": 1647817200000
+    },
+    {
+      "text": "\fOm dagen støder de på mørke\fog famler sig frem ved middagstid som var det nat.",
+      "number": 14,
+      "version": 1647817200000
+    },
+    {
+      "text": "\fHan frelser fra deres munds sværd,\fog en fattig fra en stærks hånd.",
+      "number": 15,
+      "version": 1647817200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Han frelser fra sværd fra deres mund«. Manuskripterne er enige om denne tekst, men der foreslås ofte rettelser, enklest: *mēḥerev mippîhem* til: *mēḥerev pîhem*, der svarer til oversættelsen her (i den hebraiske tekst slettes der blot et *m*). En anden mulighed er: »Han frelser en forældreløs fra sværdet« (det kræver rettelse af: *mēḥerev mippîhem* til: *mēḥarbām jātōm*, i konsonantteksten: *mḥrbmpjhm* til: * mḥrbmjtm*).",
+          "type": "E",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fSå bliver der håb for den ringe,\fog uretfærdighed må lukke sin mund.",
+      "number": 16,
+      "version": 1647817200000
+    }
+  ]
+}

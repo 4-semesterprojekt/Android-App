@@ -1,0 +1,131 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 111,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHalleluja!\fJeg vil takke JHVH af hele mit hjerte\fi oprigtiges kreds og menighed.",
+      "title": "Begrundelse for lovsangen",
+      "number": 1,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fJHVHs gerninger er store,\fværd at udforske for alle som glæder sig over dem.",
+      "number": 2,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "*dᵊrûšîm* er participium passiv der må opfattes gerundivisk (»værd at udforske/som bør udforskes«). Andre oversætter dog: »søgt/erfaret«.",
+          "type": "E",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\fHans værk er højhed og pragt,\fog hans retfærdighed består til evig tid.",
+      "number": 3,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan har frembragt et minde for sine undere,\fnådig og barmhjertig er JHVH.",
+      "number": 4,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »gjort«.",
+          "type": "T",
+          "position": 18
+        },
+        {
+          "text": "Linjen kan også oversættes: »Han har fastsat en proklamation af sine undere«. Der er formodentlig – uanset hvordan linjen oversættes – tænkt på påskens udfrielse fra slaveriet i Egypten.",
+          "type": "E",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\fHan gav føde til dem som frygter ham,\fhan husker for evigt sin pagt.",
+      "number": 5,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan forkyndte sine gerningers kraft for sit folk,\fnemlig at han ville give dem folkenes arvelod.",
+      "number": 6,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »da han gav«. Den sandsynlige mening er dog at linjen skal gengive indholdet i den forkyndelse der blev nævnt i foregående linje.",
+          "type": "E",
+          "position": 75
+        },
+        {
+          "text": "Kan også oversættes: »hedningernes«.",
+          "type": "T",
+          "position": 88
+        }
+      ]
+    },
+    {
+      "text": "\fHans hænders gerninger er sandhed og ret,\falle hans forordninger er til at stole på,",
+      "number": 7,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »trofasthed«.",
+          "type": "T",
+          "position": 34
+        }
+      ]
+    },
+    {
+      "text": "\furokkelige for altid og evigt,\ftil at blive holdt i sandhed og redeligt.",
+      "number": 8,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Participiet: *ʕᵃśûyim* må her opfattes gerundivisk. Andre oversætter dog: »de er givet/fastlagt«.",
+          "type": "E",
+          "position": 50
+        },
+        {
+          "text": "Ofte retter man dog vokaliseringen af: *yāšār* (»redelig«) til: *yōšer*: »redelighed/oprigtighed«.",
+          "type": "E",
+          "position": 73
+        }
+      ]
+    },
+    {
+      "text": "\fHan sendte sit folk forløsning,\fhan fastsatte sin pagt for evigt.\fHans navn er helligt og frygtindgydende.",
+      "title": "Sand visdom",
+      "number": 9,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fFrygt for JHVH er visdoms begyndelse,\fgod indsigt har alle som handler efter dem;\fhans pris består for altid.",
+      "number": 10,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Det er en henvisning til »forordninger« i v.7.",
+          "type": "T",
+          "position": 82
+        }
+      ]
+    }
+  ]
+}

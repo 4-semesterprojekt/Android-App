@@ -1,0 +1,124 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 32,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAf David. Maskil.\fSalig er den, hvis overtrædelse er forladt,\fhvis synd er skjult.",
+      "title": "Lykken i tilgivelsen",
+      "number": 1,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende« Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«",
+          "type": "E",
+          "position": 18
+        }
+      ]
+    },
+    {
+      "text": "\fSaligt er det menneske som JHVH ikke tilregner skyld,\fog i hvis ånd der ikke er svig.",
+      "title": "Lidelse på grund af ubodfærdighed",
+      "number": 2,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDa jeg tav, sygnede mine knogler hen\funder min stønnen hele dagen.",
+      "number": 3,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fFor dag og nat lå din hånd tungt på mig,\fmin livskraft svandt hen\fi sommerens tørke. Sela",
+      "title": "Syndsbekendelse",
+      "number": 4,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lāšād* er højst usikker. Det optræder kun her og 4 Mos 11,8, hvor det oversættes »kage«. Her måske »fedt/saft«, der kan forstås som »livskraft«. Ellers må man rette til *lāšōn*: »tunge«",
+          "type": "E",
+          "position": 55
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 90
+        }
+      ]
+    },
+    {
+      "text": "\fJeg bekendte min synd for dig\fog skjulte ikke min skyld,\fjeg sagde: »Jeg vil aflægge tilståelse for mine overtrædelser for JHVH«,\fog du forlod mig min syndeskyld. Sela",
+      "title": "Opmuntring til at søge hjælp hos Gud",
+      "number": 5,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDerfor skal hver from bede til dig\fden stund, du findes.\fSelv en flod af store vande -\ftil ham skal de ikke nå.",
+      "number": 6,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Ordet *raq* er omdiskuteret. Oftest skal det oversættes »kun«. Det er usikkert om det skal knyttes til denne eller den foregående linje. Hvis det knyttes til den foregående linje, understreger det at tiden, hvor Gud kan findes, er begrænset",
+          "type": "E",
+          "position": 62
+        }
+      ]
+    },
+    {
+      "text": "\fDu er mit skjul,\fdu bevarer mig for trængsel,\fmed udfrielsens jubel omgiver du mig. Sela",
+      "title": "Guds nådesord{E: Andre opfatter verset som salmistens belærende ord til menigheden}",
+      "number": 7,
+      "version": 1457218800000
+    },
+    {
+      "text": "\f»Jeg vil undervise dig og lære dig den vej som du skal gå,\fjeg vil råde dig, idet mit øje er rettet mod dig.«",
+      "title": "Formaning og opmuntring til at stole på JHVH",
+      "number": 8,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fVær ikke som hest, som muldyr, uden indsigt,\fhvis prydelse er tømme og bidsel, hvormed man kan tvinge dem\fnår de ikke vil komme nær til dig.",
+      "number": 9,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Verbet er plur., så verset kan ikke være umiddelbar forlængelse af det foregående vers",
+          "type": "E",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "text": "\fMange smerter er der til den ugudelige,\fmen den, som stoler på JHVH,\fomgiver han med nåde.",
+      "title": "Afsluttende lovprisning",
+      "number": 10,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 90
+        }
+      ]
+    },
+    {
+      "text": "\fGlæd jer i JHVH, og fryd jer, I retfærdige!\fog I skal juble, alle I som er oprigtige af hjertet!",
+      "number": 11,
+      "version": 1457218800000
+    }
+  ]
+}

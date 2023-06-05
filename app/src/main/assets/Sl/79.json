@@ -1,0 +1,159 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 79,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSalme af Asaf.\fGud, hedninger er trængt ind i din arvelod,\fde har vanhelliget dit hellige tempel,\fde har lagt Jerusalem i ruiner.",
+      "title": "Klage",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes »folkeslag«, men her ligger vægten på modsætningen til Guds folk.",
+          "type": "T",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "\fDe gav dine tjeneres lig\fsom føde til himlens fugle,\fdine frommes kød til landets vilde dyr.",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »jordens«.",
+          "type": "T",
+          "position": 82
+        }
+      ]
+    },
+    {
+      "text": "\fDe udøste deres blod som vand\frundt omkring Jerusalem, og der var ingen som begravede dem.",
+      "number": 3,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fVi er blevet til spot for vore naboer,\ftil spot og spe for vore omgivelser.",
+      "title": "Bøn om hjælp",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHvor længe, JHVHv? Vil du være vred for evigt?\fSkal din nidkærhed stadig brænde som en ild?",
+      "number": 5,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fUdøs din harme over hedningerne\fsom ikke kender dig,\fog over riger\fsom ikke påkalder dit navn.",
+      "number": 6,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »de folk«.",
+          "type": "T",
+          "position": 32
+        }
+      ]
+    },
+    {
+      "text": "\fFor de har fortæret Jakob\fog raseret hans bolig.",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Den masoretiske tekst har singularis, men pluralis støttes af en del håndskrifter og gamle oversættelser og også af pluralis i næste linje. Singularis kan evt. oversættes: »man«, men der har ikke i det foregående været talt om en enkelt fjende (singularis).",
+          "type": "E",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "text": "\fHusk os ikke for vore tidligere misgerninger,\fskynd dig, lad din barmhjertighed komme os i møde,\ffor vi er blevet meget svage.",
+      "number": 8,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Oversættes ofte: »vore forfædres«. I så fald må versets indledning: *ʔal-tizkor-lānû* (»husk os ikke«) oversættes: »tilregn os ikke«.",
+          "type": "E",
+          "position": 32
+        }
+      ]
+    },
+    {
+      "text": "\fHjælp os, vor frelses Gud,\ffor dit navns æres skyld,\fog befri os og tilgiv os vore synder\ffor dit navns skyld.",
+      "number": 9,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHvorfor skal hedningerne sige:\f»Hvor er deres Gud?«\fLad det kendes hos hedningerne for vore øjne,\fat dine tjeneres blod, som er udøst, bliver hævnet.",
+      "number": 10,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »folkene«.",
+          "type": "T",
+          "position": 25
+        },
+        {
+          "text": "Kan også oversættes: »folkene«.",
+          "type": "T",
+          "position": 83
+        },
+        {
+          "text": "Ordret skulle de to linjer oversættes: »Lad hævnen for dine tjeneres blod, som er udgydt, blive kendt hos hedningerne for vore øjne«.",
+          "type": "E",
+          "position": 150
+        }
+      ]
+    },
+    {
+      "text": "\fLad fangens stønnen komme for dit ansigt,\fspar efter din arms storhed de dødsdømte.",
+      "number": 11,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »levn«.",
+          "type": "T",
+          "position": 47
+        },
+        {
+          "text": "Kan også oversættes: »din magts«.",
+          "type": "T",
+          "position": 62
+        },
+        {
+          "text": "Ordret: »dødens børn«. Den masoretiske teksts accenter tilkendegiver måske at linjen skal deles i to: »Hvor stor er din arm! / Spar de dødsdømte!«.",
+          "type": "E",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "\fOg gengæld vore naboer syvdobbelt i deres bryst\fden hån, hvormed de hånede dig, Herre!",
+      "title": "Tillid",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMen vi, dit folk og din græsgangs hjord,\fvi vil takke dig til evig tid,\fi slægt efter slægt vil vi forkynde din pris.",
+      "number": 13,
+      "version": 1500242400000
+    }
+  ]
+}

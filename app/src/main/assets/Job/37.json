@@ -1,0 +1,190 @@
+{
+  "book": "Jobs bog",
+  "abbreviation": "Job",
+  "chapter": 37,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJa, over dette banker mit hjerte\n\t\t\tog slår heftige slag i mit bryst.",
+      "title": "Elihu taler om Guds herlige gerninger",
+      "number": 1,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »springer op fra sit sted«.",
+          "type": "T",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "\t\tHør godt efter lyden af bragene\n\t\t\t\tog den rumlen der udgår af hans mund.",
+      "number": 2,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "hebraisk *rōgez* bruges ellers i Job om ugudeliges raseri og den lidendes uro (3,17.26; 14,1; 39,24).",
+          "type": "E",
+          "position": 33
+        },
+        {
+          "text": "Verbet *hgh* bruges om mumlen under højtlæsning i Sl 1,2.",
+          "type": "E",
+          "position": 51
+        }
+      ]
+    },
+    {
+      "text": "\t\t\tHan slipper den løs under hele himlen\n\t\t\t\t\tog dens lys ud i jordens hjørner.",
+      "number": 3,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\tBag ham buldrer tordenen,\n\t\t\t\t\than lader en brølen høre i høje tordenskrald;\n\t\t\t\t\t\t\tingen kan hindre\n\t\t\t\t\t\t\t\tat tordenen høres.",
+      "number": 4,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\tGud lader sin brølen høre i den underfulde torden\n\t\t\t\t\t\t\t\t\tnår han gør store ting,\n\t\t\t\t\t\t\t\t\t\t\t\tog vi forstår dem ikke.",
+      "number": 5,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\tFor til sneen kan han sige:\n\t\t\t\t\t\t\t\t\t\t\t\t\t›Fald på jorden!‹\n\t\t\t\t\t\t\t\t\t\t\t\tog det gælder også for regnskyl, ja, for en overvældende styrtregn.",
+      "number": 6,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\tHan afsætter sit rullesegl på hver mands hånd\n\t\t\t\t\t\t\t\t\t\t\tfor at alle hans skaberværks mennesker kan forstå det.",
+      "number": 7,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Billedet bruges allerede i Job 33,16 om forsegling af advarsler.",
+          "type": "T",
+          "position": 55
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\tDa er de vilde dyr gået ind i deres huler\n\t\t\t\t\t\t\t\t\t\tog opholder sig i deres skjul,",
+      "number": 8,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\tog så kommer stormen fra sit kammer,\n\t\t\t\t\t\t\t\t\t\tmed nordenvindene kommer kulden.",
+      "number": 9,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\tVed Guds åndedræt kommer frosten,\n\t\t\t\t\t\t\t\t\t\tog det vidstrakte vand bliver til is.",
+      "number": 10,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\tJa, med fugtighed fylder han skyen,\n\t\t\t\t\t\t\t\t\t\thans lys spreder så skydækket,",
+      "number": 11,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\tog hele denne cyklus følger naturens love,\n\t\t\t\t\t\t\t\t\t\t\t\tfor at den kan udføre\n\t\t\t\t\t\t\t\t\t\t\t\t\t\talt\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\thvad han befaler\n\t\t\t\t\t\t\t\t\t\t\t\t\tfor hele jordens verden,",
+      "number": 12,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er et forsøg på at gengive en meteorologisk vanskelig beskrivelse: *wᵊhûˀ mᵊsibbôt mithappēx vᵊtaḥbûlōtāʸw »og denne runde bliver ved med at bevæge sig frem og tilbage efter dens love«.",
+          "type": "E",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\thvad enten det er til tugt\n\t\t\t\t\t\t\t\t\t\ttil jorden,\n\t\t\t\t\t\t\t\t\teller som en nåde at han lader det ske.",
+      "number": 13,
+      "version": 1668726000000
+    },
+    {
+      "text": "\tLæg nu øre til dette\n\t\tJob,\n\tstå frem\n\t\t\t\t\tog overvej Guds underfulde gerning!",
+      "number": 14,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\tMon du ved,\n\t\t\t\t\thvornår Gud indvirker på dem\n\t\t\t\t\t\tog lader lyset skinne frem fra hans skyer?",
+      "number": 15,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\tMon du kender til skylaget,\n\t\t\t\t\t\tde underfulde gerninger udført af den der fuldkommen i kundskab,",
+      "number": 16,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\tdu som må stå i varmt tøj\n\t\t\t\t\t\t\tnår jorden ligger stille i heden fra syd?",
+      "number": 17,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\tKan du sammen med ham brede skyerne ud\n\t\t\t\t\t\tså de ligger stærke som et spejl af støbejern?",
+      "number": 18,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\tFortæl os:\n\t\t\t\t\t\thvad kan vi sige til ham?\n\t\t\t\t\tVi kan ikke rette vores tale til ham på grund af mørket.",
+      "number": 19,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Verbet *ʕrx* betyder »arrangere, ordne, mønstre«, men bruges nok her i samme betydning som i Job 32,14 hvor objektet *millîn* »tale« er brugt.",
+          "type": "E",
+          "position": 87
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\tMon det skal fortælles ham\n\t\t\t\t\t\tat jeg vil tale,\n\t\t\t\t\teller har nogen da sagt\n\t\t\t\t\t\tat han gerne vil fortæres?",
+      "number": 20,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\tOg nu altså,\n\t\t\than har ikke set lyset,\n\t\t\t\t\tmen det står skarpt inde i skyerne,\n\t\t\t\t\t\tog en vind passerer\n\t\t\t\t\t\t\tog renser dem.",
+      "number": 21,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\tFra norden kommer den gyldne glans,\n\t\t\t\t\tover Gud ses den frygtindgydende majestæt.",
+      "number": 22,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\tDen Almægtige,\n\t\t\t\t\t\t\t\t\t\tham kan vi ikke finde,\n\t\t\t\t\t\t\t\t\than er ophøjet i styrke,\n\t\t\t\t\t\t\t\tog gennem retten og retfærdigheden vil han ikke undertrykke.",
+      "number": 23,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\tDerfor må mennesker tilbede ham i gudsfrygt,\n\t\t\t\t\t\t\than ser ikke til vise i egne tanker.«",
+      "number": 24,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Hebraisk *kol-ḥaxmê-lēv* »alle de af hjerte vise« må være negativt ment; alternativt antages et retorisk spørgsmål: »ser han ikke til dem der er vise i hjertet?«",
+          "type": "E",
+          "position": 95
+        }
+      ]
+    }
+  ]
+}

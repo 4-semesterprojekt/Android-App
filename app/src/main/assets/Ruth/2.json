@@ -1,0 +1,146 @@
+{
+  "book": "Ruths bog",
+  "abbreviation": "Ruth",
+  "chapter": 2,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fNo'omis mand havde en slægtning der var storbonde. Han hørte til Elimeleks slægt\n\t\tog hed Boaz.",
+      "title": "No'omis mand havde en slægtning ved navn Boaz. Da Ruth vil samle aks, kommer hun til hans mark. Han taler venligt til hende og giver sine folk befaling om ikke at genere hende.",
+      "number": 1,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tMoabitten Ruth sagde til No'omi:\n\t\t\t\t»Jeg kunne tænke mig at gå ud på marken\n\t\t\t\t\t\tog samle aks hos den mand\n\t\t\t\t\tfor hvis øjne jeg finder nåde.«\n\t\t\tHun sagde til hende:\n\t\t\t\t»Gå,\n\t\t\t\t\tmin datter!«",
+      "number": 2,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\tHun gik ud\n\t\t\tog kom hen\n\t\t\tog samlede aks på marken efter høstfolkene,\n\t\tog det gik sådan\n\t\t\t\tat hun kom til den del af marken som tilhørte Boaz\n\t\t\t\t\tder var af Elimeleks slægt.",
+      "number": 3,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\tOg se,\n\t\t\t\tnetop da kom Boaz fra Betlehem,\n\t\t\t\t\tog han hilste  høstfolkene:\n\t\t\t\t\t\t\t»JHVH være med jer!«\n\t\t\t\t\t\tDe svarede ham:\n\t\t\t\t\t\t\t»JHVH velsigne dig!«",
+      "number": 4,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\tBoaz sagde til den unge karl\n\t\t\t\t\tsom var sat over høstfolkene:\n\t\t\t\t»Hvem er den unge kvinde?«",
+      "number": 5,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\tDen unge karl\n\t\t\t\t\tsom var sat over høstfolkene,\n\t\t\t\tsvarede:\n\t\t\t\t\t»Det er den unge moabitiske kvinde\n\t\t\t\t\t\t\t\tsom fulgtes med No'omi da hun kom tilbage fra Moab.",
+      "number": 6,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tHun har sagt:\n\t\t\t\t\t\t\t\t›Må jeg ikke nok følge efter høstfolkene\n\t\t\t\t\t\t\t\t\tog samle op blandt negene?‹\n\t\t\t\t\t\t\tHun kom\n\t\t\t\t\t\t\tog har været i gang lige fra i morges og til nu.\n\t\t\t\t\t\tHun har kun været hjemme i en kort middagspause.«",
+      "number": 7,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\tDa sagde Boaz til Ruth:\n\t\t\t\t\t»Hør her,\n\t\t\t\t\t\t\t\t\tmin datter!\n\t\t\t\t\t\t\t\tDu skal ikke gå hen\n\t\t\t\t\t\t\t\t\t\t\tog samle aks på andre marker,\n\t\t\t\t\t\t\t\t\t\tog gå heller ikke herfra.\n\t\t\t\t\t\t\t\t\tHold dig nær til mine unge piger!",
+      "number": 8,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\t\t\tHold øje med hvilken mark\n\t\t\t\t\t\t\t\t\tde høster på,\n\t\t\t\t\t\t\t\tog følg efter dem.\n\t\t\t\t\t\tHar jeg ikke befalet de unge karle\n\t\t\t\t\t\t\t\tat ingen må røre dig?\n\t\t\t\t\t\t\tOg er du tørstig,\n\t\t\t\t\t\t\tså gå hen til krukkerne\n\t\t\t\t\t\t\tog drik af det\n\t\t\t\t\t\t\t\tsom de unge karle øser op.«",
+      "number": 9,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\tDa faldt hun på knæ\n\t\t\t\tog bøjede ansigtet mod jorden\n\t\t\tog sagde til ham:\n\t\t\t\tHvorfor har jeg fundet nåde for dine øjne\n\t\t\t\t\t\tså du bemærker mig?\n\t\t\t\t\tJeg er dog en fremmed.«",
+      "number": 10,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\tBoaz svarede\n\t\t\thende:\n\t\t\t\t\t»Jeg har fået fortalt alt\n\t\t\t\t\t\t\thvad du har gjort for din svigermor efter din mands død.\n\t\t\t\t\t\t\t\tAt du har forladt din far og din mor og dit fædreland\n\t\t\t\t\t\t\t\tog er taget til et folk\n\t\t\t\t\t\t\t\t\tsom du ikke tidligere kendte til.",
+      "number": 11,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\t\tMå JHVH belønne dig for din gode gerning,\n\t\t\t\t\t\t\tog må du få fuld løn fra JHVH Israels Gud,\n\t\t\t\t\t\t\t\ttil hvem du er kommet\n\t\t\t\t\t\t\t\t\tfor at søge ly under hans vinger!«",
+      "number": 12,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\tHun sagde:\n\t\t\t\t\t»Lad mig finde nåde for dine øjne,\n\t\t\t\t\t\t\t\tHerre,\n\t\t\t\t\t\t\tfordi du har trøstet mig,\n\t\t\t\t\t\t\t\tog fordi du har talt venligt til din tjenestepige.\n\t\t\t\t\t\tOg jeg er endda ikke en af dine egne tjenestepiger.«",
+      "number": 13,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\tBoaz sagde til hende: »Når det er spisetid,\n\t\t\t\t\tså kom herhen\n\t\t\t\t\t\tog spis af brødet\n\t\t\t\t\t\tog dyp dit stykke i eddiken.«\n\t\t\t\tHun satte sig ved siden af høstfolkene,\n\t\t\tog han rakte hende ristede korn.\n\t\t\t\tHun spiste\n\t\t\t\tog blev så mæt\n\t\t\t\tat hun levnede.",
+      "number": 14,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\tSå rejste hun sig\n\t\t\t\t\t\tfor at samle aks.\n\t\t\t\t\tBoaz befalede sine unge karle:\n\t\t\t\t\t\t\t»Lad hende også samle op inde mellem negene,\n\t\t\t\t\t\t\t\tog I må ikke genere hende!",
+      "number": 15,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\tPluk også noget ud af negene til hende\n\t\t\t\t\t\t\t\t\t\t\t\tog lad det ligge\n\t\t\t\t\t\t\t\t\t\t\tså hun kan samle det op.\n\t\t\t\t\t\t\t\t\tOg I må ikke skælde ud på hende.«",
+      "number": 16,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\t\tSå samlede hun aks op på marken indtil det blev aften.\n\t\t\t\tHun slog det af\n\t\t\t\t\t\tsom hun havde samlet,\n\t\t\t\t\tog der var næsten en efa byg.",
+      "title": "Ruth kommer hjem til No'omi og fortæller hvordan det er gået hende, hun bliver ved med at samle korn på Boaz' mark.",
+      "number": 17,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\tHun tog det op\n\t\t\t\tog gik ind i byen.\n\t\tHendes svigermor så\n\t\t\t\tdet hun havde samlet,\n\t\t\tog det som hun havde levnet\n\t\t\tda hun var mæt,\n\t\t\t\tserverede hun for hende.",
+      "number": 18,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\tDa sagde hendes svigermor til hende:\n\t\t\t\t»Hvor samlede du korn i dag,\n\t\t\t\t\t\thvor arbejdede du?\n\t\t\t\t\tVelsignet være den\n\t\t\tsom tog sig af dig.\n\t\t\t\t\tDa fortalte hun sin svigermor hvem hun havde været hos:\n\t\t\t\t\t»Den mand\n\t\t\t\t\t\t\tsom jeg har været hos i dag,\n\t\t\t\t\t\thedder Boaz.«",
+      "number": 19,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\t\tNo'omi sagde til sin svigerdatter:\n\t\t\t\t»Velsignet være han for JHVH\n\t\t\t\t\tsom ikke har svigtet sin trofasthed mod de levende eller de døde.«\n\t\t\tOg No'omi sagde:\n\t\t\t\t»Den mand er en slægtning til os.\n\t\t\t\t\tHan er en af vores løsere.«",
+      "number": 20,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Samme ord som i 1,8",
+          "type": "E",
+          "position": 111
+        }
+      ]
+    },
+    {
+      "text": "\tMoabitten Ruth sagde:\n\t\t»Han sagde endda til mig:\n\t\t\t\t\t›Du skal holde dig til\n\t\t\t\t\t\tmine\n\t\t\tunge karle\n\t\t\t\tindtil de er færdige med at høste\n\t\t\t\t\tfor mig.‹«",
+      "number": 21,
+      "version": 1668034800000
+    },
+    {
+      "text": "\tNo'omi sagde til sin svigerdatter Ruth:\n\t\t\t»Det er godt,\n\t\t\t\t\tmin datter,\n\t\t\t\tat du følges med hans unge piger\n\t\t\t\t\tså de ikke gør dig fortræd på en anden mark.«",
+      "number": 22,
+      "version": 1668034800000
+    },
+    {
+      "text": "\t\tSå fulgtes hun med Boaz' unge piger\n\t\t\t\tog samlede aks\n\t\t\tindtil byghøsten og hvedehøsten var forbi.\n\t\tOg hun boede hos sin svigermor.",
+      "number": 23,
+      "version": 1668034800000
+    }
+  ]
+}

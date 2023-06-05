@@ -1,0 +1,193 @@
+{
+  "book": "Sefanias' Bog",
+  "abbreviation": "Sef",
+  "chapter": 1,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJHVHs ord, som kom til Sefanias, søn af Kushi, søn af Gedalja, søn af Amarja, søn af Hizkija, dengang Josija, Amons søn, var konge over Juda.\n\n",
+      "title": "Straffen over ugudelighed",
+      "number": 1,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Ordret »I Josijas, Amons søn, Judas konge, dage«.",
+          "type": "T",
+          "position": 142
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil tilintetgøre alt fra jordens overflade, siger JHVH.",
+      "number": 2,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske *ʔāsōf ʔāsēf* er vanskeligt at oversætte. Normalt bruges en absolut infinitiv til at fremhæve et finit verbum af samme verbalstamme. Men i dette tilfælde er der en kombination af *ʔāsōf* »indsamle« og *ʔāsēf* »tilintetgøre«. Samme kombination findes dog i Jer 8,13, hvilket tyder på at der er tale om et idiomatisk udtryk, der kan oversættes med »Jeg vil virkelig tilintetgøre«.",
+          "type": "E",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil tilintetgøre mennesker og dyr,\ftilintetgøre himlens fugle og havets fisk,\fog jeg vil få de ugudelige til at snuble.\fJeg vil udrydde menneskene fra jordens overflade, siger JHVH.",
+      "number": 3,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Denne linje er vanskelig, muligvis fordi den hebraiske tekst er korrumperet. Ordret »og dem, som får ugudelige til at snuble«. En anden mulighed er »ruinerne med de ugudelige«, hvis man forstår *?et* som præpositionen »med«. Sætningen er udeladt fra de fleste versioner af LXX.",
+          "type": "E",
+          "position": 124
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil række min hånd ud mod Juda og mod alle Jerusalems indbyggere,\fog jeg vil udrydde alt hvad der er tilbage af Ba'al fra dette sted;\fafgudspræsternes navn sammen med præsterne,",
+      "number": 4,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Skal forstås som Ba'al-kulten.",
+          "type": "E",
+          "position": 122
+        }
+      ]
+    },
+    {
+      "text": "\fog dem som tilbeder himlens hær på tagene,\fog dem som tilbeder og sværger til JHVH og dog sværger ved deres konge,",
+      "number": 5,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Dvs. stjernerne og planeterne.",
+          "type": "T",
+          "position": 32
+        },
+        {
+          "text": "LXX oversætter *malkām* (konge) med »Melkom«, dvs. navnet på en ammonitisk gud.",
+          "type": "E",
+          "position": 115
+        }
+      ]
+    },
+    {
+      "text": "\fog dem som vender JHVH ryggen,\fog som ikke har søgt JHVH og ikke har spurgt efter ham.",
+      "title": "JHVHs dag er nær",
+      "number": 6,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fVær stille for den herre JHVH!\fFor JHVHs dag er nær.\fFor JHVH har forberedt en offerslagtning,\fhan har helliget sine indbudte.",
+      "number": 7,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Ordret »sine indkaldte«.",
+          "type": "E",
+          "position": 127
+        }
+      ]
+    },
+    {
+      "text": "På JHVHs offerslagtnings dag vil jeg straffe fyrsterne\fog kongens sønner og alle som klæder sig i fremmed dragt.",
+      "number": 8,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Den normale betydning er »besøge« eller »udvælge«, men i denne sammenhæng går betydningen på straf.",
+          "type": "E",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\fOg på den dag vil jeg straffe enhver som springer over dørtærsklen,\fdem som fylder deres herres hus med vold og bedrag.",
+      "number": 9,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fPå den dag, siger JHVH, skal der lyde råb fra Fiskeporten\fog hyl fra Mishneh og stort postyr fra højene.",
+      "number": 10,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Kan oversættes med »(byens) anden del« eller »nye del«, men »Mishneh« er sandsynligvis navnet på et nyt kvarter i byen.",
+          "type": "E",
+          "position": 77
+        }
+      ]
+    },
+    {
+      "text": "\fHyl, I som bor i Maktesh!\fFor alt handelsfolket er tilintetgjort;\falle de som var belæssede med sølv, er udryddet.",
+      "number": 11,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Ordet *maxtēš* kommer fra verbet *xataš*, der betyder »at støde«, deraf den traditionelle oversættelse »Morteren«. Sandsynligvis henviser navnet på bydelen til en geografisk beskrivelse af en lavtliggende bydel, der ligger i et hul.",
+          "type": "E",
+          "position": 26
+        }
+      ]
+    },
+    {
+      "text": "\fPå den tid vil jeg gennemsøge Jerusalem med lygter,\fog jeg vil straffe de mænd som ligger stille i deres snavs,\fdem som siger i deres hjerte: »JHVH gør hverken godt eller ondt.«",
+      "number": 12,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fDeres rigdom skal blive plyndret,\fog deres huse ødelagt.\fDe skal bygge huse, men ikke bo i dem,\fog plante vingårde, men ikke drikke vin af dem.",
+      "title": "JHVHs store dag er nær",
+      "number": 13,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fJHVHs store dag er nær.\fDen er nær og kommer med stor hast.\fLyden af JHVHs dag er bitter.\fDér råber krigeren.",
+      "number": 14,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Teksten kan også oversættes »Hør, JHVHs dag. Bittert råber krigeren dér«.",
+          "type": "E",
+          "position": 110
+        }
+      ]
+    },
+    {
+      "text": "\fEn vredes dag er den dag,\fen nødens og trængslens dag,\fen ødelæggelsens og forladthedens dag,\fen mørk og dunkel dag,\fen skyens og mulmets dag,",
+      "number": 15,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fen dag med hornklang\fog krigsråb mod de befæstede byer og høje hjørnetårne.",
+      "number": 16,
+      "version": 1518476400000,
+      "footnotes": [
+        {
+          "text": "Egentlig vædderhorn.",
+          "type": "E",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil sende plager over menneskene\fså de går rundt som blinde,\ffor de har syndet mod JHVH,\fog deres blod skal udgydes som støv og deres kød som skidt.",
+      "number": 17,
+      "version": 1518476400000
+    },
+    {
+      "text": "\fHverken deres sølv eller deres guld skal kunne redde dem på JHVHs vredes dag,\fmen ved hans lidenskabs ild skal hele jorden fortæres,\ffor han skal gøre en ende,\fja, hastigt gøre en ende på alle jordens beboere.",
+      "number": 18,
+      "version": 1518476400000
+    }
+  ]
+}

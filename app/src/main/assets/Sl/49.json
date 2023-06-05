@@ -1,0 +1,236 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 49,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\fAf Koras sønner. En salme.",
+      "title": "Opfordring til at lytte til salmistens vidnesbyrd",
+      "number": 1,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fHør dette, alle folkeslag,\flyt, alle verdens indbyggere,",
+      "number": 2,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fbåde menneskesønner og herresønner,\frige og fattige sammen!",
+      "number": 3,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Dvs.: Både lav og høj.",
+          "type": "T",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "\fMin mund taler dyb visdom,\fog mit hjertes tanke taler dyb indsigt.",
+      "number": 4,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har »visdom« i pluralis, der angiver det intensive, altså: »dyb«.",
+          "type": "T",
+          "position": 27
+        },
+        {
+          "text": "»taler« er underforstået fra forrige linje.",
+          "type": "T",
+          "position": 54
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil bøje mit øre til ordsprog,\fjeg vil åbne min gådetale til strengespil.",
+      "title": "Rigdom sikrer ikke mod døden",
+      "number": 5,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »billedtale, visdomsord«.",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fHvorfor skulle jeg frygte i onde dage,\fnår mine efterstræberes ondskab omgiver mig,",
+      "number": 6,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Det er omdiskuteret, om grundtekstens *ʕāqēv* kan betyde: »en der efterstræber«. I andre sammenhænge betyder det: »hæl«. Men den der griber efter næstens »hæl«, »efterstræber« ham netop. En del fortolkere ændrer vokaliseringen af *ʕᵃqēvay* til *ʕoqᵊvay*: »de der bedrager mig«.",
+          "type": "T",
+          "position": 63
+        }
+      ]
+    },
+    {
+      "text": "\fde som stoler på deres formue\fog roser sig af deres store rigdom?",
+      "number": 7,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fEn mand kan på ingen måde løskøbe en bror,\fhan kan ikke give Gud løsepenge for ham",
+      "number": 8,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "*ʔāḥ* (»bror«) står i grundteksten som versets første ord. Det er usædvanligt at objektet står først. Mange retter derfor til: *ʔax*: »dog«. Det fordrer dog også en rettelse af vokaliseringen af verbet til nif’al: *yifdeʰ* til: *yippādeʰ*: »Dog kan ingen mand på nogen måde købe sig fri.«",
+          "type": "E",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\f- og løsesummen for deres sjæl er høj\fog man må opgive det for evigt -",
+      "number": 9,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Septuaginta har »hans sjæl«, der kunne være rigtig.",
+          "type": "T",
+          "position": 26
+        }
+      ]
+    },
+    {
+      "text": "\fså han skulle kunne leve videre i evighed\fuden at se graven.",
+      "number": 10,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fFor man vil se at vise dør,\ftåbe og uforstandig omkommer sammen,\fog de efterlader deres formue til andre.",
+      "number": 11,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens *baʕar* betyder: »kvæg«. Det bruges her som betegnelse for et dyrisk menneske, et menneske uden ånd.",
+          "type": "T",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\fDeres inderste tanker er dette: deres huse skal stå for evigt,\fderes boliger slægt efter slægt,\fde har udråbt deres navne over jordlodder.",
+      "number": 12,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »deres indre«. De fleste fortolkere retter dog – med de gamle oversættelser - *qirbām* (»deres indre«) til: *qivrām*: »deres grav«, dvs.: »deres grav bliver deres huse for evigt«.",
+          "type": "E",
+          "position": 22
+        }
+      ]
+    },
+    {
+      "text": "\fDog kan et menneske med anseelse ikke bestå,\fhan bliver som kvæget der går til grunde.",
+      "title": "Tillid til rigdom og tillid til Gud",
+      "number": 13,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »overnatte«, her i betydningen: være indlogeret i denne verden.",
+          "type": "T",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fSådan går det dem som har tiltro til sig selv,\fog dem der efter dem finder behag i deres mund. Sela",
+      "number": 14,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "*ʔaḥᵃrêhem* (»efter dem«) kan evt. angive det der kommer bagefter, altså: »deres ende«. Mange vælger dog at rette til: *ʔaḥᵃrîtām*: »deres ende«, altså: »og sådan er deres ende, som finder behag i deres mund«.",
+          "type": "E",
+          "position": 95
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 100
+        }
+      ]
+    },
+    {
+      "text": "\fSom får fører man dem til dødsriget,\fdøden skal vogte dem,\fog de retskafne skal herske over dem om morgenen,\fderes skikkelse undergives dødsrigets hensygnen,\fså de ikke får nogen bolig.",
+      "number": 15,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Andre oversætter: »De styrer mod dødsriget som får«, men oversættelsen af hele verset er usikker.",
+          "type": "T",
+          "position": 37
+        },
+        {
+          "text": "Kan også oversættes: »og på dem« (dvs.: deres grave) »skal de retskafne træde om morgen«.",
+          "type": "E",
+          "position": 109
+        }
+      ]
+    },
+    {
+      "text": "\fMen Gud vil løskøbe min sjæl fra dødsrigets magt,\ffor han tager mig til sig. Sela",
+      "number": 16,
+      "version": 1528236000000
+    },
+    {
+      "text": "Frygt ikke, når en mand bliver rig,\fnår hans hus’ velstand bliver stor,",
+      "number": 17,
+      "version": 1528236000000
+    },
+    {
+      "text": "\ffor alt det skal han ikke tage med sig når han dør,\fhans velstand skal ikke stige ned efter ham.",
+      "number": 18,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fSelv om han velsigner sin sjæl mens han lever,\f- og man priser dig fordi du handler godt mod dig selv –",
+      "number": 19,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fså skal du dog gå til hans fædres slægt,\fi evighed skal de ikke se lys.",
+      "number": 20,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Mange vælger at rette *tāvôʔ* (»du skal gå«) til *tāvôʔ*: »han skal gå«. Meningen med den overleverede tekst må være at den rige, selvglade, skal gå til den gudløses fædre.",
+          "type": "T",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "text": "\fEt menneske med anseelse, men som ikke har indsigt,\fhan er blevet som kvæget der går til grunde.",
+      "number": 21,
+      "version": 1528236000000
+    }
+  ]
+}

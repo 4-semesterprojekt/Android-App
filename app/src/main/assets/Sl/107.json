@@ -1,0 +1,368 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 107,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTak JHVH, for han er god,\ffor hans nåde varer til evig tid.",
+      "title": "Opfordring til taksigelse",
+      "number": 1,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "\fDet skal JHVHs genløste sige,\fdem som han har genløst af fjendes hånd,",
+      "number": 2,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens: *ṣār* (»fjende«) kan også oversættes: »nød«, og sådan må det oversættes videre gennem salmen (v.6.13.19.28).",
+          "type": "E",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "\fog som han har samlet fra landene,\ffra øst og fra vest, fra nord og fra hav.",
+      "title": "Gud frelste fra ørkenen",
+      "number": 3,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »fra opgang«.",
+          "type": "T",
+          "position": 43
+        },
+        {
+          "text": "Ordret: »fra nedgang«.",
+          "type": "T",
+          "position": 55
+        },
+        {
+          "text": "Mange oversættere vælger at følge en foreslået rettelse af: *miyyām* (»fra hav«) til: *miyyāmîn*: »fra syd«. Der er dog ingen håndskrifter der støtter rettelsen.",
+          "type": "E",
+          "position": 77
+        }
+      ]
+    },
+    {
+      "text": "\fDe flakkede om i ørkenen, på en øde vej,\fde fandt ikke en by at bo i;",
+      "number": 4,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ofte flytter man masoreternes skillende accent tilbage fra *derex* (»vej«) til: *yᵊšîmôn* (»øde/ødemark«), så *derex* hører til anden verslinje. Verset lyder så: »De flakkede om i ørkenen, i en ødemark, / de fandt ikke vej til en by at bo i«.",
+          "type": "E",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "\fde var sultne og også tørstige,\fderes sjæl vansmægtede i dem.",
+      "number": 5,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDe råbte til JHVH i deres nød,\fhan reddede dem ud af deres trængsler.",
+      "number": 6,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fHan førte dem ad rette vej,\fså de gik til en by de kunne bo i.",
+      "number": 7,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDe skal takke JHVH for hans nåde\fog for hans undere mod menneskebørn,",
+      "number": 8,
+      "version": 1646002800000
+    },
+    {
+      "text": "\ffor han har tilfredsstillet en tørstig sjæl\fog har fyldt en sulten sjæl med godt.",
+      "title": "Gud frelste fra fangehullet",
+      "number": 9,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »mættet«.",
+          "type": "T",
+          "position": 28
+        }
+      ]
+    },
+    {
+      "text": "\fDe sad i mørke og i dødsskygge,\ffanger i elendighed og jern,",
+      "number": 10,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Der introduceres her og i det følgende forskellige grupper. Meningen er formodentlig: »Nogle var …«, v17: »Andre blev tåber …«, v23: »Andre drog ud …«.",
+          "type": "E",
+          "position": 3
+        },
+        {
+          "text": "*ṣalmāwæt* er usædvanligt ved at være sammensat af to ord: *ṣel* (»skygge«) og *māwæt* (»død«). Og skygge er normalt i Mellemøsten et gode. En nu ofte foretrukket mulighed er at vokalisere *ṣalmût*: »mørke, skygge«.",
+          "type": "E",
+          "position": 32
+        }
+      ]
+    },
+    {
+      "text": "\ffor de havde været genstridige imod Guds ord\fog havde foragtet den Højestes anvisning.",
+      "number": 11,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fHan ydmygede deres hjerte med plager,\fde snublede, og der var ingen hjælper.",
+      "number": 12,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDe råbte til JHVH i deres nød,\fhan frelste dem af deres trængsler.",
+      "number": 13,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fHan førte dem af mørke og dødsskygge\fog sønderrev deres lænker.",
+      "number": 14,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Se note til v.10.",
+          "type": "E",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "\fDe skal takke JHVH for hans nåde\fog for hans undere mod menneskebørn,",
+      "number": 15,
+      "version": 1646002800000
+    },
+    {
+      "text": "\ffor han har knust kobber\fog hugget jernslåer af.",
+      "title": "Gud frelste fra sygdom",
+      "number": 16,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordet: *nᵊḥōšet* oversættes både ved: »kobber, bronze« og »metal«.",
+          "type": "E",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "\fTåber var de på grund af deres overtrædelser\fog på grund af deres synder blev de plaget.",
+      "number": 17,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Se note til v10.",
+          "type": "T",
+          "position": 6
+        },
+        {
+          "text": "Oversættelsen er omdiskuteret. Den hebraiske tekst har ikke noget verbum i denne linje. Det kan evt. være underforstået, så der kan oversættes: »De var tåber ved deres overtrædelser«. Fortolkere har foreslået at rette: *ʔᵉwilîm* (»tåber«) til enten: *ʔumlālîm*: »hensygnende« (»De sygnede hen på grund af deres overtrædelser«) eller: * ḥôlîm*: »syge« (»de blev syge …«).",
+          "type": "E",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fDeres sjæl afskyede al mad,\fog de kom nær til dødens porte.",
+      "number": 18,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDa råbte de til JHVH i deres nød,\fhan frelste dem fra deres trængsler.",
+      "number": 19,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fHan sendte sit ord for at helbrede dem\fog redde fra deres grave.",
+      "number": 20,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Undertiden retter man: *miššᵊḥîtôtām* (»fra deres grave«) til: *miššaḥat ḥayyātām*: »deres liv fra graven«. Rettelsen har dog ingen støtte i håndskrifter.",
+          "type": "E",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "\fDe skal takke JHVH for hans nåde\fog for hans undere mod menneskebørn,",
+      "number": 21,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fog de skal ofre takofre\fog fortælle om hans gerninger med jubel.",
+      "title": "Gud frelste fra druknedøden",
+      "number": 22,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDe, som drog ud på havet i skibe,\fsom drev handel på store vande,",
+      "number": 23,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Se note til v10.",
+          "type": "T",
+          "position": 4
+        },
+        {
+          "text": "Kan også oversættes: »mange vande«.",
+          "type": "T",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "\fde så JHVHs gerninger\fog hans undere på dybet.",
+      "number": 24,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fHan talte og fik et stormvejr til at rejse sig,\fog det rejste dets bølger.",
+      "number": 25,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDe steg op mod himlen, steg ned i dybet,\fderes sjæl tabte modet i ulykken.",
+      "number": 26,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDe dansede og ravede som den berusede,\fog al deres visdom blev forvirret.",
+      "number": 27,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDa råbte de til JHVH i deres nød,\fhan frelste dem fra deres trængsler.",
+      "number": 28,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fHan fik stormen til at stilne af,\fog deres bølger lagde sig.",
+      "number": 29,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "»deres« går enten på de »store vande« (v.23) eller på søfolkene som var truet af bølgerne. Mange oversættere følger den syriske oversættelse, der forudsætter: *gallê hayām*: »havets bølger«, i stedet for den masoretiske teksts: *gallêhem* (»deres bølger«).",
+          "type": "E",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\fDe blev glade fordi de faldt til ro,\fog han førte dem til en havn som de ønskede.",
+      "number": 30,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDe skal takke JHVH for hans nåde\fog for hans undere mod menneskebørn",
+      "number": 31,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fog ophøje ham i folkets menighed\fog prise ham i de ældstes forsamling.",
+      "title": "Lovprisning af JHVHs magt og trofasthed",
+      "number": 32,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fHan kan gøre floder til en ørken\fog kildevæld til udtørret jord,",
+      "number": 33,
+      "version": 1646002800000
+    },
+    {
+      "text": "\ffrugtbart land til saltsteppe\fpå grund af ondskaben hos dem som bor der.",
+      "number": 34,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fHan kan gøre ørken til vanddam\fog tør jord til kildevæld.",
+      "number": 35,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDer lod han de sultne bo\fså de kunne grundlægge en by at bo i.",
+      "number": 36,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDe tilsåede marker og plantede vingårde\fog fik en frugtbar høst.",
+      "number": 37,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fHan velsignede dem, og de blev rigtig mange,\fog han formindskede ikke deres kvægbestand.\fv39 De blev få og blev nedbøjede\funder tryk af ulykke og plage.",
+      "number": 38,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Overgangen v.38-39 er meget brat og uformidlet. Man bytter derfor ofte om på v. 39 og v.40. V.39 må da oversættes: »så de blev få …«.",
+          "type": "E",
+          "position": 93
+        }
+      ]
+    },
+    {
+      "text": "\fHan som øser foragt ud over fyrster,\flod dem flakke om i en ørken uden vej.",
+      "number": 40,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fMen han løftede en fattig op af elendighed\fog gjorde slægter frugtbare som småkvæget.",
+      "number": 41,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret blot: »han gjorde slægter som småkvæget« Småkvæg omfatter får og geder.",
+          "type": "T",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "\fDe retskafne skal se det og glæde sig\fmens al uretfærdighed har lukket sin mund til.",
+      "number": 42,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDen som er vís, skal give agt dette,\fog de skal reflektere over JHVHs nåde!",
+      "number": 43,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 75
+        }
+      ]
+    }
+  ]
+}

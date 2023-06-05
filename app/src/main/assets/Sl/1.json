@@ -1,0 +1,62 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 1,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSalig det menneske\n\t\t\tsom ikke vandrer efter ugudeliges råd\f\n\t\t\t\t\tog ikke går ind på synderes vej\n\t\t\t\t\teller sidder i spotteres forsamling,",
+      "title": "David beskriver de gudfrygtiges forhold og lyksalighed",
+      "number": 1,
+      "version": 1665180000000
+    },
+    {
+      "text": "\f\t\t\t\tmen som tværtimod har behag i JHVHs lov,\f\n\t\t\t\t\tog som grunder på hans lov dag og nat.",
+      "number": 2,
+      "version": 1665180000000,
+      "footnotes": [
+        {
+          "text": "lov",
+          "type": "N",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\f\t\tHan skal være som et træ\f\n\t\t\t\t\t\tder er plantet ved vandløb;\f\n\t\t\t\t\tdet bærer sin frugt til rette tid,\f\n\t\t\t\t\t\tog dets blade visner ikke;\f\n\t\t\t\talt\n\t\t\t\t\t\thvad han gør,\n\t\t\t\t\tskal han lykkes med.",
+      "title": "Derpå beskrives de ugudeliges undergang",
+      "number": 3,
+      "version": 1665180000000
+    },
+    {
+      "text": "\f\t\t\tSådan er de ugudelige ikke;\f\n\t\t\t\t\tde ligner derimod avner,\f\n\t\t\t\t\t\tsom vinden blæser bort.",
+      "number": 4,
+      "version": 1665180000000
+    },
+    {
+      "text": "\f\t\t\t\tDerfor vil de ugudelige ikke bestå i dommen;\f\n\t\t\t\t\tej heller syndere i de retfærdiges menighed.",
+      "title": "Mennesket må vælge mellem to veje",
+      "number": 5,
+      "version": 1665180000000
+    },
+    {
+      "text": "\f\tFor JHVH anerkender de retfærdiges vej;\f\n\t\tmen de ugudeliges vej skal forgå.",
+      "number": 6,
+      "version": 1665180000000
+    }
+  ]
+}

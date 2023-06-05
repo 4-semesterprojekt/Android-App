@@ -1,0 +1,81 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 64,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSom ild antænder kviste, som ild får vand til at koge, sådan må du lade dine fjender kende dit navn, så hedningerne ryster for dit ansigt.",
+      "title": "De troende jøder bliver ved at bede Gud om hans hjælp til at sejre over fjenderne ligesom før i tiden, 1-4; de bekender deres store synder og uværdighed over for Gud, idet de beder om, at Gud vil vende sig fra sin vrede, huske deres elendighed og Jerusalem og det ødelagte tempel, 5-11.",
+      "number": 1,
+      "version": 1479423600000
+    },
+    {
+      "text": "Når du har gjort forunderlige ting, skulle vi så ikke vente? Du fór ned, bjerge flød bort for dit ansigt.",
+      "number": 2,
+      "version": 1479423600000
+    },
+    {
+      "text": "Og fra gammel tid af har man ikke hørt, har man ikke erfaret, intet øje set, at der ikke var nogen gud uden dig, der gjorde den slags ting for den, der venter på ham.",
+      "number": 3,
+      "version": 1479423600000
+    },
+    {
+      "text": "Du møder den, der gør retfærdighed med glæde, de skal huske dig på dine veje; se, du var vred, og vi blev ved med at synde; var vi for evigt blevet på dem, da var vi frelst nu.",
+      "number": 4,
+      "version": 1479423600000,
+      "footnotes": [
+        {
+          "text": "dvs. på retfærdigheds veje",
+          "type": "T",
+          "position": 155
+        }
+      ]
+    },
+    {
+      "text": "\fMen vi blev alle sammen som de urene og al vores retfærdighed som beskidt tøj; og vi faldt alle sammen, faldt af som et blad, og vores misgerning blæste os væk som en storm.",
+      "number": 5,
+      "version": 1479423600000
+    },
+    {
+      "text": "Og der er ingen, der påkalder dit navn, ingen, der rejser sig for at holde fast ved dig; for du har gemt dig ansigt for os og smeltet os for vores misgerningers skyld.",
+      "number": 6,
+      "version": 1479423600000
+    },
+    {
+      "text": "Men nu, JHVH, du er vores far; vi er leret, og det er dig, der har dannet os, og vi er alle sammen et værk af din hånd.",
+      "number": 7,
+      "version": 1479423600000
+    },
+    {
+      "text": "JHVH, vær ikke så enormt vred, og husk ikke for evigt på misgerninger; se, se dog her, vi er alle sammen dit folk!",
+      "number": 8,
+      "version": 1479423600000
+    },
+    {
+      "text": "Din helligdoms byer er blevet til en ørken; Zion er blevet til en ørken, Jerusalem til en ødelæggelse.",
+      "number": 9,
+      "version": 1479423600000
+    },
+    {
+      "text": "Vores helligheds og vores herligheds hus, som vores fædre lovsang dig i, er brændt op med ild, og alt det, der var vores lyst, er ødelagt.",
+      "number": 10,
+      "version": 1479423600000
+    },
+    {
+      "text": "Vil du med alt det for øje holde dig tilbage, JHVH? Vil du tie stille og nedbøje os så dybt?",
+      "number": 11,
+      "version": 1479423600000
+    }
+  ]
+}

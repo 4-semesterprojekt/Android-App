@@ -1,0 +1,219 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 147,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHalleluja!\fJa, det er godt at synge vor Guds pris,\fja, det er lifligt, lovsang sømmer sig.",
+      "title": "Lovsyng JHVH som tager sig af sit folk",
+      "number": 1,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Indledningen til salmen kan også oversættes: »Pris JHVH for det er godt ...«.",
+          "type": "E",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH bygger Jerusalem op,\fhan samler Israels fordrevne.",
+      "number": 2,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Ordet: *nidḥê* (»fordrevne«) kan også oversættes: »dem der er skubbet til side« og derved være henvisning til landets svage og værdiløse.",
+          "type": "E",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fHan helbreder dem hvis hjerte er knust,\fog forbinder deres sår.",
+      "number": 3,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fHan fastsætter tal for stjernerne,\fhan nævner dem alle ved navn.",
+      "number": 4,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fStor er vor Herre og vældig i styrke,\fder er intet mål på hans indsigt.",
+      "number": 5,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fJHVH tager sig af de ydmyge,\fde ugudelige fornedrer han til jorden.",
+      "number": 6,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »elendige«.",
+          "type": "T",
+          "position": 29
+        }
+      ]
+    },
+    {
+      "text": "\fStem i med takkesang til JHVH,\fspil på citer for vor Gud,",
+      "number": 7,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »svar med«. Der er tale om to forskellige hebraiske ord med samme stavemåde.",
+          "type": "T",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "text": "\fsom dækker himlen med skyer,\fsom sørger for regn til jorden,\fsom lader græs spire frem på bjergene.",
+      "number": 8,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "På grundlag af nogle håndskrifter til Septuaginta supplerer man undertiden verset med en fjerde linje: »og planter til mennesket at arbejde med« (ordret: »til menneskets arbejde«). Det kan også oversættes: »til menneskets tjeneste«. Jf. Sl 104,14.",
+          "type": "E",
+          "position": 100
+        }
+      ]
+    },
+    {
+      "text": "\fHan giver kvæg dets føde,\fravneunger det de skriger efter.",
+      "number": 9,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fHan har ikke behag i hestens styrke,\fhan finder ikke velbehag i mandens lår.",
+      "number": 10,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fJHVH har velbehag i dem som frygter ham,\fdem som håber på hans nåde.",
+      "title": "Pris JHVH, hvis ord er levende og virksomt",
+      "number": 11,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 68
+        }
+      ]
+    },
+    {
+      "text": "\fJerusalem, pris JHVH,\flovpris din Gud, Zion!",
+      "number": 12,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fFor han har gjort dine portes slåer stærke,\fhan har velsignet dine sønner i din midte.",
+      "number": 13,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fHan sørger for fred i dit territorium,\fhan mætter dig med hvedes fedme.",
+      "number": 14,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »ved din grænse«.",
+          "type": "T",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "\fHan sender sit ord til jorden,\fhans ord løber meget hurtigt.",
+      "number": 15,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske: *ʔimrāʰ* har ofte bibetydning af løfte.",
+          "type": "T",
+          "position": 19
+        },
+        {
+          "text": "Her det hebraiske: *dāvār*, der i sammenhængen angiver skaberord.",
+          "type": "T",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "\fHan giver sne som ulden,\fhan strør rimfrost ud som asken.",
+      "number": 16,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fHan kaster sin hagl som brødstumper,\fhvem kan bestå for hans kulde?",
+      "number": 17,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »is«.",
+          "type": "T",
+          "position": 20
+        },
+        {
+          "text": "Ordret: »stykker, stumper«. Ordet: *pat* er en del steder i GT forbundet med: *leḥem* (»brød«). Det er formodentlig også underforstået her.",
+          "type": "E",
+          "position": 37
+        },
+        {
+          "text": "Ofte retter man: *mî yaʕᵃmōd* (»hvem kan bestå«) til: *mayim yaʕᵃmōdû*: »vand står stille«. Let omskrevet bliver oversættelsen: »for hans kulde bliver vandet til is«. Rettelsen har dog ingen støtte i håndskrifter eller gamle oversættelser.",
+          "type": "E",
+          "position": 68
+        }
+      ]
+    },
+    {
+      "text": "\fHan sender sit ord og smelter dem,\fnår han lader sin vind blæse, flyder vandene.",
+      "number": 18,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »Ånd«.",
+          "type": "T",
+          "position": 58
+        }
+      ]
+    },
+    {
+      "text": "\fHan kundgør Jakob sit ord,\fIsrael sine lovbud og sine bestemmelser.",
+      "number": 19,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Konsonantteksten angiver singularis, mens vokaliseringen angiver pluralis: »sine ord«.",
+          "type": "E",
+          "position": 27
+        }
+      ]
+    },
+    {
+      "text": "\fSådan har han ikke gjort ved noget andet folk,\fog bestemmelser, dem har de ikke kendt.\fHalleluja!",
+      "number": 20,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Mange oversættere følger Septuaginta og flere af de gamle oversættelser, der forudsætter at: *yᵊdāʕûm* (»dem har de (ikke) kendt«) vokaliseres: *yōdiʕēm*: »dem har han (ikke) kundgjort dem«. Desuden følger mange Septuaginta og retter: *mišpāṭîm* (»bestemmelser«) til: *mišpāṭāʸw*: »sine bestemmelser«. Linjen lyder så: »og han har ikke kundgjort dem sine bestemmelser«.",
+          "type": "E",
+          "position": 87
+        }
+      ]
+    }
+  ]
+}

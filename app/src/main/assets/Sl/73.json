@@ -1,0 +1,256 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 73,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSalme af Asaf.\fSandelig, god er Gud mod Israel,\fmod de rene af hjertet.",
+      "title": "Anfægtelsen: De ugudeliges lykke",
+      "number": 1,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMen jeg - mine fødder var nær snublet,\fmine skridt var lige ved at glide ud.",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens konsonanttekst har egentlig verbet som participium passiv (*nāṭāʸû*): »nær snublende angående mine fødder«, men vokaliseringen angiver qal yiqtol: *nāṭāʸû*: »var snublet«.",
+          "type": "E",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "\fFor jeg blev misundelig på de overmodige,\fjeg må se de ugudeliges fred.",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Formodentlig er der især tænkt på gudløse.",
+          "type": "T",
+          "position": 42
+        },
+        {
+          "text": "Ordet *šālôm* (»fred«) oversættes ofte ved »lykke«, men her angiver det en tilstand der omfatter både velstand, sundhed, venskab, fællesskab og indre harmoni, ubekymrethed.",
+          "type": "E",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "\fFor de har ingen kvaler ved deres død,\fog fed er deres krop.",
+      "number": 4,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordet *lᵊmôtām* (»for deres død«) vokaliseres ofte: *lāmô tām*: »for dem, sund«, hvor »sund« knyttes til næste linje, der kommer til at lyde: »sund og fed er deres krop«. *lᵊmôtām* kan eventuelt oversættes: »til deres død«.",
+          "type": "E",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "\fDe har ikke del i menneskets besværligheder,\fog de bliver ikke plaget som menneske.",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det ord der er brugt om »menneske« (*ʔᵉnôš*), bruges især til at understrege menneskets svaghed og dødelighed.",
+          "type": "E",
+          "position": 29
+        }
+      ]
+    },
+    {
+      "text": "\fDerfor er hovmod blevet deres halssmykke,\fvold indhyller dem som en klædning.",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDeres øjne stak ud af fedt,\fhjertets planer flød over.",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Sætningen er omdiskuteret. I stedet for *ʕênēmô* (»deres øjne«) har gamle oversættelser åbenbart læst: *ʕᵃwōnāmô*: »deres synd«. Ordet *ḥēlev* (»fedt«) er egentlig det fedtrige bindevæv omkring indvoldene. Det oversættes derfor også undertiden: »indre«, så oversættelsen kan lyde: »deres synd kom fra deres indre«.",
+          "type": "E",
+          "position": 28
+        }
+      ]
+    },
+    {
+      "text": "\fDe håner og taler i ondskab,\fundertrykkelse taler de fra det høje.",
+      "number": 8,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Accenten i grundteksten lader egentlig »undertrykkelse« høre til første linje. Af hensyn til rytmen lader man normalt ordet høre til anden linje.",
+          "type": "E",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\fDe har rettet deres mund mod himlen,\fog deres tunge færdes på jorden.",
+      "number": 9,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDerfor vender hans folk sig til dem,\fog vand i fulde drag bliver slubret ind af dem.",
+      "number": 10,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Grundteksten egentlig: »Derfor får han sit folk til at vende sig herhen«. Konsonantteksten forudsætter at verbet er: *yāšîv*: »får til at vende sig«, men vokaliseringen forudsætter: *yāšûv*: »vender sig«. Sidste ord: *hᵃlōm*: »herhen« kan eventuelt rettes til: *lāhem*: »til dem«.",
+          "type": "E",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "\fOg de siger: »Hvordan skulle Gud vide det?«\fOg: »Er der indsigt hos den Højeste?«",
+      "number": 11,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fSe, disse er de ugudelige,\fog for evigt trygge øger de deres rigdom.",
+      "title": "Salmistens nød og tvivl",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHelt forgæves har jeg holdt mit hjerte rent\fog vasket mine hænder i uskyld.",
+      "number": 13,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fOg dog blev jeg plaget hele dagen,\fog min tugt begyndte hver morgen.",
+      "title": "Men de ugudelige går en forfærdelig skæbne i møde",
+      "number": 14,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har ikke noget verbum i denne sætning. Enten må der underforstås: »var der« eller: ›begyndte« - eller også må man rette *wᵊtôxaḥtî* (»og min tugt«) til det tilsvarende verbum: *wᵊhûxaḥtî*: »og jeg blev tugtet«.",
+          "type": "E",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fHvis jeg havde sagt: »Jeg vil tale sådan«,\fse, så havde jeg handlet troløst mod dine børns slægt.",
+      "number": 15,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fNår jeg tænkte efter for at forstå dette,\fvar det en plage i mine øjne,",
+      "number": 16,
+      "version": 1500242400000
+    },
+    {
+      "text": "\findtil jeg gik ind i Guds helligdom\fog gav agt på deres endeligt.",
+      "number": 17,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har pluralis (»helligdomme«) der betegner templets storslåethed og mangfoldighed. Der er næppe tænkt på Guds hellige tanker.",
+          "type": "E",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "\fJa, du satte dem på glatte steder,\fdu lod dem styrte i ruiner.",
+      "number": 18,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHvordan er de på et øjeblik blevet til rædsel?\fDe forsvandt, de gik til grunde af skræk.",
+      "number": 19,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fSom en drøm, når man vågner,\fringeagter du, Herre, når du vågner, dem som et fantasibillede.",
+      "title": "Bekendelse af tvivl",
+      "number": 20,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret oversat lyder grundteksten: »Herre, i byen ringeagter du deres billede«. Sådan har Septuaginta i al fald opfattet teksten. *bāʕîr* (»i byen«) kan dog også opfattes som sammentrukket form af *bᵊhāʕîr* (infinitiv hif’il): »ved opvågnen«, dvs.: »når du vågner«.",
+          "type": "E",
+          "position": 93
+        }
+      ]
+    },
+    {
+      "text": "\fDa mit hjerte var bittert,\fog jeg følte mig stukket i mine nyrer,",
+      "number": 21,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Meningen: »det nagede i mit indre«.",
+          "type": "T",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "\fda var jeg et fæ og kunne ikke forstå noget,\fjeg var som et stykke kvæg for dig.",
+      "title": "Troens fællesskab med Gud",
+      "number": 22,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMen jeg er altid hos dig,\fdu holder fast ved min højre hånd.",
+      "number": 23,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDu leder mig med dit råd,\fog siden tager du mig ind i herlighed.",
+      "number": 24,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Grammatisk er linjen ikke helt gennemskuelig, da præpositionen *ʔaḥar* (»efter«, her oversat »siden«) i grundteksten står sammen med ordet for »herlighed«, men næppe kan være knyttet til det. Man er derfor nødt til at underforstå »ind i«.",
+          "type": "E",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "\fHvem har jeg i himlen?\fOg er jeg blot hos dig, har jeg ikke behag i jorden.",
+      "number": 25,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fOm også mit kød og mit hjerte forgår,\fså er Gud mit hjertes klippe og min del for evigt.",
+      "number": 26,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor se, de som holder sig fjernt fra dig, vil gå til grunde,\fdu tilintetgør hver den som er dig utro.",
+      "number": 27,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMen jeg – Guds nærhed er et gode for mig,\fjeg har taget min tilflugt til Herren, JHVH,\ffor at fortælle om alle dine gerninger.",
+      "number": 28,
+      "version": 1500242400000
+    }
+  ]
+}

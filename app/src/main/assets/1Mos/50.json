@@ -1,0 +1,71 @@
+{
+  "book": "Første Mosebog",
+  "abbreviation": "1Mos",
+  "chapter": 50,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDa Josefs brødre så at deres far var død, sagde de: »Hvis nu Josef hader os, så vil han helt sikkert gengælde os for alt det onde vi har gjort mod ham.«",
+      "number": 15,
+      "version": 1634680800000
+    },
+    {
+      "text": "De sendte nogen hen for at sige til Josef: »Før din far døde, gav han denne befaling:",
+      "number": 16,
+      "version": 1634680800000
+    },
+    {
+      "text": "›Dette skal I sige til Josef: Vi beder dig, tilgiv dog dine brødre deres overtrædelse og deres synd da de handlede ondt mod dig. Vi beder dig, tilgiv nu din fars Guds tjenere deres overtrædelse.‹« Josef græd over deres ord til ham.",
+      "number": 17,
+      "version": 1634680800000
+    },
+    {
+      "text": "Hans brødre kom også selv hen og faldt ned foran ham og sagde: »Se, vi er dine tjenere!«",
+      "number": 18,
+      "version": 1634680800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »trælle«, men grundteksten har samme ord som i vers 17.",
+          "type": "T",
+          "position": 87
+        }
+      ]
+    },
+    {
+      "text": "Men Josef sagde til dem: »Frygt ikke; for er jeg i Guds sted?",
+      "number": 19,
+      "version": 1634680800000
+    },
+    {
+      "text": "I planlagde ondt mod mig; Gud planlagde det til det gode for at udføre hvad der er sket denne dag: at holde mange mennesker i live.",
+      "number": 20,
+      "version": 1634680800000
+    },
+    {
+      "text": "Så frygt nu ikke, jeg vil sørge for jer og jeres børn.« Så trøstede han dem og talte kærligt med dem.",
+      "number": 21,
+      "version": 1634680800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »talte til deres hjerte«.",
+          "type": "T",
+          "position": 101
+        }
+      ]
+    }
+  ]
+}

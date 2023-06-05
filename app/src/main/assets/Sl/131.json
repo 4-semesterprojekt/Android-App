@@ -1,0 +1,53 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 131,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fValfartssang. Af David.\fJHVHv, mit hjerte var ikke hovmodigt,\fog mine øjne var ikke stolte,\fog jeg gik ikke ind i ting der var for store\feller for gådefulde for mig.",
+      "title": "Barnlig tillid",
+      "number": 1,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "\fTværtimod, jeg har tysset og beroliget min sjæl,\fsom et mæt barn hos sin mor,\fsom det mætte barn er min sjæl i mig.",
+      "title": "Vidnesbyrd",
+      "number": 2,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har blot: *gāmul* (her oversat: »mæt barn«). Når verbet: *gml* bruges om børn i GT, betegner det et »fravænnet« barn. Verbets grundbetydning er: »færdig, moden«. I sammenhængen her bruges det formodentlig om et barn der er »færdig med at die = mæt barn«.",
+          "type": "E",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "\fIsrael, vent på JHVH,\ffra nu og til evig tid!",
+      "number": 3,
+      "version": 1492725600000
+    }
+  ]
+}

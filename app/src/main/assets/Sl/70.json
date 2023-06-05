@@ -1,0 +1,77 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 70,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Al-shoshannim. Af David. Le-hazkir.",
+      "title": "Klagebøn",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        },
+        {
+          "text": "Formodentlig en melodioplysning. Ordets betydning er ukendt, men synes at have sammenhæng med ordet for »lilje« (evt. »efter liljerne«).",
+          "type": "E",
+          "position": 31
+        },
+        {
+          "text": "Betydningen er uvis; umiddelbart betyder det: »Til at bringe i erindring«. Meningen kan være at man med denne bøn kan minde Gud om sine lidelser og om hans nåde. I nogle oversættelser kan man finde oversættelsen »Til duftofferet«, idet salmen i eftereksilsk tid (efter 539 f.Kr.) blev bedt sammen med duftofferet (3 Mos 2,2.9.16; 24,7).",
+          "type": "E",
+          "position": 52
+        }
+      ]
+    },
+    {
+      "text": "\fGud, kom og red mig,\fJHVHv, skynd dig til hjælp for mig.",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Salmen svarer med ganske få afvigelser til Sl 40,14-18. En af afvigelserne er at 40,14 indledes med »Vær nådig«, som mange også sætter ind her, dog uden støtte i grundteksten.",
+          "type": "E",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "text": "\fLad dem blive til skam og spot,\fsom efterstræber min sjæl,\flad dem vige tilbage og blive til skamme,\fde som vil mig ondt.",
+      "number": 3,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fLad dem vige tilbage som løn for deres skændsel,\fde som siger til mig: »Ha, ha!«",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fLad dem frydes og glædes i dig,\falle som søger dig;\fog de skal altid sige: »Gud viser sin storhed!«\fde som elsker din frelse.",
+      "number": 5,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMen jeg er hjælpeløs og fattig,\fGud, skynd dig at komme til mig.\fMin hjælper og befrier er du;\fJHVHv, tøv ikke!",
+      "number": 6,
+      "version": 1500242400000
+    }
+  ]
+}

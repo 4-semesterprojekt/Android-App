@@ -1,0 +1,87 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 15,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fUdsagn om Moab:\fJa, en nat bliver Ar-Moab ødelagt, udslettet.\fJa, en nat bliver Kir-Moab ødelagt, udslettet.",
+      "title": "Mod Moab",
+      "number": 1,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fHan er gået op til Bayit og Dibon,\ftil højene for at græde;\fpå Nebo og på Medeba\fskal Moab jamre,\fhvert af dets hoveder er skaldet,\fhvert skæg barberet af.",
+      "number": 2,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Teksten (*ʕālāʰ habbayit wᵊdîvōn*) er omdiskuteret, men godt overleveret, og oversættelsen usikker. Man retter ofte til: *ʕāltāʰ bat wᵊdîvōn*: »Dibons datter er steget op«.",
+          "type": "E",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fPå dets gader binder de sæk om sig,\fpå dets tage\fog på dets torve jamrer enhver,\fsynker ned i gråd.",
+      "number": 3,
+      "version": 1674774000000,
+      "footnotes": [
+        {
+          "text": "Maskulinum: Det går på folket.",
+          "type": "E",
+          "position": 8
+        },
+        {
+          "text": "Femininum: Det går på landet.",
+          "type": "E",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\fHeshbon og El’ale skriger,\flyden fra dem høres til Jahas.\fDerfor jamrer de bevæbnede mænd i Moab,\fhver sjæl er modløs.",
+      "number": 4,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fMit hjerte skriger over Moab,\fdets flygtninge søger til Soar, til Eglat-Shelishija;\ffor stigningen til Luhit\f– med gråd bestiger man den,\ffor på vejen til Horonaim\fudstøder de et fortvivlelsens skrig.",
+      "number": 5,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fFor Nimrims vande\fbliver til ørken,\ffor græs tørrer ind, friske planter forsvinder,\fder er intet grønt.",
+      "number": 6,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fDerfor, et forråd man har skaffet sig,\fog det de har lagt til side\f– over Arabim-bækken\fbærer de det.",
+      "number": 7,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fJa! Skriget rækker ud\fover hele Moabs land,\fdets jammer til Eglajim\fog dets jammer til Be’er-Elim.",
+      "number": 8,
+      "version": 1674774000000
+    },
+    {
+      "text": "\fFor Dimons vande er fulde af blod,\fja, jeg vil lade endnu mere komme over Dimon\f– en løve over Moabs undslupne\fog over dem der er tilbage i landet.",
+      "number": 9,
+      "version": 1674774000000
+    }
+  ]
+}

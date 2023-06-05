@@ -1,0 +1,122 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 12,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Al-ha-sheminit. Salme af David.",
+      "title": "Bøn om hjælp",
+      "number": 1,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        },
+        {
+          "text": "Ordret: »på den ottende«. Meningen er ukendt. Det er foreslået at der er tale om ottestrenget instrument eller stemmeleje der er en oktav dybere (bas).",
+          "type": "E",
+          "position": 32
+        }
+      ]
+    },
+    {
+      "text": "\fFrels, JHVHv! for det er ude med den fromme,\ffor troskab er forsvundet fra mennesker.",
+      "number": 2,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Adams børn/menneskes børn«.",
+          "type": "T",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "\fDe taler løgn, hver og en,\fmed smigrende læber, med et tvedelt hjerte taler de.",
+      "number": 3,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Ordret »en mand med sin næste«.",
+          "type": "T",
+          "position": 27
+        },
+        {
+          "text": "Ordret: »med hjerte og hjerte«.",
+          "type": "T",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "\fGid JHVH ville udrydde alle smigrende læber,\fden tunge der taler store ord,",
+      "number": 4,
+      "version": 1475704800000
+    },
+    {
+      "text": "\fdem som siger: »Med vor tunge skal vi vinde styrke,\fvore læber er med os, hvem er herre over os?«",
+      "title": "Guds løfte om hjælp",
+      "number": 5,
+      "version": 1475704800000
+    },
+    {
+      "text": "\f»På grund af de hjælpeløses undertrykkelse\fog de fattiges jamren\fvil jeg nu rejse mig,« siger JHVH,\f»jeg vil sætte i frelse den, som længes derefter.«",
+      "title": "Lovprisning af Guds ord",
+      "number": 6,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er usikker. Andre oversætter: »den man blæser ad« dvs. den foragtede, eller: »den forfulgte«.",
+          "type": "E",
+          "position": 151
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHs ord er rene ord,\fsølv der er smeltet i diglen i jorden,\flutret syv gange.",
+      "number": 7,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Betydningen af udtrykket *baʕᵃlîl lāʔāreṣ* (»diglen i jorden«) er usikkert. Andre oversætter: »sølv der i værkstedet er smeltet ned til (mennesker på) jorden«.",
+          "type": "E",
+          "position": 62
+        }
+      ]
+    },
+    {
+      "text": "\fDu, JHVHv! du vil beskytte dem,\fdu vil bevare os imod denne slægt til evig tid,",
+      "number": 8,
+      "version": 1475704800000
+    },
+    {
+      "text": "\fmens ugudelige vandrer omkring,\fså længe usselhed ophøjes blandt mennesker.",
+      "number": 9,
+      "version": 1475704800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Adams børn/menneskes børn«.",
+          "type": "T",
+          "position": 76
+        }
+      ]
+    }
+  ]
+}

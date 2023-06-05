@@ -1,0 +1,119 @@
+{
+  "book": "Apostlenes Gerninger",
+  "abbreviation": "Apg",
+  "chapter": 10,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen Peter tog ordet og sagde: »Jeg forstår i sandhed at Gud ikke gør forskel på folk;",
+      "title": "Peter prædiker om Kristus for Cornelius",
+      "number": 34,
+      "version": 1620770400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »åbnede munden«.",
+          "type": "T",
+          "position": 20
+        }
+      ]
+    },
+    {
+      "text": "men i hvert folk er den som frygter ham og handler retfærdigt, velkommen hos ham.",
+      "number": 35,
+      "version": 1620770400000
+    },
+    {
+      "text": "Dette er det ord han sendte til Israels børn da han forkyndte fred ved Jesus Kristus: han er alles Herre.",
+      "number": 36,
+      "version": 1620770400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »forkyndte som godt budskab«.",
+          "type": "T",
+          "position": 61
+        }
+      ]
+    },
+    {
+      "text": "I kender det som er gået ud over hele Judæa idet det begyndte i Galilæa efter den dåb Johannes prædikede,",
+      "number": 37,
+      "version": 1620770400000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har her ordet *rhema*, der i de fleste sammenhænge skal oversættes: »ord/udsagn/det forkyndte«. I enkelte tilfælde bruges det dog svarende til hebraisk *dāvār*, der også kan betyde: »ting/sag/begivenhed«. Det gælder muligvis i denne sammenhæng.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "det om Jesus fra Nazaret: Hvordan Gud salvede ham med Helligånd og kraft, han som drog omkring og gjorde godt og helbredte alle som var overvældede af Djævelen; for Gud var med ham.",
+      "number": 38,
+      "version": 1620770400000
+    },
+    {
+      "text": "Vi er vidner om alt det som han har gjort både i jødernes land og i Jerusalem, han som de også slog ihjel, idet de hængte ham på et træ.",
+      "number": 39,
+      "version": 1620770400000
+    },
+    {
+      "text": "Ham oprejste Gud på den tredje dag og lod ham åbenbare sig,",
+      "number": 40,
+      "version": 1620770400000
+    },
+    {
+      "text": "ikke for hele folket, men for de vidner som var forud udvalgte af Gud, for os som spiste og drak med ham efter at han var opstået fra de døde.",
+      "number": 41,
+      "version": 1620770400000
+    },
+    {
+      "text": "\fOg han har påbudt os at prædike for folket og højtideligt vidne om at han er den af Gud bestemte dommer over levende og døde.",
+      "number": 42,
+      "version": 1620770400000
+    },
+    {
+      "text": "Om ham vidner profeterne at enhver som tror på ham, skal få syndernes forladelse ved hans navn.«",
+      "number": 43,
+      "version": 1620770400000
+    },
+    {
+      "text": "Endnu mens Peter talte disse ord, faldt Helligånden på alle dem som hørte ordet.",
+      "number": 44,
+      "version": 1620770400000
+    },
+    {
+      "text": "Og de omskårne troende som var kommet sammen med Peter, blev meget forbavsede over at Helligåndens gave var blevet udgydt også over hedningerne;",
+      "number": 45,
+      "version": 1620770400000
+    },
+    {
+      "text": "for de hørte dem tale i tunger og prise Gud. Da svarede Peter:",
+      "number": 46,
+      "version": 1620770400000
+    },
+    {
+      "text": "»Mon nogen kan nægte dem vandet så de ikke bliver døbt, de som dog har fået Helligånden lige så vel som vi?«",
+      "number": 47,
+      "version": 1620770400000
+    },
+    {
+      "text": "Og han befalede at de skulle døbes i Jesu Kristi navn. Da bad de ham om at blive der nogle dage.",
+      "number": 48,
+      "version": 1620770400000
+    }
+  ]
+}

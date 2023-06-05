@@ -1,0 +1,175 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 24,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil Moses sagde han: »Gå op til JHVH, du og Aron, Nadab og Abihu og halvfjerds af Israels ældste, og I skal kaste jer ned på afstand.",
+      "title": "Pagtslutningen på Sinaj",
+      "number": 1,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Der er tale om tilbedelse, hvor den tilbedende knæler ned og bøjer panden ned mod jorden.",
+          "type": "E",
+          "position": 122
+        }
+      ]
+    },
+    {
+      "text": "Men Moses skal alene nærme sig JHVH, men de må ikke nærme sig, og folket må ikke stige op sammen med ham.«",
+      "number": 2,
+      "version": 1596837600000
+    },
+    {
+      "text": "Moses kom og fortalte folket alle JHVHs ord og alle retsregler, og hele folket svarede med én røst: »Vi vil handle efter alle de ord som JHVH har talt.«",
+      "number": 3,
+      "version": 1596837600000
+    },
+    {
+      "text": "Moses skrev alle JHVHs ord ned, og han stod op tidligt om morgenen og byggede et alter neden for bjerget og rejste tolv stenstøtter svarende til Israels tolv stammer.",
+      "number": 4,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Dette ord er underforstået i forlængelse af »byggede«, idet grundteksten ikke har noget verbum her. En anden oversættelse kunne være: »byggede et alter neden for bjerget, nemlig af tolv stenstøtter for Israels tolv stammer«.",
+          "type": "T",
+          "position": 114
+        }
+      ]
+    },
+    {
+      "text": "Han sendte de unge mænd af Israels børn, og de ofrede brændofre, og de ofrede unge tyre som måltidsofre til JHVH.",
+      "number": 5,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Der er formodentlig tænkt på de førstefødte.",
+          "type": "E",
+          "position": 23
+        },
+        {
+          "text": "Det er ofre, hvor hele dyret ofres til Gud. En meningsfuld oversættelse af det hebraiske *ʕōlāʰ* kunne være: »heldyrsofre«. Se 3 Mos 1,3-17.",
+          "type": "E",
+          "position": 64
+        },
+        {
+          "text": "Det er ofre, hvor fedt, nyrer og lever brændes, mens resten spises af den ofrende og hans husstand. En meningsfuld oversættelse af *zevaḥ šelem* kunne være: »fællesskabsofre« som udtryk for fællesskab mellem Gud og de ofrende. Se 3 Mos 3,1-17.",
+          "type": "E",
+          "position": 103
+        }
+      ]
+    },
+    {
+      "text": "Så tog Moses halvdelen af blodet og kom det i skåle, og halvdelen af blodet stænkede han på alteret.",
+      "number": 6,
+      "version": 1596837600000
+    },
+    {
+      "text": "Så tog han pagtsbogen og læste den op for folket, og de sagde: »Alt hvad JHVH har talt vil vi gøre og adlyde.«",
+      "number": 7,
+      "version": 1596837600000
+    },
+    {
+      "text": "Så tog Moses blodet og stænkede det på folket, og han sagde: »Se, det er den pagts blod som JHVH har sluttet med jer på grundlag af alle disse ord.«",
+      "number": 8,
+      "version": 1596837600000
+    },
+    {
+      "text": "Moses og Aron, Nadab og Abihu og halvfjerds af Israels ældste gik op,",
+      "number": 9,
+      "version": 1596837600000
+    },
+    {
+      "text": "og de skuede Israels Gud; og under hans fødder var der som et arbejde af safirsten og som selve himlen i klarhed.",
+      "number": 10,
+      "version": 1596837600000
+    },
+    {
+      "text": "Men han lagde ikke sin hånd på de fornemme af Israels børn; de skuede Gud, og de spiste og drak.",
+      "number": 11,
+      "version": 1596837600000
+    },
+    {
+      "text": "JHVH sagde til Moses: »Stig op til mig på bjerget og bliv der, så vil jeg give dig stentavlerne og loven og befalingen, som jeg har skrevet for at instruere dem.«",
+      "number": 12,
+      "version": 1596837600000
+    },
+    {
+      "text": "Så rejste Moses sig sammen med sin tjener Josva; og Moses gik op på Guds bjerg.",
+      "number": 13,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og til de ældste sagde han: »Vent her på os indtil vi kommer tilbage til jer; og se, Aron og Hur er hos jer, den der har stridigheder må henvende sig til dem.«",
+      "number": 14,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »bliv her for os«.",
+          "type": "T",
+          "position": 43
+        },
+        {
+          "text": "*dᵊvār* har en bred betydning. I sammenhængen er der nok tænkt på tvister eller retssager, men ordet – der oftest skal oversættes: »ord« – kan også oversættes mere alment: »sag«.",
+          "type": "T",
+          "position": 133
+        }
+      ]
+    },
+    {
+      "text": "Så steg Moses op på bjerget, og skyen dækkede bjerget,",
+      "number": 15,
+      "version": 1596837600000
+    },
+    {
+      "text": "og JHVHs herlighed sænkede sig ned over Sinajs bjerg, og skyen dækkede det i seks dage, og på den syvende dag kaldte han på Moses inde fra skyen.",
+      "number": 16,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Verbet: *škn* skal i mange sammenhænge oversættes: »bo/tage bolig«, men her er der tale om en tidsbegrænset tilstedeværelse, ikke om at JHVHs herlighed bliver på bjerget og gør det til central helligdom.",
+          "type": "T",
+          "position": 34
+        },
+        {
+          "text": "Ordret: »fra skyens midte«.",
+          "type": "T",
+          "position": 145
+        }
+      ]
+    },
+    {
+      "text": "For Israels børns øjne fremtrådte JHVHs herlighed som en fortærende ild på bjergets top.",
+      "number": 17,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens sætning vender anderledes: »JHVHs herligheds udseende var som en fortærende ild på bjergets top for Israels børns øjne«",
+          "type": "T",
+          "position": 88
+        }
+      ]
+    },
+    {
+      "text": "Moses gik ind i skyen og steg op på bjerget; og Moses var på bjerget fyrre dage og fyrre nætter.",
+      "number": 18,
+      "version": 1596837600000
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "book": "Habakkuks Bog",
+  "abbreviation": "Hab",
+  "chapter": 3,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEn bøn af profeten Habakkuk. Al-shigjonot.\n\n",
+      "title": "Habakkuks sang",
+      "number": 1,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Betydningen af Al-shigjonot er ukendt.",
+          "type": "E",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv! Jeg har hørt budskaber om dig.\fJeg frygter, JHVHv, din gerning.\fKald den til live midt i årene;\fkundgør du den midt i årene;\fhusk at være barmhjertig i tumulten!",
+      "number": 2,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Eller »vrede«.",
+          "type": "E",
+          "position": 169
+        }
+      ]
+    },
+    {
+      "text": "\fGud kommer fra Teman;\fden hellige fra Parans bjerg.\fSela\fHans majestæt dækker himlen,\fog hans pragt fylder jorden.",
+      "number": 3,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\fEn glans bryder frem som lyset,\fhan har stråler ud fra sin hånd;\fdér er skjulestedet for hans magt.",
+      "number": 4,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Ordret »horn«.",
+          "type": "E",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\fForan ham går pesten,\fog efter ham udgår dræbende sygdom.",
+      "number": 5,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fHan stopper op og måler jorden;\fhan ser op og får folkene til at skælve\fog de evige bjerge til at briste,\fde ældgamle høje til at synke; hans evige stier.",
+      "number": 6,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "En del oversættelser har »får jorden til at ryste« eller lignende. Men *madad* oversættes normalt med »måle«.",
+          "type": "E",
+          "position": 32
+        },
+        {
+          "text": "Der er muligvis tænkt på himmellegemernes evige kredsløb.",
+          "type": "E",
+          "position": 155
+        }
+      ]
+    },
+    {
+      "text": "\fJeg ser Kushans telte i trængsler;\fteltdugene i Midjans land ryster.",
+      "number": 7,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fEr din vrede blusset op mod floderne, JHVHv?\fEr du vred på floderne og rasende på havet,\fsiden du farer frem på dine heste, på dine sejrrige vogne?",
+      "number": 8,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fDin bue tages frem;\fdu mætter koggeret med pile.\fSela\fDu kløver jorden med floder.",
+      "number": 9,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Ordret »din bue blotlægges«.",
+          "type": "E",
+          "position": 20
+        },
+        {
+          "text": "Den midterste del af verset er meget vanskelig, og der er forslået en lang række forskellige oversættelser.",
+          "type": "E",
+          "position": 49
+        }
+      ]
+    },
+    {
+      "text": "\fBjerge så dig, de skælvede;\fvandstrømme styrtede ned.\fUrdybet hævede sin røst;\fdet opløftede sine hænder mod det høje.",
+      "number": 10,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fSol og måne stod stille i deres bolig for lyset af dine pile som farer frem,\ffor glansen af lynene fra dit spyd.",
+      "number": 11,
+      "version": 1511218800000
+    },
+    {
+      "text": "I harme skrider du frem på jorden,\fi vrede træder du folkeslagene ned.",
+      "number": 12,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fDu drog ud til dit folks frelse,\ftil din salvedes frelse.\fDu knuste hovedet af den ugudeliges hus,\fidet du blottede det fra grundvolden op til halsen.\fSela",
+      "number": 13,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fMed hans spyd gennemborede du hovederne på hans krigere\fsom stormede frem for at jage mig på flugt,\fjublende som skulle de til at æde staklen i det skjulte.",
+      "number": 14,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Ordret »stav«.",
+          "type": "E",
+          "position": 14
+        },
+        {
+          "text": "Ordret: »sprede mig«.",
+          "type": "E",
+          "position": 100
+        }
+      ]
+    },
+    {
+      "text": "\fDu drager igennem havet på dine heste,\figennem bruset af de mange vande.",
+      "title": "Håb",
+      "number": 15,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fJeg har hørt det, og mit indre bævede.\fVed røsten dirrede mine læber,\fmine ben vaklede,\fog jeg ryster hvor jeg står.\fJeg vil vente roligt på at nødens dag rammer det folk som angriber os.",
+      "number": 16,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Ordret »der kom svaghed i mine knogler«.",
+          "type": "E",
+          "position": 88
+        }
+      ]
+    },
+    {
+      "text": "\fFor figentræet blomstrer ikke,\fog der er ingen afgrøde på vinstokkene;\foliventræets frugt slår fejl,\fog markerne giver intet at spise.\fFårene er revet bort fra folden,\fog der er ingen okser i staldene.",
+      "number": 17,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fMen jeg vil juble over JHVH,\fjeg vil fryde mig over min frelses Gud.",
+      "number": 18,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fDen herre JHVH er min styrke,\fog han giver mig fødder som hjortenes\fog lader mig skride frem over mine høje.\n\n\fTil korlederen. Til strengespil.",
+      "number": 19,
+      "version": 1511218800000
+    }
+  ]
+}

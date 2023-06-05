@@ -1,0 +1,246 @@
+{
+  "book": "Esajas",
+  "abbreviation": "Es",
+  "chapter": 22,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fUdsagn om Synernes Dal.\fHvad er der dog med dig, siden du med alle dine er gået op på tagene?",
+      "title": "Ord mod Jerusalem",
+      "number": 1,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Dvs. Jerusalem, hvor profeterne havde mange syner.",
+          "type": "T",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "\fSå fuld af råb,\fdu støjende by,\fdu jublende stad!\fDine dræbte er ikke dræbt med sværd\fog ikke døde i krig.",
+      "number": 2,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fAlle dine ledere er flygtet sammen,\fuden bue er de fanget;\falle der befandt sig hos dig,\fer fanget sammen,\fde var flygtet langt bort.",
+      "number": 3,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fDerfor sagde jeg: »Vend blikket fra mig,\fjeg må græde bittert;\ftræng ikke ind på mig for at trøste mig\fover ødelæggelsen af mit folks datter.«",
+      "number": 4,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »jeg må være bitter i min gråd«.",
+          "type": "T",
+          "position": 63
+        }
+      ]
+    },
+    {
+      "text": "\fFor en dag med bestyrtelse og nedtrampning og forvirring\fer det for Herren, Hærskarers HERRE i Synernes Dal,\fman bryder mur ned, og der er skrig rettet hen mod bjerget.",
+      "number": 5,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 93
+        },
+        {
+          "text": "Oversættelsen af *mᵊqarqar* (»bryder ned«) er usikker og omdiskuteret. Andre oversætter: »laver spektakel«, atter andre: »udgraver en brønd«.",
+          "type": "E",
+          "position": 120
+        },
+        {
+          "text": "Oversættelsen af det hebraiske *qir* er usikker og omdiskuteret. Andre oversætter: »larm«.",
+          "type": "T",
+          "position": 124
+        }
+      ]
+    },
+    {
+      "text": "\fOg Elam tog kogger op,\fmed bemandet vogn, ryttere,\fog Kir tog dækket af sit skjold.",
+      "number": 6,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er usikker og omdiskuteret. Man vælger ofte at rette *ʔādām* til: *ʔᵃrām* : »Aram«. Oversættelsen af denne linje bliver da: »Aram med vogn, ryttere«.",
+          "type": "E",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "\fOg det skete at dine udvalgte dale blev fulde af vogne,\fog rytterne tog opstilling mod porten.",
+      "number": 7,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fHan afdækkede Judas værn,\fog på den dag så du hen\ftil Skovhusets våben.",
+      "number": 8,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fOg revnerne i Davidsbyens mur så I, de var mange,\fog I samlede den nederste dams vand.",
+      "number": 9,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fI talte Jerusalems huse\fog nedbrød husene for at befæste muren.",
+      "number": 10,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fI anlagde et reservoir mellem de to mure\ftil vandet fra den gamle dam,\fmen I så ikke op til ham der havde gjort det;\fham der havde planlagt det for lang tid siden, så I ikke efter.\n\n",
+      "number": 11,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fHerren, Hærskarers HERRE, kaldte den dag\ftil gråd og til klage\fog til at klippe sig skaldet og til at binde sæk om sig.",
+      "number": 12,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 26
+        }
+      ]
+    },
+    {
+      "text": "\fMen se, der er fryd og glæde,\fman dræber okse og slagter får,\fman spiser kød og drikker vin:\f»Lad os spise og drikke, for i morgen skal vi dø!«",
+      "number": 13,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret blot: »at spise og at drikke«. Men i sammenhængen opfattes det oftest som opfordring.",
+          "type": "T",
+          "position": 118
+        }
+      ]
+    },
+    {
+      "text": "\fMen Hærskarers HERRE åbenbarede sig for mine ører:\f»Denne synd kan ikke sones for jer, før I dør!«\fsiger Herren Hærskarers HERRE.",
+      "title": "Ord mod forvalteren Shebna",
+      "number": 14,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 21
+        },
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 130
+        }
+      ]
+    },
+    {
+      "text": "\fSå sagde Herren, Hærskarers HERRE:\f»Gå hen til denne forvalter, til Shebna, der er sat over huset, og sig til ham:",
+      "number": 15,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 35
+        },
+        {
+          "text": "Ordene »og sig til ham« står ikke i den hebraiske tekst, men er underforstået.",
+          "type": "E",
+          "position": 115
+        }
+      ]
+    },
+    {
+      "text": "\fHvad har du her, og hvem har du her,\fsiden du har hugget en grav ud til dig her?\fSom en der får hugget sin grav ud højt oppe,\fsom en der får en bolig udhulet til sig i klippen!",
+      "number": 16,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fSe, JHVH vil slynge dig væk,\fet langt kast, du mand,\fog tager et fast greb i dig!",
+      "number": 17,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fHan skal fuldstændig krølle dig sammen til en sammenfiltret bylt,\fen bold hen til et vidtstrakt land;\fdér skal du dø,\fog dér skal din æres vogne\fvære en skændsel for din herres hus!",
+      "number": 18,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fOg jeg støder dig ned fra din stilling,\fog han vil styrte dig ned fra dit embede,",
+      "number": 19,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Sandsynligvis kong Hizkija",
+          "type": "T",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\fOg det skal ske på den dag, da vil jeg kalde på min tjener, på Eljakim, Hilkijas søn.",
+      "number": 20,
+      "version": 1681336800000
+    },
+    {
+      "text": "Og jeg vil klæde ham i din kjortel og binde dit bælte om ham og give din myndighed i hans hånd; og han skal være en far for Jerusalems indbyggere og for Judas hus.",
+      "number": 21,
+      "version": 1681336800000
+    },
+    {
+      "text": "Og jeg vil lægge nøglen til Davids hus på hans skulder,\fog hvad han lukker op, kan ingen lukke i,\fog hvad han lukker i, kan ingen lukke op.",
+      "number": 22,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fOg jeg vil slå ham i som en nagle på et fast sted,\fså han bliver en ærestrone for sin fars hus.",
+      "number": 23,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fOg de skal hænge på ham al hans fars hus’ herlighed, de høje og de lave efterkommere, alle de små kar, både skålene og alle krukkerne.«",
+      "number": 24,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen her usikker. Andre oversætter: »de ædle og de vilde skud« eller: »kvistene og bladene«.",
+          "type": "T",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "\f»På den dag,« lyder Hærskarers HERRES udsagn, »skal den nagle  der sad på et fast sted, vige, og den skal brækkes af og falde ned, og det der hang på den, skal udslettes, for JHVH har talt.«",
+      "number": 25,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 38
+        }
+      ]
+    }
+  ]
+}

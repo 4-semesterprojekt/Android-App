@@ -1,0 +1,88 @@
+{
+  "book": "Første Mosebog",
+  "abbreviation": "1Mos",
+  "chapter": 11,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen, Jens Bruun Kofoed, Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHele jorden havde fælles sprog og ord.",
+      "number": 1,
+      "version": 1620770400000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har pluralis. Det hebraiske ord *dāvār* angiver ofte noget i retning af formuleringer eller sprogbrug. Det kan også betegne udtalen.",
+          "type": "E",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "Da de rejste mod øst, fandt de en slette i landet Sinear og slog sig ned der.",
+      "number": 2,
+      "version": 1620770400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »fra«.",
+          "type": "T",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "Så sagde de til hinanden: »Kom nu, lad os stryge teglsten og brænde dem hårdt.« De brugte tegl som mursten og tjære som mørtel.",
+      "number": 3,
+      "version": 1620770400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hver især til sin fælle«.",
+          "type": "T",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "De sagde: »Kom nu, lad os bygge en by og et tårn, og dets top skal være i himlen, og lad os skabe os et navn for at vi ikke bliver spredt ud over hele jordens overflade.«",
+      "number": 4,
+      "version": 1620770400000
+    },
+    {
+      "text": "Da steg JHVH ned for at se byen og tårnet som menneskebørnene byggede.",
+      "number": 5,
+      "version": 1620770400000
+    },
+    {
+      "text": "JHVH sagde: »Se, de er ét folk, og alle har ét sprog, og er dette hvad de begynder med at gøre, så vil intet være umuligt for dem af det de planlægger at ville gøre.",
+      "number": 6,
+      "version": 1620770400000
+    },
+    {
+      "text": "Kom, lad os nu stige ned og forvirre deres sprog sådan at den ene ikke forstår den andens sprog.«",
+      "number": 7,
+      "version": 1620770400000
+    },
+    {
+      "text": "Og JHVH spredte dem derfra ud over hele jordens overflade; og de holdt op med at bygge byen.",
+      "number": 8,
+      "version": 1620770400000
+    },
+    {
+      "text": "Derfor gav man den navnet Babel; for dér forvirrede JHVH hele jordens sprog, og derfra spredte JHVH dem ud over hele jordens overflade.",
+      "number": 9,
+      "version": 1620770400000
+    }
+  ]
+}

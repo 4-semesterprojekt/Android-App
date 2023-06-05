@@ -1,0 +1,78 @@
+{
+  "book": "Dommerbogen",
+  "abbreviation": "Dom",
+  "chapter": 14,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen, Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSamson gik ned til Timna. Dér så han en kvinde, en af filistrenes døtre. v2 Han gik op ogfortalte det til sine forældre: »Jeg har set en af filistrenes døtre i Timna. Sørg for at jeg kanfå hende til kone.«",
+      "title": "Samson vil have en af filistrenes døtre til kone og dræber en løve",
+      "number": 1,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fHans far og mor sagde til ham: »Er der ingen kvinder blandt dine brødres døtre og i vores folk,siden du går hen for at tage dig en kone fra de uomskårne filistre?«\fSamson sagde til sin far: »Lad mig få hende, for hun er den rette i mine øjne.« v4 Men hans far ogmor vidste ikke at det var fra JHVH, at han søgte en anledning til strid med filistrene.\fPå den tid herskede filistrene over Israel.",
+      "number": 3,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fSå gik Samson og hans far og mor ned til Timna. Da de kom til Timnas vingårde, se, da kom en ungløve brølende hen mod ham. v6 JHVHs Ånd kom over ham med stor kraft, og han flåede den i stykker somman flår et kid, og han gjorde det med de bare næver. Han fortalte ikke sin far og mor hvad hanhavde gjort. v7 Han kom ned og talte med kvinden. I Samsons øjne var hun den rette.\fsom de ikke forstår==",
+      "title": "Samson besøger sin brud, finder honning i den døde løve, holder bryllup, giver filistrene en gå",
+      "number": 5,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fNogen tid efter kom han tilbage for at hente hende, og han drejede væk fra vejen for at se tilden døde løve. En bisværm havde slået sig ned i løvens ådsel og lavet honning der. v9 Han skrabedenoget af den ud i hænderne, og mens han gik videre, spiste han den. Han gik så til sine forældre oggav dem noget, og de spiste det. Men han fortalte dem ikke at han havde taget honningen fra løvensådsel.",
+      "number": 8,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fDa hans far kom ned til kvinden, forberedte Samson en fest der, for det plejede de unge mænd atgøre. v11 Da de så ham, kom de med 30 ledsagere, som skulle være hos ham. v12 Da sagde Samson tildem: »Venner, jeg vil gerne stille jer en gåde. Hvis I i løbet af festens syv dage kan give migsvaret på den, vil jeg give jer 30 linnedskjorter og 30 sæt festtøj. v13 Men kan I ikke give migsvaret, skal I give mig 30 skjorter og 30 sæt skiftetøj.«\fDe sagde til ham: »Kom med din gåde og lad os høre den!«",
+      "number": 10,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fHan sagde: »Fra rovdyret kom der mad, og fra den stærke kom der sødme.«\fI tre dage kunne de ikke finde svaret på gåden.\ftil dem som har givet ham svaret på gåden; Samsons kone bliver givet til en anden mand==",
+      "title": "Filistrene får svaret på gåden gennem Samsons kone; Samson dræber 30 filistre og tager deres t",
+      "number": 14,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fPå den syvende dagsagde de til Samsons kone: »Få din mand til at forklare os gåden, ellers brænder vi dig og din farshus. Har I da indbudt os for at gøre os fattige?«",
+      "number": 15,
+      "version": 1457564400000,
+      "footnotes": [
+        {
+          "text": "Det er almindeligt at rette *haššᵊvîʕî* »syvende« til »fjerde« som i dengræske og syriske oversættelse, men det kan meget vel være til allersidst, at det hele sker.",
+          "type": "E",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "text": "\fDa græd Samsons kone og sagde til ham: »Du hader mig og elsker mig ikke. Du har stillet mitfolk en gåde og ikke fortalt mig løsningen.«\fHan sagde til hende: »Jeg har ikke engang fortalt den til mine forældre, og så skulle jeg fortælledig den?«",
+      "number": 16,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fI de syv dage festen varede, havde hun grædt over ham, og på den syvende dag fortalte han hendesvaret, fordi hun plagede ham. Hun forklarede så gåden for sit folk.",
+      "number": 17,
+      "version": 1457564400000
+    },
+    {
+      "text": "\fPå den syvende dag inden solen gik ned, sagde byens mænd til ham: »Hvad er sødere end honning?Hvad er stærkere end en løve?«\fDa sagde han til dem: »Hvis I ikke havde pløjet med min kvie, havde I ikke fundet svaret på mingåde.« v19 Og JHVHs Ånd kom over ham med stor kraft, og han gik ned til Ashkalon og slog 30 mændihjel, tog tøjet af dem og gav festtøjet til dem der havde givet ham svaret på gåden. I raseri gikhan op til sin fars hus. v20 Men Samsons kone blev givet til en af ledsagerne, som havde været hansforlover.",
+      "number": 18,
+      "version": 1457564400000
+    }
+  ]
+}

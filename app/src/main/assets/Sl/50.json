@@ -1,0 +1,204 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 50,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSalme af Asaf.\fGud, Gud JHVH har talt\fog kaldet ad jorden,\ffra solens opgang til dens nedgang.",
+      "title": "Gud kalder til gudstjeneste og dom",
+      "number": 1,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "I grundteksten er der brugt to forskellige ord om »Gud«, *ʔē* og *ʔᵉlōhîm*, formodentlig for at understrege Guds storhed.",
+          "type": "T",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "\fFra Zion, skønhedens fuldkommenhed,\ftrådte Gud frem i stråleglans.",
+      "number": 2,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Ofte oversat: »krone«.",
+          "type": "T",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "\fVor Gud skal komme og ikke tie,\fild skal fortære for hans ansigt,\fog omkring ham stormer det vældigt.",
+      "number": 3,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Dvs.: »foran ham«.",
+          "type": "T",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "\fHan kalder ad himlen ovenfra\fog ad jorden til at dømme hans folk.",
+      "number": 4,
+      "version": 1457218800000
+    },
+    {
+      "text": "\f»Saml til mig mine hellige,\fdem der slutter pagt med mig ved slagtoffer.«",
+      "number": 5,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fOg himlene skal forkynde hans retfærdighed,\ffor Gud, han er dommer. Sela",
+      "title": "Sand og falsk gudstjeneste",
+      "number": 6,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 73
+        }
+      ]
+    },
+    {
+      "text": "\fHør, mit folk, og jeg vil tale,\fIsrael, og jeg vil vidne imod dig.\fGud, din Gud er jeg!",
+      "number": 7,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »jeg vil advare dig«.",
+          "type": "T",
+          "position": 67
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil ikke gå i rette med dig for dine slagtofre\fog for dine brændofre som altid er foran mig.",
+      "number": 8,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fJeg vil ikke tage en ungtyr fra dit hus,\feller bukke fra dine folde.",
+      "number": 9,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Ordet »eller« står ikke i grundteksten, men må være underforstået.",
+          "type": "T",
+          "position": 47
+        }
+      ]
+    },
+    {
+      "text": "\fFor alt skovens vildt tilhører mig,\fdyrene på tusind bjerge.",
+      "number": 10,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Udtrykket er specielt. »tusind« kan gå på dyr eller bjerge. Det kan evt. oversættes: »kvæg-bjerge«. Ofte foreslår oversættere at rette *ʔālef* (»tusind«) til *ʔel*: »Gud«, altså: »Guds bjerge«.",
+          "type": "T",
+          "position": 61
+        }
+      ]
+    },
+    {
+      "text": "\fJeg kender hver fugl i bjergene,\fog hvad der rører sig på marken, er hos mig.",
+      "number": 11,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fHvis jeg bliver sulten, siger jeg det ikke til dig,\ffor mig tilhører verden og dens fylde.",
+      "number": 12,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fSpiser jeg mon tyres kød\feller drikker bukkes blod?",
+      "number": 13,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fBring Gud takoffer\fog indfri dine løfter til den Højeste!",
+      "number": 14,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fOg kald på mig på nødens dag,\fjeg vil udfri dig, og du skal ære mig.",
+      "title": "Sand og falsk moral",
+      "number": 15,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fMen til den ugudelige har Gud sagt:\fHvor vover du at opregne mine bud\fog tage min pagt i din mund,",
+      "number": 16,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fnår du dog har hadet tugt\fog har kastet mine ord bag dig?",
+      "number": 17,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fNår du så en tyv, sluttede du venskab med ham,\fog fællesskab med ægteskabsbrydere.",
+      "number": 18,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDu gav din mund frit løb med ondskab,\fog med din tunge flettede du bedrag.",
+      "number": 19,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDu sidder og taler imod din bror,\fdu bagvasker en søn af din mor.",
+      "number": 20,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fSådanne ting har du gjort, men jeg har tiet,\fdu bildte dig ind, at jeg var som du.\fJeg vil drage dig til regnskab og fremlægge det for dine øjne.",
+      "title": "Afslutning",
+      "number": 21,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes som spørgsmål: »skulle jeg så tie?«",
+          "type": "T",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fForstå dog dette, I som glemmer Gud,\fså jeg ikke skal sønderrive uden at nogen kan redde.",
+      "number": 22,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDen som bringer takoffer, han ærer mig,\fog den som lægger sin vej fast, ham vil jeg lade se Guds frelse.",
+      "number": 23,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "*wᵊśām derex* ordret: »og han lægger en vej«. Ordene er vanskelige i sammenhængen og slettes af mange oversættere. Meningen kan være som foreslået her. En anden mulighed er at rette til: *wᵊtam derex*: »og den der har en retskaffen vej, (ham vil jeg lade se Guds frelse)«. Endelig kan der (med Septuaginta) rettes til: *wᵊšām derex*: »og dér er en vej, (på hvilken jeg vil lade ham se Guds frelse)«. Én af de to første muligheder bør foretrækkes, da slutverset derved henviser til begge salmens hoveddele (v. 7-15: ofre, v. 16-21: moral).",
+          "type": "E",
+          "position": 72
+        }
+      ]
+    }
+  ]
+}

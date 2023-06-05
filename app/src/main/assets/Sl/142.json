@@ -1,0 +1,99 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 142,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMaskil af David.\fDa han var i hulen. En bøn.",
+      "title": "Anråbelse",
+      "number": 1,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 32; 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«",
+          "type": "E",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "text": "\fMed min røst vil jeg råbe til JHVH,\fmed min røst vil jeg bede til JHVH om nåde.",
+      "number": 2,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fJeg vil udøse min klage for hans ansigt,\fjeg vil give min nød til kende for hans ansigt.",
+      "title": "Klagen",
+      "number": 3,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fNår min ånd i mig falder i afmagt,\fkender du dog min sti.\fPå vejen hvor jeg skal gå,\fhar de skjult en fælde for mig.",
+      "number": 4,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "De to linjer kan også oversættes: »Da min ånd i mig faldt i afmagt, kendte du dog min sti«.",
+          "type": "E",
+          "position": 58
+        }
+      ]
+    },
+    {
+      "text": "\fJeg spejder til højre og ser,\fmen der er ingen som kendes ved mig.\fDer er intet tilflugtssted for mig,\fingen bekymrer sig om mig.",
+      "title": "Bøn om hjælp",
+      "number": 5,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »spejd til højre og se!«. Masoreterne har vokaliseret verberne som imperativ, hvorimod de gamle oversættelser har opfattet dem som infintivus absolutus. For verbet: *habbêṭ* (»spejd«) er de to former ens, men for: *rᵊʔēh* (»se«) skal infinitivus absolutus vokaliseres: *rāʔōh*. Den masoretiske vokalisering må forstås som opfordring til Gud om at give agt, men hvis man læste teksten uvokaliseret, ville man utvivlsomt læse den som de gamle oversættelser. Hvis verberne var ment som imperativ, måtte man vente en direkte tiltale: »JHVHv!« eller lignende.",
+          "type": "E",
+          "position": 30
+        },
+        {
+          "text": "Ordret: »Tilflugtssted er forsvundet/fortabt for mig«.",
+          "type": "T",
+          "position": 103
+        },
+        {
+          "text": "Ordret: »om min sjæl«",
+          "type": "T",
+          "position": 130
+        }
+      ]
+    },
+    {
+      "text": "\fJeg råber til dig, JHVHv,\fjeg siger: Du er min tilflugt,\fmin del i de levendes land.",
+      "number": 6,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Dette verbum og verbet i næste linje står i qatal, der oftest angiver fortid, men her må opfattes som deklarative.",
+          "type": "E",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "text": "\fGiv agt på mit klageråb,\ffor jeg er blevet meget svag,\fred mig fra mine forfølgere,\ffor de er for stærke for mig.",
+      "number": 7,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fFør min sjæl af ud fængsel\fså jeg kan takke dit navn.\fDe retfærdige vil samle sig om mig,\fnår du handler vel imod mig.",
+      "number": 8,
+      "version": 1493330400000
+    }
+  ]
+}

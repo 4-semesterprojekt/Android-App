@@ -1,0 +1,152 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 91,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSom en der bor i den Højestes skjul,\fsom vil opholde sig i den Almægtiges skygge,",
+      "title": "Trygheden hos Gud",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »sidder«.",
+          "type": "T",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "text": "\fsiger jeg til JHVH:\f»Min tilflugt og min borg,\fmin Gud, som jeg stoler på.«",
+      "title": "Vidnesbyrd om Guds beskærmelse",
+      "number": 2,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor han vil befri dig\ffra fuglefængerens snare,\ffra fordærvende pest.",
+      "number": 3,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHan skal beskytte dig med sine svingfjer,\fog du kan søge ly under hans vinger;\fhans trofasthed er langskjold og værn.",
+      "number": 4,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »sandhed«.",
+          "type": "T",
+          "position": 95
+        },
+        {
+          "text": "Ordet *sōḥērāʰ* forekommer kun her i GT. Der er stor usikkerhed om den præcise betydning. Det er dog rimeligt at antage: »værn« eller »bolværk«.",
+          "type": "E",
+          "position": 118
+        }
+      ]
+    },
+    {
+      "text": "\fDu skal ikke frygte for nattens rædsel,\ffor en pil som flyver om dagen,",
+      "number": 5,
+      "version": 1500242400000
+    },
+    {
+      "text": "\ffor pest som breder sig i mørket,\ffor epidemi som hærger om middagen.",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fOm så tusind falder ved din side\fog titusind ved din højre hånd -\ftil dig skal det ikke nå.",
+      "number": 7,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDu skal kun se det med dine øjne,\fog du skal se de gudløses straf.",
+      "number": 8,
+      "version": 1500242400000
+    },
+    {
+      "text": "\f»Ja, du, JHVHv, er min tilflugt!«\fDen Højeste har du gjort til din bolig,",
+      "number": 9,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Sætningen bryder abrupt ind i sammenhængen, men der er ingen vaklen i tekstoverleveringen. Meningen er formodentlig at salmisten – eller menigheden – bekræfter sit vidnesbyrd ved at gentage den centrale bekendelse til Gud som »tilflugt« i alle livets situationer (v.2).",
+          "type": "E",
+          "position": 34
+        }
+      ]
+    },
+    {
+      "text": "\fder skal ikke tilstøde dig ondt,\fog plage skal ikke komme nær til dit telt.",
+      "number": 10,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor han vil give sine engle befaling om dig\fat de skal beskytte dig på alle dine veje.",
+      "number": 11,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDe skal bære dig på hænder\fså du ikke støder din fod på nogen sten.",
+      "number": 12,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »på stenen«.",
+          "type": "T",
+          "position": 68
+        }
+      ]
+    },
+    {
+      "text": "\fPå løve og giftslange skal du træde,\fdu skal nedtræde ungløve og drage.",
+      "title": "Guds nådige tilsagn",
+      "number": 13,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det er omdiskuteret, hvad der præcist er tænkt på her med ordet *tannîn*. I flere sammenhænge er det betegnelse for et søuhyre, men her er der måske – som i 2 Mos 7,9-12 – tænkt på en slange.",
+          "type": "E",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "\f»Fordi han har holdt sig til mig, vil jeg udfri ham,\fjeg vil beskytte ham, for han kender mit navn.",
+      "number": 14,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »har hængt på mig«.",
+          "type": "T",
+          "position": 29
+        }
+      ]
+    },
+    {
+      "text": "\fRåber han til mig, vil jeg svare ham,\fjeg er hos ham i nød,\fjeg vil redde ham og give ham ære.",
+      "number": 15,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fJeg vil mætte ham med et langt liv\fog lade ham nyde synet af min frelse.«",
+      "number": 16,
+      "version": 1500242400000
+    }
+  ]
+}

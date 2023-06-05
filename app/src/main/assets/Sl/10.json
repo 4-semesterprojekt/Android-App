@@ -1,0 +1,212 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 10,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard, Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHvorfor, JHVHv, står du så langt borte?\fHvorfor skjuler du dig i trængselstider?",
+      "title": "Klage over de ugudeliges ondskab og magt",
+      "number": 1,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "»Hvorfor« er underforstået fra første halvvers.",
+          "type": "T",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\fPå grund af den ugudeliges hovmod vil han forfølge den hjælpeløse,\fde vil blive fanget i de rænker disse har udtænkt.",
+      "number": 2,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Mange ændrer vokaliseringen af *bᵊgaˀᵃwat’* »på grund af hovmod« til *bᵊgaʔût* »i hovmod«: »I hovmod jager den ugudelige den hjælpeløse«.",
+          "type": "E",
+          "position": 66
+        },
+        {
+          "text": "hjælpeløse.",
+          "type": "T",
+          "position": 70
+        },
+        {
+          "text": "ugudelige.",
+          "type": "T",
+          "position": 105
+        },
+        {
+          "text": "En anden mulig oversættelse er: »Måtte de (de gudløse) blive fanget i de rænker de har udtænkt«.",
+          "type": "E",
+          "position": 117
+        }
+      ]
+    },
+    {
+      "text": "\fFor den ugudelige jublede over sin sjæls ønske,\fog bedrageren forbandede og foragtede JHVH.",
+      "number": 3,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Her i betydningen: »begær«",
+          "type": "T",
+          "position": 47
+        },
+        {
+          "text": "Sætningen er omdiskuteret. Andre oversætter: »og bedrageren velsignede/roste han, men foragtede JHVH«. Verbet *brk* betyder i de allerfleste sammenhænge »velsigne/prise/rose«, men enkelte steder er det opfattet ironisk så det må oversættes: »forbande«. Jødiske lærde har ment at de to sidste ord i v.3 (»JHVH foragtede han«) skal høre til v.4: »Den ugudelige hånede JHVH i sit hovmod«.",
+          "type": "E",
+          "position": 91
+        }
+      ]
+    },
+    {
+      "text": "\fDen ugudelige tænker i sit hovmod:\f»Han kræver ikke til regnskab«,\f»der er ingen Gud«, det er alle hans tanker.",
+      "number": 4,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "»Tænker« står ikke i grundteksten, men er underforstået i sammenhængen.",
+          "type": "T",
+          "position": 21
+        },
+        {
+          "text": "Ordret: »efter sin næses højde«.",
+          "type": "T",
+          "position": 34
+        }
+      ]
+    },
+    {
+      "text": "\fHans veje lykkes til enhver tid,\fdine domme er høje, højt over ham,\fhan blæser på alle sine fjender.",
+      "number": 5,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fHan har sagt i sit hjerte: »Jeg skal ikke rokkes,\ffra slægt til slægt forskånet for ulykke«.",
+      "number": 6,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fHans mund er fuld af forbandelse, bedrageri og undertrykkelse,\funder hans tunge er der uret og fortræd.",
+      "number": 7,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fHan sidder på lur i gårdene,\fi det skjulte myrder han en uskyldig,\fhans øjne spejder efter en svag.",
+      "number": 8,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Ofte retter man *ḥᵃṣērîm* (»gårdene/landsbyerne«) til *ḥᵃṣirîm*: »sivene«, men digteren vil netop understrege at man end ikke kan vide sig sikker i gårdene eller landsbyerne.",
+          "type": "E",
+          "position": 28
+        },
+        {
+          "text": "Betydningen af *ḥēlᵊxāʰ* er usikker. Andre oversætter »ulykkelig« eller »uheldig«. Også i v. 10 og 14.",
+          "type": "E",
+          "position": 99
+        }
+      ]
+    },
+    {
+      "text": "\fHan ligger på lur i skjul som en løve i sin hule,\fhan lurer på at fange en elendig,\fhan fanger en elendig, idet han trækker ham med sit  net.",
+      "number": 9,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Trækker ham til sig.",
+          "type": "T",
+          "position": 128
+        }
+      ]
+    },
+    {
+      "text": "\fKnust synker han til jorden,\fog for hans magt falder de svage.",
+      "number": 10,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "den elendige.",
+          "type": "T",
+          "position": 17
+        },
+        {
+          "text": "den ugudelige.",
+          "type": "T",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "\fHan siger i sit hjerte: »Gud har glemt det,\fhan har skjult sit ansigt, han ser det ikke i evighed«.",
+      "title": "Bøn om Guds indgreb",
+      "number": 11,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fRejs dig, JHVHv! Gud, løft din hånd,\fglem ikke de elendige!",
+      "number": 12,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fHvorfor skal en ugudelig foragte Gud?\fHan siger i sit hjerte: »Du kræver ikke til regnskab«.",
+      "number": 13,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fDu, ja netop du, har set uret og sorg,\fdu iagttager så de kan lægges i din hånd.\fDen svage overgiver sin sag til dig,\fdu har været den faderløses hjælper.",
+      "number": 14,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fBræk den ugudeliges arm,\fog kræv den onde til regnskab for hans ugudelighed så du ikke finder den længere.",
+      "number": 15,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Versets to sidste ord (*val-timṣāˀ*) er vanskelige i sammenhængen: »så du ikke finder den«. Der må underforstås et »længere«. Andre forstår *val* som »visselig« (»du skal visselig finde den«). Atter andre vokaliserer: *val-jimmāṣeˀ*: »så den ikke skal findes«.",
+          "type": "E",
+          "position": 106
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH er konge for evigt og altid,\ffolkeslag blev udryddet af hans land.",
+      "number": 16,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes »hedningefolk«.",
+          "type": "T",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\fDu har hørt de ydmyges ønske, JHVHv,\fdu styrker deres hjerte, dit øre lytter opmærksomt",
+      "number": 17,
+      "version": 1486335600000
+    },
+    {
+      "text": "\ffor at skaffe den faderløse og undertrykte ret\fså et menneske der er af jorden, ikke længere skal sprede skræk.",
+      "number": 18,
+      "version": 1486335600000
+    }
+  ]
+}

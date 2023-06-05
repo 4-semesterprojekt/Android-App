@@ -1,0 +1,163 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 8,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fV1 JHVH sagde til Moses: »Sig til Aron: ›Ræk din hånd med staven ud over floderne, over kanalerne og over dammene, og lad frøerne komme op over Egyptens land.‹«V2 Aron rakte sin hånd ud over Egyptens vand, og frøen steg op og tildækkede Egyptens land.V3 Men mirakelmagerne gjorde det samme med deres hemmelige kunster, og de lod frøer komme op over Egyptens land.V4 Da kaldte Farao på Moses og på Aron og sagde: »Bed til JHVH om at han fjerner frøerne fra mig og fra mit folk, så vil jeg lade folket gå så de kan ofre til JHVH.«V5 Moses sagde til Farao: »Du må have den ære fremfor mig: Hvornår? Jeg vil bede for dig og for dine tjenere og for dit folk om at udrydde frøerne fra dig og fra dine huse; kun i Nilen bliver de tilbage.«V6 Han sagde: »I morgen.« Og han sagde: »Efter dit ord! For at du skal forstå at der ikke er nogen som JHVH, vores Gud,V7 skal frøerne forsvinde fra dig og fra dine huse og fra dine tjenere og fra dit folk; kun i Nilen skal de blive tilbage.«V8 Så gik Moses og Aron ud fra Farao; og Mose råbte til JHVH angående sagen med frøerne som han havde påført Farao.V9 JHVH gjorde efter Moses’ ord; frøerne døde ud i husene, på gårdspladserne og på markerne.De dyngede dem op, hob ved hob, og landet stank.",
+      "number": 10,
+      "version": 1563228000000,
+      "footnotes": [
+        {
+          "text": "Se note til 7,11.",
+          "type": "T",
+          "position": 273
+        },
+        {
+          "text": "Verbet *yādāʕ* har flere nuancer. Det betegner i en del sammenhænge et inderligt kendskab. Her kan man overveje at oversætte: »lære at kende / indse / vide«.",
+          "type": "T",
+          "position": 810
+        }
+      ]
+    },
+    {
+      "text": "Men da Farao så at han havde fået lindring, forhærdede han sit hjerte, og han hørte ikke på dem, sådan som JHVH havde sagt.",
+      "title": "Tredje plage: Myg",
+      "number": 11,
+      "version": 1563228000000
+    },
+    {
+      "text": "\fJHVH sagde til Moses: »Sig til Aron: ›Ræk din stav ud, og slå jordens støv; det skal blive til myg i hele Egyptens land.‹«",
+      "number": 12,
+      "version": 1563228000000,
+      "footnotes": [
+        {
+          "text": "Hebraisk har tre ord for »støv«. *ʕᵃfar*, der er brugt her, er det frugtbare, værdifulde støv på jordens overflade. Egyptens frugtbare jord skal blive til myg.",
+          "type": "E",
+          "position": 76
+        },
+        {
+          "text": "Det er omdiskuteret hvad der menes med: *kinnim*. På moderne hebraisk er det betegnelse for »lus«, men her er der tydeligvis tale om flyvende insekter, og »myg« er en rimelig antagelse.",
+          "type": "T",
+          "position": 99
+        }
+      ]
+    },
+    {
+      "text": "Og de gjorde sådan; Aron rakte sin hånd med staven ud og slog jordens støv, og utøjet var på menneskene og på kvæget. Alt jordens støv blev til myg i hele Egyptens land.",
+      "number": 13,
+      "version": 1563228000000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord er singularis, men må opfattes kollektivt i dette og næste vers.",
+          "type": "T",
+          "position": 103
+        }
+      ]
+    },
+    {
+      "text": "Mirakelmagerne gjorde det samme med deres hemmelige kunster for at frembringe myggene, men de kunne ikke. Der var utøj på menneskene og på kvæget.",
+      "number": 14,
+      "version": 1563228000000,
+      "footnotes": [
+        {
+          "text": "Se note til 7,11.",
+          "type": "T",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "Da sagde mirakelmagerne til Farao: »Det er Guds finger!« Men Faraos hjerte blev hårdt så han ikke hørte på dem, sådan som JHVH havde sagt.\fV16 JHVH sagde til Moses: »Stå tidligt op om morgenen og stil dig foran Farao; se, idet han går ud til vandet, skal du sige til ham: ›Sådan har JHVH sagt: ›Lad mit folk gå så de kan dyrke mig‹.V17 For hvis du ikke lader mit folk gå, se, så slipper jeg fluerne løs over dig og over dine tjenere og over dit folk og i dine huse så Egyptens huse bliver fulde af fluerne, og tilmed jorden som de er på.V18 Og på samme dag vil jeg udskille Goshens land, som mit folk opholder sig i, så der ikke skal være fluer dér, for du skal forstå at jeg, JHVH, er midt i landet.V19 Og jeg vil sætte en forløsning mellem mit folk og dit folk. I morgen skal dette tegn ske.‹«",
+      "title": "Fjerde plage: Fluer",
+      "number": 15,
+      "version": 1563228000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »ved Faraos ansigt«.",
+          "type": "T",
+          "position": 217
+        },
+        {
+          "text": "Det hebraiske ord er singularis, men må opfattes kollektivt. Det er omdiskuteret hvad det hebraiske ord * ʕārōv* (»fluer«) betyder. Med støtte i Septuaginta har det været oversat: »bremser«. Andre foreslår: »fluesværm« eller: »skadedyr«. Jødiske fortolkere har opfattet det som betegnelse for forskellige rovdyr eller parasitter.",
+          "type": "T",
+          "position": 398
+        },
+        {
+          "text": "Se note til vers 6.",
+          "type": "T",
+          "position": 668
+        },
+        {
+          "text": "Meningen er formodentlig at JHVH ikke blot har magt i Israels land, men også i Egypten. En anden mulig oversættelse er: »er midt på jorden«. Meningen er da at Israels Gud er Herre over hele jorden.",
+          "type": "T",
+          "position": 700
+        },
+        {
+          "text": "Oversættelsen her af *pᵊdût* omdiskuteret. Det skal oftest oversættes: »forløsning/udfrielse/løsepenge«. Mange oversættere følger dog Septuaginta (og til dels den gamle syriske oversættelse og Vulgata) der oversatte ved: *diastolæ*: »skel«. Men den hebraiske tekst vil uden tvivl markere at det er et frelsestegn.",
+          "type": "T",
+          "position": 734
+        }
+      ]
+    },
+    {
+      "text": "JHVH gjorde sådan; der kom en mængde fluer ind i Faraos hus og i hans tjeneres hus, og i hele Egyptens land blev landet fordærvet af fluerne.",
+      "number": 20,
+      "version": 1563228000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »tung flue(sværm)«.",
+          "type": "T",
+          "position": 42
+        }
+      ]
+    },
+    {
+      "text": "Så kaldte Farao på Moses og på Aron, og han sagde: »Gå hen og bring ofre til jeres Gud her i landet.«",
+      "number": 21,
+      "version": 1563228000000
+    },
+    {
+      "text": "Men Moses sagde: »Det er ikke i orden at gøre sådan, for det vi ofrer til JHVH, vores Gud, er afskyeligt for Egypten. Så hvis vi ofrer det der er afskyeligt for Egypten, for øjnene af dem, vil de så ikke stene os?",
+      "number": 22,
+      "version": 1563228000000
+    },
+    {
+      "text": "Vi vil gå tre dages rejse ud i ørkenen, og vi vil ofre til JHVH, vores Gud, sådan som han siger til os.«",
+      "number": 23,
+      "version": 1563228000000
+    },
+    {
+      "text": "Da sagde Farao: »Jeg vil lade jer gå, så I kan ofre til JHVH, jeres Gud, i ørkenen, men I må bestemt ikke gå langt væk. Bed for mig!«",
+      "number": 24,
+      "version": 1563228000000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har verbet *rḥq* (»fjerne / tage langt væk«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "type": "T",
+          "position": 100
+        }
+      ]
+    },
+    {
+      "text": "Moses sagde: »Se, jeg går bort fra dig, og jeg vil bede til JHVH, og fluerne vil forsvinde fra Farao og fra hans tjenere og fra hans folk i morgen. Kun må Farao ikke fortsætte med at bedrage så han ikke lader folket gå ud for at ofre til JHVH.«V26 Så gik Moses ud fra Farao og bad til JHVH.V27 Og JHVH gjorde efter Moses’ ord, og fluerne forsvandt fra Farao, fra hans tjenere og fra hans folk; der blev ikke én tilbage.V28 Men Farao forhærdede sit hjerte også denne gang og lod ikke folket gå.",
+      "number": 25,
+      "version": 1563228000000
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 112,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHalleluja!\fSalig den mand som frygter JHVH,\fsom glæder sig meget ved hans bud.",
+      "title": "Den, der frygter JHVH, velsignes",
+      "number": 1,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Oversættes nu ofte: »lykkelig«.",
+          "type": "T",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "text": "\fHans afkom skal blive mægtigt i landet;\fde oprigtiges slægt skal velsignes.",
+      "number": 2,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sæd«.",
+          "type": "T",
+          "position": 11
+        },
+        {
+          "text": "Kan også oversættes: »på jorden«.",
+          "type": "T",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "\fVelstand og rigdom er i hans hus,\fog hans retfærdighed består for altid.",
+      "number": 3,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDer er brudt et lys frem i mørket for de oprigtige,\ffor den som er nådig og barmhjertig og retfærdig.",
+      "title": "Den retfærdige skal ikke rokkes",
+      "number": 4,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Linjen er omdiskuteret. Den består egentlig kun af ordene: »nådig og barmhjertig og retfærdig«. Det er ord der normalt i salmerne er knyttet til Gud, men i sammenhængen er der tale om den oprigtige. Derfor er dette den mest brugte oversættelse af linjen, selv om »de oprigtige« i foregående linje er pluralis, og i denne linje er der brugt singularis. Det kan dog overvejes om denne linje er en beskrivelse af det »lys« (og dermed af Gud) der »er brudt frem«. I enkelte håndskrifter – støttet af den syriske oversættelse – mangler det sidste *wᵊ* (»og«), så sætningen må oversættes: »nådig og barmhjertig er en retfærdig«.",
+          "type": "E",
+          "position": 102
+        }
+      ]
+    },
+    {
+      "text": "\fGodt for den mand som er barmhjertig og låner ud,\fsom tager sig af sine sager med retfærdighed.",
+      "number": 5,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan skal aldrig i evighed rokkes,\fen retfærdig skal være til evigt minde.",
+      "number": 6,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan skal ikke frygte ondt budskab,\fhans hjerte er fast, han har tillid til JHVH.",
+      "number": 7,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHans hjerte er urokkeligt, han skal ikke frygte,\findtil han kan se med glæde på sine modstandere.",
+      "number": 8,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHan strør ud, han giver til de fattige,\fhans retfærdighed består for altid,\fhans horn skal være ophøjet med ære.",
+      "title": "Den ugudeliges endeligt",
+      "number": 9,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fDen ugudelige skal se det og græmmes,\fhan skal skære tænder og forgå.\fUgudeliges begær bliver til intet.",
+      "number": 10,
+      "version": 1499983200000
+    }
+  ]
+}

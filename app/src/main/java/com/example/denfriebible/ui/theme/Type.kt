@@ -64,7 +64,7 @@ val replyTypography = Typography(
     bodyMedium = TextStyle(
         fontWeight = FontWeight.SemiBold,
         fontFamily = quickSandFontFamily,
-        fontSize = 15. sp,
+        fontSize = 13. sp,
         letterSpacing = 0.sp
     ),
     headlineLarge = TextStyle(

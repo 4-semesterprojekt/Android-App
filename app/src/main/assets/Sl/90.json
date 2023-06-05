@@ -1,0 +1,152 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 90,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fBøn af Moses, Guds mand.\fHerre, du har været bolig for os\fi slægt efter slægt.",
+      "title": "Guds evighed og menneskets forgængelighed",
+      "number": 1,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFør bjergene fødtes,\ffør du frembragte jorden og verden,\ffra evighed til evighed er du Gud.",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "I stedet for: *wattᵊḥôlēl* (»du frembragte«) har bl.a. Septuaginta læst passivform, 3. person: *wattᵊḥôl-l*: »(før jorden og verden) blev frembragt«",
+          "type": "E",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "\fDu lader mennesket vende tilbage til støv,\fdu siger: »Vend tilbage, I menneskebørn!«",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det ord der er brugt (*ʔᵉnôš*), bruges når der tales om mennesket som et svagt, skrøbeligt væsen.",
+          "type": "T",
+          "position": 19
+        }
+      ]
+    },
+    {
+      "text": "\fFor tusind år er i dine øjne\fsom dagen i går, når den går forbi,\fog som en nattevagt.",
+      "number": 4,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Mange retter: *yaʕᵃvōr* (»den går forbi«) til: *ʕāvar*: »den er forbi«. Meningen med den overleverede tekst kan være: »som dagen i går, når den passerer forbi i tankerne«. Det sker i et glimt.",
+          "type": "E",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "\fDu skyllede dem bort, de bliver som en søvn,\fom morgenen er de som græs der skyder friske skud.",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er omdiskuteret. Verbet: *ḥlf* betegner i qal oftest at noget forgår (»om morgenen er de som græs der forgår«), men her og i næste vers forudsætter man som regel betydningen: »gro/sætte friske skud«, der ellers især er knyttet til hif’il.",
+          "type": "E",
+          "position": 96
+        }
+      ]
+    },
+    {
+      "text": "\fOm morgenen blomstrer det og sætter friske skud,\fom aftenen visner det og tørrer ind.",
+      "title": "Menneskets syndighed og Guds vrede",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fJo, vi er fortæret af din vrede,\fog vi er forfærdet ved din harme.",
+      "number": 7,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDu har stillet vore synder for dine øjne,\fvor skjulte synd for dit ansigts lys.",
+      "number": 8,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor alle vore dage er svundet bort i din vrede,\fvi har henlevet vore år som et suk.",
+      "number": 9,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fVore leveår, i dem er der halvfjerds år,\fog hvis der er stærk livskraft, firs år,\fog deres stolthed er møje og besvær,\ffor det er hastigt forbi, så flyver vi bort.",
+      "number": 10,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »vore års dage«.",
+          "type": "T",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "text": "\fHvem kender styrken i din vrede\fog ud fra frygten for dig din harme?",
+      "number": 11,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Sætningen er omdiskuteret. Ordret blot: »og som din frygt din harme« eller: »og i overensstemmelse med din frygt din harme «. Med »din frygt« er der ment: »frygten for dig«.",
+          "type": "E",
+          "position": 69
+        }
+      ]
+    },
+    {
+      "text": "\fLær os at tælle vore dage sådan,\fat vi får visdom i hjertet.",
+      "title": "Bøn om nåde",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fVend om, JHVHv, hvor længe?\fOg hav medlidenhed med dine tjenere.",
+      "number": 13,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMæt os om morgenen med din nåde,\fså vil vi juble og glæde os alle vore dage.",
+      "number": 14,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGlæd os lige så mange dage som du har ydmyget os,\fde år som vi har set ulykke.",
+      "number": 15,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fLad din gerning blive synlig for dine tjenere\fog din herlighed over deres børn.",
+      "number": 16,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fOg Herren, vor Guds godhed være over os,\fog styrk vore hænders gerning for os,\fja, styrk vore hænders gerning!",
+      "number": 17,
+      "version": 1500242400000
+    }
+  ]
+}

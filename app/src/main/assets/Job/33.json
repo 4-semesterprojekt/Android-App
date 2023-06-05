@@ -1,0 +1,304 @@
+{
+  "book": "Jobs bog",
+  "abbreviation": "Job",
+  "chapter": 33,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\f»Men altså,\n\tlyt dog,\n\t\t\t\t\t\t\tJob,\n\t\t\t\t\t\ther kommer min tale,\n\t\t\t\t\tog alle mine ord skal du lægge øre til!",
+      "title": "Elihu kommenterer Jobs taler",
+      "number": 1,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\tSe nu, jeg har åbnet munden,\n\t\t\t\t\t\t\tmin tunge taler i min mund.",
+      "number": 2,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ordret »i min gane«.",
+          "type": "T",
+          "position": 67
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\tMin tale kommer lige fra hjertet\n\t\t\t\t\t\t\tog mine læber taler ligeud om det jeg ved.",
+      "number": 3,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "yōšer-libbî »hjertets oprigtighed« bruges af Job om hans ord i Job 6,25 og senere hen af Elihu i v. 23; formuleringen her findes også i 5 Mos 9,5 og 1 Krøn 29,17.",
+          "type": "E",
+          "position": 38
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\tGuds Ånd har skabt mig,\n\t\t\t\t\t\tog den Almægtiges livsånde holder mig i live.",
+      "number": 4,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\tHvis du kan,\n\t\t\t\t\t\tSå skal du svare mig igen,\n\t\t\t\t\t\t\tret ordene mod mig,\n\t\t\t\t\t\t\tstå frem!",
+      "number": 5,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Hebraisk *hᵃšîvēnî* er samme ord som i Job 32,1.",
+          "type": "E",
+          "position": 48
+        },
+        {
+          "text": "Ordret »Stil dig selv op« må i konteksten henvise til at han skal rejse sig som forsvarer.",
+          "type": "T",
+          "position": 92
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\tSe, jeg er en taler som dig over for Gud,\n\t\t\t\t\t\t\togså jeg blev klemt ud af en klump ler.",
+      "number": 6,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ordret »som din mund«.",
+          "type": "T",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\tSe, du må ikke forfærdes af rædsel for mig,\n\t\t\t\t\t\t\tog jeg vil ikke lægge noget hårdt pres på dig.",
+      "number": 7,
+      "version": 1668726000000
+    },
+    {
+      "text": "\f\t\t\t\tMen du sagde i mit påhør,\n\t\t\t\t\t\t\tog jeg hørte ordene tydeligt:",
+      "number": 8,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t›Jeg er ren,\n\t\t\t\t\t\t\tuden oprør,\n\t\t\t\t\t\tjeg er rituelt renset,\n\t\t\t\t\t\t\t\tog der er ingen skyld ved mig",
+      "number": 9,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Hebraisk *ʕāwōn* bruges i så forskellige betydninger som »overtrædelse, skyld, straf«. Job ved godt at han er en synder, men nægter at være skyld i sin lidelse.",
+          "type": "E",
+          "position": 105
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\tSe, han finder anklagepunkter hos mig\n\t\t\t\t\t\t\t\than regner mig som sin fjende.",
+      "number": 10,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ingen ved hvad *tᵊnûʔāʰ* helt nøjagtig betyder her og i 4 Mos 14,34; forslaget følger de gamle oversættelser.",
+          "type": "E",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\tHan har lagt mine fødder i blokken\n\t\t\t\t\t\t\t\t\t\tog vogter på alle mine stier.‹",
+      "number": 11,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\tSe, det har du ikke ret i!\n\t\t\t\t\t\t\t\tJeg vil svare dig\n\t\t\t\t\t\t\tat Gud er større end et menneske.",
+      "number": 12,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\tHvorfor rejser du en anklage mod ham\n\t\t\t\t\t\t\t\tfordi han ikke svarer dig med et eneste ord?",
+      "number": 13,
+      "version": 1668726000000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\tFor Gud taler jo på én måde,\n\t\t\t\t\t\t\t\t\t\t\tog så på en anden,\n\t\t\t\t\t\t\t\t\t\tmen man kan ikke spore det.",
+      "number": 14,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Hebraisk *yᵊšûrennāʰ* bruges også i v 27; det har ofte en betydning i retning af at bøje af for at se nærmere på noget, men flere steder er betydningen vanskelig. Se f.eks. note til Sl 17,11.",
+          "type": "E",
+          "position": 106
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\tI drømme, i nattesyn,\n\t\t\t\t\t\t\t\t\t\t\tnår den dybe søvn falder over folk,\n\t\t\t\t\t\t\t\t\t\tnår de slumrer på sengen,",
+      "number": 15,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\tda åbner han menneskenes ører\n\t\t\t\t\t\t\t\t\t\t\tog sætter sit rullesegl på dem med advarsler",
+      "number": 16,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\tfor at bringe et menneske bort fra en handling\n\t\t\t\t\t\t\t\t\t\t\t\t\tog hovmod væk fra en mand,",
+      "number": 17,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\tHan skåner hans sjæl fra graven\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog hans liv\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tfra at ende for et kastespyd.",
+      "number": 18,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tHan irettesættes ved smerter på sit leje\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog vedholdende uro i benene",
+      "number": 19,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\tså han mister lysten til det daglige brød\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog lækker mad.",
+      "number": 20,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ordret »hans liv væmmes ved brød«.",
+          "type": "T",
+          "position": 55
+        },
+        {
+          "text": "Ordret »hans sjæl ved eftertragtet mad«.",
+          "type": "T",
+          "position": 85
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\tHans legeme sygner hen i ukendelighed\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tog nu stikker de knogler ud,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tder ikke før kunne ses.",
+      "number": 21,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tHans sjæl nærmer sig graven\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tog hans liv til dødens kræfter",
+      "number": 22,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Hebraisk *mᵊmitîm* betyder »de dræbende«; mange gætter på dæmoner eller retter teksten til de døde eller et dødsrige.",
+          "type": "E",
+          "position": 85
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\tHvis der da ved siden af ham er en engel, en udsending, en af de tusinde,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\ttil at meddele et menneske om dets oprigtighed.",
+      "number": 23,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Hebraisk *mēlîṣ* bruges om en tolk (1 Mos 42,23), en udsending (2 Krøn 32,31) og måske fortaler eller talsperson (Es 43,27)",
+          "type": "E",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tog han forbarmer sig over det\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tog siger:\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t›Befri ham\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tfra at gå ned i graven.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJeg har fundet en løsesum.‹",
+      "number": 24,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\tDa skal hans legeme blive sundere end i ungdommen,\n\t\t\t\t\t\t\t\t\t\t\t\t\than får sine unge år tilbage.",
+      "number": 25,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Verbet *ruṭᵃfaš* findes én gang.",
+          "type": "E",
+          "position": 45
+        },
+        {
+          "text": "Ordret: »han vender tilbage til ungdommens dage«.",
+          "type": "T",
+          "position": 105
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tHan kan bede til Gud,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t- han havde jo fundet behag i ham\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog mødt ham under fryderåb,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog han havde bekræftet et menneskes retfærdighed.",
+      "number": 26,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Det er uklart hvorfor wayyiqtol-formen *wayyirṣēhû* pludselig optræder her; Gud må dog være grundled, og det må være en fortælling om hans tidligere velvilje.",
+          "type": "E",
+          "position": 82
+        },
+        {
+          "text": "Hebr. *wayyāšev leˀᵉnôš ṣidqātô* ›han bragte tilbage til mennesket dets retfærdighed‹.",
+          "type": "E",
+          "position": 192
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tHan skal kigge på mennesker\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t- så sagde han:\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t›Jeg har syndet\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog fordrejet retten,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tmen det er ikke blevet gengældt mig.",
+      "number": 27,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tHan har befriet min sjæl\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tfra at gå ned i graven,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tog mit liv skal se på lyset.‹",
+      "number": 28,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\tSe, alle disse ting gør Gud to, tre gange ved en mand",
+      "number": 29,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\tfor at føre ham tilbage fra graven\n\t\t\t\t\t\t\t\t\t\tså han ser lyset i live.",
+      "number": 30,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hans sjæl«.",
+          "type": "T",
+          "position": 24
+        },
+        {
+          "text": "Hebraisk *lēʔôr bᵊʔôr haḥayyîm* »for at lyse i livets lys«.",
+          "type": "E",
+          "position": 78
+        }
+      ]
+    },
+    {
+      "text": "\f\t\tMærk dig det,\n\t\t\tJob!\n\t\tHør mig.\n\t\tTi stille,\n\t\t\t\tså jeg kan tale.",
+      "number": 31,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\tHvis der findes ord\n\t\t\t\t\tda svar mig igen;\n\t\t\t\t\t\tmeddel dem,\n\t\t\t\t\t\t\tfor jeg har lyst til\n\t\t\t\t\t\t\t\tat give dig ret.",
+      "number": 32,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\tHvis der ikke findes nogen,\n\t\t\t\t\tså er det dig der skal høre på mig.\n\t\t\t\t\t\tTi stille,\n\t\t\t\t\t\t\tså jeg kan lære dig visdom!«",
+      "number": 33,
+      "version": 1668726000000
+    }
+  ]
+}

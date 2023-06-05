@@ -1,0 +1,75 @@
+{
+  "book": "Zakarias' Bog",
+  "abbreviation": "Zak",
+  "chapter": 11,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fÅbn dine døre, Libanon!\fLad ild fortære dine cedertræer.",
+      "title": "Det frodige Libanon og Jordan skal lægges øde",
+      "number": 1,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fHyl, cypres!\fFor cedertræet er faldet;\fdisse herlige træer er ødelagte.\fHyl, Bashans egetræer!\fFor den tykke skov er fældet.",
+      "number": 2,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "»træer« er underforstået.",
+          "type": "T",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "\fHyrdernes hyl lyder,\ffor deres herlighed er ødelagt.\fDe unge løvers brøl lyder,\ffor Jordans stolthed er ødelagt.",
+      "title": "Lignelsen om hyrden der forkastes af fårene",
+      "number": 3,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fSåledes sagde JHVH, min Gud: »Vogt slagtefårene! v5 De som køber dem, dræber dem og bliver ikke straffet, mens de som sælger dem, siger: ›Velsignet være JHVH, at jeg bliver rig!‹ Og ingen af deres hyrder føler medlidenhed med dem. v6 For jeg vil ikke længere føle medlidenhed med landets indbyggere, siger JHVH. Se, jeg vil lade menneskene falde i hænderne på hinanden og på deres konge, så de ødelægger landet. Jeg vil ikke redde dem.«\fv7 Jeg vogtede slagtefårene, heriblandt de elendige blandt fårene, og jeg tog to stave. Den ene kaldte jeg »Skønhed«, og den anden kaldte jeg »Bånd«, og jeg vogtede fårene. v8 Jeg fjernede tre af hyrderne på én måned, men jeg blev utålmodig med dem, og de afskyede mig. v9 Jeg sagde: »Jeg vil ikke vogte jer. Det som dør, må dø; det som omkommer, må omkomme; de som bliver til overs må æde hinandens kød.« v10 Og jeg tog min stav, Skønheden, og brækkede den for at gøre den pagt ugyldig, som jeg havde indstiftet med alle folkeslag. v11 Den blev gjort ugyldig den dag. Således forstod de elendige blandt fårene, som holdt sig til mig, at det var JHVHs ord. v12 Og jeg sagde til dem: »Hvis det passer jer, så giv mig min løn, men hvis ikke, så lad være.« Og de afvejede min løn, tredive stykker sølv. v13 JHVH sagde til mig: »Kast dem hen til pottemageren, den herlige pris, som jeg blev vurderet af dem til at have.« Og jeg tog de tredive stykker sølv og kastede dem hen i JHVHs hus, hen til pottemageren. v14 Og jeg knækkede min anden stav, Bånd, for at ødelægge slægtskabet mellem Juda og Israel.",
+      "title": "Den uduelige hyrde",
+      "number": 4,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Eller »verdens«.",
+          "type": "T",
+          "position": 288
+        },
+        {
+          "text": "Kan også oversættes til »Jeg vogtede slagtefårene for handelsfolkene« ved at slå de to hebraiske ord *lāxēn ʕᵃniyyê* sammen. Det samme gælder i vers 11.",
+          "type": "E",
+          "position": 504
+        },
+        {
+          "text": "Ordret »Hvis det er godt i jeres øjne«.",
+          "type": "T",
+          "position": 1142
+        },
+        {
+          "text": "Eller »metalstøberen«, for det kan også forstås som en håndværker, der kan arbejde i metal.",
+          "type": "T",
+          "position": 1292
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH sagde igen til mig: »Udstyr dig som en uduelig hyrde! v16 For se, jeg lader en hyrde fremstå i landet.\fDem som er tæt på at gå til grunde, vil han ikke se til;\fde vildfarne vil han ikke lede efter;\fde forkomne vil han ikke læge;\fde raske vil han ikke forsørge.\fMen kødet fra de fede dyr vil han spise; deres hove vil han sønderrive. v17 Ve den uduelige hyrde, som forlader fårene. Et sværd skal ramme hans arm og hans højre øje. Hans arm skal visne; hans højre øje blive fuldstændigt blindt.«",
+      "number": 15,
+      "version": 1528236000000
+    }
+  ]
+}

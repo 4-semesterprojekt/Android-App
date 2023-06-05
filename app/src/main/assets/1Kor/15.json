@@ -1,0 +1,334 @@
+{
+  "book": " Paulus' Første Brev til Korintherne",
+  "abbreviation": "1Kor",
+  "chapter": 15,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen jeg gør jer bekendt, brødre, med det evangelium som jeg forkyndte for jer, som I også modtog, og som I også står i,",
+      "title": "Paulus vidner om Kristi opstandelse og åbenbarelserne af ham, 1-11. Imod den korinthiske fornægtelse af de dødes opstandelse stiller han Herrens egen opstandelse, som hele den hele kristne forkyndelse og tro står og falder med, 12-19. Han forklarer nærmere, hvordan Kristi opstandelse fører alle andres opstandelse og og den endelige overvindelse af døden med sig, indtil sejren til sidst bliver Guds, 20-28, og han påviser ud fra korinthernes og sit eget liv, hvor alvorligt de må vogte sig for den fornægtelse, der er bekæmpet her, 29-34. Indvendingerne om det utænkelige ved opstandelsen og opstandelseslegemet gendrives ved en sammenstilling med kendte ting i naturens verden, og arten af opstandelseslegemet forklares nærmere, et legeme, hvor man kommer til at ligne den herliggjorte Frelser, 35-49. Det forklares, at de, der oplever Herrens genkomst, skal forvandles, når de døde opstår; derfor formanes læserne under et triumferende blik ind i fremtiden om den kommende sejr til at være udholdende i Herrens tjeneste, 50-58.",
+      "number": 1,
+      "version": 1539036000000
+    },
+    {
+      "text": "som I også frelses ved hvis I holder fast ved det ord jeg forkyndte det for jer med - ellers var det forgæves I kom til tro.",
+      "number": 2,
+      "version": 1539036000000
+    },
+    {
+      "text": "Jeg overleverede jer nemlig som noget af det første hvad jeg også har modtaget: At Kristus døde for vores synder, efter skrifterne;",
+      "number": 3,
+      "version": 1539036000000
+    },
+    {
+      "text": "og at han blev begravet; og at han er blevet oprejst den tredje dag, efter skrifterne;",
+      "number": 4,
+      "version": 1539036000000
+    },
+    {
+      "text": "og at han blev set af Kefas, dernæst af de tolv;",
+      "number": 5,
+      "version": 1539036000000
+    },
+    {
+      "text": "derefter blev han set af over fem hundrede brødre på én gang, af hvilke de fleste endnu er i live, men nogle er sovet hen;",
+      "number": 6,
+      "version": 1539036000000
+    },
+    {
+      "text": "derefter blev han set af Jakob, dernæst af alle apostlene;",
+      "number": 7,
+      "version": 1539036000000
+    },
+    {
+      "text": "men sidst af alle blev han også set af mig som et for tidligt født foster;",
+      "number": 8,
+      "version": 1539036000000
+    },
+    {
+      "text": "for jeg er den ringeste af apostlene, jeg, der ikke er værd at kaldes apostel fordi jeg har forfulgt Guds menighed.",
+      "number": 9,
+      "version": 1539036000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »Guds kirke«.",
+          "type": "T",
+          "position": 115
+        }
+      ]
+    },
+    {
+      "text": "Men af Guds nåde er jeg det jeg er, og hans nåde imod mig har ikke været forgæves; men jeg har arbejdet hårdere end alle dem, dog ikke jeg, men Guds nåde som er med mig.",
+      "number": 10,
+      "version": 1539036000000
+    },
+    {
+      "text": "Hvad enten det derfor er mig eller de andre, sådan prædiker vi, og sådan troede I.",
+      "number": 11,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fMen når der prædikes, at Kristus er oprejst fra de døde, hvordan kan det være, at nogle iblandt jer så siger, at der ikke er nogen dødes opstandelse?",
+      "number": 12,
+      "version": 1539036000000
+    },
+    {
+      "text": "Hvis der ikke er nogen dødes opstandelse, så er ikke heller Kristus oprejst.",
+      "number": 13,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men er Kristus ikke oprejst, så er vores prædiken jo tom, og jeres tro også tom.",
+      "number": 14,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men så virker vi også som falske vidner om Gud, fordi vi har vidnet imod Gud, at han oprejste Kristus, som han ikke har oprejst, hvis døde virkelig ikke oprejses.",
+      "number": 15,
+      "version": 1539036000000
+    },
+    {
+      "text": "For hvis døde ikke oprejses, så er Kristus ikke heller oprejst.",
+      "number": 16,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men hvis Kristus ikke er oprejst, så er jeres tro forgæves; så er I i jeres synder endnu;",
+      "number": 17,
+      "version": 1539036000000
+    },
+    {
+      "text": "så gik altså også de, der er sovet hen i Kristus, fortabt.",
+      "number": 18,
+      "version": 1539036000000
+    },
+    {
+      "text": "Har vi i dette liv udelukkende sat vores håb til Kristus, så er vi de mest ynkværdige af alle mennesker.",
+      "number": 19,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fMen nu er Kristus oprejst fra de døde, som førstegrøde af dem, der er sovet hen.",
+      "number": 20,
+      "version": 1539036000000
+    },
+    {
+      "text": "For eftersom død kom ved et menneske, er også dødes opstandelse kommet ved et menneske.",
+      "number": 21,
+      "version": 1539036000000
+    },
+    {
+      "text": "For ligesom alle dør i Adam, sådan skal også alle gøres levende i Kristus.",
+      "number": 22,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men hver i sit hold: Som førstegrøde Kristus, derefter de, der hører Kristus til, ved hans komme.",
+      "number": 23,
+      "version": 1539036000000
+    },
+    {
+      "text": "Efter det kommer enden, når han overgiver riget til Gud og Faderen, når han har tilintetgjort hver magt og hver myndighed og kraft.",
+      "number": 24,
+      "version": 1539036000000
+    },
+    {
+      "text": "For han bør være konge, indtil han får lagt alle fjenderne under sine fødder.",
+      "number": 25,
+      "version": 1539036000000
+    },
+    {
+      "text": "Den sidste fjende, der tilintetgøres, er døden.",
+      "number": 26,
+      "version": 1539036000000
+    },
+    {
+      "text": "Han har jo »lagt alle ting under hans fødder«. Men når han siger: »Alt er underlagt« - åbenbart med undtagelse af den, der underlagde ham alt -",
+      "number": 27,
+      "version": 1539036000000,
+      "footnotes": [
+        {
+          "text": "Kristus.",
+          "type": "T",
+          "position": 58
+        }
+      ]
+    },
+    {
+      "text": "når da alle ting er blevet underlagt ham, så skal også Sønnen selv underlægge sig ham, der har underlagt ham alle ting, for at Gud kan være alt i alle.",
+      "number": 28,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fHvad vil ellers de, der lader sig døbe for de døde, opnå? Hvis døde overhovedet ikke oprejses, hvorfor lader de sig så døbe for dem?",
+      "number": 29,
+      "version": 1539036000000
+    },
+    {
+      "text": "Hvorfor udsætter vi os så også hver time for fare?",
+      "number": 30,
+      "version": 1539036000000
+    },
+    {
+      "text": "Jeg dør daglig, så sandt jeg har jer, brødre, at rose mig af i Kristus Jesus, vor Herre.",
+      "number": 31,
+      "version": 1539036000000
+    },
+    {
+      "text": "Hvis jeg som et almindeligt menneske har kæmpet med vilde dyr i Efesus, hvad gavn har jeg så af det? Hvis døde ikke oprejses, så »lad os spise og drikke, for i morgen dør vi.«",
+      "number": 32,
+      "version": 1539036000000,
+      "footnotes": [
+        {
+          "text": "uden udsigt til at opstå efter døden.",
+          "type": "T",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "Far ikke vild! Dårligt selskab ødelægger gode manérer.",
+      "number": 33,
+      "version": 1539036000000
+    },
+    {
+      "text": "Bliv ædru, som det er passende, og synd ikke! For nogle kender ikke Gud; til skam for jer siger jeg det.",
+      "number": 34,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fMen man vil sige: »Hvordan oprejses de døde? Hvad slags legeme kommer de med?«",
+      "number": 35,
+      "version": 1539036000000
+    },
+    {
+      "text": "Din tåbe! Det, som du sår, bliver ikke gjort levende, hvis det ikke dør.",
+      "number": 36,
+      "version": 1539036000000
+    },
+    {
+      "text": "Og hvad du end sår, sår du ikke det legeme, der skal blive til, men et nøgent korn, hvad enten det er af hvede eller af en anden slags.",
+      "number": 37,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men Gud giver det et legeme, sådan som han har villet, og hver kornsort sit eget legeme.",
+      "number": 38,
+      "version": 1539036000000
+    },
+    {
+      "text": "Ikke alt kød er det samme kød, men ét er menneskers, et andet kvægs kød, et andet fugles kød, et andet fisks.",
+      "number": 39,
+      "version": 1539036000000
+    },
+    {
+      "text": "Og der er himmelske legemer og jordiske legemer; men én er de himmelskes herlighed, en anden de jordiskes.",
+      "number": 40,
+      "version": 1539036000000
+    },
+    {
+      "text": "Én er solens glans og en anden månens glans og en anden stjernernes glans; for den ene stjerne er forskellig fra den anden i glans.",
+      "number": 41,
+      "version": 1539036000000
+    },
+    {
+      "text": "Sådan er det også med de dødes opstandelse: det sås i forgængelighed, det oprejses i uforgængelighed;",
+      "number": 42,
+      "version": 1539036000000
+    },
+    {
+      "text": "det sås i vanære, det oprejses i herlighed; det sås i skrøbelighed, det oprejses i kraft;",
+      "number": 43,
+      "version": 1539036000000
+    },
+    {
+      "text": "der sås et sjæleligt legeme, der oprejses et åndeligt legeme. Når der findes et sjæleligt legeme, findes der også et åndeligt.",
+      "number": 44,
+      "version": 1539036000000
+    },
+    {
+      "text": "Sådan står der også skrevet: »Det første menneske, Adam, blev til en levende sjæl;« den sidste Adam blev til en levendegørende Ånd.",
+      "number": 45,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men det åndelige er ikke det første, det er det sjælelige; derefter det åndelige.",
+      "number": 46,
+      "version": 1539036000000
+    },
+    {
+      "text": "Det første menneske var af jord, jordisk; det andet menneske er fra Himmelen.",
+      "number": 47,
+      "version": 1539036000000
+    },
+    {
+      "text": "Sådan som den jordiske var, sådan er også de jordiske; og sådan som den himmelske er, sådan er også de himmelske.",
+      "number": 48,
+      "version": 1539036000000
+    },
+    {
+      "text": "Og ligesom vi har båret den jordiskes billede, sådan skal vi også bære den himmelskes billede!",
+      "number": 49,
+      "version": 1539036000000
+    },
+    {
+      "text": "\fMen dette siger jeg, brødre, at kød og blod ikke kan arve Guds rige, forgængeligheden arver heller ikke uforgængeligheden.",
+      "number": 50,
+      "version": 1539036000000
+    },
+    {
+      "text": "Se, jeg siger jer en hemmelighed: Vi skal ikke alle sove hen, men vi skal alle forvandles,",
+      "number": 51,
+      "version": 1539036000000
+    },
+    {
+      "text": "i et nu, på et øjeblik, ved den sidste basun; for basunen skal lyde, og de døde skal oprejses uforgængelige, og vi skal forvandles.",
+      "number": 52,
+      "version": 1539036000000
+    },
+    {
+      "text": "For dette forgængelige må iklæde sig uforgængelighed, og dette dødelige iklæde sig udødelighed.",
+      "number": 53,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men når dette forgængelige har iklædt sig uforgængelighed, og dette dødelige har iklædt sig udødelighed, så skal det ord, der står skrevet, opfyldes: »Døden er opslugt til sejr.«",
+      "number": 54,
+      "version": 1539036000000
+    },
+    {
+      "text": "»Død, hvor er din sejr? Død, hvor er din brod?«",
+      "number": 55,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men dødens brod er synden, og syndens kraft er Loven.",
+      "number": 56,
+      "version": 1539036000000
+    },
+    {
+      "text": "Men tak til Gud, der giver os sejren ved vor Herre Jesus Kristus!",
+      "number": 57,
+      "version": 1539036000000
+    },
+    {
+      "text": "Derfor, mine elskede brødre, bliv faste, urokkelige, altid rige i Herrens gerning, vel vidende, at jeres arbejde er ikke forgæves i Herren.",
+      "number": 58,
+      "version": 1539036000000
+    }
+  ]
+}

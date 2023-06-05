@@ -1,0 +1,239 @@
+{
+  "book": "Jobs bog",
+  "abbreviation": "Job",
+  "chapter": 32,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDa holdt disse tre mænd op\n\t\tmed at svare Job,\n\t\t\tfordi han var retfærdig efter sin egen opfattelse",
+      "title": "Elihu bebrejder de tre venner",
+      "number": 1,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ordret »i sine egne øjne«.",
+          "type": "T",
+          "position": 100
+        }
+      ]
+    },
+    {
+      "text": "\tSå blev Elihu fra Buz, som var søn af Barak’el og af Rams slægt, rasende.\n\t\t\t\tPå Job blev han rasende,\n\t\t\t\t\t\tfordi han mente at han selv havde mere ret end Gud.",
+      "number": 2,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ordret her og i det følgende: »vreden flammede op i«.",
+          "type": "T",
+          "position": 74
+        },
+        {
+          "text": "Hebraisk *ʕal-ṣaddᵊqô nafšô mēˀᵉlōhîm* betyder ordret »på grund af at give sin sjæl/sig selv ret/fremstå retfærdig fra Gud« kan også tolkes om at retfærdiggøre sig selv uden Gud eller mere end Gud. Piel bruges i samme konstruktion i Jer 3,11, og ellers kun i Job 33,32 og Ez 16,51-52",
+          "type": "E",
+          "position": 161
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\tog på hans tre venner blev han rasende\n\t\t\t\t\t\tfordi de ikke kunne finde noget svar,\n\t\t\t\t\t\t\tog de regnede Job for ugudelig.",
+      "number": 3,
+      "version": 1668726000000
+    },
+    {
+      "text": "\f\t\t\tMen Elihu havde ventet på at Job blev færdig med sit indlæg,\n\t\t\t\tfor de andre var ældre end han.",
+      "number": 4,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »ventet på i ord«.",
+          "type": "T",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "text": "\t\tDa Elihu så\n\t\t\t\tat der ikke var noget svar i de tre mænds taler,\n\t\t\tblev han rasende.",
+      "number": 5,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ordret »mund«.",
+          "type": "T",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "\t\tSå svarede Elihu fra Buz, Barak’els søn,\n\t\t\tog sagde:\n\t\t\t\t»Jeg er ung af år,\n\t\t\t\t\t\t\t\tmen I er ældre mænd,\n\t\t\t\t\t\t\tderfor holdt jeg mig tilbage\n\t\t\t\t\t\t\t\t\t\tog var bange for\n\t\t\t\t\t\t\t\t\t\t\tat dele min forståelse med jer.",
+      "number": 6,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Verbet *zāḥal* forekommer tre gange i Den hebraiske Bibel og bruges om at krybe som en slange, men tillægges her ofte betydningen af at vente.",
+          "type": "E",
+          "position": 143
+        },
+        {
+          "text": "Hebr. *ḥawwōt dēʕî* ordret »informere om min kundskab«. Det kan referere til kundskab, kendskab eller erkendelse.",
+          "type": "E",
+          "position": 213
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\tJeg tænkte:\n\t\t\t\t\t\t\t\t\t\t›Lad dagene tale,\n\t\t\t\t\t\t\t\t\t\t\t\tog de mange år kundgøre visdom!‹",
+      "number": 7,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ordret »sagde«",
+          "type": "T",
+          "position": 20
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\tDog,\n\t\t\t\t\t\t\t\t\t\t\t\tÅnden skal være i mennesket\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tog den Almægtiges åndedræt skal gøre ham forstandig;",
+      "number": 8,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Hebr*rûₐḥ* kan være brugt om et menneskets ånd, men det står her parallelt til *nᵊšāmāʰ* som ofte oversættes »livsånde« (1 Mos 2,7), men henviser til åndedrættet, som Gud gav til liv.",
+          "type": "E",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\t\t\tdet er ikke de mange som er vise,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\teller de gamle der forstår retten.",
+      "number": 9,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\tDerfor siger jeg:\n\t\t\t\t\t\t\t\t\t›Hør på mig,\n\t\t\t\t\t\t\t\t\t\togså jeg vil dele min forståelse.‹",
+      "number": 10,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\tSe, jeg ventede på jeres ord,\n\t\t\t\t\t\t\t\tlagde øre til jeres indsigt,\n\t\t\t\t\t\t\t\t\tindtil I fik tænkt jer frem til de rette ord.",
+      "number": 11,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Ordret »udforske«.",
+          "type": "T",
+          "position": 113
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\tOg jeg har forsøgt at forstå jer,\n\t\t\t\t\t\t\t\t\t\tmen se,\n\t\t\t\t\t\t\t\t\t\t\tder var ingen af jer\n\t\t\t\t\t\t\t\t\t\t\t\t\tsom kunne gendrive Job\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tog svare på hans tale\n\t\t\t\t\t\t\t\t\t\t\t\tblandt jer",
+      "number": 12,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\tså sig ikke:\n\t\t\t\t\t\t\t\t\t\t›Vi har fundet visdom.\n\t\t\t\t\t\t\t\t\t\t\tGud må feje ham af banen,\n\t\t\t\t\t\t\t\t\t\t\t\tikke et menneske.‹",
+      "number": 13,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske *pen* »for at ikke« underforstår »og det siger jeg for at« eller endda »Jeg advarer jer for at«",
+          "type": "E",
+          "position": 21
+        },
+        {
+          "text": "Ordret »blæse væk« som i Sl 1,4.",
+          "type": "T",
+          "position": 91
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\tMen han har ikke rettet sin tale mod mig,\n\t\t\t\t\t\t\t\t\tog jeg vil ikke svare ham igen med jeres ord.",
+      "number": 14,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\tDe er blevet forskrækkede,\n\t\t\t\t\t\t\t\tde kan ikke svare mere,\n\t\t\t\t\t\t\tordene er blevet borte for dem.",
+      "number": 15,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\tSå jeg har ventet,\n\t\t\t\t\t\t\t\tfordi de ikke kan tale.\n\t\t\t\t\t\t\t\t\tfordi de har stået der,\n\t\t\t\t\t\t\t\t\t\tkunne ikke længere svare.",
+      "number": 16,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\tNu vil jeg også svare med mit bidrag,\n\t\t\t\t\t\t\togså jeg vil dele min forståelse,",
+      "number": 17,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Hebraisk har *ḥēleq* »portion, andel«; meningen må være at det nu er hans tur.",
+          "type": "T",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\t\tfor jeg er fuld af ord\n\t\t\t\t\t\t\t\t\t\t\t\tånden i mit indre trænger sig på",
+      "number": 18,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har et lidt mere saftigt billede i v. 18 og 19: »ånden (eller luften) i min mave trykker, se bare, min mave er som (gæret) vin, der ikke er lukket ud.«",
+          "type": "T",
+          "position": 79
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\tja, mit indre er som en vin\n\t\t\t\t\t\t\t\t\t\t\t\tder ikke er åbnet for,\n\t\t\t\t\t\t\t\t\t\t\tsom en ny lædersæk sprænges den.",
+      "number": 19,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\tJeg må tale\n\t\t\t\t\t\t\t\t\t\tså jeg kan få luft;\n\t\t\t\t\t\t\t\tjeg må åbne mine læber\n\t\t\t\t\t\t\t\t\t\tog svare.",
+      "number": 20,
+      "version": 1668726000000
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\tJeg vil ikke undgå at nogen taber ansigt,\n\t\t\t\t\t\t\t\t\t\t\tog vil ikke smigre noget menneske,",
+      "number": 21,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": " Hebr *ʔal-nāˀ ʔeśśāˀ fᵊnê-ʔîš* »lad mig ikke løfte en mands ansigt« dækker sikkert over at Elihu ikke vil tage høflighedshensyn.",
+          "type": "E",
+          "position": 50
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\t\t\t\tfor jeg forstår mig ikke\n\t\t\t\t\t\t\t\t\t\t\tpå at smigre,\n\t\t\t\t\t\t\t\t\t\t\t\tog fordi min skaber ville lade mig tabe med det samme.«",
+      "number": 22,
+      "version": 1668726000000,
+      "footnotes": [
+        {
+          "text": "Hebr. *mʕaṭ yiśśāʔēnî’* »pludselig løfte mig« har et tydeligt ordspil på v. 21: løfte en andens ansigt og selv blive løftet meget pludseligt har en parallel til at hofbagerens hoved løftes op ved hængning i 1 Mos 40,20 og 40,22.",
+          "type": "E",
+          "position": 127
+        }
+      ]
+    }
+  ]
+}

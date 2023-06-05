@@ -1,0 +1,182 @@
+{
+  "book": "Zakarias' Bog",
+  "abbreviation": "Zak",
+  "chapter": 8,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHærskarers JHVHvs ord kom til mig:",
+      "title": "Jerusalem og templet skal genopbygges",
+      "number": 1,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fSåledes siger Hærskarers JHVHv:\f»Jeg har en stor nidkærhed for Zion;\fmed stor vrede er jeg nidkær for den.«",
+      "number": 2,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fSåledes siger Hærskarers JHVHv:\f»Jeg vender tilbage til Zion og vil bo midt i Jerusalem.\fJerusalem skal kaldes Sandhedens by,\fog Hærskarers JHVHvs bjerg Hellighedens bjerg.«",
+      "number": 3,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fSåledes siger Hærskarers JHVHv:\f»Der skal på ny sidde gamle mænd og gamle kvinder i Jerusalems gader,\fhver med sin stok i hånden på grund af deres høje alder.",
+      "number": 4,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fByens gader skal være fulde af unge drenge og piger,\fsom leger i dens gader.«",
+      "number": 5,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fSåledes siger Hærskarers JHVHv:\f»Selv hvis det skulle være for utroligt for dette folks rest i de dage,\fskulle det så også være for utroligt for mig?« siger Hærskarers JHVHv.",
+      "number": 6,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord for utroligt kan også oversættes med forunderligt.",
+          "type": "T",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "\fSåledes siger Hærskarers JHVHv:\f»Se, jeg frelser mit folk fra solopgangens land og fra solnedgangens land.",
+      "number": 7,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fJeg vil bringe dem hjem, og de skal bo midt i Jerusalem.\fDe skal være mit folk, og jeg vil være deres Gud i sandhed og retfærdighed.«",
+      "number": 8,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fSåledes siger Hærskarers JHVHv:\f»Gør jeres hænder stærke, I som i disse dage hører disse ord af de profeter,\fsom var der den dag, da grundvolden til Hærskarers JHVHvs hus blev lagt, så templet kunne bygges.",
+      "number": 9,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Udtrykket kan både forstås bogstaveligt som en opmuntring til det fysiske arbejde med templets genopbyggelse, eller mere billedligt som en hebraisk udtryksform om at være modig.",
+          "type": "E",
+          "position": 58
+        }
+      ]
+    },
+    {
+      "text": "\fFor før de dage fik mennesker og dyr ingen belønning.\fFor den rejsende var der ingen fred for fjenden.\fJeg lod mennesker have frit spil mod hinanden.",
+      "number": 10,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Ordret »den som drog ud og drog ind«.",
+          "type": "T",
+          "position": 71
+        },
+        {
+          "text": "Det hebraiske ord * šallaḥ* kan både betyde sende og slippe fri.",
+          "type": "E",
+          "position": 136
+        }
+      ]
+    },
+    {
+      "text": "\fMen nu vil jeg ikke være over for dette folk som i gamle dage, siger Hærskarers JHVHv,\ffor fredens frø, vintræet, skal give sin frugt,\fjorden sin afgrøde og himlen sin dug.\fJeg vil lade dette folks rest arve alle disse ting.",
+      "number": 11,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske *zera hashalom* kan også oversættes med »såning af fred«, hvilket gør, at »vintræet« ikke forstås som apposition: »For der vil være såning af fred. Vintræet skal give…«.",
+          "type": "E",
+          "position": 104
+        }
+      ]
+    },
+    {
+      "text": "\fLigesom I af Judas hus og Israels hus var en forbandelse blandt folkeslagene,\fsådan vil jeg nu frelse jer, så I bliver til en velsignelse.\fFrygt ikke! Gør jeres hænder stærke!«",
+      "number": 13,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fFor således siger Hærskarers JHVHv:\f»Ligesom jeg planlagde at gøre ondt, da jeres forfædre gjorde mig vred, siger Hærskarers JHVHv, og jeg ikke fortrød det,",
+      "number": 14,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fsådan har jeg tænkt at gøre godt i disse dage mod Jerusalem og Judas hus. Frygt ikke!",
+      "number": 15,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fDette er de ting, som I skal gøre:\fTal sandt, kun sandt, over for hinanden,\fog fæld fuldkomne domme i jeres byporte.",
+      "number": 16,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "I mange oversættelser udelades sætningens andet *emet*, men det kan også som her forstås som en intensivering af at tale sandt.",
+          "type": "E",
+          "position": 56
+        },
+        {
+          "text": "Ordet *šālôm* i grundteksten kan forstås som domme, der fører til fred, eller som fuldkomne domme, eftersom *šālôm* også indeholder betydningen af det perfekte og fuldkomne.",
+          "type": "E",
+          "position": 100
+        }
+      ]
+    },
+    {
+      "text": "\fTænk ikke ondt imod hinanden i jeres hjerter og elsk ikke løgnen,\ffor alle disse ting hader jeg,« siger JHVH.",
+      "title": "Faste skal blive til fest",
+      "number": 17,
+      "version": 1494453600000,
+      "footnotes": [
+        {
+          "text": "Ordret betyder det »den falske ed«.",
+          "type": "T",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "\fHærskarers JHVHvs ord kom til mig:",
+      "number": 18,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fSåledes siger Hærskarers JHVHv:\f»Fasten i den fjerde måned, den femte måned, den syvende måned og i den tiende måned skal blive til fryd og glæde og til dejlige højtider for Judas hus.\fMen elsk sandhed og fred!«",
+      "number": 19,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fSåledes siger Hærskarers JHVHv:\f»På ny skal det ske, at folkeslag og mange byers indbyggere skal komme,",
+      "number": 20,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fog den ene bys indbyggere skal gå til den anden og sige:\f›Lad os gå hen og søge JHVHs gunst og opsøge Hærskarers JHVHv –\fogså jeg vil gå.‹",
+      "number": 21,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fOg mange folk og mægtige folkeslag skal komme for at opsøge Hærskarers JHVHv i Jerusalem\fog søge JHVHs gunst.«",
+      "number": 22,
+      "version": 1494453600000
+    },
+    {
+      "text": "\fSåledes siger Hærskarers JHVHv:\f»I de dage skal ti mænd af alle folkeslags tungemål gribe fat i en judæisk mands kappeflig og sige:\f›Lad os gå med jer, for vi hørt, at Gud er med jer!‹«",
+      "number": 23,
+      "version": 1494453600000
+    }
+  ]
+}

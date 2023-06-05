@@ -1,0 +1,58 @@
+{
+  "book": "Zakarias' Bog",
+  "abbreviation": "Zak",
+  "chapter": 1,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fI den ottende måned i Dareios' andet år kom JHVHs ord til profeten Zakarias, Berekjas søn, Iddos sønnesøn. v2 »JHVH blev meget vred på jeres forfædre. v3 Og du skal sige til dem: Således siger Hærskarers JHVHv: Vend om til mig! siger Hærskarers JHVHv, så vil jeg vende om til jer, siger Hærskarers JHVHv. v4 Vær ikke som jeres forfædre som de tidligere profeter råbte til og sagde: Således siger Hærskarers JHVHv: Vend dog om fra jeres onde veje og jeres onde gerninger! Men de hørte ikke og lyttede ikke opmærksomt til mig, siger JHVH. v5 Jeres forfædre, hvor er de? Og profeterne, levede de mon for evigt? Men mine ord og mine bestemmelser, som jeg meddelte mine tjenere, profeterne, ramte de ikke jeres forfædre, så de vendte om og sagde: Ligesom Hærskarers JHVHv havde planlagt at gøre imod os efter vore veje og gerninger, således har han gjort imod os?«",
+      "title": "Synet om manden blandt myrtetræerne",
+      "number": 1,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "regeringsår.",
+          "type": "T",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "\fPå den 24. dag i den 11. måned, det er måneden shebat, i Dareios' andet år kom JHVHs ord til profeten Zakarias, Berekjas søn, Iddos sønnesøn: v8 Jeg så om natten en mand, der red på en rød hest. Han holdt stille mellem myrtetræerne, som var i kløften, og bag ham var der røde, spættede og hvide heste. v9 Jeg sagde: »Hvad betyder disse, min herre?« Og englen, som talte med mig, sagde til mig: »Jeg vise dig, hvad disse betyder.« v10 Den mand som holdt stille mellem myrtetræerne, svarede: »Det er dem som JHVH har sendt ud for at drage rundt på jorden.« v11 Og de sagde til JHVHs engel, som stod mellem myrtetræerne: »Vi har vandret jorden rundt, og hele jorden ligger fredeligt hen.« v12 Da svarede JHVHs engel: »Hærskarers JHVHv! hvor længe varer det, inden du vil forbarme dig over Jerusalem og Judas byer som du har været vred på i halvfjerds år?« v13 JHVH svarede englen, som talte med mig, med gode og trøstende ord. v14 Og englen, som talte med mig, sagde til mig: »Råb: Således siger Hærskarers JHVHv:\f›Jeg har en stor nidkærhed over for Jerusalem og Zion!\fOg jeg er meget vred på de sorgløse folkeslag,\ffor da jeg en kort tid var vred,\fhjalp de til ulykken.",
+      "number": 7,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Myrtetræer er stedsegrønne løvtræer.",
+          "type": "T",
+          "position": 232
+        },
+        {
+          "text": "Meningen må være, at de sorgløse folkeslag, som Gud brugte som redskab til at straffe Israels folk med, misbrugte dette til at gøre volden og ulykken større.",
+          "type": "E",
+          "position": 1168
+        }
+      ]
+    },
+    {
+      "text": "\fDerfor, således siger JHVH, har jeg på ny vendt mig til Jerusalem med barmhjertighed,\fher skal mit hus bygges, siger Hærskarers JHVHv;\fmålesnoren skal udstrækkes over Jerusalem.‹",
+      "number": 16,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fRåb igen:\f›Således siger Hærskarers JHVHv:\fMine byer skal på ny strømme over af gode ting;\fJHVH skal på ny trøste Zion,\fpå ny vil har han udvalgt Jerusalem.‹«",
+      "number": 17,
+      "version": 1472594400000
+    }
+  ]
+}

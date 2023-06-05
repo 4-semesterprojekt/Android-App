@@ -1,0 +1,148 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 4,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard, Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Med strengespil. En salme af David.",
+      "title": "Nødråb",
+      "number": 1,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "text": "\fNår jeg råber, så svar mig,\fmin retfærdigheds Gud!\fI trængslen befriede du mig;\fvær mig nådig, og hør min bøn!",
+      "title": "Henvendt til modstanderne",
+      "number": 2,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »skaffede du rum for mig«.",
+          "type": "T",
+          "position": 79
+        }
+      ]
+    },
+    {
+      "text": "\fI menneskebørn! Hvor længe skal min ære være til skændsel?\fI elsker tomhed og søger løgn. Sela",
+      "number": 3,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »mandssønner«.",
+          "type": "T",
+          "position": 15
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 95
+        }
+      ]
+    },
+    {
+      "text": "\fMen I skal vide at JHVH har udvalgt sig en der er from;\fJHVH hører, når jeg råber til ham.",
+      "number": 4,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Verbet forekommer kun her og i 2 Mos 8,18; 9,4; 11,7; 33,16, hvor Israels udvælgelse og kald pointeres.",
+          "type": "E",
+          "position": 36
+        },
+        {
+          "text": "Sætningen er omdiskuteret. Oftest foretager man små tekstrettelser så der kan oversættes: »JHVH har vist sin underfulde troskab mod mig«.",
+          "type": "E",
+          "position": 55
+        }
+      ]
+    },
+    {
+      "text": "\fBliv oprørte, men synd ikke!\fTænk efter på jeres leje, og vær stille! Sela",
+      "number": 5,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Meningen her med verbet *rigzû* (»bliv oprørte«, ordret: »ryst«) er omdiskuteret. Meningen er enten: »Bliv vrede, (men synd ikke)«. I det tilfælde er vreden rettet mod salmisten. Eller: »Skælv (for Gud) (og synd ikke)«.",
+          "type": "E",
+          "position": 28
+        },
+        {
+          "text": "Ordret: »tal i jeres hjerte«.",
+          "type": "T",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "\fBring retfærdigheds ofre,\fog stol på JHVH!",
+      "title": "Davids bøn og tillid til Gud",
+      "number": 6,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Ofre der bringer retfærdighed fordi de er bragt af et menneske der længes efter Guds retfærdighed.",
+          "type": "T",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "\fMange siger: Hvem vil lade os opleve godt?\fLøft over os dit ansigts lys, JHVHv!",
+      "number": 7,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "I betydningen »lykke«.",
+          "type": "T",
+          "position": 42
+        }
+      ]
+    },
+    {
+      "text": "\fDu gav glæde i mit hjerte,\fstørre end den de havde da deres korn og deres most var i overflod.",
+      "number": 8,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Most er ugæret druesaft.",
+          "type": "T",
+          "position": 79
+        }
+      ]
+    },
+    {
+      "text": "\fI fred vil jeg både lægge mig og sove,\ffor du, JHVHv! lader mig bo ene i tryghed.",
+      "number": 9,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Andre knytter ordet *lᵊvādād* til JHVH: »for alene du, JHVHv, lader mig bo i tryghed«.",
+          "type": "E",
+          "position": 71
+        }
+      ]
+    }
+  ]
+}

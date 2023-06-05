@@ -1,0 +1,84 @@
+{
+  "book": "Paulus' Brev til Romerne",
+  "abbreviation": "Rom",
+  "chapter": 8,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fFor så mange som drives af Guds Ånd, er Guds børn.",
+      "number": 14,
+      "version": 1645570800000
+    },
+    {
+      "text": "I modtog jo ikke en trælleånd som atter leder til frygt, men I modtog en barnekårs ånd, i hvilken vi råber: Abba, Far!",
+      "number": 15,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »stadig«.",
+          "type": "T",
+          "position": 39
+        },
+        {
+          "text": "Det græske ord betegner en adoption.",
+          "type": "T",
+          "position": 82
+        }
+      ]
+    },
+    {
+      "text": "Ånden selv vidner med vores ånd om at vi er Guds børn.",
+      "number": 16,
+      "version": 1645570800000
+    },
+    {
+      "text": "Men når vi er børn, er vi også arvinger, Guds arvinger og Kristi medarvinger, om ellers vi lider med ham for også at herliggøres med ham.",
+      "number": 17,
+      "version": 1645570800000
+    },
+    {
+      "text": "\fFor jeg holder på at den nærværende tids lidelser ikke er at regne for noget imod den herlighed som skal åbenbares på os.",
+      "number": 18,
+      "version": 1645570800000
+    },
+    {
+      "text": "For skabningen afventer med inderlig længsel Guds børns åbenbaring.",
+      "number": 19,
+      "version": 1645570800000
+    },
+    {
+      "text": "For skabningen blev underlagt forgængeligheden, ikke med egen vilje, men for hans skyld som lagde den derunder, med håb",
+      "number": 20,
+      "version": 1645570800000
+    },
+    {
+      "text": "om at også skabningen selv skal blive frigjort fra trældommen under fordærvet til Guds børns frihed i herligheden.",
+      "number": 21,
+      "version": 1645570800000
+    },
+    {
+      "text": "For vi ved at hele skabningen stadig sammen sukker og sammen er i smerte.",
+      "number": 22,
+      "version": 1645570800000
+    },
+    {
+      "text": "Dog ikke bare den, men også vi som har Åndens førstegrøde, også vi sukker ved os selv idet vi forventer barnekår, vores legemes forløsning.",
+      "number": 23,
+      "version": 1645570800000
+    }
+  ]
+}

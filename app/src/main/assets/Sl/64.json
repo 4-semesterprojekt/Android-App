@@ -1,0 +1,163 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 64,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\fSalme af David.",
+      "title": "Klage",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fGud, hør mig når jeg klager,beskyt mit liv mod frygt for fjenden.",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hør min røst i min klage.«",
+          "type": "T",
+          "position": 29
+        },
+        {
+          "text": "Ordret: »beskyt mit liv fra fjendefrygt«.",
+          "type": "T",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "\fSkjul mig for de ondes fortrolige råd,\ffor larmen fra dem som begår synd.",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Den præcise betydning af ordet *rigšāʰ* er usikker og omdiskuteret. Roden *rgš* betyder formodentlig: »være i urolig, larmende bevægelse«.",
+          "type": "T",
+          "position": 50
+        }
+      ]
+    },
+    {
+      "text": "\fDe som har skærpet deres tunge som et sværd,\fhar spændt deres pil, nemlig et bittert ord,",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\ffor i skjul at skyde den uskyldige;\fpludselig skyder de ham og frygter ikke.",
+      "number": 5,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDe fastsætter for sig selv en ond plan,\fde taler om at skjule fælder,\fde sagde: »Hvem kan se dem?«",
+      "number": 6,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord *dāvār* kan betyde både »ord« (v.4) og »plan«.",
+          "type": "T",
+          "position": 40
+        },
+        {
+          "text": "Normalt betyder verbet *spr* i pi’el: »fortælle«. Hvis det er meningen, er det udtryk for overmod at man informerer fjenden. Oftest oversætter man her: »tale om/aftale«. Nogle fortolkere foreslår tekstrettelse til verbet *ḥpr*: »grave«. »De graver for at skjule fælder«.",
+          "type": "E",
+          "position": 49
+        },
+        {
+          "text": "Undertiden retter oversættere *lāmô* (»dem«) til *lānû*: »os«",
+          "type": "T",
+          "position": 99
+        }
+      ]
+    },
+    {
+      "text": "\fDe udtænker ugerninger:\f»Vi er færdige med en udtænkt plan.«\fJa, et menneskes inderste og dets hjerte er uudgrundeligt.",
+      "title": "Guds retfærdige dom",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ofte rettes *tamnû* (»vi er færdige«) til: *tammû*: »de er færdige« eller: *ṭamᵊnû*: »de har skjult«.",
+          "type": "T",
+          "position": 39
+        },
+        {
+          "text": "»med« står ikke udtrykkeligt i den hebraiske tekst, men må være underforstået i sammenhængen, hvis teksten/oversættelsen i øvrigt er rigtig.",
+          "type": "T",
+          "position": 43
+        },
+        {
+          "text": "Alle oversættelser af dette vers må tages med forbehold.",
+          "type": "E",
+          "position": 61
+        }
+      ]
+    },
+    {
+      "text": "\fMen Gud vil skyde en pil imod dem,\fpludselig har de sår.",
+      "number": 8,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det er omdiskuteret, om verberne i v.8-10 skal oversættes ved fortid eller fremtid. Wayyiqtol skal normalt oversættes ved fortid, men kan også opfattes som profetisk tillidsfuldhed.",
+          "type": "E",
+          "position": 18
+        },
+        {
+          "text": "Accenterne i den hebraiske tekst lader »pludselig« høre til første halvvers hvor det giver god mening. Men rytmisk passer det bedre til andet halvvers.",
+          "type": "E",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fOg de vil bringe sig selv til fald ved deres tunge,\falle som ser dem, skal ryste på hovedet.",
+      "number": 9,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »og de vil bringe den til fald over dem selv, deres tunge«.",
+          "type": "T",
+          "position": 52
+        },
+        {
+          "text": "Andre oversætter: »skal flygte«. Der er tale om to forskellige verber.",
+          "type": "T",
+          "position": 93
+        }
+      ]
+    },
+    {
+      "text": "\fOg alle mennesker skal frygte\fog forkynde Guds gerning\fog give agt på hans handling.",
+      "number": 10,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDen retfærdige skal glæde sig i JHVH\fog søge tilflugt hos ham,\fog alle oprigtige af hjertet skal prise sig lykkelige.",
+      "number": 11,
+      "version": 1500242400000
+    }
+  ]
+}

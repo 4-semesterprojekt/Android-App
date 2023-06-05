@@ -1,0 +1,113 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 8,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen;\n\t\tal-ha-gittit;\n\ten salme af David.",
+      "title": "David lovpriser skaberens herlighed",
+      "number": 1,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "*lamnaṣṣēₐḥ* er omdiskuteret, men substantivet må afledes af et verbum *nṣḥ*, der betyder »lede, dirigere«.",
+          "type": "E",
+          "position": 15
+        },
+        {
+          "text": "Det vides ikke hvad der er ment med dette udtryk; det kan både være en melodiangivelse og en instrumentbetegnelse.",
+          "type": "T",
+          "position": 31
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv, vor Herre!\f\n\t\t\tHvor herligt er dit navn over hele jorden,\f\n\t\t\tdu som udbreder din majestæt over himlene!",
+      "number": 2,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "*tᵊnāʰ* er omdiskuteret. Det ser ud som imperativ af *ntn* »giv!«, men i sammenhængen kan det opfattes som kortform for infinitiven.",
+          "type": "E",
+          "position": 85
+        }
+      ]
+    },
+    {
+      "text": "\f\t\tAf spædes og diendes mund har du grundlagt et værn mod dine modstandere\f\n\t\t\tfor at standse fjenden og den som vil hævne sig.",
+      "title": "I særdeleshed prises Guds godhed mod mennesket, som han satte til hersker over jorden",
+      "number": 3,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "*ʕōz* betyder oftest »magt, styrke«, men dernæst også »fæstning, bolværk«. Endelig kan det betyde »hæder, lovprisning, lovsang«, som det er forstået i LXX, jf. Matt 21,16. Sammenhængen her tyder på »værn«.",
+          "type": "E",
+          "position": 53
+        },
+        {
+          "text": "*lᵊmaʕan* betyder ordret »for … skyld«, men oversættes her ofte »mod«.",
+          "type": "T",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "\f\tNår jeg ser din himmel, dine fingres gerninger,\f\n\t\t\tmånen og stjernerne,\n\t\t\t\tsom du anbragte,",
+      "number": 4,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\thvad er da et menneske\n\t\t\t\tat du husker på det;\f\n\t\t\tet menneskebarn\n\t\t\t\tat du tager dig af det?",
+      "number": 5,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tDu har gjort det kun lidt ringere end Gud;\f\n\t\t\t\t\t\t\tdu kronede det med ære og herlighed.",
+      "number": 6,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Oversættes oftest »englene« (således LXX), jf. Hebr 2,7.",
+          "type": "T",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\tDu gør det til hersker over dine hænders gerninger;\f\n\t\t\t\t\t\tdu har lagt alting under dets fødder:",
+      "number": 7,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tFår og okser, dem alle sammen,\f\n\t\t\t\t\t\t\t\tja, også markens dyr,",
+      "number": 8,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tfuglene under himlen\n\t\t\t\t\t\t\t\t\tog fiskene i havet,\f\n\t\t\t\t\t\t\t\tdet som færdes ad havets stier.",
+      "title": "Lovprisning",
+      "number": 9,
+      "version": 1666562400000
+    },
+    {
+      "text": "\fJHVHv, vor Herre!\f\n\tHvor herligt er dit navn over hele jorden!",
+      "number": 10,
+      "version": 1666562400000
+    }
+  ]
+}

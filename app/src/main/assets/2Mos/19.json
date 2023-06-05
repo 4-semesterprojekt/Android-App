@@ -1,0 +1,208 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 19,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fI den tredje måned efter at Israels børn var draget ud af Egyptens land, på den dag kom de til Sinajs ørken.",
+      "title": "Åbenbaringen på Sinaj",
+      "number": 1,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Der er ikke angivet en dato; meningen er nok at det skete på den første dag (nymånen) i den tredje måned efter udvandringen.",
+          "type": "E",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "De brød op fra Refidim og kom til Sinajs ørken og slog lejr i ørkenen. Israel slog lejr dér over for bjerget,",
+      "number": 2,
+      "version": 1587506400000
+    },
+    {
+      "text": "men Moses steg op til Gud, og JHVH råbte til ham fra bjerget og sagde: »Sådan skal du sige til Jakobs hus og fortælle Israels børn:",
+      "number": 3,
+      "version": 1587506400000
+    },
+    {
+      "text": "›I har set, hvad jeg gjorde ved Egypten, og jeg bar jer på ørnevinger og bragte jer til mig.",
+      "number": 4,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens *nešer* kan betegne både »ørn« og »grib«. I antikke højkulturer var gribben (både han- og hunfuglen) symbol for forældreomsorg og forældrekærlighed.",
+          "type": "E",
+          "position": 69
+        }
+      ]
+    },
+    {
+      "text": "Derfor: Hvis I vil lytte omhyggeligt  til min røst og holde min pagt, skal I være mig en ejendom ud af alle folkeslagene, selv om hele jorden tilhører mig.",
+      "number": 5,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har verbet *šmʕ* (»lytte«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "type": "T",
+          "position": 36
+        },
+        {
+          "text": "Det hebraiske *kî* (»selv om«) skal oftest oversættes: »for«, og det er også en mulighed her.",
+          "type": "T",
+          "position": 129
+        }
+      ]
+    },
+    {
+      "text": "Så I skal for mig være et kongerige af præster og et helligt folk. Disse er de ord som du skal sige til Israels børn.‹«",
+      "number": 6,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Det er omdiskuteret hvordan grundtekstens genitiv skal forstås. Sprogligt kan meningen være: »et kongerige med præster som regenter / et præsteligt kongerige / et kongerige, der består af præster«. Sidstnævnte synes mest oplagt i sammenhængen.",
+          "type": "E",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "Moses kom og kaldte på folkets ældste og forelagde dem alle disse ord som JHVH havde befalet ham.",
+      "number": 7,
+      "version": 1587506400000
+    },
+    {
+      "text": "Hele folket svarede samstemmende: »Alt det som JHVH har sagt, vil vi gøre.« Og Moses bragte folkets ord tilbage til JHVH.",
+      "title": "Forberedelsen til pagtslutningen",
+      "number": 8,
+      "version": 1587506400000
+    },
+    {
+      "text": "\fDa sagde JHVH til Moses: »Se, jeg vil komme til dig i en tæt sky for at folket må høre når jeg taler med dig, og også altid må stole på dig.« Moses fortalte JHVH folkets ord,",
+      "number": 9,
+      "version": 1587506400000
+    },
+    {
+      "text": "og JHVH sagde til Moses: »Gå til folket, og du skal hellige dem i dag og i morgen, og de skal vaske deres klæder.",
+      "number": 10,
+      "version": 1587506400000
+    },
+    {
+      "text": "De skal være parate til den tredje dag, for på den tredje dag vil JHVH for øjnene af hele folket stige ned på Sinajs bjerg.",
+      "number": 11,
+      "version": 1587506400000
+    },
+    {
+      "text": "Du skal sætte gærde rundt omkring folket og sige: ›Vogt jer for at gå op på bjerget og at røre ved dets fod; hver den som rører ved bjerget skal så sandelig dø.‹",
+      "number": 12,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »grænse /rand«.",
+          "type": "T",
+          "position": 108
+        },
+        {
+          "text": "Den hebraiske tekst har verbet *mwt* (»dø«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "type": "T",
+          "position": 161
+        }
+      ]
+    },
+    {
+      "text": "Ingen hånd må røre ved ham; men han skal så sandelig stenes eller skydes. Hvad enten det er et dyr eller et menneske, skal det ikke leve. Når hornet giver en lang lyd, må de gå op på bjerget.«",
+      "number": 13,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "På hebraisk hedder det: *yōvēl*. Ordet går igen i betegnelsen »jubelår«, som rettelig burde hedde: »jobelår«. Det indvarsles med vædderhorn.",
+          "type": "E",
+          "position": 148
+        }
+      ]
+    },
+    {
+      "text": "Moses gik ned ad bjerget til folket; og han helligede folket, og de vaskede deres klæder.",
+      "number": 14,
+      "version": 1587506400000
+    },
+    {
+      "text": "Og han sagde til folket: »Vær parate til om tre dage; kom ikke kvinder nær.«",
+      "number": 15,
+      "version": 1587506400000
+    },
+    {
+      "text": "Og det skete på den tredje dag, da det blev morgen, at der var torden og lyn og en tung sky på bjerget og en meget stærk lyd af horn, så hele folket som var i lejren, skælvede.",
+      "number": 16,
+      "version": 1587506400000
+    },
+    {
+      "text": "Men Moses førte folket ud af lejren hen imod Gud, og de stillede sig ved foden af bjerget.",
+      "number": 17,
+      "version": 1587506400000
+    },
+    {
+      "text": "Hele Sinajs bjerg var hyllet i røg, for JHVH steg ned på det i ilden, og røgen fra det steg op som røgen fra en smelteovn, og hele bjerget skælvede voldsomt.",
+      "number": 18,
+      "version": 1587506400000
+    },
+    {
+      "text": "Hornets lyd tog til og blev meget kraftig. Moses talte, og Gud svarede ham lydelig.",
+      "number": 19,
+      "version": 1587506400000
+    },
+    {
+      "text": "JHVH steg ned på Sinajs bjerg, på bjergets top, og JHVH kaldte Moses op til bjergets top, og Moses steg op.",
+      "number": 20,
+      "version": 1587506400000
+    },
+    {
+      "text": "Da sagde JHVH til Moses: »Gå ned, advar folket for at de ikke skal bryde frem til JHVH for at se, så mange af dem skal falde.",
+      "number": 21,
+      "version": 1587506400000
+    },
+    {
+      "text": "Også præsterne, som kommer nær til JHVH, skal hellige sig for at JHVH ikke skal bryde løs mod dem.«",
+      "number": 22,
+      "version": 1587506400000
+    },
+    {
+      "text": "Moses sagde til JHVH: »Folket kan ikke stige op på Sinajs bjerg, for du har selv advaret os og sagt: ›Sæt gærde om bjerget og hellig det.‹«",
+      "number": 23,
+      "version": 1587506400000
+    },
+    {
+      "text": "Men JHVH sagde til ham: »Gå, stig ned, og kom så op, du og Aron med dig. Men præsterne og folket må ikke bryde frem for at stige op til JHVH for at han ikke skal bryde løs mod dem.«",
+      "number": 24,
+      "version": 1587506400000
+    },
+    {
+      "text": "Så steg Moses ned til folket og sagde det til dem.",
+      "number": 25,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret slutter kapitlet lidt abrupt. Der står kun: »og han sagde til dem.« Enten må man underforstå at Moses sagde det han havde fået besked på at sige, eller også må det ses som indledning til det følgende kapitel så der skal sættes et kolon: »… og sagde til dem:«",
+          "type": "T",
+          "position": 41
+        }
+      ]
+    }
+  ]
+}

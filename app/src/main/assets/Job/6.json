@@ -1,0 +1,331 @@
+{
+  "book": "Jobs Bog",
+  "abbreviation": "Job",
+  "chapter": 6,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Lydia Nørrelykke Gad",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fOg Job sagde\n\t:",
+      "title": "Job klager over sin store smerte",
+      "number": 1,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t»Åh, om man virkelig ville veje min fortvivlelse\n\t\t\t\t\t\t\tog også lægge min ulykke på vægtskålen,",
+      "number": 2,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret »vægtskålene«.",
+          "type": "T",
+          "position": 98
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tfor nu er de tungere end havets sand.\f\n\t\t\t\t\t\t\tDerfor var min tale overilet.",
+      "number": 3,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\t\tFor den Almægtiges pile sidder i mig,\f\n\t\t\t\t\t\t\tså min ånd drikker deres gift;\f\n\t\t\t\t\t\tGuds rædsler angriber mig.",
+      "number": 4,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\tSkriger vildæslet over frisk græs?\f\n\t\t\t\t\tBrøler oksen når den har foder?",
+      "number": 5,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\tMon mad uden smag spises uden salt,\f\n\t\t\t\t\tmon der er smag i katostens saft?",
+      "number": 6,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Juice (slimet) fra *ḥallāmût*. Det hebraiske ord har flere betydninger, (1) malve/katost, en plante med lilla blomster, anvendt i naturmedicin, spiselig plante, mild cremet smag; (2) æggehvide, virkelig uden smag (3) purslane /portulak, anvendes i salat, smagen er let syrlig. Anvendelsen her er figurativt om smagløs, uinteressant og kedsommelig samtale.",
+          "type": "E",
+          "position": 80
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tJeg værger mig ved at røre det;\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\f\n\t\t\t\t\t\t\tde er som fordærvet mad.",
+      "title": "Job ønsker sig døden",
+      "number": 7,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »min sjæl«.",
+          "type": "T",
+          "position": 10
+        },
+        {
+          "text": "I betydningen lidelserne.",
+          "type": "T",
+          "position": 68
+        },
+        {
+          "text": "Kan også oversættes: »som sygdom i min krop«.",
+          "type": "T",
+          "position": 90
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tGid\n\t\t\t\t\t\t\tmin bøn måtte nå frem,\f\n\t\t\t\t\t\tog Gud gav mig håb!",
+      "number": 8,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tGid Gud ville være tilfreds\n\t\t\t\t\t\t\t\t\tog knuse mig,\f\n\t\t\t\t\t\t\t\tløfte sin hånd\n\t\t\t\t\t\t\t\t\tog skære mig af.",
+      "number": 9,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes »beslutte«.",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\tMå det stadig være min trøst,\f\n\t\t\t\t\t\t\tog lad mig juble i lidelsen,\n\t\t\t\t\t\t\t\thvor ingen har medlidenhed,\f\n\t\t\t\t\t\tat jeg ikke har fornægtet den Helliges tale.",
+      "number": 10,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »springe højt« af glæde er meningen",
+          "type": "T",
+          "position": 60
+        },
+        {
+          "text": "Ordret: »kval«, kan også oversættes med »smerte«.",
+          "type": "T",
+          "position": 72
+        },
+        {
+          "text": "Ordret: »skjult«.",
+          "type": "T",
+          "position": 141
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\tHvad er min styrke\n\t\t\t\t\t\t\tat jeg skulle håbe,\f\n\t\t\t\t\t\tog hvilket endeligt venter mig\n\t\t\t\t\t\t\tat jeg skulle være tålmodig?",
+      "number": 11,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\t\tEr min styrke som stenens styrke?\f\n\t\t\t\t\t\tEr mit kød af bronze?",
+      "number": 12,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »stenene«.",
+          "type": "T",
+          "position": 31
+        },
+        {
+          "text": "Kan oversættes med »kobber«, men her er formentlig tænkt på legeringen bronze = kobber og tin, der er stærkere end rent kobber, se 4 Mos 21.9.",
+          "type": "T",
+          "position": 68
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tEr min hjælp virkelig ikke i mig selv\f\n\t\t\t\t\t\t\t\tog er lykken blev fjernet fra mig?",
+      "title": "Job klager over vennernes hårde og tomme ord",
+      "number": 13,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\tDen der nægter sin ven nåde,\f\n\t\t\t\than har forladt frygten for den Almægtige.",
+      "number": 14,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes »den fortvivlede skulle forvente nåde fra sin ven, så han ikke skal opgive frygten for den Almægtige«.",
+          "type": "T",
+          "position": 31
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tMine brødre har svigtet som en bæk,\f\n\t\t\t\t\tsom vandstrømmene i en wadi blev de borte.",
+      "number": 15,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tDe er grumset af is,\f\n\t\t\t\t\t\t\thvori sne skjuler sig.",
+      "number": 16,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "»De« henfører til vandstrømmene.",
+          "type": "T",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tTil sin tid\n\t\t\t\t\t\t\t\t\t\t\ttørrer de ud\n\t\t\t\t\t\t\t\t\t\tog forsvinder,\f\n\t\t\t\t\t\t\t\t\t\ti varmen\n\t\t\t\t\t\t\t\t\ttørrer de ud fra deres flodlejer.",
+      "number": 17,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »steder«, »områder«.",
+          "type": "T",
+          "position": 132
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tKaravaner bøjer af fra deres vej,\f\n\t\t\t\t\t\t\t\tde drager op i ørkenen\n\t\t\t\t\t\t\t\t\tog omkommer.",
+      "number": 18,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »tomhed«, samme hebraiske ord anvendt i 1 Mos 1,1.2.",
+          "type": "T",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tKaravanerne fra Tema spejdede efter dem,\f\n\t\t\t\t\t\t\t\tde vejfarende fra Saba satte deres håb til dem.",
+      "number": 19,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "»Efter dem« er føjet til. Ordet »dem« hentyder til vand, vandstrømme. Dette er underforstået i vers 19-20.",
+          "type": "T",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\tDe blev til skamme,\n\t\t\t\t\t\t\t\t\t\tfordi de stolede på dem,\f\n\t\t\t\t\t\t\t\t\tde kom helt hen til dem\n\t\t\t\t\t\t\t\t\t\tog blev skuffede.",
+      "number": 20,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »søge efter«, »søge intenst«.",
+          "type": "T",
+          "position": 126
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\tJa, nu sker det for jer,\f\n\t\t\t\t\t\t\t\tI ser rædsel\n\t\t\t\t\t\t\t\t\tog bliver bange!",
+      "number": 21,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tHar jeg måske sagt:\n\t\t\t\t\t\t\t\t»Giv mig noget!«\f\n\t\t\t\t\t\t\t\t\t\t»Giv mig en gave til mit bedste af jeres rigdom!«",
+      "number": 22,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret »styrke«.",
+          "type": "T",
+          "position": 113
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\tEller: »Befri mig fra fjendens magt\f\n\t\t\t\t\t\t\t\t\t\tog løskøb mig fra voldsmænd!«",
+      "number": 23,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hånd«.",
+          "type": "T",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tUndervis mig,\n\t\t\t\t\t\t\t\tog jeg vil tie stille,\f\n\t\t\t\t\t\t\tog\n\t\t\t\t\t\t\t\t\t\ter jeg faret vild,\n\t\t\t\t\t\t\t\t\tså belær mig!",
+      "number": 24,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tHvor er oprigtiges tale virkningsfuld!\f\n\t\t\t\t\t\t\t\t\t\tMen hvad gavn har man af irettesættelse fra jer?",
+      "number": 25,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »ordene«.",
+          "type": "T",
+          "position": 32
+        },
+        {
+          "text": "Kan også oversættes: »Hvorledes kan oprigtiges tale være skadelig?«.",
+          "type": "T",
+          "position": 47
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\tMon\n\t\t\t\t\t\t\t\t\t\t\t\tI har udtænkt jeres tale som en irettesættelse?\n\t\f\n\t\t\t\t\t\t\t\t\t\t\t\tEr den fortvivledes ord forgæves?",
+      "number": 26,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »til vinden«.",
+          "type": "T",
+          "position": 122
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tEndog om den forældreløse ville I kaste lod,\f\n\t\t\t\t\t\t\t\t\t\t\tog I ville handle om jeres ven.",
+      "number": 27,
+      "version": 1681336800000
+    },
+    {
+      "text": "\f\t\t\t\t\tMen nu\n\t\t\t\t\t\t\tmå I beslutte jer,\n\t\t\t\t\t\t\tvend jer mod mig,\f\n\t\t\t\t\t\t\t\tog over for jer,\n\t\t\t\t\t\t\t\t\ttror I jeg ville lyve?",
+      "number": 28,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes »være villige til at«.",
+          "type": "T",
+          "position": 38
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tVend om,\n\t\t\t\t\t\t\t\t\tlad der ikke forekomme uret,\f\n\t\t\t\t\t\t\t\tmen vend om,\n\t\t\t\t\t\t\t\t\tretten er stadig på min side.",
+      "number": 29,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »min ret i det«.",
+          "type": "T",
+          "position": 115
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tEr der uret på min tunge?\f\n\t\t\t\t\t\t\tKan min gane ikke skelne ulykker?",
+      "number": 30,
+      "version": 1681336800000
+    }
+  ]
+}

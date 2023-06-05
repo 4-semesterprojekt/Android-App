@@ -1,0 +1,136 @@
+{
+  "book": "Lukasevangeliet",
+  "abbreviation": "Luk",
+  "chapter": 14,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEn gang da han kom ind i en af de øverste farisæeres hus på en sabbat for at deltage i et måltid, holdt de nøje øje med ham.",
+      "number": 1,
+      "version": 1631656800000
+    },
+    {
+      "text": "Og se, en mand med vand i kroppen stod foran ham.",
+      "number": 2,
+      "version": 1631656800000
+    },
+    {
+      "text": "Jesus tog til orde og sagde til de lovkyndige og farisæerne: »Er det tilladt at helbrede på sabbatten eller ej?«",
+      "number": 3,
+      "version": 1631656800000
+    },
+    {
+      "text": "Men de tav. Han tog på ham og helbredte ham og lod ham gå.",
+      "number": 4,
+      "version": 1631656800000
+    },
+    {
+      "text": "Han sagde til dem: »Hvem iblandt jer vil ikke straks, hvis hans søn eller okse falder i en brønd, trække dem op på sabbatsdagen?«",
+      "number": 5,
+      "version": 1631656800000
+    },
+    {
+      "text": "Det kunne de ikke svare på.",
+      "number": 6,
+      "version": 1631656800000
+    },
+    {
+      "text": "\fMen han fortalte en lignelse til de indbudte da han bemærkede hvordan de udvalgte sig de øverste pladser ved bordet, og sagde til dem:",
+      "number": 7,
+      "version": 1631656800000
+    },
+    {
+      "text": "»Når du bliver indbudt af nogen til bryllup, da skal du ikke sætte dig øverst til bords, for at ikke en fornemmere end du skulle være indbudt af ham,",
+      "number": 8,
+      "version": 1631656800000
+    },
+    {
+      "text": "og han som indbød dig og ham, kommer og siger til dig: ›Giv ham plads,‹ og du da med skam kommer til at sidde nederst.",
+      "number": 9,
+      "version": 1631656800000
+    },
+    {
+      "text": "Men når du bliver indbudt, gå da hen og sæt dig på den nederste, for at når han som har indbudt dig, kommer, han da må sige til dig: ›Ven! Ryk højere op.‹ Da skal du blive æret over for alle dem der sidder til bords med dig.",
+      "number": 10,
+      "version": 1631656800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »ligger«.",
+          "type": "T",
+          "position": 205
+        }
+      ]
+    },
+    {
+      "text": "For enhver som ophøjer sig selv, vil blive ydmyget; og den som ydmyger sig selv, vil blive ophøjet.«",
+      "number": 11,
+      "version": 1631656800000
+    },
+    {
+      "text": "\fMen han sagde til ham: »Der var en mand som holdt et stort måltid og indbød mange.",
+      "number": 16,
+      "version": 1631656800000
+    },
+    {
+      "text": "Han sendte sin tjener ud da det var tid til måltidet, for at sige til de indbudte: ›Kom, for nu er det færdigt.‹",
+      "number": 17,
+      "version": 1631656800000
+    },
+    {
+      "text": "Men de begyndte alle som en at undskylde sig. Den første sagde til ham: ›Jeg har købt en mark og er nødt til at gå ud og se til den; jeg beder dig, hav mig undskyldt!‹",
+      "number": 18,
+      "version": 1631656800000
+    },
+    {
+      "text": "Og en anden sagde: ›Jeg har købt fem par okser og skal hen og prøve dem; jeg beder dig, hav mig undskyldt!‹",
+      "number": 19,
+      "version": 1631656800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »åg«, om to dyr, der går under et åg.",
+          "type": "T",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "Og en anden sagde: ›Jeg har taget en kvinde til hustru, og derfor kan jeg ikke komme.‹",
+      "number": 20,
+      "version": 1631656800000
+    },
+    {
+      "text": "Tjeneren kom og fortalte sin herre dette; da blev husherren vred og sagde til sin tjener: ›Skynd dig ud ud på byens gader og stræder, og før de fattige og vanføre og lamme og blinde herind!‹",
+      "number": 21,
+      "version": 1631656800000
+    },
+    {
+      "text": "Tjeneren sagde: ›Herre! det er sket som du befalede, og der er endnu plads.‹",
+      "number": 22,
+      "version": 1631656800000
+    },
+    {
+      "text": "Herren sagde til tjeneren: ›Gå ud på vejene og ved gærderne og nød dem til at gå ind for at mit hus kan blive fuldt.",
+      "number": 23,
+      "version": 1631656800000
+    },
+    {
+      "text": "For jeg siger jer at ingen af de mænd som var indbudt, skal smage mit måltid.‹«",
+      "number": 24,
+      "version": 1631656800000
+    }
+  ]
+}

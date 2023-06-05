@@ -1,0 +1,142 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 85,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\fAf Koras sønner. En salme.",
+      "title": "Gud var nådig",
+      "number": 1,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fDu har haft lyst, JHVHv, til dit land,\fdu vendte Jakobs situation.",
+      "number": 2,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen af linjen er usikker. Konsonantteksten *šbwt* forudsætter vokalisering: *šᵊvût*: »vending«, der i forbindelse med verbum af samme rod (*šwb*) betyder»vende ens situation/lod«. Masoreternes vokalisering af ordet forudsætter: *šᵊvît*: »fangenskab«.",
+          "type": "E",
+          "position": 67
+        }
+      ]
+    },
+    {
+      "text": "\fDu borttog dit folks skyld,\fdu skjulte al deres synd. Sela",
+      "number": 3,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "\fDu holdt al din vrede tilbage,\fdu vendte om fra din vredes glød.",
+      "title": "Gud, vær os nådig",
+      "number": 4,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fGenrejs os, vor frelses Gud,\fog opgiv din vrede mod os.",
+      "number": 5,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret blot: »vend os«. Meningen må enten være: »genrejs os«, eller: »bring os tilbage«, eller måske: »vend tilbage til os«. Andre foreslår at rette: *šûvēnû* (»vend os«) til: *šûv nāˀ*: »vend dog tilbage«.",
+          "type": "E",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "text": "\fVil du være vred på os for evigt?\fVil du udstrække din vrede til slægt efter slægt?",
+      "number": 6,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fVil du ikke gøre os levende igen,\fså dit folk kan glæde sig i dig?",
+      "number": 7,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fJHVHv, lad os se din nåde,\fog giv os din frelse!",
+      "title": "Gud vil være nådig",
+      "number": 8,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fJeg vil høre, hvad Gud taler,\fJHVH taler jo fred\ftil sit folk og til sine fromme,\fså de ikke vender tilbage til tåbelighed.",
+      "number": 9,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fJa, hans frelse er nær hos dem som frygter ham,\fså herlighed kan bo i vort land.",
+      "number": 10,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fNåde og sandhed har mødt hinanden,\fretfærdighed og fred har kysset.",
+      "number": 11,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "text": "\fSandhed skal spire frem af jorden,\fog retfærdighed skal se ned fra himlen.",
+      "number": 12,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fJHVH vil også give det som er godt,\fog vort land vil give sin afgrøde.",
+      "number": 13,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fRetfærdighed skal gå foran ham\fog fred i hans skridts spor!",
+      "number": 14,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »foran hans ansigt«.",
+          "type": "T",
+          "position": 31
+        },
+        {
+          "text": "Den masoretiske tekst ordret: »og han/den gør sine skridt til en vej/til et spor«. Det er foreslået at oversætte: »og den bereder vej for hans skridt«, med »retfærdighed« som subjekt. Sådan som præpositionen *lᵊ* (»på/for«) er anbragt, er det dog næppe muligt. Det er nok nødvendigt (som forudsat her) at rette: *wᵊyāśēm* (»og han sætter«) til: *wᵊšālôm*: »og fred« eller: *wᵊyēšaʕ*: »og frelse«.",
+          "type": "E",
+          "position": 60
+        }
+      ]
+    }
+  ]
+}

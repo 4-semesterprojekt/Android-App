@@ -1,0 +1,117 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 3,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard, Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEn salme af David, da han flygtede for sin søn Absalom.",
+      "title": "Davids nød",
+      "number": 1,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »for sin søn Absaloms ansigt«.",
+          "type": "T",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv! hvor er mine fjender mange;\fmange rejser sig imod mig!",
+      "number": 2,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fMange siger om mig:\fDer er ingen frelse for ham hos Gud. Sela",
+      "title": "Davids håb og tillid",
+      "number": 3,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »om min sjæl«.",
+          "type": "T",
+          "position": 20
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 62
+        }
+      ]
+    },
+    {
+      "text": "\fMen du, JHVHv! er et skjold for mig,\fmin ære,\fden der løfter mit hoved.",
+      "number": 4,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Med det bibelske ord *kᵊvôdî* er der ikke så meget tænkt på herlighed og højagtelse som på menneskeværd. Dvs. Gud er den der giver mig værdi som menneske. Grundbetydningen af roden *kbd* er »tyngde«.",
+          "type": "E",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "\fJeg råber højt til JHVH,\fog han svarer mig fra sit hellige bjerg. Sela",
+      "number": 5,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Min stemme – jeg råber til JHVH«.",
+          "type": "T",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "\fJeg lagde mig og sov;\fjeg vågnede, for JHVH støtter mig.",
+      "number": 6,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fJeg vil ikke frygte for en skare på ti tusind\fder har rejst sig imod mig fra alle sider.",
+      "title": "David beder om hjælp og nåde",
+      "number": 7,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Ordet *ʕām* (»folk/skare«) kan her være brugt om både Absaloms tilhængere og om hans og fjendtlige folks soldater.",
+          "type": "T",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "\fRejs dig, JHVHv! frels mig, min Gud!\fFor du har slået alle mine fjender på kinden;\fde ugudeliges tænder har du knust.",
+      "number": 8,
+      "version": 1486335600000
+    },
+    {
+      "text": "\fHos JHVH er frelsen.\fLad din velsignelse være over dit folk! Sela",
+      "number": 9,
+      "version": 1486335600000,
+      "footnotes": [
+        {
+          "text": "Ordret blot: »Over dit folk din velsignelse«. Sætningen opfattes oftest som et velsignelsesønske, men den kan også oversættes: »Din velsignelse er over dit folk!«",
+          "type": "E",
+          "position": 61
+        }
+      ]
+    }
+  ]
+}

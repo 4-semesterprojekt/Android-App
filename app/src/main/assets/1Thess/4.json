@@ -1,0 +1,64 @@
+{
+  "book": " Paulus' Første Brev til Thessalonikerne",
+  "abbreviation": "1Thess",
+  "chapter": 4,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Ulrik Sandborg-Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fI øvrigt, brødre, beder vi jer og formaner jer i Herren Jesus at I lever mere og mere sådan som I modtog det af os, nemlig hvordan I bør leve og behage Gud, som I jo også gør.  v2 I ved jo hvilke leveregler vi gav jer ved Herren Jesus.",
+      "number": 1,
+      "version": 1613602800000,
+      "footnotes": [
+        {
+          "text": "Ordret, »vandrer«.",
+          "type": "T",
+          "position": 73
+        }
+      ]
+    },
+    {
+      "text": "\fFor dette er nemlig Guds gode vilje med jer, at I helliges: at I afholder jer fra utugt; v4 at hver af jer véd at vinde sig sin egen hustru i hellighed og ære, v5 ikke i lidenskabeligt begær ligesom hedningerne, der ikke kender Gud; v6 og at ingen foruretter eller misbruger sin egen bror i nogen sag. For Herren hævner alt dette, som vi også førhen rent ud sagde til jer og vidnede for jer. v7 For Gud kaldte os jo ikke til urenhed, men til helliggørelse.",
+      "number": 3,
+      "version": 1613602800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »forretning/foretagende«.",
+          "type": "T",
+          "position": 301
+        },
+        {
+          "text": "Kan også oversættes: »for Herren er en hævner over alle den slags mennesker«. Grundteksten er tvetydig.",
+          "type": "E",
+          "position": 331
+        }
+      ]
+    },
+    {
+      "text": "\fMen om broderkærlighed har I ikke brug for, at jeg skriver til jer.  I er nemlig selv oplært af Gud til at elske hinanden. v10 Det samme gør I jo også imod alle brødrene i hele Makedonien.  Men vi opmuntrer jer, brødre, til at gøre det mere og mere, v11 og til at sætte en ære i at leve stilfærdigt og varetage enhver sit, og til at enhver arbejder med sine egne hænder, sådan som vi pålagde jer det. Det gjorde vi, for at I må leve sømmeligt over for dem, som er udenfor, og for at I ikke skal mangle noget.",
+      "number": 9,
+      "version": 1613602800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »vandre«.",
+          "type": "T",
+          "position": 433
+        }
+      ]
+    },
+    {
+      "text": "\fMen vi ønsker ikke, brødre, at I skal være udvidende om dem som er sovet hen, for at I ikke skal sørge ligesom de andre, som ikke har noget håb. v14 For når vi tror at Jesus døde og opstod, så vil Gud også på samme måde føre de hensovede i Jesus sammen med ham. v15 For dette siger jeg til jer med et Herrens ord, at vi der lever og bliver tilbage indtil Herrens komme, vi skal på ingen måde komme forud for dem som er hensovet. v16 For Herren selv vil med et kommandoråb, med en ærkeengels røst og med en Guds basun stige ned fra himlene. Og de som er døde i Kristus, skal opstå først. v17 Derefter skal vi som lever, som er blevet tilbage, bortrykkes sammen med dem i skyerne for at mødes med Herren i luften. Og sådan skal vi altid være sammen med Herren. v18 Trøst derfor hinanden med disse ord.",
+      "number": 13,
+      "version": 1613602800000
+    }
+  ]
+}

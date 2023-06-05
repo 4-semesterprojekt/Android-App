@@ -1,0 +1,320 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 21,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDette er de retsregler som du skal forelægge dem:",
+      "title": "Love om hebraiske trælle",
+      "number": 1,
+      "version": 1596837600000
+    },
+    {
+      "text": "»Når du køber en hebraisk træl, skal han trælle i seks år, men i det syvende skal han gives fri for intet.",
+      "number": 2,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Der er ikke tale om almindelig slavehandel, men om at en israelit kunne komme i økonomiske vanskeligheder eller i gæld så han måtte sælge sig selv som »træl« - så at sige på en seksårig kontrakt.",
+          "type": "E",
+          "position": 31
+        }
+      ]
+    },
+    {
+      "text": "Hvis han kommer som enlig, skal han frigives som enlig; hvis han er en kvindes mand, skal hans hustru frigives sammen med ham.",
+      "number": 3,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »gå ud«.",
+          "type": "T",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "Hvis hans herre giver ham en hustru, og hun føder ham sønner eller døtre, skal kvinden og hendes børn tilhøre hendes herre, og han selv skal frigives alene.",
+      "number": 4,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Der er formodentlig enten tale om at hun som hebraisk træl skal fuldende sin seksårs-kontrakt, eller at der er tale om en kana’anæisk kvinde der ikke er omfattet af lovene her.",
+          "type": "E",
+          "position": 156
+        }
+      ]
+    },
+    {
+      "text": "Men hvis trællen beslutsomt siger: ›Jeg elsker min herre, min hustru og mine børn, jeg vil ikke gives fri,‹",
+      "number": 5,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har verbet *ʔmr* (»sige«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet, gengivet her med: »beslutsomt«.",
+          "type": "T",
+          "position": 34
+        }
+      ]
+    },
+    {
+      "text": "så skal hans herre føre ham frem for Gud og føre ham hen til døren eller til dørstolpen, og hans herrer skal stikke en syl gennem hans øre; og han skal være hans træl for altid.",
+      "number": 6,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "I den hebraiske tekst er der bestemt artikel foran »Gud« (*hāˀᵉlōhîm*). Der er to mulige forståelser: Enten kan det oversættes: »dommerne«, eller også (valgt her) som pointering af at der er tale om den sande Gud.",
+          "type": "T",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "Men når en mand sælger sin datter til at være trælkvinde, skal hun ikke frigives som trællene frigives.",
+      "number": 7,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Der er i dette afsnit tale om en datter der bliver medhustru for ejeren eller hans søn. Hun er en del af familien og hendes børn får arveret. Derfor gælder lovene i vers 2-6 ikke for hende. Hun har status som gift kvinde. Bestemmelserne er en beskyttelse af hende. Når det drejer sig om en kvinde der bliver »trælkvinde« uden at blive hustru eller medhustru, gælder reglen i 5 Mos 15,12, hvor hun stilles lige med den mandlige træl (vers 2-6).",
+          "type": "E",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "Hvis hun vækker mishag i sin herres øjne, som har bestemt hende for sig selv, skal han lade hende købe fri; han har ikke ret til at sælge hende til et fremmed folk, da han har handlet troløst mod hende.",
+      "number": 8,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske *ʕam* (»folk«) bruges i en del sammenhænge generelt om »mennesker«. Det er absolut en mulighed her.",
+          "type": "T",
+          "position": 164
+        }
+      ]
+    },
+    {
+      "text": "Men hvis han bestemmer hende for sin søn, skal han behandle hende med døtrenes rettighed.",
+      "number": 9,
+      "version": 1596837600000
+    },
+    {
+      "text": "Hvis han tager sig en anden, må han ikke skære ned på hendes mad, hendes klædning eller ægteskabelige omgang.",
+      "number": 10,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »kød«. Bestemmelsen går formodentlig på, at hun skal have del i familiens mad og ikke nøjes med trællenes ringere mad.",
+          "type": "T",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "Men hvis han ikke yder hende disse tre ting, skal hun frigives for intet, uden betaling.«",
+      "title": "Love om dødsstraf",
+      "number": 11,
+      "version": 1596837600000
+    },
+    {
+      "text": "\f»Den som slår et menneske så det dør, skal afgjort lide døden.",
+      "number": 12,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Se note til vers 5.",
+          "type": "T",
+          "position": 51
+        }
+      ]
+    },
+    {
+      "text": "Har han imidlertid ikke ligget på lur efter ham, men Gud har ladet det ske ved hans hånd, så vil jeg anvise dig et sted, hvor han skal flygte hen.",
+      "number": 13,
+      "version": 1596837600000
+    },
+    {
+      "text": "Men hvis en mand behandler sin næste overmodigt for at slå ham ihjel med list, så skal du tage ham bort fra mit alter for at han skal lide døden.",
+      "number": 14,
+      "version": 1596837600000
+    },
+    {
+      "text": "Den som slår sin far eller mor, skal afgjort lide døden.",
+      "number": 15,
+      "version": 1596837600000
+    },
+    {
+      "text": "Den som stjæler et menneske og sælger det eller det findes i hans varetægt, skal afgjort lide døden.",
+      "number": 16,
+      "version": 1596837600000
+    },
+    {
+      "text": "Den som forbander sin far eller sin mor, skal afgjort lide døden.«",
+      "title": "Love om legemsbeskadigelse",
+      "number": 17,
+      "version": 1596837600000
+    },
+    {
+      "text": "\f»Når mennesker strides, og den ene slår sin næste med en sten eller med knytnæve, og han ikke dør, men må holde sengen –",
+      "number": 18,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *ʔegrōf* er omdiskuteret. De fleste opfatter det som »knytnæve«, andre oversætter ved: »jordknold«.",
+          "type": "T",
+          "position": 82
+        }
+      ]
+    },
+    {
+      "text": "hvis han kommer op igen og går omkring udenfor ved sin stok, så skal den som slog, være fri for straf; dog skal han betale for hans tabte tid, og han skal sørge for hans fuldkomne helbredelse.",
+      "number": 19,
+      "version": 1596837600000
+    },
+    {
+      "text": "Når en mand slår sin træl eller sin trælkvinde med sin stok så de dør under hans hånd, skal det afgjort hævnes.",
+      "number": 20,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »med stokken«.",
+          "type": "T",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "Men hvis vedkommende lever en dag eller to, skal det ikke hævnes; for vedkommende er hans penge.",
+      "number": 21,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »står op«, måske i modsætning til at ligge eller at dø. ",
+          "type": "T",
+          "position": 26
+        }
+      ]
+    },
+    {
+      "text": "Når mænd kommer op at slås og skubber til en gravid kvinde så hendes barn fødes, men der ikke sker ulykke, skal der betales en bøde som kvindens mand pålægger ham, og han skal betale hos dommerne.",
+      "number": 22,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har flertal: »børn«.",
+          "type": "T",
+          "position": 73
+        }
+      ]
+    },
+    {
+      "text": "Men hvis der sker ulykke, skal du give liv for liv,",
+      "number": 23,
+      "version": 1596837600000
+    },
+    {
+      "text": "øje for øje, tand for tand, hånd for hånd, fod for fod,",
+      "number": 24,
+      "version": 1596837600000
+    },
+    {
+      "text": "brandsår for brandsår, sår for sår, flænge for flænge.",
+      "number": 25,
+      "version": 1596837600000
+    },
+    {
+      "text": "Når en mand slår sin træls øje eller sin trælkvindes øje og ødelægger det, skal han give vedkommende fri som erstatning for øjet.",
+      "number": 26,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og hvis han slår sin træls tand eller sin trælkvindes tand ud, skal han give vedkommende fri som erstatning for tanden.«\f»v28 Når en okse stanger en mand eller en kvinde så vedkommende dør, skal oksen afgjort stenes til døde, og dens kød må ikke spises; men oksens ejer skal være uden skyld.",
+      "title": "Love om ansvar for okser og brønde",
+      "number": 27,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Se note til vers 5.",
+          "type": "T",
+          "position": 208
+        }
+      ]
+    },
+    {
+      "text": "Men hvis oksen forud var stangende, og dens ejer var blevet advaret, men ikke havde passet på den, og den så dræber en mand eller en kvinde, så skal oksen stenes, og dens ejer skal også lide døden.",
+      "number": 29,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »i går og i forgårs«.",
+          "type": "T",
+          "position": 20
+        }
+      ]
+    },
+    {
+      "text": "Men hvis der bliver pålagt ham en bod, skal han betale løsepenge for sit liv, alt efter hvad der pålægges ham.",
+      "number": 30,
+      "version": 1596837600000
+    },
+    {
+      "text": "Hvad enten den stanger en søn, eller den stanger en datter, skal man handle med ham efter denne retsregel.",
+      "number": 31,
+      "version": 1596837600000
+    },
+    {
+      "text": "Hvis oksen stanger en træl eller trælkvinde, skal han give vedkommendes herre tredive sekel sølv, og oksen skal stenes til døde.",
+      "number": 32,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Det er oksens ejer.",
+          "type": "E",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "Når en mand åbner en brønd, eller når en mand graver en brønd, men ikke dækker den til, og der falder en okse eller et æsel i den,",
+      "number": 33,
+      "version": 1596837600000
+    },
+    {
+      "text": "skal brøndens ejer yde erstatning, han skal give penge til dets ejer, og det døde dyr skal være hans.",
+      "number": 34,
+      "version": 1596837600000
+    },
+    {
+      "text": "Når en mands okse stanger en anden mands okse så den dør, skal de sælge den levende okse og dele pengene for den, og de skal også dele den døde.",
+      "number": 35,
+      "version": 1596837600000
+    },
+    {
+      "text": "Hvis det var kendt at oksen forud var stangende uden at dens ejer passede på den, skal han afgjort betale en okse for oksen, og den døde skal være hans.«",
+      "number": 36,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »i går og i forgårs«.",
+          "type": "T",
+          "position": 33
+        }
+      ]
+    }
+  ]
+}

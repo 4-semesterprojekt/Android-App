@@ -1,0 +1,62 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 133,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fValfartssang. Af David.\fSe, hvor godt og hvor herligt det er,\fnår brødre også opholder sig sammen.",
+      "title": "Brødrenes fællesskab",
+      "number": 1,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
+          "position": 14
+        },
+        {
+          "text": "Verbet: *yšv* kan både betyde: »sidde« og: »bo«. Begge oversættelser er mulige her.",
+          "type": "T",
+          "position": 91
+        }
+      ]
+    },
+    {
+      "text": "\fDet er som den gode olie på hovedet,\fder flyder ned over skægget,\fArons skæg,\fder bølger ned over hans dragts halsåbning.",
+      "number": 2,
+      "version": 1492725600000,
+      "footnotes": [
+        {
+          "text": "Det er henvisning til »Arons skæg«, ikke til »olie«.",
+          "type": "T",
+          "position": 82
+        },
+        {
+          "text": "*peʰ* betyder egentlig blot: »mund, munding, åbning«; det kan også oversættes: »søm, rand«, men her opfattes det traditionelt som: »halsåbning«. En del oversættere sletter i øvrigt både denne og den foregående linje (»Arons skæg«) som senere randbemærkning.",
+          "type": "E",
+          "position": 122
+        }
+      ]
+    },
+    {
+      "text": "\fDet er som Hermons dug, der falder\fover Zions bjerge.\fFor dér har JHVH fastsat at velsignelsen skal være,\flivet til evig tid.",
+      "number": 3,
+      "version": 1492725600000
+    }
+  ]
+}

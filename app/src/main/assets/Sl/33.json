@@ -1,0 +1,187 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 33,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fBryd ud i jubel, I retfærdige i Herren!\fFor de retskafne er det passende med lovsang.",
+      "title": "Opfordring til lovsang",
+      "number": 1,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Kan evt. også oversættes: »Bryd ud i jubel for JHVH, I retfærdige«",
+          "type": "T",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "\fPris JHVH med citer,\fspil for ham på tistrenget harpe.",
+      "number": 2,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fSyng ham en ny sang,\fspil lifligt på strengene til jubelråb.",
+      "title": "Lovprisning af JHVHs ords skabende og frelsende magt",
+      "number": 3,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fFor JHVHs ord er retskaffent,\fog al hans gerning er trofast.",
+      "number": 4,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fHan elsker retfærdighed og ret,\fJHVHs nåde opfylder jorden.",
+      "number": 5,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fVed JHVHs ord blev himlen skabt,\fog ved hans munds ånde hele dens hær.",
+      "number": 6,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "*šāmayim* (»himmel«) er egentlig flertalsord, og det kan overvejes om det her burde oversættes ved flertal (og i så fald også »deres hær« i næste linje)",
+          "type": "E",
+          "position": 26
+        }
+      ]
+    },
+    {
+      "text": "\fHan samler havets vand som en vold,\fhan lægger urdybene i forrådskamre.",
+      "number": 7,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Ofte retter man vokaliseringen af *kannēd* (»som en vold«) til *kannōd* = *kannō ʔd*: »som (i) en lædersæk«. Som teksten står, kan den ses som henvisning til 2 Mos 15,8",
+          "type": "E",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "\fHele jorden skal frygte JHVH,\falle verdens indbyggere skal skælve for ham!",
+      "number": 8,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fFor han talte, og det skete,\fhan befalede, og det stod der.",
+      "title": "Lovprisning af JHVHs råd",
+      "number": 9,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fJHVH gjorde folkenes råd til intet,\fhan hindrede folkeslagenes tanker.",
+      "number": 10,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes »hedningernes«",
+          "type": "T",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHs råd består til evig tid,\fhans hjertes tanker i generation efter generation.",
+      "number": 11,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fSaligt er det folk, hvis Gud JHVH er,\ffolket som han udvalgte sig til ejendom.",
+      "title": "Lovprisning af JHVHs alvidenhed",
+      "number": 12,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fFra himlen skuede JHVH ned,\fhan betragtede alle menneskenes børn.",
+      "number": 13,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fFra stedet, hvor han troner, så han\ftil alle jordens beboere.",
+      "number": 14,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hvor han bor«",
+          "type": "T",
+          "position": 29
+        }
+      ]
+    },
+    {
+      "text": "\fHan er den som alene danner deres hjerte,\fsom giver agt på alle deres gerninger.",
+      "title": "Lovprisning af JHVHs omsorgsfulde magt",
+      "number": 15,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Meningen med ordet *yaḥad* (»alene«)er usikker. Oftest betyder det »sammen«, men det giver næppe mening her. Det kan evt. betyde »alle«, men det taler sætningsbygningen imod. En mulighed er at forstå det som »individuelt«; det kræver dog en anden vokalisering (*yāḥid*)",
+          "type": "E",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fIngen konge frelses ved en stor hær,\fen helt reddes ikke ved stor kraft.",
+      "number": 16,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fHesten er et falsk håb som hjælper,\fja, ved sin store styrke kan den ikke redde.",
+      "number": 17,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Der er tænkt på krig",
+          "type": "T",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "\fSe, JHVHs øje er vendt til dem som frygter ham,\ftil dem som tålmodigt venter på hans nåde,",
+      "number": 18,
+      "version": 1457218800000
+    },
+    {
+      "text": "\ffor at fri deres sjæl fra død\fog holde dem i live under hungersnøden.",
+      "title": "Afsluttende bekendelse til JHVH som skaber og frelser",
+      "number": 19,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fVor sjæl ventede på JHVH,\fhan er vor hjælp og vort skjold.",
+      "number": 20,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fJa, over ham skal vort hjerte glæde sig,\ffor vi har stolet på hans hellige navn.",
+      "number": 21,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fLad din nåde, JHVHv, være over os,\fsådan som vi har ventet på dig!",
+      "number": 22,
+      "version": 1457218800000
+    }
+  ]
+}

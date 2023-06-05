@@ -1,0 +1,103 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 67,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Med strengespil.\fEn salme. En sang.",
+      "title": "Velsign!",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fGud være os nådig og velsigne os,\fhan lade sit ansigt lyse hos os, Sela",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har her ikke præpositionen *ʔel* (»over/hen imod«, 4 Mos 6,25), men: *ʔēt*: »hos/med«.",
+          "type": "E",
+          "position": 63
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "\fså man kan kende din vej på jorden,\fdin frelse blandt alle folkeslag!",
+      "title": "Alle skal prise Gud",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hedninger«, men det er næppe det der er lagt vægt på her.",
+          "type": "T",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "\fFolkene skal prise dig, Gud,\falle folk skal prise dig.",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFolkeslag skal glæde sig og juble,\ffor du dømmer folkene retfærdigt,\fog du leder folkeslag på jorden. Sela",
+      "number": 5,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFolkene skal prise dig, Gud,\falle folk skal prise dig.",
+      "title": "Gud har velsignet – velsign igen!",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fLandet har givet sin afgrøde.\fGud, vor Gud, velsigne os.",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det er omdiskuteret om der her skal oversættes »landet« eller »jorden«. Sidstnævnte bruges dog ikke om agerjord.",
+          "type": "T",
+          "position": 7
+        },
+        {
+          "text": "*yᵊvārēx* kan opfattes som enten jussiv (her, som i v.2) eller som yiqtol: »vil velsigne«. Begge oversættelser giver god mening.",
+          "type": "T",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "\fGud velsigne os,\fog alle jordens ender skal frygte ham.",
+      "number": 8,
+      "version": 1500242400000
+    }
+  ]
+}

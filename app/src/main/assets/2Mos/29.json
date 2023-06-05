@@ -1,0 +1,411 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 29,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\f»Dette er den handling som du skal udføre ved dem for at hellige dem til at gøre præstetjeneste for mig: Tag en ung tyr og to væddere, lydefri,",
+      "title": "Forordning om præstevielsen{E: Hele afsnittet v. 1-37 beskriver præstevielsen.}",
+      "number": 1,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »en ung tyr, en tyrekalv«.",
+          "type": "T",
+          "position": 120
+        }
+      ]
+    },
+    {
+      "text": "og usyret brød og usyrede ringbrød, rørt op med olie, og usyrede fladbrød, smurte med olie; du skal lave dem af fint hvedemel.",
+      "number": 2,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal lægge dem i en kurv og bringe dem frem i kurven sammen med ungtyren og de to væddere.",
+      "number": 3,
+      "version": 1596837600000
+    },
+    {
+      "text": "Så skal du føre Aron og hans sønner frem til forsamlingsteltets indgang og vaske dem med vand.",
+      "number": 4,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og du skal tage klæderne og iføre Aron kjortlen og efodens kappe, efoden og brystskjoldet, og du skal fastgøre efoden på ham med efodens bælte.",
+      "number": 5,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal sætte turbanen på hans hoved, og du skal sætte det hellige diadem på turbanen.",
+      "number": 6,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Se note til 28,36.",
+          "type": "E",
+          "position": 73
+        }
+      ]
+    },
+    {
+      "text": "Så skal du tage salvningsolien og hælde den over hans hoved og salve ham.",
+      "number": 7,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og du skal lade hans sønner træde frem, og du skal iføre dem kjortler,",
+      "number": 8,
+      "version": 1596837600000
+    },
+    {
+      "text": "du skal binde bæltet om dem, om Aron og hans sønner, og du skal binde huer på dem. De skal have præstetjenesten som en evig ordning. Du skal fylde Arons hånd og hans sønners hånd.«",
+      "title": "Forordning om syndoffertyren",
+      "number": 9,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Meningen er enten, at de får de ting og redskaber i hånden, som de skal bruge i tjenesten, og derved indvies de til tjenesten, eller at de får lagt et indvielsesoffer i hænderne, 3 Mos 8, 22.27-33.",
+          "type": "E",
+          "position": 180
+        }
+      ]
+    },
+    {
+      "text": "\f»Du skal føre tyren hen foran forsamlingsteltet, og Aron og hans sønner skal lægge deres hænder på tyrens hoved.",
+      "number": 10,
+      "version": 1596837600000
+    },
+    {
+      "text": "Så skal du slagte tyren for JHVHs ansigt ved forsamlingsteltets indgang.",
+      "number": 11,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal tage noget af tyrens blod og komme det på alterets horn med din finger; og alt det øvrige blod skal du hælde ud ved alterets sokkel.",
+      "number": 12,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »alt blodet«.",
+          "type": "T",
+          "position": 102
+        }
+      ]
+    },
+    {
+      "text": "Så skal du tage alt fedtet som dækker indvoldene, og hinden over leveren og de to nyrer og fedtet som er på dem, og brænde det på alteret.",
+      "number": 13,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »det overflødige på leveren«. Ofte oversat: »leverlappen«. Der er tænkt på den fedthinde der omgiver leveren, næppe på en af leverlapperne.",
+          "type": "E",
+          "position": 72
+        },
+        {
+          "text": "Ordret: »lade det gå op i røg«.",
+          "type": "T",
+          "position": 126
+        }
+      ]
+    },
+    {
+      "text": "Tyrens kød og dens hud og dens tarmindhold skal du brænde op med ild uden for lejren; det er et syndoffer.«",
+      "title": "Forordning om de to væddere",
+      "number": 14,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Måske er der tænkt specifikt på ekskrementer",
+          "type": "E",
+          "position": 42
+        },
+        {
+          "text": "Offeret bringes med bøn om Guds tilgivelse for overtrædelse af vanvare af Guds bud. Det hebraiske: *ḥaṭṭāˀt* kan alt efter sammenhængen betyde »synd« eller »offer for synd«. Man kan overveje oversættelsen: »tilgivelsesoffer« eller »bodsoffer«. Se 3 Mos 4,1-5,13.",
+          "type": "E",
+          "position": 107
+        }
+      ]
+    },
+    {
+      "text": "\f»Så skal du skal tage den ene vædder, og Aron og hans sønner skal lægge deres hænder på vædderens hoved,",
+      "number": 15,
+      "version": 1596837600000
+    },
+    {
+      "text": "og du skal slagte vædderen, og du skal tage dens blod og stænke det rundt om på alteret.",
+      "number": 16,
+      "version": 1596837600000
+    },
+    {
+      "text": "Vædderen skal du partere; så skal du vaske dens indvolde og dens skanker og lægge dem oven på dens stykker og på dens hoved.",
+      "number": 17,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »skære i dens stykker«.",
+          "type": "T",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "Så skal du brænde  hele vædderen på alteret; det er et brændoffer for JHVH, en velbehagelig duft, et offer for JHVH.",
+      "number": 18,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »lade det gå op i røg«.",
+          "type": "T",
+          "position": 17
+        },
+        {
+          "text": "Se note til 24,5.",
+          "type": "E",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "Så skal du tage den anden vædder, og Aron og hans sønner skal lægge deres hænder på vædderens hoved,",
+      "number": 19,
+      "version": 1596837600000
+    },
+    {
+      "text": "og du skal slagte vædderen og tage af dens blod og komme det på Arons højre øreflip og på hans sønners højre øreflip og på deres højre hånds tommelfinger og på deres højre fods storetå, og du skal stænke blodet rundt om på alteret.",
+      "number": 20,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordet: »højre« står ikke her i grundteksten, men skal formodentlig underforstås ud fra det følgende, hvor det er pointeret.",
+          "type": "T",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "Du skal tage noget af blodet som er på alteret, og af salveolien og stænke på Aron og på hans klæder og på hans sønner og på hans sønners klæder sammen med ham; så er han og hans klæder hellige, og hans sønner og hans sønners klæder sammen med ham.",
+      "number": 21,
+      "version": 1596837600000
+    },
+    {
+      "text": "Så skal du af vædderen tage fedtet, fedthalen, fedtet som dækker indvoldene, hinden over leveren, de to nyrer og fedtet som er på dem, og den højre kølle, for det er en indsættelsesvædder,",
+      "number": 22,
+      "version": 1596837600000
+    },
+    {
+      "text": "og ét rundt brød, ét ringformet oliebrød og ét fladbrød fra de usyrede brøds kurv som er for JHVHs ansigt.",
+      "number": 23,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal lægge alt dette i Arons hænder og i hans sønners hænder, og du skal udføre svingning med det for JHVHs ansigt.",
+      "number": 24,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »svinge en svingning«.",
+          "type": "T",
+          "position": 92
+        }
+      ]
+    },
+    {
+      "text": "Så skal du tage det ud af deres hænder og brænde det på alteret over brændofferet, til en liflig lugt for JHVHs ansigt; det er et offer for JHVH.«",
+      "title": "Forordning om præsternes andel i ofrene",
+      "number": 25,
+      "version": 1596837600000
+    },
+    {
+      "text": "\f»Du skal tage bryststykket fra Arons indsættelsesvædder og udføre svingning med det for JHVHs ansigt; det skal være din andel.",
+      "number": 26,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og du skal hellige svingningsbryststykket og afgifts-køllen — som er blevet svunget og som er blevet løftet op — fra indsættelsesvædderen, noget er til Aron, og noget er til hans sønner.",
+      "number": 27,
+      "version": 1596837600000
+    },
+    {
+      "text": "Det skal være Arons og hans sønners som en evig bestemmelse hos Israels børn, for det er en afgift; og det skal være en afgift fra Israels børn af deres måltidsofre, deres afgift til JHVH.«",
+      "title": "Forordning om indvielsesugen",
+      "number": 28,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Se note til 24,5.",
+          "type": "E",
+          "position": 165
+        }
+      ]
+    },
+    {
+      "text": "\f»De hellige klæder, som Aron har, skal hans sønner have efter ham, i dem skal man salve dem og fylde deres hænder i dem.",
+      "number": 29,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Se note til 28,41.",
+          "type": "E",
+          "position": 121
+        }
+      ]
+    },
+    {
+      "text": "Syv dage skal den af hans sønner, som bliver præst i hans sted, iføre sig dem, når han går ind i forsamlingsteltet for at gøre tjeneste i helligdommen.",
+      "number": 30,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal tage indsættelsesvædderen og koge dens kød på et helligt sted.",
+      "number": 31,
+      "version": 1596837600000
+    },
+    {
+      "text": "Aron og hans sønner skal spise vædderens kød og brødet som er i kurven ved forsamlingsteltets indgang.",
+      "number": 32,
+      "version": 1596837600000
+    },
+    {
+      "text": "De skal spise det hvorved der blev skaffet soning for at fylde deres hænder, for at hellige dem; en uindviet må ikke spise det, for det er helligt.",
+      "number": 33,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Det er: For at de kunne indsættes.",
+          "type": "E",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "Men hvis der levnes noget af indsættelseskødet og af brødet til om morgenen, skal du brænde det som er levnet, med ild; det må ikke spises, for det er helligt.",
+      "number": 34,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal gøre sådan med Aron og med hans sønner, alt det som jeg har befalet dig: I syv dage skal du fylde deres hænder.",
+      "number": 35,
+      "version": 1596837600000
+    },
+    {
+      "text": "Du skal hver dag ofre en syndoffertyr til forsoningen, og du skal bringe et syndoffer på alteret, når du skaffer soning for det; og du skal salve det for at hellige det.",
+      "number": 36,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Se note til vers 14.",
+          "type": "E",
+          "position": 85
+        }
+      ]
+    },
+    {
+      "text": "Syv dage skal du skabe soning på alteret og du skal hellige det; så bliver alteret højhelligt, enhver som rører ved alteret bliver hellig.«",
+      "title": "Forordning om de daglige ofre",
+      "number": 37,
+      "version": 1596837600000
+    },
+    {
+      "text": "\f»Dette er det som du skal bringe på alteret: To årgamle vædderlam hver dag, bestandig.",
+      "number": 38,
+      "version": 1596837600000
+    },
+    {
+      "text": "Det ene lam skal du bringe om morgenen, og det andet lam skal du bringe lige inden mørket falder på.",
+      "number": 39,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »mellem de to aftner«. Det dækker formodentlig at slagtningen skal finde sted mellem solnedgang og mørke. Jøderne har tolket det som tiden fra solnedgangens begyndelse omkring kl. 3 om eftermiddagen til dens afslutning.",
+          "type": "T",
+          "position": 100
+        }
+      ]
+    },
+    {
+      "text": "En tiendel efa fint mel blandet med en kvart hin knust olivenolie, og en kvart hin vin til drikoffer, sammen med det ene lam.",
+      "number": 40,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Af knuste oliven i modsætning til presset olie.",
+          "type": "E",
+          "position": 54
+        }
+      ]
+    },
+    {
+      "text": "Og du skal bringe det andet lam lige inden mørket falder på; som morgenens afgrødeoffer og som dets drikoffer skal du bringe det til en velbehagelig duft; det er et offer for JHVH.",
+      "number": 41,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Rent, bagt eller stegt mel, der brændes. Det hebraiske ord er: *minḥāʰ*. Man kan overveje oversættelsen: »kornoffer«, se 3 Mos 2,1-16.",
+          "type": "E",
+          "position": 87
+        }
+      ]
+    },
+    {
+      "text": "Dette er det daglige brændoffer hos jeres efterkommere ved forsamlingsteltets indgang, for JHVHs ansigt, dér hvor jeg vil åbenbare mig for jer for dér at tale med dig.",
+      "number": 42,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »bestandige«.",
+          "type": "T",
+          "position": 20
+        },
+        {
+          "text": "Se note til 24,5.",
+          "type": "E",
+          "position": 31
+        }
+      ]
+    },
+    {
+      "text": "Og dér vil jeg åbenbare mig for Israels børn så det helliges ved min herlighed.",
+      "number": 43,
+      "version": 1596837600000,
+      "footnotes": [
+        {
+          "text": "Nemlig forsamlingsteltet",
+          "type": "E",
+          "position": 51
+        }
+      ]
+    },
+    {
+      "text": "Jeg vil hellige forsamlingsteltet og alteret; og Aron og hans sønner vil jeg hellige til at gøre præstetjeneste for mig.",
+      "number": 44,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og jeg vil bo midt blandt Israels børn, og jeg vil være deres Gud.",
+      "number": 45,
+      "version": 1596837600000
+    },
+    {
+      "text": "Og de skal vide, at jeg er JHVH deres Gud, som førte dem ud af Egyptens land for at bo midt blandt dem; jeg er JHVH deres Gud.«",
+      "number": 46,
+      "version": 1596837600000
+    }
+  ]
+}

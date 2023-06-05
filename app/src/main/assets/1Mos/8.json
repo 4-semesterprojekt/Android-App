@@ -1,0 +1,44 @@
+{
+  "book": "Første Mosebog",
+  "abbreviation": "1Mos",
+  "chapter": 8,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fNoa byggede et alter for JHVH og tog af alt det rene kvæg og alle de rene fugle og ofrede brændoffer på alteret.",
+      "number": 20,
+      "version": 1630360800000
+    },
+    {
+      "text": "Og JHVH nød den behagelige duft; da sagde JHVH i sit hjerte: »Herefter vil jeg aldrig mere forbande jorden for menneskets skyld, for menneskets hjertes tanker er onde fra ungdommen af; og jeg vil aldrig mere dræbe alt hvad der lever, sådan som jeg har gjort.",
+      "number": 21,
+      "version": 1630360800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »ikke endnu en gang fortsætte med at …«",
+          "type": "T",
+          "position": 85
+        }
+      ]
+    },
+    {
+      "text": "Så længe jorden står, skal såning og høst og kulde og hede og sommer og vinter og dag og nat ikke ophøre.«",
+      "number": 22,
+      "version": 1630360800000
+    }
+  ]
+}

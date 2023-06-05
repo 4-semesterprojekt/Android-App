@@ -1,0 +1,113 @@
+{
+  "book": "Paulus' Brev til Romerne",
+  "abbreviation": "Rom",
+  "chapter": 6,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEller ved I ikke at alle vi som blev døbt til Kristus Jesus, blev døbt til hans død?",
+      "number": 3,
+      "version": 1645570800000
+    },
+    {
+      "text": "Vi blev altså begravet med ham ved dåben til døden, for at ligesom Kristus blev oprejst fra de døde ved Faderens herlighed, således skal også vi vandre i et nyt liv.",
+      "number": 4,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »i livets nyhed«.",
+          "type": "T",
+          "position": 164
+        }
+      ]
+    },
+    {
+      "text": "For er vi sammenvoksede med ham ved en død der ligner hans, skal vi også være det ved opstandelsen",
+      "number": 5,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sammenvoksenede med en død der ligner hans«.",
+          "type": "T",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "idet vi erkender dette: at vores gamle menneske blev korsfæstet med ham for at syndens legeme skulle blive tilintetgjort for at vi ikke mere skulle trælle for synden.",
+      "number": 6,
+      "version": 1645570800000
+    },
+    {
+      "text": "For den som er død, er retfærdiggjort fra synden.",
+      "number": 7,
+      "version": 1645570800000
+    },
+    {
+      "text": "Men dersom vi er døde med Kristus, tror vi at vi også skal leve med ham",
+      "number": 8,
+      "version": 1645570800000
+    },
+    {
+      "text": "fordi vi ved at Kristus, efter at være oprejst fra de døde, ikke mere dør; døden hersker ikke mere over ham.",
+      "number": 9,
+      "version": 1645570800000
+    },
+    {
+      "text": "For sin død døde han én gang for alle for synden; men sit liv lever han for Gud.",
+      "number": 10,
+      "version": 1645570800000
+    },
+    {
+      "text": "Således skal også I anse jer selv for døde for synden, men levende for Gud i Kristus Jesus.",
+      "number": 11,
+      "version": 1645570800000
+    },
+    {
+      "text": "\fJeg taler på menneskelig vis på grund af jeres køds skrøbelighed. For ligesom I stillede jeres lemmer til rådighed som trælle for urenheden og lovløsheden til lovløshed, således skal I nu stille jeres lemmer til rådighed som trælle for retfærdigheden til helliggørelse!",
+      "number": 19,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "Det vil sige: Så det fører til lovløshed.",
+          "type": "T",
+          "position": 170
+        }
+      ]
+    },
+    {
+      "text": "For da I var syndens trælle, var I frie over for retfærdigheden.",
+      "number": 20,
+      "version": 1645570800000
+    },
+    {
+      "text": "Hvilken slags frugt havde I da dengang? Ting som I nu skammer jer over; det de fører til, er jo død.",
+      "number": 21,
+      "version": 1645570800000
+    },
+    {
+      "text": "Men nu da I er blevet frigjorte fra synden og er blevet trælle for Gud, har I jeres frugt i helliggørelse, og det fører til evigt liv;",
+      "number": 22,
+      "version": 1645570800000
+    },
+    {
+      "text": "for syndens løn er død, men Guds nådegave er et evigt liv i Kristus Jesus, vor Herre.",
+      "number": 23,
+      "version": 1645570800000
+    }
+  ]
+}

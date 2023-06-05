@@ -1,0 +1,206 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 144,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAf David.\fLovet være JHVH, min klippe,\fsom opøver mine hænder til kampen,\fmine fingre til krigen,",
+      "title": "Tillidsfuld bøn om hjælp",
+      "number": 1,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fmin nåde og min borg, min fæstning\fog min befrier for mig,\fmit skjold og den jeg har søgt tilflugt hos,\fhan som undertvinger folk under mig.",
+      "number": 2,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »trofasthed«. Meningen er måske: »den der viser mig nåde/troskab«. Ofte rettes dog: *ḥasdî* (»min nåde«) til: *ḥosnî*: »min styrke«.",
+          "type": "E",
+          "position": 9
+        },
+        {
+          "text": "Mange oversættere flytter masoreternes delende accent så »min fæstning« knyttes til næste linje.",
+          "type": "E",
+          "position": 35
+        },
+        {
+          "text": "Den masoretiske tekst har: *ʕammî*: »mit folk«, men et betydeligt antal håndskrifter har: *ʕammîm*: »folk« (pluralis).",
+          "type": "E",
+          "position": 130
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv, hvad er et menneske at du agter på det,\fet menneskebarn at du husker på det?",
+      "number": 3,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fMennesket er som et åndepust,\fdets dage går forbi som en skygge.",
+      "number": 4,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Verbet står i qatal, der oftest angiver fortid, men her angiver det som altid har været.",
+          "type": "E",
+          "position": 13
+        },
+        {
+          "text": "Kan også oversættes: »vindpust«.",
+          "type": "T",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv, sænk din himmel og stig ned,\frør ved bjergene så de ryger.",
+      "number": 5,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fSlyng lyn ud og adspred dem,\fsend dine pile og forfærd dem!",
+      "number": 6,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »lad lyn lyne«.",
+          "type": "T",
+          "position": 13
+        },
+        {
+          "text": "Det er henvisning til de fjendtlige fremmede der er omtalt i v. 7.",
+          "type": "T",
+          "position": 29
+        }
+      ]
+    },
+    {
+      "text": "\fRæk dine hænder ud fra det høje,\fbefri mig og red mig fra de vældige vande,\ffra de fremmedes magt,",
+      "number": 7,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hånd«.",
+          "type": "T",
+          "position": 99
+        }
+      ]
+    },
+    {
+      "text": "\fhvis mund har talt falskhed,\fog hvis højre hånd er løgnens højre.",
+      "title": "Løfte om lovsang",
+      "number": 8,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fGud, jeg vil synge en ny sang for dig,\fpå tistrenget harpe vil jeg spille for dig",
+      "number": 9,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fsom giver kongerne sejr,\fsom befrier sin tjener David\ffra ondt sværd!",
+      "number": 10,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Mange oversættere følger Septuaginta, der lader denne linje høre til v. 11 hvor første linje deles i to linjer: »Befri mig fra ondt sværd / og red mig fra de fremmedes magt«.",
+          "type": "E",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "\fBefri mig og red mig fra de fremmedes magt,\fhvis mund har talt falskhed,\fog hvis højre hånd er løgnens højre.",
+      "title": "Guds velsignelse og freden",
+      "number": 11,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hånd«.",
+          "type": "T",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\fHvis vore sønner er som planter,\ffuldvoksne i deres ungdom,\fvore døtre som hjørnepiller,\fudskåret efter et palads’ stil,",
+      "number": 12,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Overgangen til dette afsnit er omdiskuteret. Problemerne knytter sig især til grundtekstens første ord: *ʔᵃšer* der har ret bred betydning, oftest: »som, der«, men også: »for at, når, hvis«. Mange oversættere udelader det her. I sammenhængen kan det opfattes som et ønske (»gid«) eller en betingelse der grammatisk ikke fuldendes: »hvis/når ...«, underforstået: Så er vi lykkelige. Men i stedet for eftersætningen sætter digteren punktum og begynder en ny sætning: v. 15.",
+          "type": "E",
+          "position": 5
+        },
+        {
+          "text": "Kan også oversættes: »tempels«.",
+          "type": "T",
+          "position": 115
+        }
+      ]
+    },
+    {
+      "text": "\fvore lagre fulde,\fså de frembyder al slags forråd,\fvore får frembringer tusind,\fja, titusindvis på vore marker,",
+      "number": 13,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »fra art til art«.",
+          "type": "T",
+          "position": 51
+        },
+        {
+          "text": "Ordret: »vort småkvæg«.",
+          "type": "T",
+          "position": 60
+        }
+      ]
+    },
+    {
+      "text": "\fvort kvæg er drægtigt,\fingen uheld og ingen for tidlig fødsel,\fog ingen klageskrig på vore torve -",
+      "number": 14,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Verbet: *svl* (i qal: »bære«), findes i pu’al kun her i GT, og betydningen er omdiskuteret, formodentlig enten: »drægtig« eller: »belæsset« (med rigdomme, der bæres hjem) eller evt. (let omskrevet): »i god stand«.",
+          "type": "E",
+          "position": 23
+        },
+        {
+          "text": "Ordret: »brud«.",
+          "type": "T",
+          "position": 35
+        },
+        {
+          "text": "Ordet: *yôṣēˀt* er omdiskuteret, egentlig: »udgående«. Her optræder det dog som substantiv, og i sammenhængen ser det ud til at skulle angive »for tidlig fødsel«.Andre forslag til oversættelse af denne linje er: »intet indbrud og intet tab«, eller »brud« opfattes som brud i bymuren: »intet murbrud og ingen der drager ud« (i krig eller som fanger).",
+          "type": "E",
+          "position": 63
+        }
+      ]
+    },
+    {
+      "text": "\fLykkeligt er det folk, som det går sådan,\flykkeligt er det folk, hvis Gud JHVH er!",
+      "number": 15,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »saligt«.",
+          "type": "T",
+          "position": 10
+        }
+      ]
+    }
+  ]
+}

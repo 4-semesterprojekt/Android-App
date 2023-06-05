@@ -1,0 +1,108 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 2,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard, Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHvorfor er folkeslagene i oprør,\f\n\t\t\t\t\t\tog hvorfor udtænker folkene tomhed?",
+      "title": "David profeterer om Messias' rige. Mennesker gør oprør imod JHVH og hans salvede, men det er forgæves og til deres egen ulykke",
+      "number": 1,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "*gôyim* oversættes ofte »hedninger« (også 1871), men parallellen viser at det her må opfattes bredere.",
+          "type": "T",
+          "position": 24
+        },
+        {
+          "text": "*lāmmāʰ* (»hvorfor«) står kun én gang i den hebraiske tekst, men det går også på anden halvdel af verset.",
+          "type": "T",
+          "position": 51
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\tJordens konger rejser sig;\f\n\t\t\t\t\t\tfyrsterne rådslår sammen\fimod JHVH og imod hans salvede:",
+      "number": 2,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t»Lad os sønderrive deres lænker\f\n\t\t\t\t\t\t\t\tog kaste deres reb af os!«",
+      "number": 3,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\tHan som troner i Himlen,\n\t\t\t\tler;\f\n\t\t\t\t\t\tJHVH spotter dem.",
+      "number": 4,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\tSå vil han tale til dem i sin vrede;\f\n\t\t\t\t\t\t\tforfærde dem ved sin harme:",
+      "number": 5,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t»Jeg har dog indsat min konge\fover Zion, mit hellige bjerg.«",
+      "title": "Guds salvede konge skal regere",
+      "number": 6,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\tJeg vil forkynde JHVHs dekret.\f\n\t\t\t\tHan sagde til mig:\f\n\t\t\t\t\t»Du er min søn;\f\n\t\t\t\t\t\t\tjeg har født dig i dag.",
+      "number": 7,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tBed mig om det,\f\n\t\t\t\t\t\t\tså vil jeg give dig folkene som din arv;\f\n\t\t\t\t\t\t\t\t\tjordens yderste ender som din ejendom.",
+      "number": 8,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tDu skal knuse dem med et jernscepter;\f\n\t\t\t\t\t\t\t\t\tsom en pottemagers lertøj skal du smadre dem.«",
+      "title": "Derfor formaner David til omvendelse og lydighed",
+      "number": 9,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\tOg nu,\n\t\t\t\tI konger,\n\t\t\tvær kloge!\f\n\t\t\tLad jer belære,\n\t\t\t\tI jordens dommere!",
+      "number": 10,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\tTjen JHVH med frygt;\f\n\t\t\t\tfryd jer med bæven!",
+      "number": 11,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\tKys sønnen\n\t\t\t\tså han ikke bliver vred\f\n\t\t\t\t\t\tog I omkommer på vejen;\f\n\t\t\t\t\tfor hans vrede optændes hastigt.\f\n\tSalig enhver\n\t\tsom søger tilflugt hos ham!",
+      "number": 12,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Oftest flyttes nu ordene *naššᵊqû-var* (»kys sønnen«) op foran de sidste ord i v.11, hvor der også foretages yderligere rettelse. Det er dog unødvendigt og vilkårligt.",
+          "type": "E",
+          "position": 14
+        }
+      ]
+    }
+  ]
+}

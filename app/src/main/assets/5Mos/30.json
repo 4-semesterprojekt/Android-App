@@ -1,0 +1,42 @@
+{
+  "book": "Femte Mosebog",
+  "abbreviation": "5Mos",
+  "chapter": 30,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fFor dette bud som jeg befaler dig i dag, det er ikke gådefuldt for dig, det er heller ikke langt borte.",
+      "number": 11,
+      "version": 1645052400000
+    },
+    {
+      "text": "Det er ikke i himlen så man måtte sige: ›Hvem vil stige op til himlen for os og hente det til os og lade os høre det så vi kan handle efter det?‹",
+      "number": 12,
+      "version": 1645052400000
+    },
+    {
+      "text": "Det er heller ikke på den anden side af havet så man måtte sige: ›Hvem vil drage over på den anden side af havet for os og hente det til os og lade os høre det så vi kan handle efter det?‹",
+      "number": 13,
+      "version": 1645052400000
+    },
+    {
+      "text": "For ordet er meget nær hos dig, i din mund og i dit hjerte, for at du skal handle efter det.",
+      "number": 14,
+      "version": 1645052400000
+    }
+  ]
+}

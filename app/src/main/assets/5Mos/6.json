@@ -1,0 +1,59 @@
+{
+  "book": "Femte Mosebog",
+  "abbreviation": "5Mos",
+  "chapter": 6,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHør, Israel! HERREN vor Gud, HERREN er én.",
+      "number": 4,
+      "version": 1646953200000
+    },
+    {
+      "text": "Derfor skal du elske HERREN din Gud af hele dit hjerte og af hele din sjæl og af hele din styrke.",
+      "number": 5,
+      "version": 1646953200000
+    },
+    {
+      "text": "\fDisse ord, som jeg byder dig i dag, skal være i dit hjerte.",
+      "number": 6,
+      "version": 1646953200000
+    },
+    {
+      "text": "Du skal indskærpe dine børn dem og tale om dem når du sidder i dit hus, og når du går på vejen, og når du lægger dig, og når du står op.",
+      "number": 7,
+      "version": 1646953200000
+    },
+    {
+      "text": "Du skal binde dem som et tegn om din hånd, og de skal være dig som et symbol mellem dine øjne.",
+      "number": 8,
+      "version": 1646953200000
+    },
+    {
+      "text": "Du skal skrive dem på dørstolperne til dit hus og på dine porte.",
+      "number": 9,
+      "version": 1646953200000,
+      "footnotes": [
+        {
+          "text": "På hebraisk: *mᵊzûzāʰ*, der også er blevet navnet på den lille kapsel der sættes på dørstolpen, indeholdende et pergamentstykke med 5 Mos 6,4-9; 11,13-21.",
+          "type": "T",
+          "position": 34
+        }
+      ]
+    }
+  ]
+}

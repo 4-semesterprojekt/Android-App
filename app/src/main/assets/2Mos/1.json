@@ -1,0 +1,238 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 1,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fOg disse er navnene på Israels sønner som kom til Egypten; med Jakob kom enhver med sin familie:",
+      "title": "Indledning: Israelitterne i Egypten",
+      "number": 1,
+      "version": 1661896800000,
+      "footnotes": [
+        {
+          "text": "*bayit* betyder ordret både »hus« og »familie«. Her er det det sidste der er tale om.",
+          "type": "T",
+          "position": 97
+        }
+      ]
+    },
+    {
+      "text": "Ruben, Simeon, Levi og Juda,",
+      "number": 2,
+      "version": 1661896800000
+    },
+    {
+      "text": "Issakar, Zebulon og Benjamin,",
+      "number": 3,
+      "version": 1661896800000
+    },
+    {
+      "text": "Dan og Naftali, Gad og Asher.",
+      "number": 4,
+      "version": 1661896800000
+    },
+    {
+      "text": "Alle personer som var udgået af Jakobs lænd, var halvfjerds personer; men Josef var i Egypten.",
+      "number": 5,
+      "version": 1661896800000,
+      "footnotes": [
+        {
+          "text": "*nefeš* skal oftest oversættes: »sjæl«, men her er det betegnelse for: »person«.",
+          "type": "T",
+          "position": 13
+        },
+        {
+          "text": "*yārēx* (ordret: »lår«, »hofte«, »side«) skal her forstås som Jakobs efterkommere.",
+          "type": "E",
+          "position": 43
+        },
+        {
+          "text": "Der skal formodentlig underforstås et: »allerede«.",
+          "type": "E",
+          "position": 83
+        }
+      ]
+    },
+    {
+      "text": "Josef døde, og alle hans brødre og hele denne slægt.",
+      "number": 6,
+      "version": 1661896800000
+    },
+    {
+      "text": "Men Israels børn var frugtbare og vrimlede og blev mange, og de blev uhyre talrige, og landet blev fuldt af dem.",
+      "title": "Undertrykkelse ved tvangsarbejde – og dog stor frugtbarhed",
+      "number": 7,
+      "version": 1661896800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »meget, meget«.",
+          "type": "T",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "\fNu kom der en ny konge over Egypten som ikke kendte Josef.",
+      "number": 8,
+      "version": 1661896800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »rejste der sig«",
+          "type": "T",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "text": "Han sagde til sit folk: »Se, Israels børns folk er flere og mægtigere end vi.",
+      "number": 9,
+      "version": 1661896800000,
+      "footnotes": [
+        {
+          "text": "*rav min* kan både oversættes: »større end« og: »flere end«.",
+          "type": "T",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "Kom, lad os handle klogt imod dem så de ikke skal blive endnu flere, så det kan ske, hvis der kommer krig, at de også slutter sig til vore fjender og fører krig imod os og drager op fra landet.«",
+      "number": 10,
+      "version": 1661896800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har singularis (»… imod det, så det …«) om det israelitiske folk i alle versene 10-14",
+          "type": "T",
+          "position": 33
+        },
+        {
+          "text": "Verbet *śnʔ* betyder »hade«, men bruges i participium om »fjende«.",
+          "type": "E",
+          "position": 146
+        },
+        {
+          "text": "Det hebraiske verbum: *ʕālāʰ* (ordret: »stige op«) bruges ofte som betegnelse for at drage til Israel eller Jerusalem. Farao talte ikke hebraisk, men forfatteren har formentlig brugt ordet for at angive at Farao dog kendte til Israels ønske om at forlade Egypten og rejse til Kana’an. Det hebraiske ord for at »drage ud« er: *yāṣāʔ*.",
+          "type": "E",
+          "position": 181
+        }
+      ]
+    },
+    {
+      "text": "Så satte de hoverifogeder over dem for at de skulle plage dem med deres tvangsarbejde; og man byggede forrådsbyer til Farao, nemlig Pitom og Ramses.",
+      "number": 11,
+      "version": 1661896800000,
+      "footnotes": [
+        {
+          "text": "En mere korrekt gengivelse af navnet ville være: »Ra’amses«.",
+          "type": "T",
+          "position": 148
+        }
+      ]
+    },
+    {
+      "text": "Men jo mere de plagede dem, desto flere blev de, og desto mere bredte de sig, og de frygtede for Israels børn.",
+      "number": 12,
+      "version": 1661896800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »større«.",
+          "type": "T",
+          "position": 39
+        },
+        {
+          "text": "ordret: »for Israels børns ansigter«. Men *mippᵊnê* (»for … ansigt«) bruges ofte som fast udtryk, hvor »ansigt« ikke specielt spiller nogen rolle.",
+          "type": "E",
+          "position": 110
+        }
+      ]
+    },
+    {
+      "text": "Egypterne tvang med mishandling Israels børn til at arbejde.",
+      "number": 13,
+      "version": 1661896800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Egypten«.",
+          "type": "T",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "text": "De gjorde deres liv surt med hårdt arbejde med ler og teglsten og med al slags arbejde på marken; alt det trællearbejde tvang de dem til med mishandling.",
+      "title": "Jordemødrenes indsats",
+      "number": 14,
+      "version": 1661896800000
+    },
+    {
+      "text": "\fEgyptens konge sagde til de hebraiske jordemødre – af hvilke den enes navn var Shifra og den andens navn Pua –",
+      "number": 15,
+      "version": 1661896800000
+    },
+    {
+      "text": "han sagde: »Når I hjælper de hebraiske kvinder ved fødslen, så skal I se efter de to sten: Hvis det er en søn, så dræb ham, og hvis det er en datter, så må hun leve.«",
+      "number": 16,
+      "version": 1661896800000,
+      "footnotes": [
+        {
+          "text": "Det er omdiskuteret, hvad *hāʔovnāyim* betyder; om det (med en anden vokalisering, se nedenfor) skal opfattes som dualis af *ʔeven* (»sten«, altså: »to sten«) eller af *ʔōven*, der ellers kun optræder i Jer 18,3 (ligeledes i dualis), hvor det betegner pottemagerens drejeskive (med to stenskiver som i en kværn). Hvis ordet her skal afledes af *ʔōven*, betegner det her formodentlig et sæde som den fødende sad på. Disse »fødesten« er kendt fra både egyptiske relieffer og tekster. Masoreternes vokalisering tyder på at de har opfattet det som dualis af *ʔōven*. Hvis teksten havde været uvokaliseret – som den oprindelig var – ville man umiddelbart formodentlig have læst ordet som dualis af *ʔeven* (»sten«).",
+          "type": "T",
+          "position": 90
+        }
+      ]
+    },
+    {
+      "text": "Jordemødrene handlede gudfrygtigt og gjorde ikke som Egyptens konge havde sagt til dem, men lod drengene leve.",
+      "number": 17,
+      "version": 1661896800000
+    },
+    {
+      "text": "Da kaldte Egyptens konge på jordemødrene og sagde til dem: »Hvorfor har I gjort denne gerning så I lod drengene leve?«",
+      "number": 18,
+      "version": 1661896800000
+    },
+    {
+      "text": "Men jordemødrene svarede Farao at de hebraiske kvinder ikke er som de egyptiske, »for de er livskraftige; førend jordemoderen kommer til dem, har de født.«",
+      "number": 19,
+      "version": 1661896800000
+    },
+    {
+      "text": "Gud gjorde vel imod jordemødrene, og folket blev stort, og de blev meget talrige.",
+      "number": 20,
+      "version": 1661896800000
+    },
+    {
+      "text": "Så, fordi jordemødrene frygtede Gud, gav han dem familier.",
+      "title": "Befaling om at drukne drengene",
+      "number": 21,
+      "version": 1661896800000,
+      "footnotes": [
+        {
+          "text": "*bayit* betyder ordret både »hus« og »familie«. Her er det det sidste der er tale om, hvorfor betydningen er, at jordemødrene selv får afkom.",
+          "type": "E",
+          "position": 58
+        }
+      ]
+    },
+    {
+      "text": "\fSå befalede Farao hele sit folk som følger: »Hver nyfødt søn skal I kaste i floden, og hver datter skal I lade leve.«",
+      "number": 22,
+      "version": 1661896800000
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "book": "Paulus' Brev til Romerne",
+  "abbreviation": "Rom",
+  "chapter": 13,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering og Torben Kjær",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEnhver person skal underordne sig de indsatte øvrigheder, for der er ingen øvrighed undtagen af Gud, og de der er, er indsat af Gud,",
+      "number": 1,
+      "version": 1649109600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »overordnede«.",
+          "type": "T",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "så den som sætter sig op imod øvrigheden, modsætter sig Guds ordning; men de som modsætter sig, de vil få deres dom.",
+      "number": 2,
+      "version": 1649109600000
+    },
+    {
+      "text": "For de styrende er ikke til skræk for den gode gerning, men for den onde. Men vil du være uden frygt for øvrigheden? Så gør det gode, og du skal få ros af den.",
+      "number": 3,
+      "version": 1649109600000
+    },
+    {
+      "text": "For den er en Guds tjener, til gode for dig. Men hvis du gør det onde, så frygt; for den bærer ikke sværdet for intet; den er nemlig Guds tjener, en hævner til straf for den som øver det onde.",
+      "number": 4,
+      "version": 1649109600000
+    },
+    {
+      "text": "Derfor er det nødvendigt at underordne sig, ikke alene for straffens skyld, men også for samvittighedens.",
+      "number": 5,
+      "version": 1649109600000
+    },
+    {
+      "text": "Derfor betaler I jo også skatter; for de som vedholdende tager vare på netop dette, er Guds tjenere.",
+      "number": 6,
+      "version": 1649109600000
+    },
+    {
+      "text": "Betal alle hvad I skylder dem: den I skylder skat, skat; den I skylder told, told; den I skylder frygt, frygt; den I skylder ære, ære.",
+      "number": 7,
+      "version": 1649109600000,
+      "footnotes": [
+        {
+          "text": "Ordret står ordene i bestemt form: »skatten … tolden … frygten … æren«.",
+          "type": "T",
+          "position": 134
+        }
+      ]
+    },
+    {
+      "text": "\fSkyld ikke nogen andet end det at elske hinanden, for den som elsker den anden, har opfyldt loven.",
+      "number": 8,
+      "version": 1649109600000
+    },
+    {
+      "text": "For det: »Du må ikke begå ægteskabsbrud; du må ikke begå drab; du må ikke stjæle; du må ikke begære,« og hvilket som helst andet bud sammenfattes i dette ord: »Du skal elske din næste som dig selv.«",
+      "number": 9,
+      "version": 1649109600000
+    },
+    {
+      "text": "Kærligheden gør ikke ondt imod næsten; altså er kærligheden lovens opfyldelse.",
+      "number": 10,
+      "version": 1649109600000
+    },
+    {
+      "text": "\fOg dette netop fordi I kender tiden: at timen allerede er kommet til at stå op af søvnen, for nu er vores frelse nærmere end da vi kom til tro.",
+      "number": 11,
+      "version": 1649109600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »at det er på høje tid«.",
+          "type": "T",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "Natten er fremrykket, dagen er kommet nær. Lad os derfor aflægge mørkets gerninger og iføre os lysets våben.",
+      "number": 12,
+      "version": 1649109600000
+    },
+    {
+      "text": "Lad os vandre sømmeligt som ved dag, ikke i svir og druk, ikke i løsagtighed og udsvævelse, ikke i strid og misundelse,",
+      "number": 13,
+      "version": 1649109600000
+    },
+    {
+      "text": "men ifør jer Herren Jesus Kristus, og drag ikke omsorg for kødet så begær vækkes!",
+      "number": 14,
+      "version": 1649109600000
+    }
+  ]
+}

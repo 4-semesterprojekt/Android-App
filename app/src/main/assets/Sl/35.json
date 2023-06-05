@@ -1,0 +1,255 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 35,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAf David.\fKæmp, JHVHv, mod dem der kæmper mod mig,\ffør krig mod dem der fører krig mod mig.",
+      "title": "En lidende beder om udfrielse",
+      "number": 1,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fGrib til rundskjold og langskjold,\fog rejs dig som min hjælper.",
+      "number": 2,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Rundskjoldet er mindre, mens langskjoldet dækker hele kroppen",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fLøft spyd og økse,\fsig til min sjæl: »Jeg er din frelse.«",
+      "number": 3,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Træk frem«",
+          "type": "T",
+          "position": 5
+        },
+        {
+          "text": "Den hebraiske tekst ordret: »og afskær«. Meningen kan være: »afskær vejen for mine forfølgere«. Men formuleringen er kort og sælsom. Man retter derfor oftest nu vokaliseringen fra *ûsgōr* til *wᵊsāgār* (»og økse«)",
+          "type": "E",
+          "position": 19
+        }
+      ]
+    },
+    {
+      "text": "\fDe skal blive ydmygede og til skamme,\fde der efterstræber mit liv,\fde skal vige tilbage og blive skuffede,\fde der tænker ondt mod mig.",
+      "number": 4,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Ordret »sjæl«",
+          "type": "T",
+          "position": 67
+        }
+      ]
+    },
+    {
+      "text": "\fDe skal blive som avner for vinden,\fog JHVHs engel skal støde dem ned.",
+      "number": 5,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDeres vej skal blive mørk og slibrig,\fog JHVHs engel skal forfølge dem.",
+      "number": 6,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fFor uden grund har de hemmeligt lagt deres net ud for mig,\fuden grund gravede de grav for min sjæl.",
+      "number": 7,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »deres nets grav«. Udtrykket er sælsomt, og der mangler et objekt i næste linje, hvorfor man som regel flytter *šaḥat* (»grav«) til næste linje. Ændringen er fulgt her, men den er ikke absolut nødvendig",
+          "type": "E",
+          "position": 47
+        }
+      ]
+    },
+    {
+      "text": "\fØdelæggelse skal komme over ham, uden at han venter det,\fog det net som han skjulte, skal fange ham,\fhan skal falde deri til ødelæggelse.",
+      "number": 8,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fMen min sjæl skal juble i JHVH,\fden skal fryde sig ved hans frelse.",
+      "number": 9,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fAlle mine knogler skal sige: JHVHv, hvem er som du?\fDu redder en hjælpeløs fra den som er ham for stærk,\fja, en hjælpeløs og fattig fra den som udplyndrer ham.",
+      "title": "Klage over fjendernes skadefryd og ondskab",
+      "number": 10,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fVoldelige vidner vil stå frem,\fde vil spørge mig om noget som jeg ikke ved.",
+      "number": 11,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDe vil gengælde mig ondt for godt,\fde lurer på mit liv.",
+      "number": 12,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Linjen ordret: »barnløshed for min sjæl«. Det kan godt give mening som udtryk for ensomhed. Men oftest regner man *l* i *šᵊxôl lᵊnafšî* for dittografi og læser *śāxû lᵊnafšî* (»de lurer på min sjæl«)",
+          "type": "E",
+          "position": 44
+        },
+        {
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fMen jeg - da de var syge, iførte jeg mig sæk,\fjeg spægede min sjæl med faste,\fog min bøn skal vende tilbage til mit bryst.",
+      "number": 13,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Mange oversætter: »vendte tilbage«. Meningen er enten at bønnen vendte ubesvaret tilbage, eller at den bedende bøjede hovedet dybt, eller (bedst) at han ønsker og beder om at de bønner han bad for sine modstandere, nu må gælde ham selv.",
+          "type": "E",
+          "position": 123
+        }
+      ]
+    },
+    {
+      "text": "\fSom for en ven, som var han min bror,\fgik jeg omkring som en der sørger over sin mor,\fklædt i sort og nedbøjet.",
+      "number": 14,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fMen da jeg snublede, glædede de sig og samledes,\fde samledes imod mig,\ffremmede som jeg ikke kendte,\fde sønderrev uden ophør.",
+      "number": 15,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Ordet: *nēxîm* betyder »slagne/slående«. Det sidste kan måske give mening: »de slår uden at jeg ved (grunden)«, men sætningen er dunkel. Oftest går man ud fra at der er faldet et *r* ud, så der skal stå: *nāxrîm*: »fremmede«",
+          "type": "E",
+          "position": 80
+        },
+        {
+          "text": "Mange finder den hebraiske teksts *qārᵊʕû* (»sønderrev«) for voldsomt og retter til *qārᵊʔû* (»de råbte«) eller * qārᵊṣû* (»de hånede«)",
+          "type": "E",
+          "position": 114
+        }
+      ]
+    },
+    {
+      "text": "\fBlandt de gudløse af kagespotterne\fskar de tænder imod mig.",
+      "number": 16,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Det kan være en hånlig betegnelse for mennesker der snylter. De fleste oversættere vælger rettelse af *bᵊḥanfê laʕᵃgê māʕôg* til *bᵊḥanfî laʕᵃgê mᵊʔûwwāg*: »I gudløshed spottede de mig med spot«. En anden mulighed er at aflede *māʕôg* (»kage«) af roden *ʕôg*: »være krum« og forstå det om det sted man vender tilbage til: »som gudløse spottere af tilflugtsstedet«",
+          "type": "E",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "\fHerre, hvor længe vil du se på?\fudfri min sjæl fra deres ødelæggelser,\fmit eneste liv fra unge løver.",
+      "number": 17,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "I sammenhængen vælger de fleste oversættere at rette *miššōʔêhem* (»fra deres ødelæggelser«) til *miššōʔᵃgîm*: »fra brølende (dyr)«",
+          "type": "E",
+          "position": 71
+        },
+        {
+          "text": "Ordret blot: »mit/min eneste«",
+          "type": "T",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil takke dig i en stor forsamling,\fi en talrig folkeskare vil jeg prise dig.",
+      "title": "Bøn om at fjenderne ikke må sejre",
+      "number": 18,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fLad ikke dem som med urette er mine fjender, glæde sig over mig,\feller dem som hader mig uden årsag, hånligt knibe øjnene sammen.",
+      "number": 19,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fFor de taler ikke fred,\fmen mod de stille i landet\fudtænker de bedrageriske ord.",
+      "number": 20,
+      "version": 1457218800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »ting«",
+          "type": "T",
+          "position": 81
+        }
+      ]
+    },
+    {
+      "text": "\fOg de spærrer deres mund op imod mig,\fde sagde: »Ha, ha!\fVore øjne har set det.«",
+      "number": 21,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDu har set det, JHVHv, vær ikke tavs,\fmin Herre, hold dig ikke borte fra mig!",
+      "number": 22,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fVågn op og stå op for min ret,\fmin Gud og min Herre, for min sag!",
+      "number": 23,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDøm mig efter din retfærdighed, JHVHv, min Gud!\fOg lad dem ikke glæde sig over mig,",
+      "number": 24,
+      "version": 1457218800000
+    },
+    {
+      "text": "\flad dem ikke sige i deres hjerte: »Ha! Det var vort ønske!«\fLad dem ikke sige: »Vi har opslugt ham!«",
+      "number": 25,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDe skal blive både ydmygede og skamfulde,\fde som glæder sig over min ulykke,\fde skal klædes i skam og skændsel,\fde som gør sig store imod mig.",
+      "number": 26,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fDe skal juble og glæde sig,\fde som finder behag i min retfærdighed,\fog de skal altid sige:\f»JHVH viser sin storhed, han som finder behag i sin tjeners fred.«",
+      "number": 27,
+      "version": 1457218800000
+    },
+    {
+      "text": "\fSå skal min tunge forkynde din retfærdighed,\fdin pris hele dagen.",
+      "number": 28,
+      "version": 1457218800000
+    }
+  ]
+}

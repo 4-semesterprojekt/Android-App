@@ -1,0 +1,101 @@
+{
+  "book": "Johannesevangeliet",
+  "abbreviation": "Joh",
+  "chapter": 20,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDa det nu var aften den samme dag, den første dag i ugen, og dørene indtil dér hvor disciplene opholdt sig, var lukkede af frygt for jøderne, kom Jesus og stod midt iblandt dem, og han sagde til dem: »Fred være med jer!«",
+      "number": 19,
+      "version": 1617141600000
+    },
+    {
+      "text": "Og mens han sagde det, viste han dem både hænderne og siden. Så blev disciplene glade da de så Herren.",
+      "number": 20,
+      "version": 1617141600000
+    },
+    {
+      "text": "Jesus sagde da atter til dem: »Fred være med jer! Ligesom Faderen har udsendt mig, således sender også jeg jer.«",
+      "number": 21,
+      "version": 1617141600000
+    },
+    {
+      "text": "Da han havde sagt dette, åndede han på dem idet han sagde til dem: »Modtag Helligånden!",
+      "number": 22,
+      "version": 1617141600000
+    },
+    {
+      "text": "Hvis I tilgiver nogen deres synder, bliver de tilgivet, og hvis I afviser at tilgive nogen, bliver tilgivelsen afvist.«",
+      "number": 23,
+      "version": 1617141600000
+    },
+    {
+      "text": "Men Thomas, hvilket betyder tvilling, en af de tolv, var ikke hos dem da Jesus kom.",
+      "number": 24,
+      "version": 1617141600000,
+      "footnotes": [
+        {
+          "text": "Kan evt. oversættes: »som blev kaldt Didymos«. Didymos er den græske oversættelse af det hebraiske navn Thomas.",
+          "type": "T",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "De andre disciple sagde da til ham: »Vi har set Herren.« Men han sagde til dem: »Hvis ikke jeg får set naglemærkerne i hans hænder og stikker min finger i naglehullerne og stikker min hånd i hans side, vil jeg ikke tro det.«",
+      "number": 25,
+      "version": 1617141600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »naglernes sted«",
+          "type": "T",
+          "position": 168
+        }
+      ]
+    },
+    {
+      "text": "\fOtte dage efter var hans disciple atter samlet og Thomas med dem. Jesus kom mens dørene var lukkede, og han stod midt iblandt dem og sagde: »Fred være med jer!«",
+      "number": 26,
+      "version": 1617141600000
+    },
+    {
+      "text": "Derefter sagde han til Thomas: »Ræk din finger frem, og se mine hænder, og ræk din hånd frem og stik den i min side, og vær ikke vantro, men troende!«",
+      "number": 27,
+      "version": 1617141600000
+    },
+    {
+      "text": "Thomas svarede ham: »Min Herre og min Gud!«",
+      "number": 28,
+      "version": 1617141600000
+    },
+    {
+      "text": "Jesus sagde til ham: »Fordi du har set mig, har du troet; salige er de som ikke har set og dog tror.«",
+      "number": 29,
+      "version": 1617141600000
+    },
+    {
+      "text": "\fOgså mange andre tegn gjorde Jesus for øjnene af sine disciple, som ikke er skrevet ned i denne bog.",
+      "number": 30,
+      "version": 1617141600000
+    },
+    {
+      "text": "Men dette er skrevet for at I skal tro at Jesus er Kristus, Guds Søn, og for at I, når I tror, skal have livet i hans navn.",
+      "number": 31,
+      "version": 1617141600000
+    }
+  ]
+}

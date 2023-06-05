@@ -1,0 +1,120 @@
+{
+  "book": "Kolossenserbrevet",
+  "abbreviation": "Kol",
+  "chapter": 1,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Torben Kjær",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Literært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fPaulus, ved Guds vilje Kristi Jesu apostel, og broderen Timotheus v2 hilser de i Kolossæ hellige og troende brødre i Kristus: Nåde være med jer og fred fra Gud, vores Far.",
+      "title": "Indledning",
+      "number": 1,
+      "version": 1680127200000
+    },
+    {
+      "text": "\fVi takker altid Gud, vores Herre Jesu Kristi Far, når vi beder for jer, v4 fordi vi har hørt om jeres tro på Kristus Jesus og om kærligheden som I har til alle de hellige v5 på grund af det håb som ligger rede til jer i himlene, det håb som I før har hørt om i sandhedens ord, evangeliet, v6 som er kommet til jer. Ligesom det bærer frugt og vokser i hele verden, således også i jer fra den dag I hørte og forstod Guds nåde i sandhed, v7 sådan som I har lært det af Epafras, vores elskede medtjener, som er Kristi tro tjener for jer. v8 Han har også fortalt os om jeres kærlighed i Ånden.",
+      "title": "Frelsen ved Kristus",
+      "number": 3,
+      "version": 1680127200000
+    },
+    {
+      "text": "\fDerfor, fra den dag vi hørte det, er vi ikke holdt op med at bede for jer og bønfalde om at I må blive fyldt med erkendelsen af hans vilje med al visdom og åndelig indsigt v10 så I kan vandre Herren værdigt til hans fulde glæde, ved at I bærer frugt i al god gerning og vokser i erkendelsen af Gud, v11 ved at I styrkes med al kraft efter hans herligheds magt til al udholdenhed og tålmodighed, og ved at I med glæde v12 takker Faderen, som har gjort os kvalificerede til at få del i de helliges arv i lyset. v13 Han befriede os af mørkets magt og satte os over i sin elskede søns rige, v14 i ham har vi løskøbelsen, syndernes tilgivelse.",
+      "number": 9,
+      "version": 1680127200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »til al glæde«",
+          "type": "T",
+          "position": 228
+        }
+      ]
+    },
+    {
+      "text": "\fHan er den usynlige Guds billede,\fden førstefødte før al skabning,",
+      "number": 15,
+      "version": 1680127200000,
+      "footnotes": [
+        {
+          "text": "Al skabning er en relationsgenitiv som her kan gengives med »før«; man kan oversætte: »den førstefødte af al skabning«, men da er Jesus den første blandt skabningerne, og det stemmer ikke med at alt er skabt ved ham og til ham (vers 16), og at alt består ved ham (vers 17).",
+          "type": "E",
+          "position": 67
+        }
+      ]
+    },
+    {
+      "text": "\ffor ved ham blev alt skabt i himlene og på jorden,\fdet synlige og usynlige, troner og herskere, magter og myndigheder,\falt er blevet skabt ved ham og til ham,",
+      "number": 16,
+      "version": 1680127200000
+    },
+    {
+      "text": "\fog han er før alt,\fog alt består ved ham.",
+      "number": 17,
+      "version": 1680127200000
+    },
+    {
+      "text": "\fHan er hoved for kroppen, menigheden,\fhan er begyndelsen,\fden førstefødte af de døde,\ffor at han skulle være den første i alt,",
+      "number": 18,
+      "version": 1680127200000
+    },
+    {
+      "text": "\ffor Gud besluttede at hele fylden skulle bo i ham,",
+      "number": 19,
+      "version": 1680127200000,
+      "footnotes": [
+        {
+          "text": "Der er suppleret med Gud; hvis man ikke supplerer, lyder oversættelsen: »For I ham besluttede hele fylden at bo«.",
+          "type": "T",
+          "position": 51
+        }
+      ]
+    },
+    {
+      "text": "\fog ved ham at forsone alt med sig,\fhvad enten det var på jorden, eller det var i himlen\fda han stiftede fred ved blodet fra hans kors,",
+      "number": 20,
+      "version": 1680127200000
+    },
+    {
+      "text": "\fOgså jer, som før var fremmede og fjender i tankegang i jeres onde gerninger, v22 har han nu forsonet i sin fysiske krop ved døden for at føre jer frem som hellige, fejlfrie og uangribelige for Ham, v23 hvis I virkelig forbliver grundfæstede og faste i troen og ikke lader jer rokke fra evangeliets håb, som I har hørt, som er blevet forkyndt for hele skabningen under himlen, og som jeg, Paulus, er blevet tjener for.",
+      "title": "Paulus’ lidelser",
+      "number": 21,
+      "version": 1680127200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sit køds krop«.",
+          "type": "T",
+          "position": 122
+        }
+      ]
+    },
+    {
+      "text": "\fNu glæder jeg mig over mine lidelser for jeres skyld, og jeg udfylder manglerne i Kristi trængsler i mit fysiske liv til fordel for hans krop, som er menigheden. v25 Den er jeg blevet tjener for ifølge Guds frelsesplan som blev givet mig med henblik på jer for at fuldende forkyndelsen af Guds ord, v26 nemlig den hemmelighed som var blevet skjult for alle tider og generationer, men nu er blevet åbenbaret for hans hellige. v27 Dem ville Gud meddele hvilken rigdom på herlighed denne hemmelighed har blandt hedningerne, nemlig Kristus i jer, herlighedens håb. v28 Ham forkynder vi ved at formane ethvert menneske og ved at undervise ethvert menneske med al visdom, for at vi kan føre ethvert menneske frem som fuldkomment i Kristus. v29 Med henblik på det arbejder jeg også mens jeg kæmper med hans kraft, som virker med styrke i mig.",
+      "number": 24,
+      "version": 1680127200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »i mit kød«.",
+          "type": "T",
+          "position": 117
+        },
+        {
+          "text": "Alternativ oversættelse: »Guds tjeneste« eller »tjenesten fra Gud«.",
+          "type": "T",
+          "position": 219
+        }
+      ]
+    }
+  ]
+}

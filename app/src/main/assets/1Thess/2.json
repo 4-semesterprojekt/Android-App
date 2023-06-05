@@ -1,0 +1,94 @@
+{
+  "book": " Paulus' Første Brev til Thessalonikerne",
+  "abbreviation": "1Thess",
+  "chapter": 2,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Ulrik Sandborg-Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fI ved jo selv, brødre, at den modtagelse, vi fik hos jer, ikke var spildt.  v2 Men skønt vi lige havde lidt og var blevet behandlet med foragt i Filippi, som I jo ved, fik vi ved Gud frimodighed til at tale Guds evangelium til jer under megen sjælekamp.  v3 For vores formaning kom ikke af vildfarelse, ej heller af urenhed, og heller ikke med bedrag som hensigt.  v4 Men eftersom vi er blevet prøvet og fundet værdige af Gud til at få evangeliet betroet, taler vi også således, ikke som for at behage mennesker, men for at behage Gud,  som prøver vore hjerter.",
+      "number": 1,
+      "version": 1494540000000,
+      "footnotes": [
+        {
+          "text": "Ordret, »indgang«.",
+          "type": "T",
+          "position": 41
+        },
+        {
+          "text": "Se ApG. 16,12-17,1.",
+          "type": "T",
+          "position": 153
+        },
+        {
+          "text": "nemlig således som det kræves af dem, som har fået evangeliet betroet.",
+          "type": "E",
+          "position": 479
+        },
+        {
+          "text": "Ordet: »men Gud«.  Ordene »for at behage« er indført for meningens skyld fra den foregående bisætning.",
+          "type": "T",
+          "position": 536
+        }
+      ]
+    },
+    {
+      "text": "\fIkke en eneste gang kom vi jo med smigrende ord, som I også ved, og vi kom heller ikke med skjulte hensigter om egen vinding; det er Gud vidne på.  v6 Vi søgte heller ikke ære fra mennesker, hverken fra jer eller fra andre, v7 selvom vi som Kristi apostle nok kunne have lagt pres på jer. Men vi var milde iblandt jer -- som når en ammende giver sine egne børn bryst, v8 på samme måde fandt vi en glæde -- af bare inderlig kærlighed til jer -- i at give jer, ikke blot Guds evangelium, men også vore egne liv, fordi I var blevet os kære.",
+      "number": 5,
+      "version": 1494540000000,
+      "footnotes": [
+        {
+          "text": "Den græske tekst er tvetydig. Ordene for »lagt pres på jer« betyder egentlig blot, »at være jer til byrde«.  Det kan eksempelvis betyde, at apostlene kunne have »udøvet autoritet«, men grundteksten siger ikke præcist, hvilken slags pres, der er tale om.",
+          "type": "E",
+          "position": 289
+        }
+      ]
+    },
+    {
+      "text": "\fI kan jo huske, brødre, vort slid og slæb.  Idet vi nat og dag arbejdede, for ikke at ligge nogen af jer til byrde, prædikede vi Guds evangelium for jer.  v10 I og Gud er vidner på, hvor fromt og retfærdigt og ulasteligt vi opførte os iblandt jer, som tror. v11 I ved også, hvordan vi formanede jer hver især, som en far sine egne børn. v12 Vi opmuntrede jer og vidnede for jer, at I skal vandre Gud værdigt, han som kaldte jer til sit eget rige og sin herlighed.",
+      "number": 9,
+      "version": 1494540000000
+    },
+    {
+      "text": "\fOg derfor takker vi også Gud uophørligt, for dengang I tog det ord til jer, som I hørte af os, modtog I det ikke som menneskers ord, men som det, det i sandhed er: Guds ord.  Det viser sig også virksomt i jer, som tror.",
+      "number": 13,
+      "version": 1494540000000
+    },
+    {
+      "text": "\fFor I, brødre, er jo blevet ligesom Guds menigheder, som er i Judæa i Kristus Jesus.  I har jo også lidt det samme af jeres egne landsmænd, som de har lidt af jøderne, v15 som slog både Herren Jesus og profeterne ihjel, og som forfulgte os, og som ikke behager Gud, og som står alle mennesker imod. De forhindrer os nemlig i at tale til hedningerne for at de må blive frelst, så at de altid fylder deres synders mål op.  Men vreden er kommet over dem til fulde.",
+      "number": 14,
+      "version": 1494540000000,
+      "footnotes": [
+        {
+          "text": "Mange håndskrifter har: »deres egne profeter«.",
+          "type": "E",
+          "position": 213
+        },
+        {
+          "text": "nemlig hedningerne.",
+          "type": "T",
+          "position": 359
+        },
+        {
+          "text": "nemlig jøderne",
+          "type": "T",
+          "position": 385
+        }
+      ]
+    },
+    {
+      "text": "\fMen vi, brødre, som for en stund er blevet adskilt fra jer -- ansigt til ansigt, ikke i hjertet -- vi har med megen længsel gjort os umage for at få jeres ansigt at se. v18 For vi har jo haft i sinde at komme til jer, jeg, Paulus, både én og to gange; men Satan har afskåret os fra det. v19 For hvem er vort håb eller vor glæde eller vores stoltheds krone, om ikke I, foran vor Herre Jesus Kristus ved hans komme?  v20 For I er jo vores ære og vores glæde.",
+      "number": 17,
+      "version": 1494540000000
+    }
+  ]
+}

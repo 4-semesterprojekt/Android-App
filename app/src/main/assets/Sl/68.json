@@ -1,0 +1,501 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 68,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\fAf David. En salme. En sang.",
+      "title": "Tillid til Guds sejr og omsorg",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fGud vil rejse sig, hans fjender skal spredes,\fog de som hader ham, skal flygte for ham.",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det er omdiskuteret om verberne i v.2-4 skal opfattes som yiqtol (som forudsat her) eller som jussiv der kunne oversættes: »Gid Gud vil rejse sig, ….",
+          "type": "E",
+          "position": 19
+        },
+        {
+          "text": "Ordret: »for hans ansigt«.",
+          "type": "T",
+          "position": 88
+        }
+      ]
+    },
+    {
+      "text": "\fSom røg blæses bort, vil du blæse bort,\fsom voks smelter for ild,\fskal de ugudelige gå til grunde for Guds ansigt.",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Undertiden foreslås rettelse af vokaliseringen af *tindōf* (»vil du blæse bort«) til: *jinnādēf*: »blæses bort«, hvor de to verber forstærker hinanden og oversættes som ét: »som røg blæses bort«. Begrundelsen er at man ikke mener at en tiltale til Gud kan stå på dette sted i salmen. Rettelsen er dog unødvendig.",
+          "type": "E",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "\fMen de retfærdige skal glæde sig, de skal fryde sig\ffor Guds ansigt\fog juble med glæde.",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fSyng for Gud, lovsyng hans navn,\fban vej for ham som rider frem på stepperne;\fJHVH er hans navn,\fog fryd jer for hans ansigt.",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Andre oversætter det forholdsvis sjældne verbum: »Ophøj«. Det kan støttes af at objektet »vej« ikke står i grundteksten, men må underforstås som objekt for verbet.",
+          "type": "E",
+          "position": 45
+        },
+        {
+          "text": "*ʕᵃrāvôt* kan betegne »steppeørkner«. Det er ofte blevet oversat »ørken«, men det er betegnelse for områder med vegetation. På baggrund af paralleludtryk i ugaritiske tekster om guden Ba’al som den der rider på skyerne, retter man nu ofte til *ʕāvôt*: »skyer«.",
+          "type": "E",
+          "position": 78
+        },
+        {
+          "text": "Sætningen *bᵊyāh šᵊmô* betyder ordret: »I Jah er hans navn«. Kortformen »Jah« for »Jahve« findes en del steder i poetiske tekster. Sætningen må betyde at Guds væsen finder udtryk i hans navn (2 Mos 3,24). Sætningen er dog i alle tilfælde speciel og knudret. Blandt rettelsesforslagene er især enten at slette *bᵊ* (»i«) eller at læse: *kî yāh šᵊmô*: »for Jah er hans navn«.",
+          "type": "E",
+          "position": 83
+        }
+      ]
+    },
+    {
+      "text": "\fFaderløses fader og enkers forsvarer\fer Gud i sin hellige bolig.",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGud lader ensomme bo i et hjem,\fhan fører fanger ud til trivsel,\fkun genstridige forblev i det tørre område.",
+      "title": "Gud frelser sit folk fra ødemarken",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det foreslås undertiden at rette *môšîv* (»lader bo«) til: *mēšîv*: »fører tilbage«. Der er dog ingen tekstmæssig støtte til rettelsen.",
+          "type": "T",
+          "position": 21
+        },
+        {
+          "text": "Ordet *kôšārāʰ* forekommer kun her i GT. Den præcise betydning er usikker. Det oversættes ofte: »lykke«. Andre foreslår: »musik/jubel«. Modsætningen i næste linje kan måske tyde på: »frugtbarhed«.",
+          "type": "E",
+          "position": 65
+        },
+        {
+          "text": "Grundteksten har qatal (fortid). Det er i givet fald en hentydning til at den generation der gjorde oprør i ørkenen mod Gud, måtte blive og dø i ørkenen (4 Mos 14,22-23.27-35). Mange vælger dog at oversætte ved fremtid: »skal bo«.",
+          "type": "E",
+          "position": 89
+        }
+      ]
+    },
+    {
+      "text": "\fGud, da du drog ud foran dit folk,\fda du skred frem gennem ødemarken - Sela",
+      "number": 8,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "\fda skælvede jorden,\fog himlen silede af regn foran Gud,\fden Eneste fra Sinaj,\fforan Gud, Israels Gud.",
+      "number": 9,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret blot: »himlen silede/dryppede«.",
+          "type": "T",
+          "position": 45
+        },
+        {
+          "text": "Ordret: »dette (er) Sinaj«. Paralleller i ugaritisk og arabisk tyder på at *zeʰ* (»dette«) kan betyde: »den eneste/ham«. Det parafraseres undertiden: »Sinajs Herre«.",
+          "type": "E",
+          "position": 78
+        },
+        {
+          "text": "Kan oversættes: »foran Guds, Israels Guds ansigt«.",
+          "type": "T",
+          "position": 102
+        }
+      ]
+    },
+    {
+      "text": "\fRigelig regn lod du strømme ned, Gud,\fdin arvelod og det udpinte styrkede du.",
+      "number": 10,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Nogle oversættere lader – på trods af grundtekstens accent - »din arvelod« høre til foregående linje: »rigelig regn lod du, Gud, strømme ned over din arvelod«.",
+          "type": "E",
+          "position": 50
+        }
+      ]
+    },
+    {
+      "text": "\fDin skare bosatte sig der,\fdu vil i din godhed tage dig af det for den hjælpeløse, Gud.",
+      "number": 11,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af ordet *ḥayyāʰ* er omdiskuteret. Det skal dog her tydeligvis være synonym for Guds »folk«.",
+          "type": "E",
+          "position": 10
+        },
+        {
+          "text": "Ordret: »i det«.",
+          "type": "T",
+          "position": 27
+        }
+      ]
+    },
+    {
+      "text": "\fHerren lader besked lyde:\f»De kvinder som bringer glædesbudskab, er en stor hær.",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHærenes konger skal flygte, de skal flygte!\fOg husets frue skal fordele bytte.",
+      "number": 13,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordet *nāwāʰ* er omdiskuteret. Formodentlig er det enten afledt af et verbum der betyder: »være smuk«, eller et enslydende verbum der betyder »bebo«. Altså: »husets kvindelige beboer/husets smukke«.",
+          "type": "E",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "\fVil I ligge mellem kvægfoldene?\fDuens vinger er dækket med sølv,\fog dens svingfjer med guldets gyldengrønne glans«.",
+      "number": 14,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Sandsynligvis et bebrejdende ord mod dem der som Rubens stamme (Dom 5,16) hellere vil »ligge« og hygge sig mellem »kvægfoldene« end tage del i kampen.",
+          "type": "E",
+          "position": 32
+        },
+        {
+          "text": "»Duen« kan være sejrens og fredens budbringer hvis strålende »svingfjer« svarer til dens prægtige budskab.",
+          "type": "E",
+          "position": 116
+        }
+      ]
+    },
+    {
+      "text": "\fNår den Almægtige spreder konger der,\ffalder der sne på Salmon.",
+      "title": "Guds bjerg",
+      "number": 15,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Meningen med dette vers er usikker. »Salmon« er muligvis et bjerg ved Sikem (Dom 9,48). I så fald er det ikke over 1000 m højt, og »sne« vil ikke forekomme ret ofte.",
+          "type": "E",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "text": "\fEt gudsbjerg er Bashans bjerg,\fet bjerg med tinder er Bashans bjerg.",
+      "number": 16,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Forstavelsen »guds-« er her formodentlig en forstærkelse: et imponerende bjerg. Der kan dog også oversættes: »et Guds bjerg«.",
+          "type": "E",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "text": "\fHvorfor skuler I bjerge med tinder\ftil det bjerg som Gud har ønsket som sit sæde?\fJa, JHVH vil bo der for evigt.",
+      "number": 17,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGuds stridsvogne er to gange ti tusind,\futallige tusind.\fHerren er blandt dem, Sinaj er i helligdommen.",
+      "number": 18,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordet *ribbôʔ* (»ti tusind«) står i dualis der enten kan angive »to gange ti tusind« eller »ti tusind gange ti tusind«.",
+          "type": "E",
+          "position": 40
+        },
+        {
+          "text": "Ordret: »gentagelses tusinde«.",
+          "type": "T",
+          "position": 57
+        },
+        {
+          "text": "Ofte rettes *vām sînay* (»blandt dem, Sinaj«) til: *bāʔ missînay*: »(Herren) er kommet fra Sinaj (til helligdommen)«. Rettelsen har dog hverken støtte i håndskrifter eller gamle oversættelser. Meningen er formodentlig at helligdommen på Zion nu er det Sinaj engang var.",
+          "type": "E",
+          "position": 104
+        }
+      ]
+    },
+    {
+      "text": "\fDu steg op til det høje,\fdu førte fanger med,\fdu tog imod gaver hos mennesker\fog endog hos genstridige\ffor at trone, JHVHv, Gud!",
+      "title": "Gud er vor frelse",
+      "number": 19,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har singularis *bāʔādām*: »hos mennesket« der er ment kollektivt.",
+          "type": "T",
+          "position": 78
+        },
+        {
+          "text": "Grundteksten har kortformen *yāh*.",
+          "type": "T",
+          "position": 124
+        },
+        {
+          "text": "Andre opfatter de to linjer som hørende sammen således: »og endog hos dem som gør oprør mod at JHVH Gud slår sig ned«.",
+          "type": "E",
+          "position": 129
+        }
+      ]
+    },
+    {
+      "text": "\fLovet være Herren dag efter dag!\fHan vil bære os, Gud er vor frelse. Sela",
+      "number": 20,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det er usikkert om »dag efter dag« skal høre til denne linje eller indlede den næste (»dag efter dag vil han bære os«).",
+          "type": "E",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\fGud er for os en Gud til frelse,\fog for JHVH, Herren, er der udveje fra døden.",
+      "number": 21,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fJa, Gud skal knuse sine fjenders hoved,\fden behårede isse på den som vandrer omkring i sin skyld.",
+      "number": 22,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det er usikkert hvad der er tænkt på. Måske at soldaterne så håret som tegn på styrke (jf. Samson, Dom 13-16).",
+          "type": "E",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "\fHerren har sagt: »Jeg vil hente tilbage fra Bashan,\fjeg vil hente tilbage fra havets dyb,",
+      "number": 23,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fså du kan bade din fod i blod,\fog dine hundes tunge kan få sin andel blandt fjenderne«.",
+      "title": "Festprocessionen ind i Guds tempel",
+      "number": 24,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har: »så du kan knuse din fod i blod«. Normalt retter man – med støtte i de gamle oversættelser - *timᵊḥaṣ* (»du kan knuse«) til: *tirᵊḥaṣ*: »du kan bade«.",
+          "type": "E",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "text": "\fDe så dine processioner, Gud,\fmin Guds procession, min konge i helligdommen.",
+      "number": 25,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fForan gik sangere, bagefter strengespillerne,\fimellem unge piger som spillede på pauke.",
+      "number": 26,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fPris Gud i forsamlinger,\fJHVH, Israels kilde!",
+      "number": 27,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »velsign«.",
+          "type": "T",
+          "position": 5
+        },
+        {
+          "text": "Ordret: »fra Israels kilde«. Hvis teksten er rigtig, kan den eventuelt parafraseres: »Pris Gud … alle I, som er fra Israels kilde«. Men oftest går man ud fra at der er et *m* for meget i konsonantteksten: *mmqwr*, repræsenterende præpositionen »fra«.",
+          "type": "E",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "\fDér er Benjamin, ung, deres hersker,\fJudas stormænd, deres larmende flok,\fZebulons stormænd, Naftalis stormænd.",
+      "title": "Bøn om at Gud vil vise sin magt",
+      "number": 28,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »ringe«.",
+          "type": "T",
+          "position": 22
+        },
+        {
+          "text": "Ordet *rōdēm* (»deres hersker«) er omstridt. Det afledes oftest af roden *rdh*: »herske, føre an«. Andre afleder det af *rdm*, der i nif’al betyder: »falde i dyb søvn/være bedøvet« og oversætter: »Dér er Benjamin, ung, i ekstase«.",
+          "type": "E",
+          "position": 37
+        },
+        {
+          "text": "Betydningen af ordet *rigmātām* (»deres larmende flok« er meget usikker og lades uoversat af mange.",
+          "type": "T",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "\fDin Gud har befalet din styrke.\fVær stærk, Gud, i det du har gjort for os",
+      "number": 29,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "De fleste oversættere retter med de gamle oversættelser i konsonantteksten *k* til *m*: *ʔᵉlōheʸxā* (»din Gud«) til: *ʔᵉlōhîm*: »Gud«. Udover de ændringer i vokalerne, som dette medfører, retter man også vokaliseringen af *ṣiwwāʰ* (»har befalet«) til: *ṣawwēʰ*: »befal/opbyd«, så oversættelsen lyder: »Opbyd din styrke, Gud«. Den overleverede tekst må være et ord til den sejrende hær, inden der i næste linje bedes om styrke.",
+          "type": "E",
+          "position": 20
+        },
+        {
+          "text": "Kan eventuelt oversættes: »Styrk, Gud, det du har gjort for os«. Eftersætningen er dog næppe tænkt som objekt for verbet (»styrk«), men er knyttet til »Gud«.",
+          "type": "E",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\ffra dit tempel i Jerusalem.\fKonger skal bringe dig gave.",
+      "number": 30,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fTru dyret i sivene,\ftyreflokken, med folkene som kalve,\fsom underkaster sig med sølvstykker.\fHan adspredte folkene, som har lyst til kampe.",
+      "number": 31,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Billede på herskerne ved Nilen (Egypten).",
+          "type": "E",
+          "position": 20
+        },
+        {
+          "text": "Billede på de hedenske konger med deres folk eller med stormagternes allierede.",
+          "type": "E",
+          "position": 56
+        },
+        {
+          "text": "Sætningen er dunkel og omdiskuteret. Verbet: *mitrappēs* (»underkaster sig«) oversættes også: »træder under fode«. Ofte vælger man at rette til imperativ: *hitrappēs*: »træd under fode«. Desuden retter man ofte: *bᵊraṣṣê-xāsef* (»med sølstykker«) til: *bᵊrōṣê-xāsef*: »der elsker sølv«, altså: »træd dem under fode, der elsker sølv«.",
+          "type": "E",
+          "position": 93
+        },
+        {
+          "text": "Mange oversættere retter vokaliseringen af: *bizzar* (»han adspredte«) til imperativ: *bazzēr*: »adspred«.",
+          "type": "E",
+          "position": 107
+        }
+      ]
+    },
+    {
+      "text": "\fDe kommer med bronzevarer fra Egypten,\fKush skal lade sine hænder ile til Gud.",
+      "title": "Lovprisning af den vældige, Israels Gud",
+      "number": 32,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *ḥašmannîm*, der kun forekommer denne ene gang i GT, er højst usikker. De gamle oversættelser har forstået det som: »fyrster/fornemme/udsendinge«, men det er sprogligt mindre sandsynligt. Oftest forbindes ordet med »bronze«. Andre forslag er bl.a.: »natron/blåt klæde«. Hvis man ikke følger de gamle oversættelser, må verbet *yeˀᵉtāʸû* (»de kommer«) vokaliseres som hif’il: *yaˀᵃtiyû*: »de kommer med«.",
+          "type": "E",
+          "position": 26
+        },
+        {
+          "text": "Formodentlig Nubien eller Etiopien.",
+          "type": "E",
+          "position": 44
+        },
+        {
+          "text": "Ofte retter man: *tārîṣ* (»skal lade ile«) til: *tāraṣ*: »skal løfte«",
+          "type": "T",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "\fI jordens kongeriger, syng for Gud,\flovsyng Herren. Sela",
+      "number": 33,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor han som rider på ældgamle himles himle,\fse, han løfter sin røst, en mægtig røst.",
+      "number": 34,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan eventuelt oversættes: »han lader sin torden lyde«.",
+          "type": "T",
+          "position": 69
+        }
+      ]
+    },
+    {
+      "text": "\fGiv Gud ære,\fhans højhed er over Israel\fog hans magt i skyerne.",
+      "number": 35,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »magt«, men i forholdet til Gud er det udtryk for at anerkende hans magt.",
+          "type": "T",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "text": "\fFrygtindgydende er du, Gud, fra dine helligdomme,\fIsraels Gud, han giver folket magt og styrke.\fLovet være Gud!",
+      "number": 36,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »velsignet«.",
+          "type": "T",
+          "position": 102
+        }
+      ]
+    }
+  ]
+}

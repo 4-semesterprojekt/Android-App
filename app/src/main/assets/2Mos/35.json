@@ -1,0 +1,359 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 35,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Literært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMoses samlede hele Israels børns menighed og sagde til dem: »Dette er de ting, som JHVH befalede at gøre:",
+      "title": "Overholdelse af sabbatten",
+      "number": 1,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens: *dāvār* kan – alt efter sammenhængen – oversættes både: »ord« og: »ting«. Her spilles der på begge betydninger.",
+          "type": "E",
+          "position": 79
+        }
+      ]
+    },
+    {
+      "text": "I seks dage må der udføres arbejde, men på den syvende dag skal der være hellighed for jer, en sabbat med fuldstændig hvile for JHVH; enhver som udfører arbejde på den, skal lide døden.",
+      "number": 2,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Man skal muligvis underforstå »dag«, altså »en hellig dag«.",
+          "type": "E",
+          "position": 82
+        },
+        {
+          "text": "På hebraisk: *šabbat šabbātôn*. Roden/verbet: *šbt* betyder: »hvile«. Tilføjelsen: *šabbātôn* understreger at hviledagen (sabbatten) skal være fuldstændig hviledag.",
+          "type": "E",
+          "position": 123
+        }
+      ]
+    },
+    {
+      "text": "I må ikke tænde ild noget sted hvor I bor på sabbatsdagen.«",
+      "title": "Offergaver til helligdommen",
+      "number": 3,
+      "version": 1616022000000
+    },
+    {
+      "text": "\fMoses sagde til hele Israels børns menighed således: »Dette er den ting som JHVH befalede ved at sige:",
+      "number": 4,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »ved at sige«.",
+          "type": "T",
+          "position": 53
+        },
+        {
+          "text": "Se note til vers 1.",
+          "type": "T",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "Af det som tilhører jer, skal I tage en afgift til JHVH; enhver som har et villigt hjerte, skal bringe en afgift til JHVH: guld, sølv og bronze,",
+      "number": 5,
+      "version": 1616022000000
+    },
+    {
+      "text": "purpurblå, purpurrød og karminrød uld, fint linned og gedeuld,",
+      "number": 6,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »karminrød orm«.",
+          "type": "T",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "rødfarvede vædderskind og delfinskind og akacietræ,",
+      "number": 7,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "type": "T",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "olie til lampen, balsam til salvningsolien og til vellugtende røgelse,",
+      "number": 8,
+      "version": 1616022000000
+    },
+    {
+      "text": "shoham-sten og sten til at sætte på efoden og på brystskjoldet.",
+      "title": "Arbejdet der skal udføres",
+      "number": 9,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Der er usikkerhed om, hvilken ædelsten det drejer sig om. Det oversættes både som onyx, sardonyx og karneol. Det hebraiske ord (*šōham*) antyder at stenen må være rødlig; karneol er måske det bedste bud.",
+          "type": "T",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "text": "\fOg enhver blandt jer som har kunstnerisk færdighed, de skal komme og lave alt det som JHVH har befalet:",
+      "number": 10,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »har et vist hjerte«",
+          "type": "T",
+          "position": 52
+        }
+      ]
+    },
+    {
+      "text": "Boligen, dens telt og dets dække, dens hager og dens planker, dens tværlægter, dens stolper og dens fodstykker;",
+      "number": 11,
+      "version": 1616022000000
+    },
+    {
+      "text": "arken med dens bærestænger, sonedækket og forhænget;",
+      "number": 12,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »dækkets forhæng«/»forhænget der dækker«. Der er tænkt på forhænget mellem det Hellige og det Allerhelligste.",
+          "type": "T",
+          "position": 52
+        }
+      ]
+    },
+    {
+      "text": "bordet med dets bærestænger og alle dets redskaber og skuebrødet;",
+      "number": 13,
+      "version": 1616022000000
+    },
+    {
+      "text": "lampe-lysestagen og dens redskaber, dens lamper og lampeolien;",
+      "number": 14,
+      "version": 1616022000000
+    },
+    {
+      "text": "røgelsesalteret med dets stænger og salvningsolien og vellugtende røgelse, og tæppet for indgangen, for boligens indgang;",
+      "number": 15,
+      "version": 1616022000000
+    },
+    {
+      "text": "brændofferalteret med dets bronzegitter, dets bærestænger og alle dets redskaber, bækkenet og dets sokkel;",
+      "number": 16,
+      "version": 1616022000000
+    },
+    {
+      "text": "forhængene til forgården, dens stolper og dens fodstykker, og tæppet til forgårdens port;",
+      "number": 17,
+      "version": 1616022000000
+    },
+    {
+      "text": "pløkkene til boligen og pløkkene til forgården og deres barduner;",
+      "number": 18,
+      "version": 1616022000000
+    },
+    {
+      "text": "vævede klæder til tjeneste i helligdommen; hellige klæder til Aron, præsten, og hans sønners klæder til at gøre præstetjeneste i.«",
+      "title": "Offergaverne samles ind",
+      "number": 19,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Se note til 31,30.",
+          "type": "T",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "text": "\fSå gik de, hele Israels børns menighed, bort fra Moses’ nærhed.",
+      "number": 20,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »bort fra Moses’ ansigt«.",
+          "type": "T",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "text": "Og de kom, enhver hvis hjerte opmuntrede ham, og hver den, hvis ånd tilskyndede ham, de bragte JHVHs offergave til arbejdet på forsamlingsteltet og til hele tjenesten ved det og til de hellige klæder.",
+      "number": 21,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hver mand«.",
+          "type": "T",
+          "position": 17
+        },
+        {
+          "text": "Ordret: »hvis hjerte løftede ham«.",
+          "type": "T",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "De kom, mændene såvel som kvinderne, alle med villigt hjerte bragte spænder, ringe og fingerringe og kugleformede smykker, alle ting af guld; enhver som foretog svingning med et svingningsoffer af guld for JHVH,",
+      "number": 22,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Den masoretiske tekst har en ret speciel konstruktion: *wayyāvōʔû hāˀᵃnāšîm ʕal-hannāšîm*. Spørgsmålet er, hvad præpositionen *ʕal* angiver her, normalt: »på«. Formodentlig skal den enten oversættes: »såvel som« eller: »ved siden af«.",
+          "type": "E",
+          "position": 36
+        },
+        {
+          "text": "Det hebraiske ord: *ḥāḥ* bruges andre steder om kroge, hvormed man holder dyr fangne. Her er der formodentlig tale om et spænde eller en broche. Men der er usikkerhed om hvilke smykker der præcist er ment i verset. De står alle i singularis der må opfattes som kollektiv betegnelse.",
+          "type": "T",
+          "position": 76
+        },
+        {
+          "text": "Der er formodentlig tænkt på øre- og/eller næseringe.",
+          "type": "T",
+          "position": 82
+        },
+        {
+          "text": "Muligvis: »seglringe«.",
+          "type": "T",
+          "position": 97
+        },
+        {
+          "text": "Hermed menes: »indviede et offer«.",
+          "type": "T",
+          "position": 193
+        }
+      ]
+    },
+    {
+      "text": "og enhver hos hvem der fandtes purpurblå, purpurrød og karminrød uld og fint linned og gedeuld, rødfarvede vædderskind og delfinskind, bragte det.",
+      "number": 23,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »karminrød orm«.",
+          "type": "T",
+          "position": 64
+        },
+        {
+          "text": "Der er usikkerhed om betydningen af det hebraiske *taḥaš*. Umiddelbart er der især to muligheder: »delfin« eller: »søko«",
+          "type": "T",
+          "position": 133
+        }
+      ]
+    },
+    {
+      "text": "Enhver som gav en afgift af sølv og bronze, bragte afgiften til JHVH; og enhver hos hvem der fandtes akacietræ til noget af tjenestens arbejde, bragte det.",
+      "number": 24,
+      "version": 1616022000000
+    },
+    {
+      "text": "Enhver kvinde som havde kunstnerisk færdighed, spandt med sine hænder, og de bragte det spundne: det purpurblå, purpurrøde og karminrøde uld og det fine linned.",
+      "number": 25,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »et víst hjerte«.",
+          "type": "T",
+          "position": 46
+        },
+        {
+          "text": "Ordret: »karminrød orm«.",
+          "type": "T",
+          "position": 136
+        }
+      ]
+    },
+    {
+      "text": "Og alle kvinderne, hvis hjerte opmuntrede dem med visdom, spandt gedeulden.",
+      "number": 26,
+      "version": 1616022000000
+    },
+    {
+      "text": "Og overhovederne bragte shoham-sten og stenene til at indfatte på efoden og på brystskjoldet,",
+      "number": 27,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Se note til vers 9.",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "balsammen og olien til lampen og til salvningsolien og til den vellugtende røgelse.",
+      "number": 28,
+      "version": 1616022000000
+    },
+    {
+      "text": "Hver mand og kvinde hvis hjerte tilskyndede til at bringe noget til alt det arbejde som JHVH ved Moses havde befalet at gøre, det bragte Israels børn som frivillig gave til JHVH.",
+      "title": "Udpegning af håndværkerne",
+      "number": 29,
+      "version": 1616022000000
+    },
+    {
+      "text": "\fMoses sagde til Israels børn: »Se, JHVH har kaldet Besal’el ved navn; han er søn af Uri, søn af Hur, af Juda stamme.",
+      "number": 30,
+      "version": 1616022000000
+    },
+    {
+      "text": "Og han har fyldt ham med Guds ånd, med visdom, med forstand, med viden og evne til al slags håndværk,",
+      "number": 31,
+      "version": 1616022000000
+    },
+    {
+      "text": "til at lave kunstnerisk design, til at arbejde i guld, sølv og bronze,",
+      "number": 32,
+      "version": 1616022000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »tænke tanker«.",
+          "type": "T",
+          "position": 31
+        }
+      ]
+    },
+    {
+      "text": "til at skære sten, til at indfatte, til at udskære træ, til at udføre al slags kunstnerisk arbejde;",
+      "number": 33,
+      "version": 1616022000000
+    },
+    {
+      "text": "og han har i hans hjerte givet evnen til at undervise, ham og Oholiab, Akisamaks søn af Dans stamme.",
+      "number": 34,
+      "version": 1616022000000
+    },
+    {
+      "text": "Han har fyldt dem med visdom i hjertet til at udføre al slags arbejde med indgravering, med design, med kunstvævning i purpurblå, purpurrød og karminrød uld og fint linned, og vævning; de skal udføre al slags arbejde og lave kunstnerisk design.",
+      "number": 35,
+      "version": 1616022000000
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "book": "Lukasevangeliet",
+  "abbreviation": "Luk",
+  "chapter": 1,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen i den sjette måned blev englen Gabriel sendt fra Gud til en by i Galilæa, som hedder Nazaret,",
+      "title": "Englen Gabriel bebuder Jesu fødsel",
+      "number": 26,
+      "version": 1615330800000
+    },
+    {
+      "text": "til en jomfru som var trolovet med en mand ved navn Josef, af Davids hus; og jomfruens navn var Maria.",
+      "number": 27,
+      "version": 1615330800000,
+      "footnotes": [
+        {
+          "text": "En trolovelse var langt mere bindende end vore dages forlovelser.",
+          "type": "T",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "Englen kom ind til hende og sagde: »Vær hilset, du benådede, Herren er med dig!«",
+      "number": 28,
+      "version": 1615330800000
+    },
+    {
+      "text": "Men hun blev forfærdet over de ord og spekulerede over hvad det var for en hilsen.",
+      "number": 29,
+      "version": 1615330800000
+    },
+    {
+      "text": "Englen sagde til hende: »Frygt ikke, Maria! For du har fundet nåde hos Gud.",
+      "number": 30,
+      "version": 1615330800000
+    },
+    {
+      "text": "Se, du skal undfange og føde en søn, og du skal kalde ham Jesus.",
+      "number": 31,
+      "version": 1615330800000
+    },
+    {
+      "text": "Han skal være stor og kaldes den Højestes søn; og Gud Herren skal give ham Davids, hans faders trone.",
+      "number": 32,
+      "version": 1615330800000
+    },
+    {
+      "text": "Og han skal være konge over Jakobs hus for evigt, og der skal ikke være ende på hans kongedømme.«",
+      "number": 33,
+      "version": 1615330800000
+    },
+    {
+      "text": "Men Maria sagde til englen: »Hvordan skal det gå til, da jeg ikke har været sammen med nogen mand?«",
+      "number": 34,
+      "version": 1615330800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »kender«.",
+          "type": "T",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "Englen svarede hende: »Helligånden skal komme over dig, og den Højestes kraft skal overskygge dig; derfor skal også det hellige som fødes, kaldes Guds Søn.",
+      "number": 35,
+      "version": 1615330800000
+    },
+    {
+      "text": "Og se, Elisabeth din slægtning, hun har også undfanget en søn i sin alderdom, og hun som kaldes ufrugtbar, er nu i sjette måned.",
+      "number": 36,
+      "version": 1615330800000
+    },
+    {
+      "text": "For intet er umuligt for Gud.«",
+      "number": 37,
+      "version": 1615330800000
+    },
+    {
+      "text": "Men Maria sagde: »Se, jeg er Herrens tjenerinde; det ske mig efter dit ord!« Så forlod englen hende.",
+      "number": 38,
+      "version": 1615330800000
+    }
+  ]
+}

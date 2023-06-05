@@ -1,0 +1,145 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 83,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEn sang. Salme af Asaf.",
+      "title": "Klage",
+      "number": 1,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGud, giv dig ingen ro,\fvær ikke tavs og hold dig ikke stille, Gud!",
+      "number": 2,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor se, dine fjender larmer,\fog de der hader dig, har løftet hoved.",
+      "number": 3,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMod dit folk planlægger de listigt anslag,\fog de rådslår imod dem som skjuler sig hos dig.",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDe har sagt: »Kom og lad os udslette dem, så de ikke mere er et folk,\fså Israels navn ikke mere huskes.«",
+      "number": 5,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor de har rådslået i hjertet med hinanden,\fde vil slutte en pagt imod dig:",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fEdoms telte og ismaelitterne,\fMoab og hagritter,",
+      "number": 7,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGebal og Ammon og Amalek,\fFilistæa sammen med Tyrus’ indbyggere.",
+      "number": 8,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fAssur har også sluttet sig til dem,\fde er blevet Lots børns støtte. Sela",
+      "title": "Bøn om hjælp",
+      "number": 9,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »arm«.",
+          "type": "T",
+          "position": 68
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 73
+        }
+      ]
+    },
+    {
+      "text": "\fGør med dem som med Midjan,\fsom med Sisera, som med Jabin ved Kishons bæk,",
+      "number": 10,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fde blev tilintetgjort ved En-Dor,\fblev til gødning for jorden.",
+      "number": 11,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fLad det gå dem, deres fyrster, som Oreb og som Ze’eb,\fog alle deres ledere som Zeba og som Salmunna,",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fsom sagde: »Vi indtager\fGuds græsgange.«",
+      "number": 13,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMin Gud, lad dem være som en hvirvelvind,\fsom strå for vinden.",
+      "number": 14,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "*galgal* betegner noget der kører rundt. »vognhjul/hvirvelvind«. Her oversættes det dog ofte: »kugletidsler«.",
+          "type": "E",
+          "position": 42
+        }
+      ]
+    },
+    {
+      "text": "\fSom en ild, der antænder en skov,\fog som en flamme, der antænder bjerge,",
+      "number": 15,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fsådan skal du forfølge med din storm\fog forfærde dem med din orkan!",
+      "number": 16,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFyld deres ansigt med skam,\fså de søger dit navn, JHVHv!",
+      "number": 17,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fLad dem beskæmmes og forfærdes for evigt,\fog lad dem blive til skamme og gå til grunde,",
+      "number": 18,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan eventuelt oversættes: »uafbrudt«.",
+          "type": "T",
+          "position": 42
+        }
+      ]
+    },
+    {
+      "text": "\fså de forstår at du, hvis navn er JHVH, du alene\fer den Højeste over hele jorden.",
+      "number": 19,
+      "version": 1500242400000
+    }
+  ]
+}

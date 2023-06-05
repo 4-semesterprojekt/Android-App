@@ -1,0 +1,71 @@
+{
+  "book": "Zakarias' Bog",
+  "abbreviation": "Zak",
+  "chapter": 12,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEt profetudsagn\fJHVHs ord om Israel. Et udsagn af JHVH, han som udstrækker himmelen og grundfæster jorden; som former menneskets ånd inden i det. v2 Se, jeg gør Jerusalem til et berusende bæger for alle omkringliggende folk; også Juda skal belejres når Jerusalem belejres.",
+      "title": "Jerusalem angribes, men Gud forsvarer sit folk",
+      "number": 1,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fDet skal ske på den dag, at jeg vil gøre Jerusalem til en tung sten for alle folkene; alle som vil løfte den, vil komme slemt til skade. Og alle jordens folkeslag vil samle sig imod den.",
+      "number": 3,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Der skelnes her mellem folkeslag (* gôyîm*) og folk (*ammîm*.)",
+          "type": "E",
+          "position": 163
+        }
+      ]
+    },
+    {
+      "text": "\fPå den dag, siger JHVH, vil jeg slå alle hestene med vanvid og deres ryttere med vanvid. Jeg vil åbne mine øjne mod Judas hus, og alle folkenes heste vil jeg slå med blindhed. v5 Da skal Judas ledere sige i deres hjerte: »Jerusalems indbyggere er mig til styrke ved Hærskarers JHVHv, deres Gud.«.",
+      "number": 4,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Sidste del af verset er omdiskuteret, og nogle foreslår – med støtte i en række tekstudgaver – at det skal oversættes »Jerusalems indbyggeres styrke er i Hærskarers JHVHv, deres Gud«.",
+          "type": "E",
+          "position": 297
+        }
+      ]
+    },
+    {
+      "text": "\fPå den dag vil jeg gøre Judas fyrster til et ildbækken blandt træ; til en fakkel blandt neg. Og de skal fortære til højre og venstre; alle folkene omkring sig. Men Jerusalem skal forblive på sit sted, i Jerusalem. v7 JHVH skal frelse Judas telte først for at Davids hus' herlighed og Jerusalems indbyggeres herlighed ikke skal hæve sig over Juda.",
+      "number": 6,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fPå den dag skal JHVH beskytte Jerusalems indbyggere, og den som er skrøbelig iblandt dem, skal på den dag være som David. Davids hus skal være som Gud; som JHVHs engel foran dem.",
+      "title": "Gud udgyder nådens og bønnens ånd",
+      "number": 8,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fDet skal ske på den dag at jeg agter at ødelægge alle de folkeslag som kommer imod Jerusalem. v10 Men over Davids hus og Jerusalems indbyggere vil jeg udgyde nådens og bønnens ånd, og de skal se hen til mig, ham som de har gennemboret. Og de skal sørge over ham som over det eneste barn og klage bitterligt over ham, som man klager bitterligt over den førstefødte. v11 På den dag skal sorgen blive stor i Jerusalem som sorgen over Hadad-Rimmon i Megiddos dal. v12 Landet skal sørge, hver slægt for sig; Davids hus' slægt for sig og deres kvinder for sig; Nathans hus' slægt for sig og deres kvinder for sig; v13 Levis hus' slægt for sig og deres kvinder for sig; Shim'is slægt for sig og deres kvinder for sig; v14 alle de øvrige slægter, hver slægt for sig og deres kvinder for sig.",
+      "number": 9,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Hadad-Rimmon er ukendt og kan enten referere til et sted eller en guddom, eftersom både Hadad og Rimmon er guder fra mellemøstlig mytologi.",
+          "type": "T",
+          "position": 444
+        }
+      ]
+    }
+  ]
+}

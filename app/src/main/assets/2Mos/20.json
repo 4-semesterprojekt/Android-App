@@ -1,0 +1,288 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 20,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fGud talte alle disse ord og sagde:",
+      "title": "De ti bud{E: Budene er ikke nummererede og tælles forskelligt af jøder, ortodokse kristne og katoliker/lutheranere. Jøderne regner v. 2 for det første bud/ord, men denne tælling går muligvis kun tilbage til 2.-3. århundrede e.Kr. Ortodokse kirker regner v. 4-6 for det andet bud og undgår derved at skulle dele det sidste bud (vers 17) op i to (9. og 10. bud), som det er tilfældet i katolsk og luthersk forståelse.}",
+      "number": 1,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "I Mosebøgerne tales der strengt ikke om *de ti bud*, men om *de ti ord*, jf. vers 1, og i grundteksten gælder det også 34,28; 5 Mos 4,13; 10,4.",
+          "type": "E",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "»Jeg er JHVH din Gud, som førte dig ud af Egyptens land, af trællehuset.",
+      "number": 2,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "Grundteksten kan også oversættes: »Jeg, JHVH, er din Gud«. Da Guds navn (JHVH) allerede er brugt mange gange i det foregående, og da Israel allerede kendte navnet, kan denne oversættelse ikke helt afvises. Gud præsenterer sig ikke, men tilsiger fællesskab.",
+          "type": "T",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "Du må ikke have andre guder end mig!",
+      "number": 3,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "Når nægtelsen *lōʔ* (»ikke«) efterfølges af verbum i wayyiqtol (imperfektum), kan det udtrykke stærkest muligt forbud når Gud taler til mennesker. Sådan må det opfattes her i buddene/ordene. Samtidig kan det dog ikke helt udelukkes at der også ligger en forjættelse i formuleringen om det som skal opfyldes i samlivet med Gud. En oversættelse kunne være: »Du skal ikke have andre guder end mig!« Tilsvarende gælder for de andre bud.",
+          "type": "T",
+          "position": 10
+        },
+        {
+          "text": "Ordret: »Der må ikke for dig være andre guder foran mit ansigt / i mit nærvær«. Meningen er enten som det er oversat her, eller: »ved siden af mig«.",
+          "type": "T",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "Du må ikke lave dig et gudebillede eller nogen som helst afbildning af det som er i himlen oventil, eller det som er på jorden nedentil, eller det som er i vandet under jorden.",
+      "number": 4,
+      "version": 1612134000000
+    },
+    {
+      "text": "Du må ikke tilbede dem og ikke tillade dig at tjene dem; for jeg, JHVH din Gud, er en skinsyg Gud som hjemsøger fædres skyld på børn, på dem i tredje og på dem i fjerde led af dem som hader mig;",
+      "number": 5,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »ikke lade dig lede til at tjene dem«.",
+          "type": "T",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "men viser nåde i tusind led mod dem som elsker mig, og mod dem som holder mine bud.",
+      "number": 6,
+      "version": 1612134000000
+    },
+    {
+      "text": "Du må ikke bruge JHVH din Guds navn til falskhed; for JHVH vil ikke lade den ustraffet som bruger hans navn til falskhed.",
+      "number": 7,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »løfte«. Det er formodentlig underforstået: »løfte op på læberne«, altså bruge Guds navn.",
+          "type": "T",
+          "position": 16
+        },
+        {
+          "text": "Ordret: »intethed«. Der er i sammenhængen tænkt både på falsk ed, løgn og på ligegyldig brug af Guds navn.",
+          "type": "T",
+          "position": 49
+        },
+        {
+          "text": "Eller: »erklære uskyldig«",
+          "type": "T",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "Husk sabbatsdagen så du holder den hellig.",
+      "number": 8,
+      "version": 1612134000000
+    },
+    {
+      "text": "Seks dage skal du arbejde og gøre al din gerning,",
+      "number": 9,
+      "version": 1612134000000
+    },
+    {
+      "text": "men den syvende dag er sabbat for JHVH din Gud; da skal du ingen gerning gøre, hverken du eller din søn eller din datter, din træl eller din trælkvinde eller dit kvæg eller din fremmede som er indenfor dine porte.",
+      "number": 10,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "Både her og i vers 17 kan de hebraiske ord også oversættes: »din tjener eller din tjenestepige«.",
+          "type": "T",
+          "position": 151
+        },
+        {
+          "text": "Den »fremmede« hører ikke til husstanden, men er alligevel afhængig af den behandling, han får. Derfor kaldes han »din fremmede«.",
+          "type": "E",
+          "position": 176
+        }
+      ]
+    },
+    {
+      "text": "For på seks dage gjorde JHVH himlen og jorden, havet og alt det som er i dem, men hvilede på den syvende dag; derfor velsignede JHVH sabbatsdagen og helligede den.",
+      "number": 11,
+      "version": 1612134000000
+    },
+    {
+      "text": "Ær din far og din mor for at dine dage må blive mange på den jord som JHVH din Gud giver dig.",
+      "number": 12,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »må være lange«.",
+          "type": "T",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "Du må ikke begå drab.",
+      "number": 13,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske verbum (*rṣḥ*) bruges med én undtagelse (Ordsp 22,13) af 46 tilfælde i GT om selvisk mord og manddrab. Hebraisk har to andre verber der med lidt forskellig vinkel betyder »at slå ihjel«.",
+          "type": "E",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "Du må ikke bryde ægteskab.",
+      "number": 14,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "Buddet vender sig imod at bryde en gudgivet ordning for det seksuelle samliv og familieliv.",
+          "type": "E",
+          "position": 26
+        }
+      ]
+    },
+    {
+      "text": "Du må ikke stjæle.",
+      "number": 15,
+      "version": 1612134000000
+    },
+    {
+      "text": "Du må ikke svare mod din næste som et falsk vidne.",
+      "number": 16,
+      "version": 1612134000000
+    },
+    {
+      "text": "Du må ikke begære din næstes hus. Du må ikke begære din næstes hustru eller hans træl eller hans trælkvinde eller hans okse eller hans æsel eller noget som tilhører din næste.«",
+      "title": "Folkets reaktion",
+      "number": 17,
+      "version": 1612134000000
+    },
+    {
+      "text": "\fHele folket oplevede tordenen og lynene og hornets lyd og bjerget rygende; folket oplevede det, og de rystede og stod langt borte.",
+      "number": 18,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »så«.",
+          "type": "T",
+          "position": 21
+        },
+        {
+          "text": "Ordret: »røsterne«.",
+          "type": "T",
+          "position": 30
+        },
+        {
+          "text": "Ordret: »faklerne«.",
+          "type": "T",
+          "position": 40
+        },
+        {
+          "text": "af angst.",
+          "type": "E",
+          "position": 110
+        }
+      ]
+    },
+    {
+      "text": "Og de sagde til Moses: »Tal du med os, så vil vi lytte; men lad ikke Gud tale med os, for at vi ikke skal dø.«",
+      "number": 19,
+      "version": 1612134000000
+    },
+    {
+      "text": "Men Moses sagde til folket: »Frygt ikke, for Gud er kommet for at sætte jer på prøve, og for at frygt for ham skal være for jeres ansigt så I ikke synder.«",
+      "number": 20,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "I betydningen »ærefrygt«, ikke som »rædsel«.",
+          "type": "E",
+          "position": 101
+        }
+      ]
+    },
+    {
+      "text": "Mens folket stod langt borte, nærmede Moses sig mulmet hvor Gud var.",
+      "title": "Forordning om alteret",
+      "number": 21,
+      "version": 1612134000000
+    },
+    {
+      "text": "\fOg JHVH sagde til Moses: »Sådan skal du sige til Israels børn: ›I har oplevet at jeg har talt fra himlen med jer.",
+      "number": 22,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »set«.",
+          "type": "T",
+          "position": 78
+        }
+      ]
+    },
+    {
+      "text": "I må ikke lave jer noget ved siden af mig; guder af sølv og guder af guld må I ikke lave jer.‹",
+      "number": 23,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "Således er det forudsat med grundtekstens accent. Mange oversættere vælger at flytte accenten og oversætter: »I må ikke lave jer guder af sølv ved siden af mig, og I må ikke lave jer guder af guld«.",
+          "type": "T",
+          "position": 42
+        }
+      ]
+    },
+    {
+      "text": "Du skal lave mig et alter af jord, og på det skal du ofre dine brændofre og dine måltidsofre, dine får og dine okser; på hvert sted, hvor jeg lader mit navn blive husket, vil jeg komme til dig og velsigne dig.",
+      "number": 24,
+      "version": 1612134000000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske: *šelem* kunne også oversættes: »fælesskabsofre« eller »fredsofre«, idet samme rod (*šlm*) angiver helhed og fællesskab og går igen i ordet: *šālôm*: »fred«.",
+          "type": "T",
+          "position": 93
+        }
+      ]
+    },
+    {
+      "text": "Men hvis du vil lave mig et alter af sten, skal du ikke bygge det af kvadre, for hvis du svinger dit huggejern over det, vanhelliger du det.",
+      "number": 25,
+      "version": 1612134000000
+    },
+    {
+      "text": "Og du må ikke gå op ad trapper på mit alter for at din nøgenhed ikke skal blottes over det.«",
+      "number": 26,
+      "version": 1612134000000
+    }
+  ]
+}

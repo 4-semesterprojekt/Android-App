@@ -1,0 +1,266 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 72,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAf Salomo.\fGud, giv dine domme til kongen\fog din retfærdighed til kongesønnen.",
+      "title": "Gud give retfærdighed gennem kongen",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Der er tænkt på love, retsforordninger og retsafgørelser.",
+          "type": "E",
+          "position": 31
+        }
+      ]
+    },
+    {
+      "text": "\fMå han dømme dit folk med retfærdighed\fog dine hjælpeløse med ret.",
+      "number": 2,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMå bjergene bære fred for folket\fog højene retfærdighed.",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »i retfærdighed« eller: »ved retfærdighed«. En del af de gamle oversættelser har ikke præpositionen, og de fleste går ud fra at den ikke skulle stå her.",
+          "type": "T",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\fMå han skaffe folkets hjælpeløse ret,\ffrelse den fattiges børn\fog knuse undertrykkeren.",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDe skal frygte dig så længe solen skinner,\fog foran månen, fra slægt til slægt.",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Meningen må være at et retfærdigt kongedømme fremmer sand gudsfrygt. De fleste oversættere og kommentatorer følger Septuaginta, der i stedet for *yîrāˀûxā* (»de skal frygte dig«) forudsætter: *wᵊyāˀᵃrîx*: »og han skal vare/leve«.",
+          "type": "E",
+          "position": 19
+        },
+        {
+          "text": "Ordret: »med solen«.",
+          "type": "T",
+          "position": 43
+        },
+        {
+          "text": "Ordret: »slægters slægt«.",
+          "type": "T",
+          "position": 80
+        }
+      ]
+    },
+    {
+      "text": "\fMå han komme ned som regn på en nyslået eng,\fsom regnskyl der væder jorden!",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMå en retfærdig blomstre i hans dage,\fog freden være stor, indtil månen ikke er mere!",
+      "title": "Gud give kongen herredømme over hele jorden",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Med enkelte håndskrifter og gamle oversættelser retter man ofte *ṣaddîq* (»en retfærdig«) til: *ṣedeq*: »retfærdighed« der passer som parallel til »fred« i næste linje. I den overleverede tekst er »en retfærdig« formodentlig modstykke til »undertrykkeren« (v.4).",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fJa, han skal herske fra hav til hav,\fog fra floden til jordens ender!",
+      "number": 8,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fØrkenbeboere skal falde på knæ for hans ansigt,\fog hans fjender skal slikke støv.",
+      "number": 9,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ud fra parallellen i næste linje formoder man oftest at *ṣiyyîm* (»ørkenbeboere«) er fejlskrivning for: *ṣārāʸw*: »hans modstandere«. Det er også omdiskuteret om *ṣiyyîm* faktisk kan betyde »ørkenbeboere«. Andre steder oversættes det »ørkendyr«.",
+          "type": "E",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "text": "\fKonger fra Tarshish og øer skal bringe gaver!\fSabas og Sebas konger skal overbringe tribut.",
+      "number": 10,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Der er formodentlig tænkt på øerne i Middelhavet.",
+          "type": "E",
+          "position": 27
+        },
+        {
+          "text": "Ordret: »bringe tilbage«, nemlig som svar på en fordring.",
+          "type": "E",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "\fOg alle konger skal kaste sig ned for ham;\falle folkeslag skal tjene ham.",
+      "title": "Kongens ansvar for de nødstedte",
+      "number": 11,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes »hedninger«, men det er der ikke lagt vægt på i sammenhængen.",
+          "type": "T",
+          "position": 58
+        }
+      ]
+    },
+    {
+      "text": "\fFor han skal redde den fattige som råber om hjælp,\fog den elendige som ingen hjælper har.",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHan skal forbarme sig over den svage og fattige\fog redde de fattiges liv.",
+      "number": 13,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sjæle«, der ofte er synonym for »liv«.",
+          "type": "T",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "\fFra undertrykkelse og fra vold  skal han forløse deres liv,\fog deres blod skal være dyrebart i hans øjne.",
+      "title": "Afsluttende bønner",
+      "number": 14,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret »sjæl«.",
+          "type": "T",
+          "position": 60
+        }
+      ]
+    },
+    {
+      "text": "\fMå han leve, og man skal give ham af Sabas guld\fog altid bede for ham,\fvelsigne ham hele dagen.",
+      "number": 15,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens verbum står i qal yiqtol. De gamle oversættelser har dog oversat det som passiv (hof’al): »blive givet/modtage«. Det følges af mange oversættere: »og modtage af Sabas guld«.",
+          "type": "E",
+          "position": 30
+        },
+        {
+          "text": "Kan også oversættes: »lovprise«.",
+          "type": "T",
+          "position": 80
+        }
+      ]
+    },
+    {
+      "text": "\fMå der være overflod af korn i landet,\fpå bjerges top skal det bølge,\fsom Libanon skal dets frugt være,\fog de skal blomstre fra byen som jordens græs!",
+      "number": 16,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordet *pissāʰ* forekommer kun her i GT, og der er usikkerhed om betydningen. »Overflod/fylde« er dog sandsynlig.",
+          "type": "E",
+          "position": 21
+        },
+        {
+          "text": "Det må være byens indbyggere.",
+          "type": "T",
+          "position": 110
+        },
+        {
+          "text": "Ofte rettes *wᵊyāṣîṣû mēʕîr* (»og de skal blomstre fra byen«) til: * yāṣîṣ waʕᵃmîrô*: »dens strå skal blomstre«.",
+          "type": "E",
+          "position": 133
+        }
+      ]
+    },
+    {
+      "text": "\fMå hans navn bestå for evigt,\fmå hans navn vokse, så længe solen lyser,\fog de skal velsigne sig i ham,\falle folkeslag skal prise ham salig!",
+      "title": "Afsluttende lovprisning",
+      "number": 17,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »foran solen/for solens ansigt«.",
+          "type": "T",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "\fLovet være JHVH Gud, Israels Gud,\fhan som alene gør undere!",
+      "number": 18,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »velsignet«.",
+          "type": "T",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "text": "\fOg lovet være hans herlige navn i evighed,\fog må hele jorden fyldes med hans herlighed!\fAmen, ja, amen!",
+      "title": "Efterskrift",
+      "number": 19,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »velsignet«.",
+          "type": "T",
+          "position": 9
+        },
+        {
+          "text": "Ordret: »hans herligheds navn«.",
+          "type": "T",
+          "position": 32
+        },
+        {
+          "text": "Grundtekstens sætningsbygning er unormal. Ofte retter man verbets passive vokalisering *yimmālēˀ* (»fyldes«) til aktiv vokalisering: *yimlāˀ*: »fylde«: »hans herlighed skal fylde hele jorden«.",
+          "type": "E",
+          "position": 68
+        }
+      ]
+    },
+    {
+      "text": "\fHer er Davids, Isajs søns, bønner bragt til ende.",
+      "number": 20,
+      "version": 1500242400000
+    }
+  ]
+}

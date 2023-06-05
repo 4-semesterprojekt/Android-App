@@ -1,0 +1,206 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 25,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAf David.\fTil dig,\n\t\t\t\tJHVHv,\n\t\t\tløfter jeg min sjæl.",
+      "title": "Bøn om hjælp og tilgivelse",
+      "number": 1,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\tMin Gud,\n\t\tjeg har stolet på dig -\n\t\t\tlad mig ikke blive til skamme,\f\n\t\t\t\t\tmine fjender må ikke fryde sig over mig.",
+      "number": 2,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Mange flytter versets første ord, *ʔᵉlōhay* (»Min Gud«) til vers 1. Begrundelsen er dels, at vers 1 er kort, dels at salmen er alfabetisk, så vers 1 begynder med alfabetets første bogstav, vers 2 med det andet osv. Men det gælder kun for vers 2 hvis *ʔᵉlōhay* flyttes så verset begynder med det næste ord, *bᵊxā* (»på dig«), der begynder med alfabetets andet bogstav.",
+          "type": "E",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\tJa, ingen som håber på dig,\n\t\t\t\t\tskal blive til skamme,\f\n\t\t\t\t\t\tskam kommer over dem som handler troløst uden årsag.",
+      "number": 3,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\tJHVHv,\n\t\t\tlad mig kende\n\tdine veje,\f\n\t\tlær mig dine stier!",
+      "number": 4,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\tGør at jeg vandrer i din sandhed,\n\t\t\t\t\tog belær mig,\f\n\t\t\t\t\t\tfor du er min frelses Gud,\f\n\t\t\t\t\t\t\tjeg har ventet på dig hele dagen.",
+      "number": 5,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Som regel lader man verset begynde med et *w* (»og«), da det er forudsat, hvis salmen skal være alfabetisk.",
+          "type": "E",
+          "position": 103
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tHusk din barmhjertighed,\n\t\t\t\t\t\t\t\tJHVHv,\n\t\t\t\t\t\t\tog din nåde,\f\n\t\t\t\t\t\tfor de har været fra evighed.",
+      "number": 6,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 62
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\tHusk ikke min ungdoms synder og mine overtrædelser,\f\n\t\t\t\t\t\thusk du mig efter din nåde\ffor din godheds skyld,\n\t\t\t\t\t\t\t\t\t\tJHVHv!",
+      "title": "Tillid til Guds godhed og troskab",
+      "number": 7,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\tGod og retskaffen er JHVH,\f\n\t\t\t\t\t\t\t\t\t\t\tderfor belærer han syndere om vejen.",
+      "number": 8,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tHan vil lade ydmygede vandre i retfærdighed,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tog han vil lære de ydmyge sin vej.",
+      "number": 9,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tAlle JHVHs stier er nåde og sandhed\f\n\t\t\t\t\t\t\t\t\t\t\tfor dem som holder hans pagt og hans vidnesbyrd.",
+      "number": 10,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tFor dit navns skyld,\n\t\t\t\t\t\t\t\t\tJHVHv,\f\n\t\t\t\t\t\t\ttilgiv mig dog min skyld,\n\t\t\t\t\t\t\t\tfor den er stor.",
+      "number": 11,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\tHvem er da den mand\n\t\t\t\t\t\t\t\t\tsom frygter JHVH?\f\n\t\t\t\t\t\t\t\tHam vil han belære om den\n\t\t\t\t\t\t\t\t\tvej han skal vælge.",
+      "number": 12,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Dvs.: Uanset hvem det er der frygter JHVH, så vil han belære ham.",
+          "type": "E",
+          "position": 115
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tHans sjæl skal bo i lykke,\f\n\t\t\t\t\t\t\t\tog hans efterkommere skal besidde landet.",
+      "number": 13,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sæd«.",
+          "type": "T",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tJHVH har fortroligt fællesskab med dem der frygter ham,\f\n\t\t\t\t\t\t\tja, hans pagt\n\t\t\t\t\t\t\t\tbelærer dem.",
+      "title": "Ny bøn om hjælp og frelse",
+      "number": 14,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »og/ja, hans pagt til at belære dem«.",
+          "type": "T",
+          "position": 105
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\tMine øjne er altid rettet mod JHVH,\f\n\t\t\t\t\t\tfor han befrier mine fødder fra nettet.",
+      "number": 15,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\tVend dig til mig,\n\t\t\t\t\t\tog vær mig nådig,\f\n\t\t\t\t\t\t\tfor jeg er ene og hjælpeløs.",
+      "number": 16,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\tMit hjertes nød har de gjort stor;\f\n\t\t\t\tfør mig ud af mine trængsler!",
+      "number": 17,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Dvs. »fjenderne«.",
+          "type": "T",
+          "position": 28
+        },
+        {
+          "text": "Ordret: »vid/bred«. Mange oversættere trækker dog slutbogstavet *û* i ordet: *hirḥîvû* over til andet halvvers (som: *w*, »og«) og vokaliserer: *harḥêv*: »gør plads (for mit hjertes nød)« eller evt.: »gør (mit hjerte) fri (af nød)«.",
+          "type": "E",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tSe hen til min hjælpeløshed og min modgang,\f\n\t\t\t\tog tilgiv alle mine synder!",
+      "number": 18,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Da salmen er alfabetisk, burde verset begynde med et *q*. Det kan være faldet ud, så der i stedet for *rᵊʔēʰ* (»se hen til«) skal stå *qirʔāʰ*: »mød«.",
+          "type": "E",
+          "position": 14
+        },
+        {
+          "text": "Ordret: »borttag«",
+          "type": "T",
+          "position": 63
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tSe hen til mine fjender,\n\t\t\t\tfor de er mange,\f\n\t\t\t\t\tog de hader mig med uretfærdigt had.",
+      "number": 19,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\tBevar min sjæl\n\t\t\t\t\t\tog red mig\f\n\t\t\t\t\tså jeg ikke bliver til skamme,\n\t\t\t\t\t\tfor jeg har søgt tilflugt hos dig.",
+      "number": 20,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\tLad uskyld og oprigtighed bevare mig,\f\n\t\t\t\t\tfor jeg har ventet på dig.",
+      "title": "Afsluttende bøn om frelse for hele Israel",
+      "number": 21,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\tForløs,\n\t\t\t\t\to Gud,\n\t\t\t\tIsrael\ffra al dets nød!",
+      "number": 22,
+      "version": 1666562400000
+    }
+  ]
+}

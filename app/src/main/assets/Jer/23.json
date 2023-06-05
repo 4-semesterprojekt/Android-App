@@ -1,0 +1,81 @@
+{
+  "book": "Jeremias' Bog",
+  "abbreviation": "Jer",
+  "chapter": 23,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDette siger Hærskarers HERRE: »Hør ikke på profeternes ord når de profeterer for jer, de fylder jer med forkerte forestillinger, de taler efter deres eget hjertes syn, ikke af HERRENS mund.",
+      "number": 16,
+      "version": 1645570800000
+    },
+    {
+      "text": "De siger hele tiden til dem som foragter mig: ›HERREN har udtalt: I vil få fred.‹ Og til enhver som vandrer i sit hjertes stivsind, har de sagt: ›Der kommer ikke nogen ulykke over jer.‹",
+      "number": 17,
+      "version": 1645570800000
+    },
+    {
+      "text": "For hvem har stået i HERRENS fortrolige råd og har set og hørt hans ord? Hvem har lyttet opmærksomt til hans ord så han hørte efter?",
+      "number": 18,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "Således de fleste håndskrifter; enkelte håndskrifter har: »mit«.",
+          "type": "T",
+          "position": 108
+        }
+      ]
+    },
+    {
+      "text": "Se, HERRENS orkan, vrede, er brudt ud, en hvirvelstorm! Den skal hvirvle over ugudeliges hoved.",
+      "number": 19,
+      "version": 1645570800000
+    },
+    {
+      "text": "HERRENS vrede skal ikke vende om før han har udført og fuldført sit hjertes planer; i de sidste dage skal I forstå det helt.",
+      "number": 20,
+      "version": 1645570800000
+    },
+    {
+      "text": "Jeg sendte ikke profeterne, alligevel løb de; jeg talte ikke til dem, alligevel profeterede de.",
+      "number": 21,
+      "version": 1645570800000
+    },
+    {
+      "text": "Men hvis de havde stået i mit fortrolige råd, ville de lade mit folk høre mine ord, og de vilde føre dem tilbage fra deres onde vej og fra deres gerningers ondskab.",
+      "number": 22,
+      "version": 1645570800000
+    },
+    {
+      "text": "Er jeg kun en Gud nær ved?« lyder det fra HERREN, »og ikke en Gud langt borte?",
+      "number": 23,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "Der er tale om et højtideligt udsagn.",
+          "type": "T",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "Mon et menneske kan gemme sig på skjulesteder så jeg ikke kan se ham?« lyder det fra HERREN. »Er jeg ikke den som fylder både himlen og jorden?« lyder det fra HERREN.",
+      "number": 24,
+      "version": 1645570800000
+    }
+  ]
+}

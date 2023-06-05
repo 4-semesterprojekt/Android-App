@@ -1,0 +1,104 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 124,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fValfartssang. Af David.\fHvis ikke JHVH havde været med os\f– sådan skal Israel sige –",
+      "title": "Hvis ikke JHVH havde været med os",
+      "number": 1,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
+          "position": 14
+        },
+        {
+          "text": "Sætningen kan også oversættes: »Hvis ikke det var JHVH, der havde været med os«.",
+          "type": "T",
+          "position": 58
+        }
+      ]
+    },
+    {
+      "text": "\fhvis ikke JHVH havde været med os,\fdengang mennesker rejste sig mod os,",
+      "number": 2,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har singularis: *ʔādām*, der må opfattes kollektivt.",
+          "type": "T",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "\fså havde de opslugt os levende\fi deres flammende vrede mod os,",
+      "number": 3,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fså var vandene skyllet over os,\fen vandstrøm var gået over vor hals,",
+      "number": 4,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har: *nefeš*, hvis oprindelige betydning ofte opgives som: »hals«. Grundbetydningen i GT er dog: »sjæl«. Det oversættes ofte: »liv«. Her oversættes det ofte: »os«.",
+          "type": "E",
+          "position": 69
+        }
+      ]
+    },
+    {
+      "text": "\fså var de gået over vor hals,\fde brusende vande!",
+      "title": "Lovet være JHVH som var med os",
+      "number": 5,
+      "version": 1492552800000
+    },
+    {
+      "text": "\fLovet være JHVH\fsom ikke gav os til bytte for deres tænder!",
+      "number": 6,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »velsignet«.",
+          "type": "T",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "text": "\fVort liv undslap som en fugl\faf fuglefængernes fælde.\fFælden blev knust,\fog vi undslap.",
+      "number": 7,
+      "version": 1492552800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "text": "\fVor hjælp er i JHVHs navn,\fhans som skabte himmel og jord.",
+      "number": 8,
+      "version": 1492552800000
+    }
+  ]
+}

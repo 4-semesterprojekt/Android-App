@@ -1,0 +1,297 @@
+{
+  "book": "Fjerde Mosebog",
+  "abbreviation": "4Mos",
+  "chapter": 3,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDette er Arons og Moses’ slægtshistorie den dag JHVH talte med Moses på Sinajs bjerg.",
+      "title": "Opremsning af Arons efterkommere.",
+      "number": 1,
+      "version": 1499378400000
+    },
+    {
+      "text": "Dette er navnene på Arons sønner: Nadab, den førstefødte, og Abihu, Eleazar og Itamar.",
+      "number": 2,
+      "version": 1499378400000
+    },
+    {
+      "text": "Dette er navnene på Arons sønner, de som var salvede præster, som han havde valgt til at gøre præstetjeneste.",
+      "number": 3,
+      "version": 1499378400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hvis hænder han havde fyldt«, det er et teknisk udtryk for at bemyndige nogen til offertjenesten, eller at indvie.",
+          "type": "T",
+          "position": 85
+        }
+      ]
+    },
+    {
+      "text": "Men Nadab og Abihu døde for JHVHs ansigt da de førte fremmed ild frem for JHVHs ansigt i Sinajs ørken, og de havde ingen sønner, men Eleazar og Itamar gjorde præstetjeneste under deres fars Arons opsyn",
+      "title": "Aron får levitterne så de kan gøre tjeneste ved forsamlingsteltet.",
+      "number": 4,
+      "version": 1499378400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »for … ansigt«.",
+          "type": "T",
+          "position": 201
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH sagde til Moses:",
+      "number": 5,
+      "version": 1499378400000
+    },
+    {
+      "text": "»Lad Levis stamme komme herhen, og du skal stille den for præsten Arons ansigt, og de skal tjene ham.",
+      "number": 6,
+      "version": 1499378400000
+    },
+    {
+      "text": "De skal omhyggeligt passe på det som han og hele forsamlingen skal passe foran forsamlingsteltet for at udføre tjenesten i boligen.",
+      "number": 7,
+      "version": 1499378400000
+    },
+    {
+      "text": "Og de skal passe alle forsamlingsteltets redskaber og det som israelitterne skal passe for at udføre tjenesten i boligen.",
+      "number": 8,
+      "version": 1499378400000
+    },
+    {
+      "text": "Du skal give levitterne til Aron og hans sønner. Blandt israelitterne er de overgivet fuldt ud til ham.",
+      "number": 9,
+      "version": 1499378400000
+    },
+    {
+      "text": "Men Aron og hans sønner skal du sætte til at passe deres præstetjeneste, men kommer nogen tæt på da skal han dø.«",
+      "title": "Levitterne skal være JHVHs i de førstefødtes sted.",
+      "number": 10,
+      "version": 1499378400000
+    },
+    {
+      "text": "\fJHVH sagde til Moses:",
+      "number": 11,
+      "version": 1499378400000
+    },
+    {
+      "text": "»Se, jeg har udtaget levitterne blandt israelitterne i stedet for hver førstefødt som åbner mors liv blandt israelitterne, og levitterne skal høre mig til.",
+      "number": 12,
+      "version": 1499378400000
+    },
+    {
+      "text": "For alle førstefødte hører mig til. Den dag jeg slog alle førstefødte i Egypten ihjel, helligede jeg mig alle førstefødte i Israel af mennesker og dyr. De skal høre mig til, jeg er JHVH.«",
+      "title": "Efter JHVHs befaling tæller Moses levitterne.",
+      "number": 13,
+      "version": 1499378400000
+    },
+    {
+      "text": "\fJHVH talte til Moses i Sinajs ørken:",
+      "number": 14,
+      "version": 1499378400000
+    },
+    {
+      "text": "»Tæl levitterne efter deres fædrenehus, efter deres slægter. Alle af hankøn der er mere end en måned gamle, skal du tælle.«",
+      "number": 15,
+      "version": 1499378400000
+    },
+    {
+      "text": "Moses talte dem efter JHVHs ord, sådan som det var blevet ham befalet.",
+      "title": "Levitternes familier opregnes.",
+      "number": 16,
+      "version": 1499378400000
+    },
+    {
+      "text": "\fDette var navnene på Levis børn: Gershon, Kehat og Merari.",
+      "number": 17,
+      "version": 1499378400000
+    },
+    {
+      "text": "Dette var navnene på Gersons børn efter deres slægter: Libni og Shim’i.",
+      "number": 18,
+      "version": 1499378400000
+    },
+    {
+      "text": "Kehats børn efter deres slægter: Amram, Jis’har, Hebron og Uzziel.",
+      "number": 19,
+      "version": 1499378400000
+    },
+    {
+      "text": "Meraris børn efter deres slægter: Makli og Mushi. Dette er Levis slægter efter deres fædrenehus.",
+      "title": "Gershonitternes antal og embede.",
+      "number": 20,
+      "version": 1499378400000
+    },
+    {
+      "text": "\fTil Gershon hører libnitternes slægt og shim’itternes slægt. Dette er gershonitternes slægter.",
+      "number": 21,
+      "version": 1499378400000
+    },
+    {
+      "text": "De mønstrede af dem efter optælling, alle af hankøn over en måned gamle, de mønstrede af dem var 7.500.",
+      "number": 22,
+      "version": 1499378400000
+    },
+    {
+      "text": "Gershonitternes slægter skulle slå lejr bag boligen mod vest.",
+      "number": 23,
+      "version": 1499378400000
+    },
+    {
+      "text": "Gershonitternes fædrenehus’ leder var Eljasaf, Laels søn.",
+      "number": 24,
+      "version": 1499378400000
+    },
+    {
+      "text": "Det gershonitterne omhyggeligt skulle passe ved forsamlingsteltet, var selve boligen, dvs. teltet med dets teltduge, forhænget for forsamlingsteltets indgang,",
+      "number": 25,
+      "version": 1499378400000
+    },
+    {
+      "text": "og dugene rundt om forgården og forhænget foran indgangen til forgården, som er rundt om boligen og omkring alteret, og bardunerne til det og alt arbejdet med det.",
+      "title": "Kehatitterne og deres opgaver.",
+      "number": 26,
+      "version": 1499378400000
+    },
+    {
+      "text": "\fTil Kehat hører amramitternes slægt og jis’haritternes slægt og hebronitternes slægt og uzzielitternes slægt. Dette er kehatitternes slægter.",
+      "number": 27,
+      "version": 1499378400000
+    },
+    {
+      "text": "Antallet på alle af hankøn over en måned gamle var 8.600, som omhyggeligt skulle passe det der var at passe ved helligdommen.",
+      "number": 28,
+      "version": 1499378400000
+    },
+    {
+      "text": "Kehatitternes slægter skulle slå lejr ved boligens sydside.",
+      "number": 29,
+      "version": 1499378400000
+    },
+    {
+      "text": "Lederen over kehatitternes slægters fædrenehus var Elisafan, Uzziels søn.",
+      "number": 30,
+      "version": 1499378400000
+    },
+    {
+      "text": "Det de skulle passe, var arken og bordet og lysestagen og altrene og helligdommens redskaber hvormed tjenesten udførtes, og forhænget og alt arbejdet med det.",
+      "number": 31,
+      "version": 1499378400000
+    },
+    {
+      "text": "Men levitternes øverste leder var Eleazar, præsten Arons søn, som var sat over dem som omhyggeligt passede alt det der var at passe ved helligdommen.",
+      "title": "Meraritternes antal og opgaver.",
+      "number": 32,
+      "version": 1499378400000
+    },
+    {
+      "text": "\fTil Merari hører maklitternes slægt og mushitternes slægt. Dette er mararitternes slægter.",
+      "number": 33,
+      "version": 1499378400000
+    },
+    {
+      "text": "De mønstrede af dem efter optælling, alle af hankøn over en måned gamle, var 6.200.",
+      "number": 34,
+      "version": 1499378400000
+    },
+    {
+      "text": "Lederen over meraritternes slægters fædrenehuse var Suriel, Abikajils søn. De skulle slå lejr ved boligens nordside.",
+      "number": 35,
+      "version": 1499378400000
+    },
+    {
+      "text": "Det meraritterne var udvalgt til at tage sig af, var boligens rammer og dens tværbjælker, stolper og fodstykker og alle redskaberne dertil og alt arbejdet med det",
+      "number": 36,
+      "version": 1499378400000
+    },
+    {
+      "text": "og stolperne til forgården rundt om og deres fodstøtter, pløkke og barduner.",
+      "title": "Moses og Aron skal slå lejr lige uden for boligen. Levitternes antal.",
+      "number": 37,
+      "version": 1499378400000
+    },
+    {
+      "text": "\fMen de som skulle slå lejr lige foran boligen, lige uden for forsamlingsteltet mod øst, skulle være Moses og Aron og hans sønner som passer det der er at passe ved helligdommen, nemlig det israelitterne skulle passe, men kommer nogen fremmed nær da skal han dø.",
+      "number": 38,
+      "version": 1499378400000
+    },
+    {
+      "text": "Alle de mønstrede levitter som Moses og Aron talte efter JHVHs ord, efter deres slægter, alle af hankøn over en måned gamle, var 22.000.",
+      "title": "De førstefødte af folket tælles, og antallet af dem der overstiger antallet af levitterne, indløses med penge.",
+      "number": 39,
+      "version": 1499378400000
+    },
+    {
+      "text": "\fJHVH sagde til Moses: »Tæl alle førstefødte af hankøn blandt israelitterne fra en måned gamle og derover, og tag antallet på deres navne.",
+      "number": 40,
+      "version": 1499378400000
+    },
+    {
+      "text": "Så skal du tage levitter til mig, JHVH, i stedet for alle førstefødte blandt israelitterne, og levitternes husdyr i stedet for alt det førstefødte blandt israelitternes husdyr.«",
+      "number": 41,
+      "version": 1499378400000
+    },
+    {
+      "text": "Moses talte, som JHVH havde befalet ham, alle førstefødte blandt israelitterne.",
+      "number": 42,
+      "version": 1499378400000
+    },
+    {
+      "text": "Alle førstefødte af hankøn, efter antallet af navne, fra en måned gamle og derover, efter deres antal, var 22.273.",
+      "number": 43,
+      "version": 1499378400000
+    },
+    {
+      "text": "JHVH sagde til Moses:",
+      "number": 44,
+      "version": 1499378400000
+    },
+    {
+      "text": "»Tag levitterne i stedet for alle førstefødte blandt israelitterne og levitternes husdyr i stedet for deres husdyr, og levitterne skal høre mig til: Jeg er JHVH.",
+      "number": 45,
+      "version": 1499378400000
+    },
+    {
+      "text": "Men hvad angår de 273 af israelitterne, som skal løskøbes, som er flere end levitterne,",
+      "number": 46,
+      "version": 1499378400000
+    },
+    {
+      "text": "da skal du tage fem sekel for hvert hoved, efter helligdommes sekel skal du tage dem, en sekel er tyve gera.",
+      "number": 47,
+      "version": 1499378400000
+    },
+    {
+      "text": "Du skal give Aron og hans sønner pengene for dem der bliver løskøbt, dem, der er i overtal af dem.«",
+      "number": 48,
+      "version": 1499378400000
+    },
+    {
+      "text": "Så tog Moses løsepenge for dem der var flere end dem der blev løskøbt ved levitterne.",
+      "number": 49,
+      "version": 1499378400000
+    },
+    {
+      "text": "Af israelitternes førstefødte tog han disse penge: 1.365 sekel efter helligdommens sekel.",
+      "number": 50,
+      "version": 1499378400000
+    },
+    {
+      "text": "Moses gav Aron og hans sønner pengene for de løskøbte, efter JHVHs ord, sådan som JHVH havde befalet Moses.",
+      "number": 51,
+      "version": 1499378400000
+    }
+  ]
+}

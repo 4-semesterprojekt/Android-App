@@ -1,0 +1,64 @@
+{
+  "book": "Lukasevangeliet",
+  "abbreviation": "Luk",
+  "chapter": 6,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fVær barmhjertige, ligesom jeres Far er barmhjertig.",
+      "number": 36,
+      "version": 1644274800000
+    },
+    {
+      "text": "Døm ikke, så skal I ikke dømmes; fordøm ikke, så skal I ikke fordømmes; tilgiv, så skal I blive tilgivet;",
+      "number": 37,
+      "version": 1644274800000
+    },
+    {
+      "text": "giv, så skal der gives jer. Et godt, presset, rystet, topfuldt mål skal de give jer i skødet; for med det mål I måler med, skal I få tilmålt med.«",
+      "number": 38,
+      "version": 1644274800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »i folden i klædningen«, der ofte gjorde det ud for en pung eller mindre taske.",
+          "type": "T",
+          "position": 93
+        }
+      ]
+    },
+    {
+      "text": "Men han fortalte dem også en lignelse: »Mon en blind kan lede en blind? Vil de ikke begge falde i grøften?",
+      "number": 39,
+      "version": 1644274800000
+    },
+    {
+      "text": "En discipel er ikke over sin mester; men enhver som er fuldt udlært, skal være som sin mester.",
+      "number": 40,
+      "version": 1644274800000
+    },
+    {
+      "text": "Men hvorfor ser du splinten i din brors øje; men bjælken i dit eget øje, bemærker du ikke?",
+      "number": 41,
+      "version": 1644274800000
+    },
+    {
+      "text": "Eller hvordan kan du sige til din bror: Bror! Lad mig tage splinten i dit øje ud, du som ikke ser bjælken i dit eget øje? Du hykler! Tag først bjælken ud af dit øje, og så kan du se klart til at trække splinten ud af din brors øje.«",
+      "number": 42,
+      "version": 1644274800000
+    }
+  ]
+}

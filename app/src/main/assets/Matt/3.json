@@ -1,0 +1,47 @@
+{
+  "book": "Matthæusevangeliet",
+  "abbreviation": "Matt",
+  "chapter": 3,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Torben Kjær",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Literært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen i de dage trådte Johannes, Døberen, frem og forkyndte i Judæa ørken, v2 og han sagde: »Omvend jer, for Himlenes rige er kommet nær.« v3. Han er den som der er blevet talt om ved Esajas, profeten, som siger: »Der er en røst af en som råber i ørkenen: Forbered Herrens vej, gør hans stier jævne.« v4 Men Johannes havde en dragt af kamelhår og et læderbælte om livet, og hans føde var græshopper og vild honning. v5 Da kom Jerusalem og hele Judæa og hele egnen ved Jordan til ham, v6 og de blev døbt i Jordanfloden af ham idet de bekendte deres synder. v7 Men da han så mange farisæere og saddukæere komme til hans dåb, sagde han til dem: »Slangeyngel! Hvem har vist jer at I skal flygte fra den kommende vrede? v8 Bær da frugt som svarer til omvendelsen, v9 og tro ikke at I kan sige ved jer selv: Vi har Abraham til far. For jeg siger jer: Gud kan af disse sten opvække børn til Abraham. v10 Øksen ligger allerede ved træernes rod. Ethvert træ som ikke bærer god frugt, hugges da om og kastes i ilden. v11 Jeg døber jer med vand til omvendelse, men han som kommer efter mig, er stærkere end mig, og hans sko er jeg ikke værdig at bære. Han skal døbe jer med Helligånd og ild. v12 Han har kasteskovlen i hånden, og han skal rense sin tærskeplads og samle sin hvede i laden, men avnerne skal han brænde op med en uudslukkelig ild.«",
+      "title": "Jesu dåb",
+      "number": 1,
+      "version": 1617832800000,
+      "footnotes": [
+        {
+          "text": "Es 40,3",
+          "type": "H",
+          "position": 211
+        }
+      ]
+    },
+    {
+      "text": "\fDa kom Jesus fra Galilæa til Jordan til Johannes for at blive døbt af ham. v14 Men Johannes prøvede at hindre ham og sagde: »Jeg har brug for at blive døbt af dig, og du kommer til mig?« v15 Men Jesus svarede ham: »Lad det nu ske! For på den måde passer det sig for os at opfylde hele retfærdigheden.« Så tillod han ham det. v16 Men da Jesus var blevet døbt af ham, steg han straks op af vandet, og se, himlene blev åbnet for ham, og han så Guds Ånd stige ned som en due og komme over ham. v17 Og se, der lød en røst fra himlene som sagde: »Denne er min Søn, den elskede, ham har jeg udvalgt.«",
+      "number": 13,
+      "version": 1617832800000,
+      "footnotes": [
+        {
+          "text": "Sl 2,7; Es 42,1.",
+          "type": "H",
+          "position": 540
+        }
+      ]
+    }
+  ]
+}

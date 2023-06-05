@@ -1,0 +1,203 @@
+{
+  "book": "Esajas’ Bog",
+  "abbreviation": "Es",
+  "chapter": 1,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEsajas', Amos' søns, syn,\n\t\tsom han så om Juda og Jerusalem dengang Uzzija, Jotam, Akaz og Hizkija var konger i Juda.",
+      "title": "Det syndige folk",
+      "number": 1,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\tHør,\n\t\t\t\t\tI himle!\n\t\t\t\tOg lyt,\n\t\t\t\t\tdu jord!\f\n\t\t\tFor JHVH har talt;\n\t\t\t\tjeg har opdraget børn\n\t\t\t\t\t\tog opfostret dem,\f\n\t\t\t\t\tmen de har gjort oprør imod mig.",
+      "number": 2,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tEn okse kender sin ejermand\f\n\t\t\t\t\t\t\t\tog et æsel sin herres krybbe;\f\n\t\t\t\t\t\t\tmen Israel kender ingenting,\f\n\t\t\t\t\t\t\t\tmit folk forstår ikke noget.",
+      "number": 3,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\tVe et syndigt folkeslag,\fet folk tynget af skyld,\fen slægt af onde mennesker,\fvanartede børn!\f\n\t\t\t\t\t\tDe forlod JHVH,\f\n\t\t\t\t\t\tde foragtede Israels Hellige,\f\n\t\t\t\t\t\tde har vendt sig væk fra ham.",
+      "number": 4,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\tHvorfor vil I prygles endnu mere?\f\n\t\t\t\t\t\t\tHvorfor vil I fortsætte frafaldet?\f\n\t\t\t\t\t\tHele hovedet er sygt,\n\t\t\t\t\t\t\t\t\t\tog hele hjertet er svagt.",
+      "number": 5,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\tFra fodsål til hoved er intet uskadt på jer:\f\n\t\t\t\t\t\t\t\tSår og skrammer og friske hug!\f\n\t\t\t\t\t\t\t\t\tDe er ikke klemt ud\n\t\t\t\t\t\t\t\t\t\tog ikke forbundet,\f\n\t\t\t\t\t\t\t\t\t\t\tikke lindret med olie.",
+      "number": 6,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tJeres land er en ørken,\f\n\t\t\t\t\t\t\t\tjeres byer er nedbrændte;\f\n\t\t\t\t\t\t\t\t\t\t\tfremmede æder\n\t\t\t\t\t\t\t\t\tjeres land\n\t\t\t\t\t\t\t\t\t\t\top for øjnene af jer,\f\n\t\t\t\t\t\t\t\t\t\t\t\tdet er en ødemark, som når fremmede har hærget.",
+      "number": 7,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tOg Zions datter er blevet tilbage som en hytte i en vingård,\fsom et skur i en agurkehave,\fsom en belejret by.",
+      "number": 8,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Der er måske tænkt på et primitivt vagtskur som man satte op i markerne for at kunne holde vagt.",
+          "type": "T",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tHvis ikke Hærskarers HERRE havde efterladt nogle få overlevende hos os,\f\n\t\t\t\t\t\t\t\t\t\t\thavde vi været som Sodoma,\f\n\t\t\t\t\t\t\t\t\t\t\t\thavde lignet Gomorra.\n\n",
+      "number": 9,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\tHør JHVHs ord,\n\t\t\t\t\t\t\tI Sodomas fyrster!\f\n\t\t\t\t\t\tLyt til vores Guds lov,\n\t\t\t\t\t\t\tI Gomorras folk!",
+      "number": 10,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\tHvad skal jeg med alle jeres mange ofre?\f\n\t\t\t\t\t\t\t\tsiger JHVH;\f\n\t\t\t\t\t\t\tjeg er mæt af brændofre af væddere\f\n\t\t\t\t\t\t\t\tog fedtet af fedekvæg;\fblod af okser og lam og bukke\fhar jeg ikke lyst til.",
+      "number": 11,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tNår I kommer\n\t\t\t\t\t\t\t\tfor at vise jer for mit ansigt,\f\n\t\t\t\t\t\t\thvem har da forlangt af jer\f\n\t\t\t\t\t\t\t\t\tat mine forgårde skulle trampes ned?",
+      "number": 12,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tBliv ikke ved med\n\t\t\t\t\t\t\t\t\t\t\tat komme frem med unyttigt madoffer,\f\n\t\t\t\t\t\t\t\t\t\trøgelsen er afskyelig for mig;\f\n\t\t\t\t\t\t\t\t\tnymåner og sabbatter\n\t\t\t\t\t\t\t\t\t\t\tog festforsamlinger\f\n\t\t\t\t\t\t\t\t\t\t– jeg tåler ikke uret og højtid.",
+      "number": 13,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tMin sjæl hader jeres nymåner og jeres højtider;\f\n\t\t\t\t\t\t\t\t\t\t\t\tde er blevet en byrde for mig,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tjeg er træt af\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tat bære dem.",
+      "number": 14,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tOg\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tnår I strækker jeres hænder ud,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tskjuler jeg mine øjne for jer;\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\thvor meget I end beder,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\thører jeg det ikke;\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tjeres hænder er fulde af blod.",
+      "number": 15,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tVask jer,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\trens jer,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tfjern jeres gerningers ondskab fra mine øjne,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\thold op med\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tat handle ondt!",
+      "number": 16,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLær\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tat gøre godt,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tstræb efter ret,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tretled den vanartede,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tskaf den faderløse ret,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tfør enkens sag!\n\n",
+      "number": 17,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\tKom dog,\n\t\t\t\t\t\tog lad os gå i rette med hinanden,\f\n\t\t\t\t\t\t\tsiger JHVH.\f\n\t\t\t\t\tEr jeres synder som purpur,\f\n\t\t\t\t\t\t\t\tskal de blive hvide som sne;\f\n\t\t\t\t\t\t\ter de røde som skarlagen,\f\n\t\t\t\t\t\t\t\tskal de blive som uld.",
+      "number": 18,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tHvis I er villige\n\t\t\t\t\t\t\t\t\tog lydige,\f\n\t\t\t\t\t\t\t\tskal I få landets goder at spise.",
+      "number": 19,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tMen hvis I er uvillige\n\t\t\t\t\t\t\t\t\tog trodsige,\f\n\t\t\t\t\t\t\t\tskal I fortæres af sværdet;\f\n\t\t\t\t\t\t\t\t\tfor JHVHs mund har talt.",
+      "number": 20,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Det samme ord (*ˀxal*) bruges i v. 19 om at spise og i v. 20 om at blive fortæret.",
+          "type": "E",
+          "position": 77
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tHvordan er den trofaste by blevet en luder?\f\n\t\t\t\t\t\t\tDen var fuld af ret,\f\n\t\t\t\t\t\t\t\tretfærdighed boede i den,\f\n\t\t\t\t\t\tmen nu er der mordere.",
+      "number": 21,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tDit sølv er blevet til slagger,\f\n\t\t\t\t\t\t\t\t\tdin drik er fortyndet med vand.",
+      "number": 22,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tDine fyrster er genstridige\f\n\t\t\t\t\t\t\t\t\tog er i ledtog med tyveknægte;\f\n\t\t\t\t\t\t\t\t\t\t\talle elsker de bestikkelse\fog jager efter gaver;\f\n\t\t\t\t\t\t\t\t\t\tde vil ikke skaffe den faderløse ret,\f\n\t\t\t\t\t\t\t\t\t\t\tog enkens sag kommer ikke for dem.",
+      "number": 23,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\tDerfor siger Herren,\fHærskarers HERRE, Israels Mægtige:\f\n\t\t\t\t\t\tVe dem! Jeg vil gøre gengæld mod mine modstandere\f\n\t\t\t\t\t\tog hævne mig på mine fjender.",
+      "number": 24,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tOg jeg vil vende min hånd imod dig\f\n\t\t\t\t\t\t\t\tog smelte dine slagger af med ludsalt\f\n\t\t\t\t\t\t\t\tog udskille alt dit tin.",
+      "number": 25,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tJeg vil give dig dommere som i den første tid\f\n\t\t\t\t\t\t\t\t\tog rådsherrer som i begyndelsen;\f\n\t\t\t\t\t\t\tderefter skal du kaldes retfærdigheds by,\f\n\t\t\t\t\t\t\t\ten trofast by.",
+      "number": 26,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\tZion skal forløses ved ret\f\n\t\t\t\t\t\tog de omvendte i den ved retfærdighed.",
+      "number": 27,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\tMen overtræderne og synderne skal knuses,\f\n\t\t\t\t\t\t\t\tog de, der forlader JHVH, skal omkomme.",
+      "number": 28,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tFor de skal blive til skamme på grund af de terebinter\f\n\t\t\t\t\t\t\t\tsom I begærede,\f\n\t\t\t\t\t\tog I skal blive skamfulde på grund af de haver\f\n\t\t\t\t\t\t\t\t\tder var jeres glæde.",
+      "number": 29,
+      "version": 1668034800000,
+      "footnotes": [
+        {
+          "text": "Terebinter er løvtræer. Ofte blev de betragtet som hellige, fordi man forbandt dem med frugtbarhed. Derfor blev træerne også tilbedt enten som et symbol på guderne eller som en manifestation af guderne selv. Det er denne religiøsitet, som Esajas her kritiserer.",
+          "type": "T",
+          "position": 62
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tFor I skal blive som en terebinte der taber sine blade,\f\n\t\t\t\t\t\t\t\t\tog som en have\n\t\t\t\t\t\t\t\t\t\thvor der ikke er vand.",
+      "number": 30,
+      "version": 1668034800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tOg den stærke skal blive til blår,\f\n\t\t\t\t\t\t\t\t\thans gerning til en gnist;\f\n\t\t\t\t\t\t\t\tbegge dele skal brænde,\f\n\t\t\t\t\t\t\t\t\tog der skal ikke være nogen der slukker.",
+      "number": 31,
+      "version": 1668034800000
+    }
+  ]
+}

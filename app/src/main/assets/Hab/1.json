@@ -1,0 +1,177 @@
+{
+  "book": "Habakkuks Bog",
+  "abbreviation": "Hab",
+  "chapter": 1,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fProfetien som profeten Habakkuk så.\n\n",
+      "title": "Habakkuks klage",
+      "number": 1,
+      "version": 1585004400000
+    },
+    {
+      "text": "\fHvor længe, JHVHv, har jeg dog råbt, men du hører ikke!\fJeg råber til dig om vold, men du frelser ikke.",
+      "number": 2,
+      "version": 1585004400000
+    },
+    {
+      "text": "\fHvorfor lader du mig se ondskab og betragte elendighed?\fØdelæggelse og vold er foran mig.\fDer er strid; skænderier opstår.",
+      "number": 3,
+      "version": 1585004400000
+    },
+    {
+      "text": "\fDerfor er loven magtesløs, og retten kommer aldrig frem,\ffor de ugudelige omringer den retfærdige;\fderfor bliver retten fordrejet.",
+      "title": "Kaldæerne kommer",
+      "number": 4,
+      "version": 1585004400000
+    },
+    {
+      "text": "\fSe ud blandt folkeslagene, og betragt.\fI skal undre jer og blive forundrede, for jeg gør en gerning i jeres tid.\fI ville ikke tro det, selv hvis det blev fortalt.",
+      "number": 5,
+      "version": 1585004400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »jeres dage«.",
+          "type": "E",
+          "position": 113
+        }
+      ]
+    },
+    {
+      "text": "\fFor se, jeg oprejser kaldæerne, et barskt og hurtigt folkefærd\fsom farer frem over den vide jord for at erobre områder som ikke tilhører dem.",
+      "number": 6,
+      "version": 1585004400000,
+      "footnotes": [
+        {
+          "text": "På hebraisk er der ordspil mellem barskt *mar* og hurtigt *nimhār*.",
+          "type": "E",
+          "position": 53
+        },
+        {
+          "text": "Ordret: »boliger« eller »telte«.",
+          "type": "E",
+          "position": 119
+        }
+      ]
+    },
+    {
+      "text": "\fFrygtelige og forfærdelige er de;\fde bestemmer selv deres værdighed og ret.",
+      "number": 7,
+      "version": 1585004400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Ud fra ham selv udgår hans ret og værdighed.«",
+          "type": "E",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "\fDeres heste er hurtigere end pantere og vildere end ulve om aftenen.\fDeres ryttere galopperer, ja, deres ryttere kommer fra det fjerne;\fde flyver som en ørn der haster efter føde.",
+      "number": 8,
+      "version": 1585004400000
+    },
+    {
+      "text": "\fAlle sammen kommer de for at udøve vold;\fderes ansigter stirrer fremad,\fog de samler fanger som sand.",
+      "number": 9,
+      "version": 1585004400000,
+      "footnotes": [
+        {
+          "text": "En anden mulig oversættelse er »alle deres ansigter er som østenvinden«.",
+          "type": "E",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "De håner konger, og fyrster er til grin for dem.\fDe ler ad hver en fæstning;\fde dynger jord op og indtager den.",
+      "number": 10,
+      "version": 1585004400000
+    },
+    {
+      "text": "\fDa farer de frem som en stormvind og drager af sted.\fDe er skyldige, de som gør deres egen kraft til gud.",
+      "title": "Habakkuks bøn",
+      "number": 11,
+      "version": 1585004400000,
+      "footnotes": [
+        {
+          "text": "*ḥālaf* kan også oversættes med »skifter (retning)«.",
+          "type": "E",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "text": "\fEr du ikke fra gammel tid, JHVHv, min Gud, min hellige?\fDu er udødelig!\fJHVHv, har du ikke bestemt ham til dom?\fO klippe, har du ikke grundfæstet ham til straf?",
+      "number": 12,
+      "version": 1585004400000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske grundtekst lyder egentlig »lad os ikke dø, JHVHv«, men det passer ikke som parallel med første del af v. 12. Teksten er sandsynligvis blevet rettet af skrivere, fordi det var kritisabelt overhovedet at overveje at Gud kunne dø.",
+          "type": "E",
+          "position": 72
+        },
+        {
+          "text": "kaldæernes konge.",
+          "type": "T",
+          "position": 103
+        },
+        {
+          "text": "Det underforstås at spørgsmålet fra første del af verset fortsætter i anden del.",
+          "type": "E",
+          "position": 112
+        }
+      ]
+    },
+    {
+      "text": "\fDu som er ren af øjne så du ikke kan se på ondt og ikke kan betragte elendighed,\fhvorfor betragter du de troløse?\fHvorfor tier du stille når den ugudelige opsluger en som er retfærdigere end han?",
+      "number": 13,
+      "version": 1585004400000
+    },
+    {
+      "text": "\fDu gjorde menneskene som havets fisk;\fsom krybet der ingen herre har.",
+      "number": 14,
+      "version": 1585004400000
+    },
+    {
+      "text": "\fAlle dem trækker han op med krog.\fHan samler dem i sit net; fanger dem i sit garn.\fDet glæder og fryder han sig over.",
+      "number": 15,
+      "version": 1585004400000,
+      "footnotes": [
+        {
+          "text": "Dvs. kaldæernes konge.",
+          "type": "T",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fDerfor ofrer han til sit net og brænder røgelse for sine garn,\ffor ved dem får han sin rigelige del,\fog hans mad er fed.",
+      "number": 16,
+      "version": 1585004400000,
+      "footnotes": [
+        {
+          "text": "Ordret »fede«.",
+          "type": "E",
+          "position": 96
+        }
+      ]
+    },
+    {
+      "text": "\fMen skal han derfor tømme sit net og altid slå folkeslag ihjel uden skånsel?",
+      "number": 17,
+      "version": 1585004400000
+    }
+  ]
+}

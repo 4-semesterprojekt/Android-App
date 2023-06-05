@@ -1,0 +1,190 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 51,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\fSalme af David.",
+      "title": "Overskrift",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fDengang profeten Natan kom til ham efter at han var gået ind til Batseba.",
+      "title": "Bøn om tilgivelse",
+      "number": 2,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fVær mig nådig, Gud, efter din nåde,\fudslet mine overtrædelser efter din store barmhjertighed!",
+      "number": 3,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fVask mig fuldstændig ren for min skyld,\fog rens mig for min synd!",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor mine overtrædelser kender jeg,\fog min synd har jeg altid for øje.",
+      "title": "Syndsbekendelse",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Meningen er at hans synd altid er nærværende og bevidst for ham.",
+          "type": "E",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "\fMod dig, mod dig alene, har jeg syndet\fog gjort det der er ondt i dine øjne,\fså du er retfærdig når du taler,\fer ren når du dømmer.",
+      "number": 6,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Meningen med ordet *lᵊmaʕan* er omdiskuteret. Oftest betyder det »for at«, og således forstår mange fortolkere det her. Meningen er så, at menneskets syndighed og især dets syndserkendelse ophøjer og fremhæver Guds ære og barmhjertighed (Rom 11,32-22). I nogle tilfælde angiver *lᵊmaʕan* dog også en følge (som forudsat her). Nogle fortolkere oversætter: »derfor«.",
+          "type": "E",
+          "position": 80
+        }
+      ]
+    },
+    {
+      "text": "\fSe, jeg er født i skyld,\fog min mor undfangede mig i synd.",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det er ikke moderens skyld og synd der er tale om, men det ondes gådefulde magt i hele menneskets liv.",
+          "type": "E",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "\fSe, du ønskede sandhed i det dunkle,\fog du lærer mig visdom i det skjulte!",
+      "title": "Ny bøn om tilgivelse",
+      "number": 8,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *ṭuḥôt* er usikker. Ordet forekommer kun her og Job 38,36. Nærliggende muligheder er »nyre, indre, det dunkle«.",
+          "type": "T",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "\fRens mig for synd med isop så jeg bliver ren,\fvask mig så jeg bliver hvidere end sne.",
+      "number": 9,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fLad mig høre fryd og glæde,\flad de knogler juble, som du knuste.",
+      "number": 10,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fSkjul dit ansigt for mine synder\fog udslet al min skyld!",
+      "title": "Bøn om indre fornyelse",
+      "number": 11,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fSkab mig et rent hjerte, Gud,\fog forny en fast ånd i mig.",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fKast mig ikke bort fra dit ansigt,\fog tag ikke din hellige ånd fra mig!",
+      "number": 13,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fLad glæden over din frelse vende tilbage til mig,\fog støt mig med en villig ånd!",
+      "title": "Løfte om vidnesbyrd, lovsang og ret offer",
+      "number": 14,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fJeg vil lære overtrædere dine veje,\fog syndere skal omvende sig til dig.",
+      "number": 15,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFri mig fra blodskyld, Gud, min frelses Gud!\fSå skal min tunge jublende prise din retfærdighed.",
+      "number": 16,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret blot: »blod« pluralis.",
+          "type": "T",
+          "position": 22
+        }
+      ]
+    },
+    {
+      "text": "\fHerre! åben mine læber,\fså skal min mund forkynde din pris.",
+      "number": 17,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor du har ikke lyst til slagtoffer, ellers ville jeg bringe ét,\fbrændoffer har du ikke behag i.",
+      "number": 18,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Denne sætning udgøres i grundteksten blot af ét ord: * wᵊʔettēnāʰ*, der er knyttet til v.18a. Mange vælger dog at flytte accenten under det til det foregående ord så det knyttes til v.18b, der så må oversættes: »og bringer jeg et brændoffer, har du ikke behag i det«.",
+          "type": "E",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "\fOfre for Gud er en sønderbrudt ånd,\fet sønderbrudt og sønderknust hjerte vil Gud ikke foragte.",
+      "title": "Bøn for Zion",
+      "number": 19,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Mange vælger at ændre vokaliseringen af *zivᵊḥê* (egtl. »slagtofre«) til: *zivᵊḥî*: »mit offer«.",
+          "type": "T",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "text": "\fGør vel imod Zion efter dit velbehag,\fopbyg Jerusalems mure!",
+      "number": 20,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDa skal du have behag i retfærdigheds ofre,\fbrændoffer og heloffer;\fda vil tyre blive bragt op på dit alter.",
+      "number": 21,
+      "version": 1500242400000
+    }
+  ]
+}

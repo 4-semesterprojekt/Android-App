@@ -1,0 +1,152 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 57,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDen retfærdige omkommer, og der er ingen, der tager det til hjerte; og fromme folk kaldes bort, men der er ingen, der lægger mærke til det; for den retfærdige kaldes bort, før det onde kommer.",
+      "title": "Esajas viser, hvorfor Guds straf kom over det jødiske folk, nemlig på grund af deres ligegyldighed, hykleri, overtrædelse, afguderi og deres pagt med hedenske konger, 1-13; han trøster de troende med, at de skal komme til deres land igen, og lover stor nåde og fred for alle troende, men ikke for de ugudelige.",
+      "number": 1,
+      "version": 1644274800000
+    },
+    {
+      "text": "De går ind til fred, de hviler i deres sovekamre, hver den, der vandrer ligeud.",
+      "number": 2,
+      "version": 1644274800000
+    },
+    {
+      "text": "Men I, kom her, I børn af troldkvinden, du horkarlens og horkvindens yngel!",
+      "number": 3,
+      "version": 1644274800000
+    },
+    {
+      "text": "Hvem er det, I morer jer over? Hvem vrænger I mund og rækker tungen langt ud ad? Er I ikke overtrædelsens børn, løgnens afkom?",
+      "number": 4,
+      "version": 1644274800000
+    },
+    {
+      "text": "I, der brænder af begær efter afguderne under hvert grønt træ, I, der slagter børn i dalene, i kløfterne under stenklipperne!",
+      "number": 5,
+      "version": 1644274800000
+    },
+    {
+      "text": "Din del er dalens glatte sten, det er dem, der er din arvelod, ja, for dem udgød du drikofre, du ofrede madoffer til dem; skulle jeg se roligt på disse ting?",
+      "number": 6,
+      "version": 1644274800000
+    },
+    {
+      "text": "Du redte dit leje på et højt, knejsende bjerg; også der gik du op for at slagte til slagtoffer.",
+      "number": 7,
+      "version": 1644274800000
+    },
+    {
+      "text": "Og du satte dit mindetegn bag døren og dørstolpen; for bortvendt fra mig blottede du dig og gik derop; du gjorde dit leje bredt og indlod dig i pagt med dem; du elskede deres leje hvert sted, du så dem.",
+      "number": 8,
+      "version": 1644274800000
+    },
+    {
+      "text": "Og salvet med olie så du hen til kongen og lavede endnu flere vellugtende salver; og du sendte dine bud langt ud og steg dybt ned, lige til dødsriget.",
+      "number": 9,
+      "version": 1644274800000,
+      "footnotes": [
+        {
+          "text": "dvs. afguden",
+          "type": "T",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "På grund af din lange rejse er du blevet træt; men du sagde ikke: »Jeg giver op!« Du fandt liv i din hånd, derfor blev du ikke syg.",
+      "number": 10,
+      "version": 1644274800000
+    },
+    {
+      "text": "Og hvem har du været bange for og frygtet, så du vil lyve? Men mig husker du ikke og tager det ikke til hjerte! Mon ikke jeg har været tavs, og det fra ældgammel tid af? Men mig vil du ikke frygte!",
+      "number": 11,
+      "version": 1644274800000
+    },
+    {
+      "text": "Jeg vil nævne din retfærdivghed og dine gerninger, og de skal ikke gavne dig.",
+      "number": 12,
+      "version": 1644274800000
+    },
+    {
+      "text": "Når du råber, så lad dine skarer redde dig! Men uvejret skal løfte dem alle sammen op, et vindpust skal føre dem bort; men den, der stoler på mig, skal arve landet og eje mit hellige bjerg.",
+      "number": 13,
+      "version": 1644274800000,
+      "footnotes": [
+        {
+          "text": "dvs. afguder. Sal 84,13; Es 60, 21; Sal 15,1; Es 56,7",
+          "type": "T",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\fOg man skal sige: »Jævn ud, jævn ud, ryd vejen, fjern anstød fra mit folks vej!«",
+      "number": 14,
+      "version": 1644274800000
+    },
+    {
+      "text": "For sådan siger den høje og ophøjede, der bor i evigheden, og hvis navn er helligt: »Jeg bor i det høje og hellige og hos den sønderknuste og nedtrykte i ånden for at gøre de nedtryktes ånd levende og gøre de sønderknustes hjerter levende.",
+      "number": 15,
+      "version": 1644274800000
+    },
+    {
+      "text": "For jeg vil ikke gå i rette for evigt og ikke være vred i evighed; for så måtte ånden gå til for mit ansigt og de sjæle jeg har skabt.",
+      "number": 16,
+      "version": 1644274800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »(den livs)ånde«.",
+          "type": "T",
+          "position": 119
+        }
+      ]
+    },
+    {
+      "text": "På grund af hans syndige begær var jeg vred og slog ham, jeg skjulte mig i vrede; men han gik frafalden sit hjertes vej.",
+      "number": 17,
+      "version": 1644274800000,
+      "footnotes": [
+        {
+          "text": "nemlig Israels. Kap. 54,8; kap. 59,2; Mika 3,4",
+          "type": "T",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "Hans veje så jeg, men jeg vil helbrede ham; og jeg vil lede ham og give ham og dem der sørger sammen med ham, trøst,",
+      "number": 18,
+      "version": 1644274800000
+    },
+    {
+      "text": "så jeg skaber læbers frugt: Fred, fred for den der er fjern, og for den der er nær«, siger HERREN, »og jeg helbreder ham«.",
+      "number": 19,
+      "version": 1644274800000
+    },
+    {
+      "text": "Men de ugudelige er som havet, der er oprørt; for det kan ikke være roligt, men dets vande skyller affald og mudder op.",
+      "number": 20,
+      "version": 1644274800000
+    },
+    {
+      "text": "De ugudelige, siger min Gud, har ingen fred.",
+      "number": 21,
+      "version": 1644274800000
+    }
+  ]
+}

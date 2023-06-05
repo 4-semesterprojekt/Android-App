@@ -1,0 +1,191 @@
+{
+  "book": "Paulus' Første Brev til Korintherne",
+  "abbreviation": "1Kor",
+  "chapter": 1,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fFra Paulus, Jesu Kristi kaldede apostel ved Guds vilje, og broderen Sosthenes",
+      "title": "Hilsen",
+      "number": 1,
+      "version": 1632261600000
+    },
+    {
+      "text": "til Guds menighed i Korinth, helligede i Kristus Jesus, hellige på grund af kaldet sammen med alle dem der overalt påkalder deres og vores Herres Jesu Kristi navn:",
+      "number": 2,
+      "version": 1632261600000
+    },
+    {
+      "text": "Nåde være med jer og fred fra Gud vor Far og Herren Jesus Kristus!",
+      "title": "Indledningsord, hvor Paulus udtaler sin taknemmelighed over og sit håb for menigheden i Korinth",
+      "number": 3,
+      "version": 1632261600000
+    },
+    {
+      "text": "\fJeg takker altid Gud for jer for den Guds nåde som I har fået i Kristus Jesus,",
+      "number": 4,
+      "version": 1632261600000
+    },
+    {
+      "text": "at I ved ham er blevet rige på alt, på al tale og al kundskab,",
+      "number": 5,
+      "version": 1632261600000
+    },
+    {
+      "text": "ligesom vidnesbyrdet om Kristus er blevet bekræftet hos jer",
+      "number": 6,
+      "version": 1632261600000
+    },
+    {
+      "text": "så at I ikke mangler nogen nådegave mens I venter på at vor Herre Jesus Kristus skal åbenbares,",
+      "number": 7,
+      "version": 1632261600000
+    },
+    {
+      "text": "han som også indtil det sidste skal bevare jer faste som uanklagelige på vor Herres Jesu Kristi dag.",
+      "number": 8,
+      "version": 1632261600000
+    },
+    {
+      "text": "Gud er trofast, det skyldes ham, at I blev kaldet til fællesskab med hans Søn, Jesus Kristus, vor Herre.",
+      "title": "Paulus formaner korintherne til at opgive det upassende klikevæsen og huske på at det var Kristus de blev døbt til, og ikke til apostlen",
+      "number": 9,
+      "version": 1632261600000
+    },
+    {
+      "text": "\fMen jeg formaner jer, brødre, i vor Herres Jesu Kristi Navn til, at I alle skal sige det samme, og at der ikke må findes kliker iblandt jer, men at I skal være ét i samme sind og af samme mening.",
+      "number": 10,
+      "version": 1632261600000
+    },
+    {
+      "text": "For jeg har af folk fra Kloës hus fået fortalt om jer, mine brødre, at der er uenighed iblandt jer.",
+      "number": 11,
+      "version": 1632261600000
+    },
+    {
+      "text": "Det, jeg mener, er, at hver og en af jer siger: Jeg hører Paulus til, og jeg Apollos, og jeg Kefas, og jeg Kristus.",
+      "number": 12,
+      "version": 1632261600000
+    },
+    {
+      "text": "Er Kristus da delt? Mon Paulus blev korsfæstet for jer? eller blev I døbt i Paulus' navn?",
+      "number": 13,
+      "version": 1632261600000
+    },
+    {
+      "text": "Jeg takker Gud for, at jeg ikke har døbt nogen af jer, undtagen Krispus og Kajus,",
+      "number": 14,
+      "version": 1632261600000
+    },
+    {
+      "text": "så ingen skal sige, at I blev døbt i mit navn.V16 Jeg har dog også døbt Stefanas' hus; ellers ved jeg ikke, om jeg har døbt nogen.",
+      "title": "Med enfoldige ord havde han prædiket korsets evangelium, der er en tåbelighed og en forargelse for den vantro verden, men Guds kraft og visdom for dem der tror",
+      "number": 15,
+      "version": 1632261600000
+    },
+    {
+      "text": "\fKristus sendte mig nemlig ikke for at døbe, men for at forkynde evangeliet, ikke med visdomsord, for at Kristi kors ikke skulle miste sin kraft.",
+      "number": 17,
+      "version": 1632261600000
+    },
+    {
+      "text": "For ordet om korset er ganske vist for dem, der fortabes, en tåbelighed, men for dem, der frelses, for os, er det en Guds kraft.",
+      "number": 18,
+      "version": 1632261600000
+    },
+    {
+      "text": "Der står jo skrevet: »Jeg vil ødelægge de vises visdom, og de forstandiges forstand vil jeg tilintetgøre.«",
+      "number": 19,
+      "version": 1632261600000
+    },
+    {
+      "text": "Hvor er der en viis? Hvor er der en skriftlærd? Hvor er der en debattør af denne verden? Har Gud ikke gjort verdens visdom tåbelig?",
+      "number": 20,
+      "version": 1632261600000,
+      "footnotes": [
+        {
+          "text": "Skriftlærd",
+          "type": "N",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "For eftersom verden i sin visdom ikke erkendte Gud i hans visdom, ville Gud gerne frelse dem, der tror, ved prædikenens tåbelighed,",
+      "number": 21,
+      "version": 1632261600000
+    },
+    {
+      "text": "da jo både jøder kræver tegn, og grækere søger visdom,",
+      "number": 22,
+      "version": 1632261600000
+    },
+    {
+      "text": "mens vi derimod prædiker Kristus som korsfæstet, for jøder en forargelse og for hedninger en tåbelighed,",
+      "number": 23,
+      "version": 1632261600000
+    },
+    {
+      "text": "men for de kaldede, jøder såvel som grækere, Kristus som Guds kraft og Guds visdom.",
+      "number": 24,
+      "version": 1632261600000
+    },
+    {
+      "text": "For Guds tåbelighed er visere end menneskene, og Guds svaghed er stærkere end menneskene.",
+      "title": "Det kunne korintherne se beviset på i deres egen menighed, for det var jo ikke først og fremmest de kloge og fornemme, men de ringe og uanselige, som Gud havde udvalgt, for at ingen skulle rose sig undtagen af Herren",
+      "number": 25,
+      "version": 1632261600000
+    },
+    {
+      "text": "\fFor prøv at se, hvordan I blev kaldet, brødre! I er ikke mange vise efter menneskelig målestok, ikke mange mægtige, ikke mange fornemme;",
+      "number": 26,
+      "version": 1632261600000
+    },
+    {
+      "text": "men verdens tåbelighed udvalgte Gud for at gøre de vise til skamme, og verdens svaghed udvalgte Gud for at gøre det stærke til skamme;",
+      "number": 27,
+      "version": 1632261600000
+    },
+    {
+      "text": "og det, der i verdens øjne er småt og ringeagtet, det, der ikke er noget, udvalgte Gud for at gøre det, der er noget, til ingenting,",
+      "number": 28,
+      "version": 1632261600000
+    },
+    {
+      "text": "for at intet menneske skal rose sig for Gud.",
+      "number": 29,
+      "version": 1632261600000,
+      "footnotes": [
+        {
+          "text": "ingen dødelig",
+          "type": "T",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "Men det skyldes ham, at I er i Kristus Jesus, der er blevet vores visdom fra Gud, både retfærdighed og helliggørelse og forløsning;",
+      "number": 30,
+      "version": 1632261600000
+    },
+    {
+      "text": "for, som der står skrevet: »Lad den, der roser sig, rose sig af Herren!«",
+      "number": 31,
+      "version": 1632261600000
+    }
+  ]
+}

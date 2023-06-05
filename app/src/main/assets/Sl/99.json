@@ -1,0 +1,77 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 99,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJHVH er konge! Folkeslagene skælver.\fHan troner over keruber, jorden ryster.",
+      "title": "JHVH er den hellige verdenshersker",
+      "number": 1,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fJHVH på Zion er stor,\fog han er ophøjet over alle folkeslagene.",
+      "number": 2,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDe skal prise dit navn som stort og frygtindgydende.\fHellig er han!",
+      "title": "Hellig som retfærdighedens garant",
+      "number": 3,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fOg en kong med magt, der elsker ret,\fhar du grundfæstet i retskaffenhed,\fret og retfærdighed i Jakob\fhar du skabt.",
+      "number": 4,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Formuleringen er speciel og omdiskuteret. Der er foreslået flere rettelser. Mindst indgribende er at læse substantivet: *ʕōz* (»magt«) som adjektiv: *ʕaz*: »mægtig« og opfatte hele verset som rettet til Gud, så der oversættes: »Og mægtige konge, som elsker ret, du har grundfæstet retskaffenhed«. Normalt skal adjektivet dog stå efter substantivet, så det forudsættes at versets to første ord bytter plads: *wᵊʕōz melex* (egentlig: »Og konges magt«) til: *ûmelex ʕaz* (»og mægtige konge«). Andre retter *wᵊʕōz melex* til: *wᵊʕaz mālax*: »Og en stærk er konge. (Han elsker ret. Du har befæstet retskaffenhed)«.",
+          "type": "E",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "\fOphøj JHVH, vor Gud,\fog kast jer ned for hans fødders fodskammel.\fHellig er han!",
+      "title": "Hellig i tugt og nåde",
+      "number": 5,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMoses og Aron, som var blandt hans præster,\fog Samuel, som var blandt dem som påkaldte hans navn -\fnår de råbte til JHVH, svarede han dem.",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHan talte til dem i skysøjlen,\fde bevarede hans vidnesbyrd\fog den lov som han gav dem.",
+      "number": 7,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fJHVH, vor Gud, du svarede dem,\fdu var for dem en tilgivende Gud,\fmen hævnende for deres gerninger.",
+      "number": 8,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fOphøj JHVH, vor Gud,\fog kast jer ned for hans hellige bjerg,\ffor hellig er JHVH, vor Gud!",
+      "number": 9,
+      "version": 1500242400000
+    }
+  ]
+}

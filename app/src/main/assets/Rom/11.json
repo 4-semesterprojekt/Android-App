@@ -1,0 +1,47 @@
+{
+  "book": "Paulus' Brev til Romerne",
+  "abbreviation": "Rom",
+  "chapter": 11,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fFor Gud har indesluttet alle i ulydighed for at han kunne forbarme sig over alle.",
+      "number": 32,
+      "version": 1621375200000
+    },
+    {
+      "text": "Oh, dyb af Guds rigdom og visdom og kundskab! Hvor uransagelige er hans domme og uudgrundelige hans veje!",
+      "number": 33,
+      "version": 1621375200000
+    },
+    {
+      "text": "For hvem har kendt Herrens sind? Eller hvem er blevet hans rådgiver?",
+      "number": 34,
+      "version": 1621375200000
+    },
+    {
+      "text": "Eller hvem har givet ham først så at der skulle gives ham til gengæld?",
+      "number": 35,
+      "version": 1621375200000
+    },
+    {
+      "text": "For af ham og ved ham og til ham er alle ting; ham være ære i evighed! Amen.",
+      "number": 36,
+      "version": 1621375200000
+    }
+  ]
+}

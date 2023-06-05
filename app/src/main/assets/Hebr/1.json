@@ -1,0 +1,54 @@
+{
+  "book": "Brevet til Hebræerne",
+  "abbreviation": "Hebr",
+  "chapter": 1,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEfter at Gud i fortiden havde talt mange gange og på mange måder til fædrene ved profeterne,",
+      "number": 1,
+      "version": 1639954800000
+    },
+    {
+      "text": "har han nu ved disse dages ende talt til os ved sin søn, som han har sat til arving til alle ting, ved hvem han også har skabt verden;",
+      "number": 2,
+      "version": 1639954800000
+    },
+    {
+      "text": "han — som er hans herligheds glans og hans væsens udtrykte billede og bærer alle ting med sin krafts ord — har efter at have skaffet renselse fra synderne sat sig ved majestætens højre hånd i det høje,",
+      "number": 3,
+      "version": 1639954800000
+    },
+    {
+      "text": "idet han er blevet så meget mægtigere end englene som det navn han har arvet overgår deres.",
+      "number": 4,
+      "version": 1639954800000
+    },
+    {
+      "text": "For til hvem af englene har han nogen sinde sagt: »Du er min søn, jeg har født dig i dag?« og fremdeles: »Jeg vil være far for ham, og han skal være søn for mig«?",
+      "number": 5,
+      "version": 1639954800000,
+      "footnotes": [
+        {
+          "text": "Gud.",
+          "type": "T",
+          "position": 31
+        }
+      ]
+    }
+  ]
+}

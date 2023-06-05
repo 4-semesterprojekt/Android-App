@@ -1,0 +1,125 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 148,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHalleluja!\fLovpris JHVH fra himlen,\flovpris ham i det høje!",
+      "title": "Lovpris JHVH fra himlen",
+      "number": 1,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fLovpris ham, alle hans engle,\flovpris ham, hele hans hærskare!",
+      "number": 2,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Konsonantteksten forudsætter singularis (»hele hans hærskare«), men masoreternes vokalisering peger på pluralis: »alle hans hærskarer«.",
+          "type": "E",
+          "position": 63
+        }
+      ]
+    },
+    {
+      "text": "\fLovpris ham, sol og måne,\flovpris ham, alle lysets stjerner!",
+      "number": 3,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fLovpris ham, himlenes himmel,\fog I vande som er over himlen!",
+      "number": 4,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fDe skal lovprise JHVHs navn,\ffor han befalede, og de blev skabt.",
+      "number": 5,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fOg han har stillet dem hen for altid, for evigt,\fhan gav en lov, og den skal ikke ophæves.",
+      "title": "Lovpris JHVH fra jorden",
+      "number": 6,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Mange oversættere retter: *yaʕᵃvôr* (»ophæves«, ordret: »gå forbi«) til pluralis: *yaʕᵃvrû*, så oversættelsen bliver: »(han gav en lov/grænse) de (ikke) må overskride«.",
+          "type": "E",
+          "position": 91
+        }
+      ]
+    },
+    {
+      "text": "\fLovpris JHVH fra jorden,\fI søuhyrer og alle dyb,",
+      "number": 7,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fild og hagl, sne og røg\fstormvind som udfører hans ord,",
+      "number": 8,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fI bjerge og alle høje,\ffrugttræer og alle cedertræer,",
+      "number": 9,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fvildtet og alt kvæg,\fkrybdyr og vingede fugle!",
+      "number": 10,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fJordens konger og alle folk,\ffyrster og alle jordens dommere,",
+      "number": 11,
+      "version": 1493330400000
+    },
+    {
+      "text": "\funge mænd og også piger,\fgamle med unge:",
+      "number": 12,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »jomfruer«.",
+          "type": "T",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "\fDe skal lovprise JHVHs navn,\ffor hans navn alene er ophøjet,\fhans højhed er over jorden og himlen.",
+      "number": 13,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »majestæt«.",
+          "type": "T",
+          "position": 73
+        }
+      ]
+    },
+    {
+      "text": "\fHan har løftet et horn for sit folk,\fhan der er en lovsang for alle sine fromme,\ffor Israels børn, det folk der står ham nær.\fHalleluja!",
+      "number": 14,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hans nærheds folk« eller: »folk af den der står ham nær«. Mange ændrer dog vokaliseringen af: *qᵊrōvô* (»den der står ham nær/hans nærhed«) til: *qᵊrōvāʸw*: »dem der står ham nær«.",
+          "type": "E",
+          "position": 126
+        }
+      ]
+    }
+  ]
+}

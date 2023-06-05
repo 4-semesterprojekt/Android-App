@@ -1,0 +1,69 @@
+{
+  "book": "Markusevangeliet",
+  "abbreviation": "Mark",
+  "chapter": 8,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Torben Kjær",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Literært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fI de dage var der igen en stor skare, og da de ikke havde noget at spise, tilkaldte han sine disciple og sagde til dem: v2 »Jeg har medlidenhed med skaren; for de har allerede været hos mig i tre dage og har ikke noget at spise. v3 Hvis jeg sender dem sultne hjem, vil de blive udmattede på vejen, og nogle af dem er kommet langvejs fra.« v4 Hans disciple svarede ham: »Hvorfra kan nogen her mætte disse med brød i et øde område?« v5 Han spurgte dem: »Hvor mange brød har I?« De sagde »Syv.« v6 Han befalede skaren at lejre sig på jorden; og han tog de syv brød, takkede, brød dem og gav dem til sine disciple for at de skulle lægge dem frem, og de lagde dem frem for skaren. v7 De havde nogle få småfisk; og han velsignede dem og sagde at de også skulle lægges frem. v8 De spiste og blev mætte; og de samlede syv kurve med tiloversblevne stykker. v9 De var omtrent fire tusind; og han sendte dem bort. v10 Straks gik han om bord i båden med sine disciple og kom til egnene ved Dalmanuta.",
+      "title": "Kravet om et tegn fra himlen",
+      "number": 1,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fFarisæerne gik ud og begyndte at diskutere med ham, idet de krævede et tegn fra himlen af ham for at prøve ham. v12 Han sukkede dybt i sin ånd og sagde: »Hvorfor kræver denne slægt tegn? Sandelig siger jeg jer, der skal ikke gives denne slægt noget tegn!« v13 Og han forlod dem og gik igen om bord og sejlede over til den anden side.",
+      "title": "Advarsel mod surdejen",
+      "number": 11,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fDe havde glemt at tage brød med og havde kun ét brød med sig i båden. v15 Han befalede dem: »Læg mærke til og tag jer i agt for farisæernes surdej og for Herodes’ surdej!« v16 De diskuterede indbyrdes at de ikke havde brød med. v17 Da han mærkede det, sagde han til dem: »Hvorfor diskuterer I at I ikke har brød? Indser I endnu ikke, og forstår I ikke? Er jeres hjerte blevet forhærdet?",
+      "number": 14,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fSkønt I har øjne, ser I ikke?\fOg skønt I har ører, hører I ikke?\fHusker I ikke, v19 da jeg brød de fem brød til de fem tusind, hvor mange kurve fulde af rester samlede I?« De sagde til ham: »Tolv.« v20 »Og da jeg brød de syv til de fire tusind, hvor mange kurve fulde af rester samlede I?« Og de sagde til ham: »Syv.« v21 Han sagde til dem: »Forstår I endnu ikke?«",
+      "title": "Helbredelsen af den blinde",
+      "number": 18,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fDe kom til Betsajda og man førte en blind hen til ham og bad ham om at han ville røre ved ham. v23 Han tog den blindes hånd og førte ham uden for landsbyen, og han spyttede på hans øjne og lagde hænderne på ham og spurgte ham: »Ser du noget?« v24 Han så op og sagde: »Jeg ser menneskene; for jeg ser nogle ligesom træer gå omkring.« v25 Derefter lagde han igen hænderne på hans øjne, og han så klart og blev helbredt, og han så alt tydeligt. v26 Han sendte ham hjem og sagde: »Gå ikke ind i landsbyen.«",
+      "title": "Peters bekendelse",
+      "number": 22,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fJesus og hans disciple gik ud til landsbyerne ved Kæsarea Filippi; og på vejen spurgte han sine disciple: »Hvem siger menneskene at jeg er?« v28 De sagde til ham: »Johannes Døberen; og andre: Elias; men andre: En af profeterne.« v29 Han spurgte dem: »Men I, hvem siger I at jeg er?« Peter svarede ham: »Du er Kristus.« v30 Han formanede dem strengt at de ikke måtte sige dette om ham til nogen. v31 Han begyndte at undervise dem om at Menneskesønnen skal lide meget og blive forkastet af de ældste og ypperstepræsterne og de skriftlærde og blive slået ihjel og opstå efter tre dage. v32 Han sagde det åbent til dem. Peter tog ham til side og begyndte at irettesætte ham. v33 Men han vendte sig om og så på sine disciple og irettesatte Peter og sagde: »Gå bort, Satan! For du tænker ikke hvad der er Guds, men hvad der er menneskers.«",
+      "title": "Om efterfølgelse",
+      "number": 27,
+      "version": 1667170800000
+    },
+    {
+      "text": "\fHan kaldte skaren sammen med sine disciple til sig og sagde til dem: »Hvis nogen vil følge efter mig, skal han fornægte sig selv og tage sit kors op og følge mig. v35 For den der vil frelse sig selv, skal miste sig selv; og den der mister sig selv for min og evangeliets skyld, skal frelse sig selv. v36 For hvad gavner det et menneske at vinde hele verden og miste sig selv? v37 For hvad kan et menneske give som erstatning for sig selv? v38 For den der skammer sig ved mig og mine ord i denne utro og syndige slægt, vil Menneskesønnen også skamme sig ved når han kommer i sin Fars herlighed med de hellige engle.«",
+      "number": 34,
+      "version": 1667170800000,
+      "footnotes": [
+        {
+          "text": "Kapitel 9 vers 1 hører naturligt til her.",
+          "type": "T",
+          "position": 616
+        }
+      ]
+    }
+  ]
+}

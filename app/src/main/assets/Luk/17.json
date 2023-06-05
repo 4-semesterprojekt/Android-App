@@ -1,0 +1,47 @@
+{
+  "book": "Lukasevangeliet",
+  "abbreviation": "Luk",
+  "chapter": 17,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fPå vej til Jerusalem rejste han også mellem Samaria og Galilæa.",
+      "number": 11,
+      "version": 1629842400000
+    },
+    {
+      "text": "Da han gik ind i en landsby, blev han mødt af ti spedalske mænd som blev stående langt borte v13 mens de råbte: »Jesus, Mester, forbarm dig over os!«",
+      "number": 12,
+      "version": 1629842400000
+    },
+    {
+      "text": "Da han så dem, sagde han til dem: »Gå hen og lad jer fremstille for præsterne!«Og mens de gik derhen, blev de rene. v15 Men en af dem vendte tilbage da han så at han var helbredt, og priste Gud med høj røst. v16 Han kastede sig på ansigtet for hans fødder og takkede ham. Han var en samaritaner.",
+      "number": 14,
+      "version": 1629842400000
+    },
+    {
+      "text": "Men Jesus sagde: »Var der ikke ti der blev rene? Hvor er de ni?",
+      "number": 17,
+      "version": 1629842400000
+    },
+    {
+      "text": "Var der ingen andre som fandt det værd at vende tilbage for at give Gud æren, end denne fremmede?« v19 Og han sagde til ham: »Stå op, gå herfra. Din tro har frelst dig!«",
+      "number": 18,
+      "version": 1629842400000
+    }
+  ]
+}

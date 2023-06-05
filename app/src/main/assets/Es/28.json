@@ -1,0 +1,180 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 28,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fVe de berusedes stolte krone i Efraim og deres dejlige prydelses falmede blomst, der står oven over den fede dal, der, hvor de dingler af vin!",
+      "title": "Esajas profeterer om de ti stammers ødelæggelse på grund af deres stolthed, 1-4; om Judas velstand, 5-6; om Guds straffe, også over det, på grund af mange alvorlige synder og bespottelser, 7-13; han bebrejder dem deres dårlige livsførelse og henviser dem til hovedhjørnestenen og advarer dem og forkynder Guds domme, 14-23; han viser dem med en lignelse, hvordan handler med sit folk, 24-29.",
+      "number": 1,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Dvs. Samarias",
+          "type": "T",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "text": "Se, JHVH har en stærk og mægtig mand, der er som et regnskyl med hagl, som en ødelæggende storm; som et skyl af mægtige vande, der strømmer over, skal han slå til jorden med magt.",
+      "number": 2,
+      "version": 1528236000000
+    },
+    {
+      "text": "Med fødder skal den trædes ned, de berusedes stolte krone i Efraim.",
+      "number": 3,
+      "version": 1528236000000
+    },
+    {
+      "text": "Og deres dejlige prydelses falmede blomst, der står oven over den fede dal, skal blive som en figen, der er tidligt moden før sommeren, som én får øje på og sluger, så snart han får den i hånden.",
+      "number": 4,
+      "version": 1528236000000
+    },
+    {
+      "text": "På den dag skal JHVH Zebaoth blive til en dejlig krone og en herlig krans for sit folks rest",
+      "number": 5,
+      "version": 1528236000000
+    },
+    {
+      "text": "og til rettens Ånd for dem, der sidder i domstolen, og til styrke for dem, der driver krigen tilbage til porten.",
+      "number": 6,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Dvs. driver fjenden ud af byen",
+          "type": "T",
+          "position": 112
+        }
+      ]
+    },
+    {
+      "text": "\fMen også de dingler af vin og er omtågede af stærk drik; præst og profet dingler rundt af stærk drik, de er overvældede af vin, de farer vild under synet, de vakler under dommen.",
+      "number": 7,
+      "version": 1528236000000
+    },
+    {
+      "text": "For alle borde er fulde af ulækkert bræk; der er ikke én ren plet.",
+      "number": 8,
+      "version": 1528236000000
+    },
+    {
+      "text": "Hvem skal han lære kundskab? Og hvem skal han få til at forstå det, der høres? Er det dem, der er vænnet fra mælk, dem, der er taget fra brystet?",
+      "number": 9,
+      "version": 1528236000000
+    },
+    {
+      "text": "For der er bud på bud, bud på bud, regel på regel, regel på regel, lidt her, lidt der.",
+      "number": 10,
+      "version": 1528236000000
+    },
+    {
+      "text": "Men gennem folk med stammende læber og med fremmed sprog skal han tale til dette folk,",
+      "number": 11,
+      "version": 1528236000000
+    },
+    {
+      "text": "som han sagde til: »Her er der ro, lad den trætte hvile, her fås der nye kræfter,« men de ville ikke høre.",
+      "number": 12,
+      "version": 1528236000000
+    },
+    {
+      "text": "Så skal JHVHs ord for dem da blive bud på bud, bud på bud, regel på regel, regel på regel, lidt her, lidt der; for at de skal gå bort og falde baglæns og kvæstes og bindes og fanges.",
+      "number": 13,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fHør derfor JHVHs ord, I spottere, der hersker over dette folk, der bor i Jerusalem!",
+      "number": 14,
+      "version": 1528236000000
+    },
+    {
+      "text": "Fordi I sagde: »Vi har sluttet en pagt med døden og lavet et forbund med dødsriget; når den svungne svøbe suser forbi, da skal den ikke nå os; for vi har gjort løgn til vores tilflugt og falskhed til vores skjul",
+      "number": 15,
+      "version": 1528236000000
+    },
+    {
+      "text": "Derfor, sådan sagde Herren JHVH: »Se, jeg lægger som grundvold i Zion en sten, en prøvet sten, en kostbar hjørnesten, fast grundlagt; den, der tror, haster ikke.«.",
+      "number": 16,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Den græske oversættelse har: ”skal man ikke blive til skamme.”",
+          "type": "T",
+          "position": 163
+        }
+      ]
+    },
+    {
+      "text": "Og jeg vil sætte ret som målesnor og retfærdighed som vægt, og hagl skal drive den falske tilflugt bort og vandene skylle over skjulet.",
+      "number": 17,
+      "version": 1528236000000
+    },
+    {
+      "text": "Og jeres pagt med døden skal blive til intet, og jeres forbund med dødsriget skal ikke bestå, når den svungne svøbe suser forbi, da skal den slå jer ned.",
+      "number": 18,
+      "version": 1528236000000
+    },
+    {
+      "text": "Hver gang den suser forbi, skal den rive jer bort; for den skal suse forbi hver morgen, om dagen og om natten; og det skal være en rædsel bare at høre rygtet.",
+      "number": 19,
+      "version": 1528236000000
+    },
+    {
+      "text": "For sengen er for kort, så man ikke kan strække sig ud, og tæppet er for smalt, når man vil dække sig til med det.",
+      "number": 20,
+      "version": 1528236000000
+    },
+    {
+      "text": "For JHVH skal gøre sig klar som ved Perazims bjerg, han skal harmes som i Gibeons dal, til at gøre sin gerning – forunderlig er hans gerning! og fuldføre sit værk – uhørt er hans værk!",
+      "number": 21,
+      "version": 1528236000000
+    },
+    {
+      "text": "Og nu, hold op med at spotte, så jeres bånd ikke skal blive strammere; for jeg har hørt om en ødelæggelse og om en fast beslutning fra Herren, JHVH Zebaoth, over hele jorden.v23Vend ørerne denne vej og hør min stemme, giv agt og hør min tale!",
+      "number": 22,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fMon plovmanden pløjer altid for at så, vender og harver sin jord hele tiden?",
+      "number": 24,
+      "version": 1528236000000
+    },
+    {
+      "text": "Er det ikke sådan, når han har jævnet dens overflade, at han spreder dild og strør kommen og sår hvede i rækker og byg på det afmærkede sted og spelt i kanten?",
+      "number": 25,
+      "version": 1528236000000
+    },
+    {
+      "text": "For Gud underviser ham om den rigtige måde, hans Gud lærer ham den.",
+      "number": 26,
+      "version": 1528236000000
+    },
+    {
+      "text": "For dild tærskes ikke med tærskevogn, og vognhjul går ikke hen over kommen; men dild slås af med stav og kommen med kæp.",
+      "number": 27,
+      "version": 1528236000000
+    },
+    {
+      "text": "Brødkorn stødes småt; for man tærsker det ikke for evigt; og driver man sine vognhjul og sine heste hen over, knuser man det ikke.",
+      "number": 28,
+      "version": 1528236000000
+    },
+    {
+      "text": "Også dette kommer fra JHVH Zebaoth, han er forunderlig i råd og stor i visdom.",
+      "number": 29,
+      "version": 1528236000000
+    }
+  ]
+}

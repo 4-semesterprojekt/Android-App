@@ -1,0 +1,133 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 58,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Literært tjek"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fRåb af fuld hals, spar ikke på den, løft din stemme som en basun, og meddel mit folk deres overtrædelser og Jakobs hus deres synder!",
+      "title": "Profeten irettesætte hårdt jødernes hykleriske gudsdyrkelse, især deres hykleriske faste, 1-5; og viser dem, hvad der er rigtig faste for Gud og den gudsdyrkelse, der behager ham, og som der følger stor velsignelse med, 6-14.",
+      "number": 1,
+      "version": 1622152800000
+    },
+    {
+      "text": "Mig søger de dagligt, og de har lyst til at kende mine veje; som om de var et folk, der havde øvet retfærdighed og ikke forladt sin Guds lov, spørger de mig om retfærdige love, de har lyst til at komme nær til Gud.",
+      "number": 2,
+      "version": 1622152800000
+    },
+    {
+      "text": "»Hvorfor faster vi, og så ser du det ikke? Hvorfor er vi strenge imod os selv, og så vil du ikke vide af det?« Se, på den dag, I faster, får I, hvad der lyster jer, og I har travlt med alle jeres gøremål.",
+      "number": 3,
+      "version": 1622152800000
+    },
+    {
+      "text": "Se, I faster for at kives og strides og for at slå med ugudeligheds næve; I faster ikke på den dag, så I får jeres stemme hørt i det høje.",
+      "number": 4,
+      "version": 1622152800000
+    },
+    {
+      "text": "Mon det er en faste som denne jeg foretrækker, en dag hvor et menneske er streng imod sig selv? At hænge med hovedet som et siv eller ligge i sæk og aske – vil du kalde det en faste og en velbehagelig dag for JHVH?",
+      "number": 5,
+      "version": 1622152800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »mod sin sjæl«.",
+          "type": "T",
+          "position": 95
+        },
+        {
+          "text": "Ordret: »bruge som seng«.",
+          "type": "T",
+          "position": 141
+        }
+      ]
+    },
+    {
+      "text": "\fMon ikke dette er en faste jeg foretrækker: At løse ugudeligheds lænker, sprænge ågets bånd, frigive undertrykte, og at I brækker hvert åg?",
+      "number": 6,
+      "version": 1622152800000
+    },
+    {
+      "text": "Mon det ikke er at dele dit brød med den sultne, og at du lader de elendige hjemløse komme i dit hus? Når du ser en nøgen, at du så klæder ham på, og at du ikke holder dig væk fra dit eget kød?",
+      "number": 7,
+      "version": 1622152800000,
+      "footnotes": [
+        {
+          "text": "Der er enten ment slægtning eller medmenneske.",
+          "type": "T",
+          "position": 193
+        }
+      ]
+    },
+    {
+      "text": "Så skal dit lys bryde frem som morgenrøden, og din helbredelse skal komme hurtigt, og din retfærdighed skal gå foran dit ansigt, JHVHs herlighed skal være bagvagt for dig.",
+      "number": 8,
+      "version": 1622152800000
+    },
+    {
+      "text": "Da skal du kalde, og JHVH skal svare dig; du skal råbe, og han skal sige: »Se, her er jeg,« hvis du fjerner åget fra din midte og ikke peger fingre og ikke taler ondskab.",
+      "number": 9,
+      "version": 1622152800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »hvis du fra din midte fjerner åg, at pege fingre og at tale ondskab«.",
+          "type": "T",
+          "position": 170
+        }
+      ]
+    },
+    {
+      "text": "Hvis du rækker den sultne dig selv, og mætter en forkuet sjæl, så skal dit lys bryde frem i mørket, og dit mulm skal blive som midt på dagen.",
+      "number": 10,
+      "version": 1622152800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din egen sjæl«.",
+          "type": "T",
+          "position": 35
+        }
+      ]
+    },
+    {
+      "text": "Og JHVH skal altid lede dig og mætte din sjæl i tørre egne, og han vil styrke dine knogler, du bliver som en vandrig have og som et kildevæld hvis vand ikke svigter.",
+      "number": 11,
+      "version": 1622152800000
+    },
+    {
+      "text": "Og de der nedstammer fra dig, skal genopbygge gamle ruiner, du skal genrejse grundvolde der har ligget hen fra slægt til slægt, og du skal kaldes Den-der-murer-det-revnede-til, Den-der-udbedrer-nedrevne-bygninger.",
+      "number": 12,
+      "version": 1622152800000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er omdiskuteret. Det hebraiske ord *nᵊtîvāʰ* oversættes i alle andre sammenhænge: »sti/vej«, så oversættelsen kan være: »Den-der-udbedrer-stier, hvor man kan bo«. Men her forstås ordet oftest om nedrevne bygninger.",
+          "type": "E",
+          "position": 213
+        }
+      ]
+    },
+    {
+      "text": "Hvis du holder din fod i ro på sabbatten og på min hellige dag ikke gør, hvad du selv har lyst til, og hvis du kalder sabbatten en lyst og JHVHs helligdag en herlighed, og hvis du ærer ham, så du ikke går dine egne veje og ikke gør, hvad der behager dig, og ikke taler tom snak,",
+      "number": 13,
+      "version": 1622152800000
+    },
+    {
+      "text": "så skal du fryde dig i JHVH, og jeg vil lade dig færdes over landets høje og lade dig nyde din far Jakobs arv; for JHVHs mund har talt.",
+      "number": 14,
+      "version": 1622152800000
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 18,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJetro, præst i Midjan, Moses’ svigerfar, hørte alt det Gud havde gjort for Moses og for sit folk Israel, at JHVH havde ført Israel ud af Egypten.",
+      "title": "Jetros besøg hos Moses",
+      "number": 1,
+      "version": 1587506400000
+    },
+    {
+      "text": "Da tog Jetro, Moses’ svigerfar, Sippora, Moses hustru, som han havde sendt tilbage,",
+      "number": 2,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "I senere hebraisk kan grundtekstens *šillûḥîm* (egentlig: »bortsendelse«) betegne »skilsmisse«. Her er der dog tydeligvis blot tale om at Sippora var midlertidigt sendt hjem.",
+          "type": "T",
+          "position": 83
+        }
+      ]
+    },
+    {
+      "text": "og hendes to sønner, af hvilke den enes navn var Gershom; for han havde sagt: »Jeg har været fremmed i et fremmed land«.",
+      "number": 3,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Se note til 2,22",
+          "type": "T",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "Og den andens navn var Eliezer; »for min fars Gud var min hjælp og har reddet mig fra Faraos sværd.«",
+      "number": 4,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Navnet betyder: »min Gud er hjælp.«",
+          "type": "T",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "Og Jetro, Moses’ svigerfar, kom med hans sønner og hans hustru til Moses i ørkenen, hvor han havde slået lejr ved Guds bjerg.",
+      "number": 5,
+      "version": 1587506400000
+    },
+    {
+      "text": "Han lod sige til Moses: »Jeg, din svigerfar Jetro, kommer til dig sammen med din hustru og hendes to sønner med hende.«",
+      "number": 6,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret blot: »han sagde«, men der er tydeligvis tale om at han sendte bud fra indgangen til lejren.",
+          "type": "T",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "text": "Da gik Moses sin svigerfar i møde, kastede sig ned og kyssede ham, og den ene hilste den anden, og de gik ind i teltet.",
+      "number": 7,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »ønskede (den anden) fred«.",
+          "type": "T",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "Moses fortalte sin svigerfar alt det JHVH havde gjort mod Farao og mod Egypten for Israels skyld, om al den trængsel der havde mødt dem på vejen, men JHVH havde reddet dem.",
+      "number": 8,
+      "version": 1587506400000
+    },
+    {
+      "text": "Jetro glædede sig over alt det gode JHVH havde gjort Israel, som han havde reddet af Egyptens hånd.",
+      "number": 9,
+      "version": 1587506400000
+    },
+    {
+      "text": "Og Jetro sagde: »Lovet være JHVH, som reddede jer ud af Egyptens hånd og ud af Faraos hånd, og som reddede folket fra at være under Egyptens hånd.",
+      "number": 10,
+      "version": 1587506400000
+    },
+    {
+      "text": "Nu ved jeg at JHVH er stor frem for alle guder i det som de er overmodigt stolte af.«",
+      "number": 11,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen af og meningen med sidste halvdel af verset er omdiskuteret og usikker. Ordret kunne den oversættes: »for/netop i sagen, hvor de handlede mod dem i overmod.« Som den står, er det formodentlig *guderne* der er subjekt. Den givne oversættelse forekommer rimelig, men må dog tages med forbehold. Mange oversættere opgiver helt at tage sidste halvdel af verset med.",
+          "type": "T",
+          "position": 85
+        }
+      ]
+    },
+    {
+      "text": "Så bragte Jetro, Moses’ svigerfar, brændoffer og slagtofre til Gud, Aron og alle Israels ældste kom for at holde måltid sammen med Moses’ svigerfar for Guds ansigt.",
+      "title": "Jetro rådgiver Moses",
+      "number": 12,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »spise brød«.",
+          "type": "T",
+          "position": 119
+        }
+      ]
+    },
+    {
+      "text": "\fOg det skete den næste dag at Moses satte sig for at holde rettergang for folket, og folket stod foran Moses fra morgenen til aftenen.",
+      "number": 13,
+      "version": 1587506400000
+    },
+    {
+      "text": "Da Moses’ svigerfar så alt det han gjorde for folket, sagde han: »Hvad er det du gør for folket? Hvorfor sidder du alene mens hele folket står foran dig fra morgen til aften?«",
+      "number": 14,
+      "version": 1587506400000
+    },
+    {
+      "text": "Moses sagde til sin svigerfar: »Fordi folket kommer til mig for at adspørge Gud.",
+      "number": 15,
+      "version": 1587506400000
+    },
+    {
+      "text": "Når de har en sag, kommer de til mig, så jeg dømmer mellem en mand og hans næste; og jeg kundgør dem Guds forordninger og hans love.«",
+      "number": 16,
+      "version": 1587506400000
+    },
+    {
+      "text": "Da sagde Moses’ svigerfar til ham: »Det du gør, er ikke godt.",
+      "number": 17,
+      "version": 1587506400000
+    },
+    {
+      "text": "Du bliver fuldstændig udmattet,  både du og dette folk, som er med dig; for den opgave er for tung for dig, du kan ikke løse den alene.",
+      "number": 18,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst har verbet *נבל* (»blive udmattet«) to gange: Først som infinitiv og derefter som yiqtol. Det er en almindelig måde i hebraisk til forstærkelse af verbet.",
+          "type": "T",
+          "position": 31
+        }
+      ]
+    },
+    {
+      "text": "Lyt nu til min røst, jeg vil give dig råd, og Gud skal være med dig: Du skal være for folket over for Gud, og du skal føre sagerne frem for Gud.",
+      "number": 19,
+      "version": 1587506400000
+    },
+    {
+      "text": "Og du skal indskærpe dem forordningerne og lovene og kundgøre dem vejen, de skal vandre på, og den gerning, de skal gøre.",
+      "number": 20,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »advare«.",
+          "type": "T",
+          "position": 20
+        }
+      ]
+    },
+    {
+      "text": "Du skal af hele folket se dig om efter dygtige mænd som frygter Gud, pålidelige mænd, som hader uretmæssig vinding, og sætte dem over dem som førere over tusind, førere over hundred, førere over halvtreds og førere over grupper på ti.",
+      "number": 21,
+      "version": 1587506400000
+    },
+    {
+      "text": "De skal holde rettergang for folket til enhver tid, men det skal være sådan: Hver stor sag skal de bringe for dig, men hver lille sag skal de selv dømme i. Gør byrden let for dig, de skal bære den sammen med dig.",
+      "number": 22,
+      "version": 1587506400000
+    },
+    {
+      "text": "Hvis du vil gøre dette, og Gud befaler dig det, så kan du holde ud; og hele dette folk kan komme med fred til sit sted.«",
+      "number": 23,
+      "version": 1587506400000,
+      "footnotes": [
+        {
+          "text": "Det er uklart, om »sted« er betegnelse for deres hjem/telt eller for det sted, hvor deres sag skal pådømmes.",
+          "type": "E",
+          "position": 120
+        }
+      ]
+    },
+    {
+      "text": "Moses lyttede sin svigerfars røst og gjorde alt det, som han sagde.",
+      "number": 24,
+      "version": 1587506400000
+    },
+    {
+      "text": "Og Moses udvalgte dygtige mænd fra hele Israel og satte dem som overhoveder over folket, førere over tusind, førere over hundred, førere over halvtreds og førere over grupper på ti.",
+      "number": 25,
+      "version": 1587506400000
+    },
+    {
+      "text": "De holdt rettergang for folket til enhver tid; hver vanskelig sag skulle de bringe til Moses, og hver lille sag skulle de selv dømme.",
+      "number": 26,
+      "version": 1587506400000
+    },
+    {
+      "text": "Så lod Moses sin svigerfar tage af sted, og denne rejste til sit eget land.",
+      "number": 27,
+      "version": 1587506400000
+    }
+  ]
+}

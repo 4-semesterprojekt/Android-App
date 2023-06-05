@@ -1,0 +1,156 @@
+{
+  "book": "Jobs Bog",
+  "abbreviation": "Job",
+  "chapter": 2,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDerpå, på dagen\n\tda Guds sønner kom\n\t\t\tfor at træde frem for HERREN,\n\t\tkom også Satan midt iblandt dem\n\t\t\t\tfor at træde frem for HERREN.",
+      "title": "Gud tillader Satan at teste Jobs retfærdighed ved at tage hans helbred",
+      "number": 1,
+      "version": 1646953200000
+    },
+    {
+      "text": "\t\t\tDa sagde HERREN til Satan:\n\t\t\t\t\t»Hvor kommer du fra?«\n\t\t\t\tSatan gav HERREN\n\t\t\t\t\tfølgende svar:\n\t\t\t\t\t\t»Fra at tage rundt på jorden\n\t\t\t\t\t\t\tog vandre omkring på den.«",
+      "number": 2,
+      "version": 1646953200000
+    },
+    {
+      "text": "\t\t\tHERREN sagde til Satan:\n\t\t\t\t\t»Har du tænkt over min tjener Job?\n\t\t\t\t\t\tFor der er ingen som ham på jorden.\n\t\t\t\t\t\t\t\tHan er fuldkommen, retskaffen og gudfrygtig.\n\t\t\t\t\t\t\t\t\tog han holder sig fra det onde.\n\t\t\t\t\t\t\tHan holder stadig fast i sin uskyld\n\t\t\t\t\t\t\t\tselv om du satte mig op imod ham\n\t\t\t\t\t\t\t\t\tfor at ødelægge ham uden grund.«",
+      "number": 3,
+      "version": 1646953200000,
+      "footnotes": [
+        {
+          "text": "Mange oversættelser vælger »lokke« eller »tirre«, men det harmonerer ikke med gudsbilledet. Der tale om en duel med Satan som Gud valgte at gå ind i. Denne betydning støttes af 1 Sam 26,19 og andre steder.",
+          "type": "T",
+          "position": 286
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\tMen Satan gav HERREN\n\t\t\t\t\tfølgende svar:\n\t\t\t\t\t\t»Så længe det er hud mod hud\n\t\t\t\t\t\t\t\tvil en mand give alt\n\t\t\t\t\t\t\t\t\t\thvad han har,\n\t\t\t\t\t\t\t\t\tfor sit liv.",
+      "number": 4,
+      "version": 1646953200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Hud for hud.« En fast vending eller et ordsprog som betyder at så længe der blot er tale om overfladiske skrammer, vil et menneske kæmpe for sit liv",
+          "type": "T",
+          "position": 79
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\t\t\tMen ræk nu din hånd ud\n\t\t\t\t\t\t\t\t\tog rør ved hans knogler og hans kød.\n\t\t\t\t\t\t\t\tVil han så lovprise dig ved mødet med dig?«",
+      "number": 5,
+      "version": 1646953200000,
+      "footnotes": [
+        {
+          "text": "Se 1,5 og 1,11.",
+          "type": "T",
+          "position": 104
+        },
+        {
+          "text": "Ordret: »hen mod dit ansigt«",
+          "type": "T",
+          "position": 128
+        }
+      ]
+    },
+    {
+      "text": "\t\t\tHERREN sagde til Satan:\n\t\t\t\t»Se, han er i din hånd.\n\t\t\t\t\tDog, hans liv skal du skåne!«",
+      "title": "Job bliver syg uden at bebrejde Gud for det",
+      "number": 6,
+      "version": 1646953200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »bevare.«",
+          "type": "T",
+          "position": 89
+        }
+      ]
+    },
+    {
+      "text": "\t\tSatan gik bort fra mødet med HERREN\n\t\t\tog angreb Job med ondartede bylder fra fodsål til isse.",
+      "number": 7,
+      "version": 1646953200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »HERRENS ansigt.«",
+          "type": "T",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "\t\t\t\t\tHan skaffede sig et potteskår\n\t\t\t\t\t\t\t\tfor at han kunne skrabe sig med det\n\t\t\t\t\t\t\tmens han sad midt i askedyngen.",
+      "number": 8,
+      "version": 1646953200000
+    },
+    {
+      "text": "\t\t\t\t\t\tHans hustru sagde til ham:\n\t\t\t\t\t\t\t\t»Holder du endnu fast ved din uskyld?\n\t\t\t\t\t\t\t\t\tLovpris Gud\n\t\t\t\t\t\t\t\t\t\tog dø!«",
+      "number": 9,
+      "version": 1646953200000
+    },
+    {
+      "text": "\t\t\t\t\t\t\tMen han sagde til hende:\n\t\t\t\t\t\t\t\t\t»Du lyder som når de tåbelige kvinder\n\t\t\t\t\t\t\t\ttaler.\n\t\t\t\t\t\t\t\t\tNår vi  tager imod det gode fra Gud,\n\t\t\t\t\t\t\t\t\t\tskulle vi så ikke også tage imod det dårlige?«\n\t\t\t\tI alt dette syndede Job ikke med sine læber.",
+      "title": "Job får tre venner på sygebesøg",
+      "number": 10,
+      "version": 1646953200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »det onde.«",
+          "type": "T",
+          "position": 196
+        }
+      ]
+    },
+    {
+      "text": "\tDa Jobs tre venner hørte om al den ulykke\n\t\t\tder havde ramt ham,\n\t\tkom de,\n\t\t\t\thver fra sit sted:\n\t\t\tElifaz fra Teman, Bildad fra Shua og Sofar fra Na’ama.\n\t\tDe mødtes\n\t\t\tfor at tage hen\n\t\t\t\tog vise ham deres medfølelse\n\t\t\t\t\tog trøste ham.",
+      "number": 11,
+      "version": 1646953200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »det onde.«",
+          "type": "T",
+          "position": 42
+        }
+      ]
+    },
+    {
+      "text": "\t\tMen da de på lang afstand så op,\n\t\t\tkunne de ikke genkende ham.\n\t\tDe istemte en højlydt klagen\n\t\t\tog græd.\n\t\t\tDe flængede hver især deres kapper\n\t\t\tog kastede støv op i luften over deres hoveder.",
+      "number": 12,
+      "version": 1646953200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »løftede deres øjne op.«",
+          "type": "T",
+          "position": 34
+        },
+        {
+          "text": "Ordret: »løftede deres røst op.«",
+          "type": "T",
+          "position": 96
+        }
+      ]
+    },
+    {
+      "text": "\t\t\tDe satte sig på jorden hos ham i syv dage og syv nætter,\n\t\t\t\tog ingen mælede et eneste ord til ham,\n\t\t\t\t\tfor de så\n\t\t\t\t\t\tat hans lidelse var meget stor.",
+      "number": 13,
+      "version": 1646953200000
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "book": "Fjerde Mosebog",
+  "abbreviation": "4Mos",
+  "chapter": 30,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMoses sagde til israelitterne alt dette som JHVH havde befalet Moses.",
+      "title": "JHVH befaler ved Moses at en mand som har givet et løfte, skal holde det.",
+      "number": 1,
+      "version": 1500328800000
+    },
+    {
+      "text": "Moses sagde derpå til lederne for israelitternes stammer: »Dette har JHVH befalet:",
+      "number": 2,
+      "version": 1500328800000
+    },
+    {
+      "text": "Når en mand aflægger JHVH et løfte eller sværger en ed så han pålægger sig selv en forpligtelse, da må han ikke bryde sit ord. Han skal handle alt efter det som er udgået af hans mund.",
+      "title": "En far kan ophæve sin datters løfte.",
+      "number": 3,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fNår en kvinde aflægger JHVH et løfte og pålægger sig en forpligtelse, i sin fars hus, i sin ungdom,",
+      "number": 4,
+      "version": 1500328800000
+    },
+    {
+      "text": "og hendes far hører hendes løfte og den forpligtelse hun har pålagt sin sjæl, og hendes far tier, da skal alle hendes løfter stå ved magt, og al den forpligtelse hun har pålagt sin sjæl, skal stå ved magt.",
+      "number": 5,
+      "version": 1500328800000
+    },
+    {
+      "text": "Men hvis hendes far forbyder hende det den dag han hører alle hendes løfter og de forpligtelser hun har pålagt sig selv, da skal det ikke stå ved magt, og JHVH vil tilgive hende det, fordi hendes far har forbudt hende det.",
+      "title": "En mand kan ophæve sin hustrus løfte.",
+      "number": 6,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fMen hvis hun bliver en mands hustru, og der hviler et løfte på hende, eller et ubetænksomt ord er undsluppet hendes læber, med hvilket hun har pålagt sin sjæl en forpligtelse,",
+      "number": 7,
+      "version": 1500328800000
+    },
+    {
+      "text": "og hendes mand hører det og tier den dag han hører det, da skal hendes løfter stå ved magt, og de forpligtelser hun har pålagt sin sjæl, skal stå ved magt.",
+      "number": 8,
+      "version": 1500328800000
+    },
+    {
+      "text": "Men hvis hendes mand forbyder hende det den dag han hører det, og ophæver det løfte hun har på sig, og det ubetænksomme ord som er undsluppet hendes læber, hvormed hun har pålagt sig selv en forpligtelse, da skal JHVH tilgive hende det.",
+      "title": "En enke og en fraskilt kvinde skal holde deres løfte, men lover hun det mens hun har sin mand, da kan han ophæve det hvis han sætter sig imod det.",
+      "number": 9,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fMen en enkes eller en fraskilt kvindes løfte, alt det hvorved hun har pålagt sig selv en forpligtelse, skal stå ved magt for hende.",
+      "number": 10,
+      "version": 1500328800000
+    },
+    {
+      "text": "Men hvis hun lovede det i sin mands hus og med ed pålagde sin sjæl en forpligtelse,",
+      "number": 11,
+      "version": 1500328800000
+    },
+    {
+      "text": "og hendes mand hørte det og tav og ikke forbød hende det, da skal alle hendes løfter stå ved magt, og al den forpligtelse hun har pålagt sin sjæl, skal stå ved magt.",
+      "number": 12,
+      "version": 1500328800000
+    },
+    {
+      "text": "Men hvis hendes mand ophæver dem den dag han hører dem, skal alt det som er udgået af hendes læber, det være sig hendes løfter eller hendes forpligtelser, ikke stå ved magt. Hendes mand har ophævet dem, og JHVH vil tilgive hende det.",
+      "number": 13,
+      "version": 1500328800000
+    },
+    {
+      "text": "Ethvert løfte og enhver forpligtende ed om at faste, dem kan hendes mand stadfæste, og dem kan hendes mand ophæve.",
+      "number": 14,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »ydmyge sin sjæl«.",
+          "type": "T",
+          "position": 52
+        }
+      ]
+    },
+    {
+      "text": "Og hvis hendes mand tier den ene dag efter den anden, da stadfæster han alle hendes løfter og alle de forpligtelser hun har på sig. Han stadfæster dem fordi han tav den dag han hørte dem.",
+      "number": 15,
+      "version": 1500328800000
+    },
+    {
+      "text": "Men hvis han ophæver dem efter han har hørt dem, da skal han bære hendes synd.«",
+      "number": 16,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dette er de forordninger som JHVH befalede Moses, mellem en mand og hans hustru, mellem en far og hans datter, i hendes ungdom, mens hun er i sin fars hus.",
+      "number": 17,
+      "version": 1500328800000
+    }
+  ]
+}

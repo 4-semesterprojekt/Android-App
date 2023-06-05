@@ -1,0 +1,176 @@
+{
+  "book": "Johannesevangeliet",
+  "abbreviation": "Joh",
+  "chapter": 16,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDette har jeg talt til jer for at I ikke skal falde fra.",
+      "number": 1,
+      "version": 1620165600000
+    },
+    {
+      "text": "De skal udelukke jer af synagogerne, ja, den tid skal komme hvor enhver som slår jer ihjel, skal mene at han dyrker Gud.",
+      "number": 2,
+      "version": 1620165600000
+    },
+    {
+      "text": "Og det skal de gøre fordi de hverken kender Faderen eller mig.",
+      "number": 3,
+      "version": 1620165600000
+    },
+    {
+      "text": "Men dette har jeg talt til jer for at I, når timen kommer, skal huske at jeg har sagt jer det; men dette sagde jeg ikke til jer fra begyndelsen af fordi jeg var hos jer.",
+      "number": 4,
+      "version": 1620165600000
+    },
+    {
+      "text": "\fMen nu går jeg til ham som sendte mig, og ingen af jer spørger mig: ›Hvor går du hen?‹",
+      "number": 5,
+      "version": 1620165600000
+    },
+    {
+      "text": "Men fordi jeg har sagt dette til jer, har sorgen fyldt jeres hjerte.",
+      "number": 6,
+      "version": 1620165600000
+    },
+    {
+      "text": "Men jeg siger jer sandheden: Det er godt for jer at jeg går bort, for går jeg ikke bort, kommer Talsmanden ikke til jer; men går jeg bort, så vil jeg sende ham til jer.",
+      "number": 7,
+      "version": 1620165600000
+    },
+    {
+      "text": "Og når han kommer, skal han overbevise verden om synd og om retfærdighed og om dom.",
+      "number": 8,
+      "version": 1620165600000
+    },
+    {
+      "text": "Om synd: at de ikke tror på mig;",
+      "number": 9,
+      "version": 1620165600000,
+      "footnotes": [
+        {
+          "text": "I stedet for »at« kan der i dette og de to næste vers oversættes: »fordi«.",
+          "type": "T",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "text": "om retfærdighed: at jeg går til Faderen, og I ser mig ikke længere;",
+      "number": 10,
+      "version": 1620165600000
+    },
+    {
+      "text": "og om dom: at denne verdens fyrste er dømt.",
+      "number": 11,
+      "version": 1620165600000
+    },
+    {
+      "text": "Jeg har endnu meget at sige jer; men I kan ikke bære det nu.",
+      "number": 12,
+      "version": 1620165600000
+    },
+    {
+      "text": "Men når han, sandhedens Ånd, kommer, skal han vejlede jer i hele sandheden; for han skal ikke tale af sig selv, men hvad som helst han hører, skal han tale, og de kommende ting skal han forkynde jer.",
+      "number": 13,
+      "version": 1620165600000
+    },
+    {
+      "text": "Han skal herliggøre mig; for han skal tage af mit og forkynde for jer.",
+      "number": 14,
+      "version": 1620165600000
+    },
+    {
+      "text": "Alt, hvad Faderen har, er mit; derfor sagde jeg, at han skal tage af mit og forkynde for jer.",
+      "number": 15,
+      "version": 1620165600000
+    },
+    {
+      "text": "\fOm en kort tid ser I mig ikke længere, og atter om en kort tid skal I se mig.«",
+      "number": 16,
+      "version": 1620165600000
+    },
+    {
+      "text": "Da sagde nogle af hans disciple til hinanden: »Hvad er det han siger til os: Om en kort tid ser I mig ikke, og atter om en kort tid skal I se mig, og: Jeg går til Faderen?«",
+      "number": 17,
+      "version": 1620165600000
+    },
+    {
+      "text": "De sagde altså: »Hvad er det han siger: Om en kort tid? Vi forstår ikke hvad han taler om.«",
+      "number": 18,
+      "version": 1620165600000
+    },
+    {
+      "text": "Jesus vidste at de ville spørge ham, og han sagde til dem: »I spørger hinanden om det jeg sagde: Om en kort tid ser I mig ikke, og atter om en kort tid skal I se mig.",
+      "number": 19,
+      "version": 1620165600000
+    },
+    {
+      "text": "Sandelig, sandelig, siger jeg jer: I skal græde og jamre, men verden skal glæde sig; I skal sørge, men jeres sorg skal blive til glæde.",
+      "number": 20,
+      "version": 1620165600000,
+      "footnotes": [
+        {
+          "text": "Det græske ord bruges især om dødsklage.",
+          "type": "T",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "Når kvinden skal føde, sørger hun fordi hendes time er kommet; men når hun har født barnet, husker hun ikke længere sin trængsel af glæde over at et menneske er født til verden.",
+      "number": 21,
+      "version": 1620165600000
+    },
+    {
+      "text": "Også I sørger jo nu, men jeg skal se jer igen, og jeres hjerte skal glædes, og ingen skal tage jeres glæde fra jer.",
+      "number": 22,
+      "version": 1620165600000
+    },
+    {
+      "text": "På den dag skal I ikke spørge mig om noget. Sandelig, sandelig, siger jeg jer: hvis I beder Faderen om noget, skal han give jer det i mit navn.",
+      "number": 23,
+      "version": 1620165600000
+    },
+    {
+      "text": "Hidtil har I ikke bedt om noget i mit navn; bed, og I skal få for at jeres glæde må blive fuldkommen.",
+      "number": 24,
+      "version": 1620165600000
+    },
+    {
+      "text": "Dette har jeg sagt til jer i lignelser; der kommer en tid hvor jeg ikke mere skal tale til jer i lignelser, men frit ud forkynde jer om Faderen.",
+      "number": 25,
+      "version": 1620165600000
+    },
+    {
+      "text": "Den dag skal I bede i mit navn, og jeg siger ikke til jer at jeg vil bede Faderen for jer;",
+      "number": 26,
+      "version": 1620165600000
+    },
+    {
+      "text": "for Faderen selv elsker jer fordi I har elsket mig og troet at jeg er udgået fra Gud.",
+      "number": 27,
+      "version": 1620165600000
+    },
+    {
+      "text": "Jeg udgik fra Faderen og er kommen til verden; jeg forlader verden igen og går til Faderen.«",
+      "number": 28,
+      "version": 1620165600000
+    }
+  ]
+}

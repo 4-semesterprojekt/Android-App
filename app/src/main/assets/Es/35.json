@@ -1,0 +1,76 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 35,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fØrken og tørt land skal glæde sig, ødemark skal juble og blomstre som en rose.",
+      "title": "I modsætning til straffen over fjenderne skildrer profeten sit folks lykke under den kommende messias; med det trøster han de troende",
+      "number": 1,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord, *ḥᵃvaṣṣālet*, er omdiskuteret, men betegner muligvis »høsttidløs«.",
+          "type": "E",
+          "position": 79
+        }
+      ]
+    },
+    {
+      "text": "Den skal blomstre frodigt, og den skal juble, ja synge med fryd, Libanons herlighed bliver givet til den, Karmels og Sarons pragt; de skal se JHVHs herlighed, vores Guds pragt.",
+      "number": 2,
+      "version": 1646002800000
+    },
+    {
+      "text": "Styrk de afmægtige hænder, og giv de kraftesløse knæ kræfter!",
+      "number": 3,
+      "version": 1646002800000
+    },
+    {
+      "text": "Sig til de mismodige i hjertet: »Vær stærke, frygt ikke! Se jeres Gud! Der kommer hævn, Guds gengældelse, han vil komme og frelse jer.«",
+      "number": 4,
+      "version": 1646002800000
+    },
+    {
+      "text": "Da skal blindes øjne åbnes og døves ører lukkes op.",
+      "number": 5,
+      "version": 1646002800000
+    },
+    {
+      "text": "Da skal en halt springe som hjorten og en stums tunge synge med fryd; for vande bryder frem i ørkenen og bække i ødemarken.",
+      "number": 6,
+      "version": 1646002800000
+    },
+    {
+      "text": "Og den glødende sandørken skal blive til sø og den tørstende jord til vandkilder; på sjakalers tilholdssted skal der være voksested for rør og siv.",
+      "number": 7,
+      "version": 1646002800000
+    },
+    {
+      "text": "Og der skal være en banet sti og vej, den skal kaldes Helligdommens vej; ingen uren skal gå ad den, men den skal være en vej at gå på for dem, og tåber skal ikke flakke om.",
+      "number": 8,
+      "version": 1646002800000
+    },
+    {
+      "text": "Der skal ikke være nogen løve, og intet rovdyr kommer derop, det findes ikke; men de genløste skal vandre der.",
+      "number": 9,
+      "version": 1646002800000
+    },
+    {
+      "text": "Og JHVHs forløste skal vende tilbage og komme til Zion med jubel, og der skal være evig glæde i spidsen for dem; fryd og glæde skal nå dem, og sorg og suk skal flygte.",
+      "number": 10,
+      "version": 1646002800000
+    }
+  ]
+}

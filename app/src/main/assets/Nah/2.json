@@ -1,0 +1,177 @@
+{
+  "book": "Nahums Bog",
+  "abbreviation": "Nah",
+  "chapter": 2,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSe budbringerens fodtrin hen over bjergene!\fHan forkynder fred!\fJuda, hold dine fester, indfri dine løfter,\ffor en ondskabens mand skal ikke længere forbryde sig mod dig;\fhan er fuldstændig udryddet.",
+      "title": "Nineves ødelæggelse",
+      "number": 1,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord * ʕᵃvar* kan betyde både »drage over/forbi« eller »overtræde« forstået som at forbryde sig.",
+          "type": "E",
+          "position": 171
+        }
+      ]
+    },
+    {
+      "text": "\fEn der spreder, drager op imod dig.\fBevogt fæstningen!\fSpejd ud over vejen!\fBind op om lænderne!\fSaml al din kraft!",
+      "number": 2,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Nineve.",
+          "type": "T",
+          "position": 36
+        },
+        {
+          "text": "Ordret »Styrk lænderne«. I denne sammenhæng er der dog tale om at binde kjortlen op om lænderne, så man bedre kan løbe og være klar til kamp.",
+          "type": "E",
+          "position": 97
+        }
+      ]
+    },
+    {
+      "text": "\fFor JHVH genopretter Jakobs herlighed, ja, Israels herlighed,\ffor vandaler har vandaliseret dem og ødelagt deres vinstokke.",
+      "number": 3,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Andre oversættelser har »Jakobs herlighed ligesom Israels herlighed«, sådan at Jakob står for Juda og Israel for Nordriget. Men det ville i så fald være en mærkelig sammenligning, fordi Nordriget ikke eksisterede længere på Nahums tid. Det hebraiske *ki* forstås derfor her emfatisk.",
+          "type": "E",
+          "position": 62
+        }
+      ]
+    },
+    {
+      "text": "\fHans krigeres skjolde er rødlige,\fde stærke mænd er klædt i skarlagen,\fstridsvognene funkler af stål på den dag han ruster til krig,\fspyddene svinges.",
+      "number": 4,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Dvs. Nineves fjende.",
+          "type": "T",
+          "position": 5
+        },
+        {
+          "text": "Ordret »vognen er med ild af stål«. *pᵊlādôt* forekommer kun denne ene gang i GT, så det er uvist, om det betyder »stål« eller betegner en form for udsmykning på vognene.",
+          "type": "E",
+          "position": 101
+        }
+      ]
+    },
+    {
+      "text": "\fI gaderne farer stridsvognene rundt;\fde styrter af sted på de åbne pladser.\fDe er som fakler at se til; de løber som lynet.",
+      "number": 5,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fHan husker på sine bedste mænd,\fde snubler under deres gang,\fde haster hen til muren,\fskjoldtaget bliver rejst.",
+      "number": 6,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fFlodernes dæmninger åbnes,\fog paladset smelter.",
+      "number": 7,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Når bymuren, som var bygget af lersten, blev ramt af oversvømmelser fra floder, var den i stor fare for at »smelte«, dvs. gå i opløsning.",
+          "type": "E",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\fDet står fast:\fHun føres i eksil.\fHun føres væk, og hendes slavepiger sukker som duer,\fde slår sig for brystet.",
+      "number": 8,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Enten Nineve eller et gudebillede.",
+          "type": "T",
+          "position": 19
+        },
+        {
+          "text": "Es 38,14. Es 59,11. Ez 7,16.",
+          "type": "E",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "\fNineve var ligesom en vandrig fiskedam fra de dage da den blev til;\fmen de flygter.\f»Stands! Stands!«\fMen ingen vender om.",
+      "number": 9,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Sidste del af verset oversættes ordret »fra hendes [= Nineve] dage«, men den hebraiske tekst er vanskelig. En anden mulighed er at rette *mîymê hî* i den masoretiske tekst til *mêymeyhā* hvilket også understøttes af både LXX og Vulgata. Sammen med næste linje ville det give oversættelsen »men hendes vand flygter«.",
+          "type": "E",
+          "position": 68
+        }
+      ]
+    },
+    {
+      "text": "\fStjæl sølv! Stjæl guld!\fDer er ingen ende på skattene,\fen herlighed af alle mulige kostbare ting.",
+      "number": 10,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fØde og ørken og ødelæggelse;\fet bange hjerte og rysten i knæene;\falle lænder vrider sig!\fAlles ansigter har skiftet farve.\n\n",
+      "number": 11,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Ordret »hjertet smelter«, som er en typisk formulering i GT til at udtrykke angst.",
+          "type": "E",
+          "position": 45
+        },
+        {
+          "text": "Der er uenighed om, hvilken farve ansigterne skifter til. LXX og Vulgata oversætter med »ansigterne er alle som brændte/sorte potter«, mens andre oversætter med »bliver hede/røde«.",
+          "type": "E",
+          "position": 123
+        }
+      ]
+    },
+    {
+      "text": "\fHvor er nu løvernes hule og den eng hvor de unge løver holdt til?\fHvor løven og løvinden færdedes, og løveungen, uden at nogen skræmte den?",
+      "number": 12,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fEn løve der sønderrev hvad der var nok til dens unger, kvalte til sine løvinder og fyldte sine skjul med bytte og sine huler med det sønderrevne bytte.",
+      "number": 13,
+      "version": 1511218800000
+    },
+    {
+      "text": "\f»Se, jeg kommer imod dig,« siger Hærskarers HERRE,\f»og jeg vil brænde dine vogne så de går op i røg;\fsværd skal fortære dine unge løver.\fJeg vil udrydde dit sønderrevne bytte fra jorden,\fog dine budbringeres stemmer skal ikke længere høres.«",
+      "number": 14,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "I grundteksten står der »hendes«, men de fleste oversættelser vælger »dine« som her, hvilket blandt andet understøttes af LXX og Vulgata.",
+          "type": "E",
+          "position": 75
+        },
+        {
+          "text": "Eller »landet«.",
+          "type": "T",
+          "position": 187
+        }
+      ]
+    }
+  ]
+}

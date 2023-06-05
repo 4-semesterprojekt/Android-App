@@ -1,0 +1,73 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 128,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fValfartssang.\fLykkelig hver den som frygter JHVH,\fsom går på hans veje!",
+      "title": "Den gudfrygtiges lykke",
+      "number": 1,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
+          "position": 14
+        },
+        {
+          "text": "Kan også oversættes: »salig«.",
+          "type": "T",
+          "position": 23
+        }
+      ]
+    },
+    {
+      "text": "\fFrugten af dine hænders arbejde skal du rigtig nok spise,\flykkelig er du, og det skal gå dig vel.",
+      "number": 2,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fDin hustru er som en frugtbar vinstok\fi dit hus’ indre,\fdine sønner er som oliventræers skud\fomkring dit bord.",
+      "number": 3,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »aflæggere/stiklinger af oliventræer«.",
+          "type": "T",
+          "position": 93
+        }
+      ]
+    },
+    {
+      "text": "\fJa, se sådan velsignes den mand\fsom frygter JHVH.",
+      "title": "JHVH velsigne dig",
+      "number": 4,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fJHVH velsigne dig fra Zion\fså du ser Jerusalems lykke\falle dit livs dage,",
+      "number": 5,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fog så du ser dine sønners sønner!\fFred over Israel!",
+      "number": 6,
+      "version": 1504476000000
+    }
+  ]
+}

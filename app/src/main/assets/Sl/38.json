@@ -1,0 +1,176 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 38,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSalme af David.\fLe-hazkir.",
+      "title": "Indledende bønneråb",
+      "number": 1,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Betydningen er uvis; umiddelbart betyder det: »Til at bringe i erindring«. Meningen kan være at man med denne bøn kan minde Gud om sine lidelser og om hans nåde. I nogle oversættelser kan man finde oversættelsen »Til duftofferet«, idet salmen i eftereksilsk tid (efter 539 f.Kr.) blev bedt sammen med duftofferet (3 Mos 2,2.9.16; 24,7)",
+          "type": "E",
+          "position": 27
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv, straf mig ikke i din vrede\fog tugt mig ikke i din harme!",
+      "title": "Bøn om tilgivelse og helbredelse",
+      "number": 2,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fFor dine pile sidder dybt i mig,\fog din hånd kommer ned på mig.",
+      "number": 3,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Mange retter verbet *wattinḥat* (»kommer ned på«) til: *wattixbad*: »og (din hånd) hviler tungt (på mig)«",
+          "type": "E",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "text": "\fDer er intet sundt i mit kød på grund af din vrede,\fder er ingen fred i mine knogler på grund af min synd.",
+      "number": 4,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fFor min skyld er vokset mig over hovedet,\fsom en tung byrde der er blevet for tung for mig.",
+      "number": 5,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fMine sår stank, de væskede\fpå grund af min tåbelighed.",
+      "number": 6,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fJeg var kroget, jeg var dybt nedbøjet,\fhele dagen gik jeg klædt i sørgedragt.",
+      "number": 7,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fFor mine lænder er fulde af brændende bylder,\fog der er intet sundt ved mit kød.",
+      "number": 8,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fJeg blev lammet og sønderknust, ja meget,\fjeg skreg ud af mit hjertes uro.",
+      "number": 9,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fHerre, al min længsel ligger foran dig,\fog mit suk er ikke skjult for dig.",
+      "number": 10,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fMit hjerte slog heftigt, min kraft forlod mig,\fog mine øjnes lys - endog det er ikke hos mig.",
+      "title": "Bøn om tilgivelse og fællesskab",
+      "number": 11,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fMine venner og mine frænder holder sig på afstand af min lidelse,\fog mine nærmeste stod langt borte.",
+      "number": 12,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fOg de som stræber efter mit liv, satte snarer,\fog de som søger min ulykke, drøftede ødelæggelse,\fog hele dagen tænkte de på svig.",
+      "number": 13,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sjæl«",
+          "type": "T",
+          "position": 33
+        }
+      ]
+    },
+    {
+      "text": "\fMen jeg er som en døv der ikke kan høre,\fog som en stum der ikke åbner sin mund.",
+      "number": 14,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fJeg er som en mand der ikke hører,\fog som ingen gensvar har i sin mund.",
+      "number": 15,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fFor på dig, JHVHv, har jeg ventet,\fdu vil svare, min Herre, min Gud!",
+      "number": 16,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fFor jeg sagde: Lad dem ikke glæde sig over mig,\fde som var hovmodige over for mig da min fod vaklede.",
+      "number": 17,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fFor jeg er nær ved at snuble,\fog min smerte står altid foran mig.",
+      "number": 18,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fFor jeg må bekende min skyld,\fjeg er foruroliget over min synd.",
+      "number": 19,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fMen mine levende fjender er stærke,\fog talrige er de som hader mig uden grund.",
+      "number": 20,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "De fleste oversættere ændrer *ḥayyîm* (»levende«) til *ḥinnām*: »uden grund«. Det begrundes dels med parallelismen med næste linje, og dels med at det giver bedre mening i sammenhængen",
+          "type": "T",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "text": "\fOg de som gengælder godt med ondt,\fde bekriger mig fordi jeg stræber efter det gode.",
+      "title": "Afsluttende bøn",
+      "number": 21,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »gengælder med ondt for godt«",
+          "type": "T",
+          "position": 34
+        }
+      ]
+    },
+    {
+      "text": "\fForlad mig ikke, JHVHv!\fMin Gud, vær ikke fjernt fra mig!",
+      "number": 22,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fSkynd dig at hjælpe mig,\fHerre, min frelse!",
+      "number": 23,
+      "version": 1646002800000
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 30,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSalme, en sang ved husets indvielse,\n\taf David.",
+      "title": "Lovprisning for frelse fra døden",
+      "number": 1,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Formodentlig templets.",
+          "type": "T",
+          "position": 26
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil ophøje dig,\n\t\t\tJHVHv,\n\t\tfor du har trukket mig op,\f\n\t\t\tog du lod ikke mine fjender glæde sig over mig.",
+      "number": 2,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Som man trækker en spand op fra brøndens dyb.",
+          "type": "T",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "\f\tJHVHv, min Gud,\f\n\t\t\tjeg råbte til dig om hjælp,\n\t\tog du helbredte mig.",
+      "number": 3,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\tJHVHv,\n\t\tdu løftede min sjæl op fra dødsriget,\f\n\t\t\t\t\tdu gav mig livet tilbage fra dem\n\t\t\t\t\t\tsom gik ned i graven.",
+      "title": "Hele menigheden opfordres til at istemme lovsang",
+      "number": 4,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen her følger den hebraiske konsonanttekst. Massoreterne har ved vokaliseringen angivet at der skal oversættes: »Du lod mig leve, så jeg ikke gik i graven«.",
+          "type": "E",
+          "position": 115
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\tLovsyng JHVH,\n\t\t\t\t\t\t\tI hans fromme,\f\n\t\t\t\t\t\tog pris hans hellige navn.",
+      "number": 5,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret nærmere: »ihukommelse / minde«. Men her betegner ordet erkendelse af Guds væsen. Det dækkes i bibelsk sammenhæng bedst af »navn«.",
+          "type": "T",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\tJa, et øjeblik varer hans vrede,\f\n\t\t\t\t\t\t\thans nåde hele livet.\f\n\t\t\t\t\t\tOm aftenen gæster gråden os,\f\n\t\t\t\t\t\t\tmen om morgenen jubel.",
+      "title": "Tilbageblik på egen synd og afmagt – og tillid til Gud",
+      "number": 6,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Ja, kun et øjeblik i hans vrede, liv i hans nåde«. Der skal formodentlig underforstås »står man« eller lignende.",
+          "type": "T",
+          "position": 68
+        },
+        {
+          "text": "Ordret: »vil overnatte«.",
+          "type": "T",
+          "position": 93
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tOg jeg sagde i min tryghed:\f\n\t\t\t\t»Jeg skal ikke vakle i evighed«.",
+      "number": 7,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\tJHVHv,\n\t\t\t\tved din gunst har du givet mit bjerg styrke.\f\n\t\t\t\t\tDu skjulte dit ansigt,\n\t\t\t\t\t\tjeg blev forfærdet.",
+      "number": 8,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Dvs. mit rige og min kongemagt.",
+          "type": "T",
+          "position": 49
+        },
+        {
+          "text": "Man kan overveje om denne linje egentlig hører med til citatet i foregående linje af Davids overmodige udtalelse.",
+          "type": "E",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tTil dig,\n\t\t\t\t\t\t\t\tJHVHv,\n\t\t\t\t\t\t\tvil jeg råbe,\f\n\t\t\t\t\t\tog Herren vil jeg bønfalde om nåde.",
+      "number": 9,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\tHvilken vinding er der ved mit blod,\f\n\t\t\t\t\t\t\tved at jeg går ned i graven?\f\n\t\t\t\t\t\tKan støv takke dig?\f\n\t\t\t\t\t\t\tKan det forkynde din troskab?",
+      "number": 10,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\tHør,\n\t\t\t\t\t\t\tJHVHv,\n\t\t\t\t\t\tog vær mig nådig,\f\n\t\t\t\t\tJHVHv,\n\t\t\t\t\t\tvær min hjælper!",
+      "title": "Afsluttende lovprisning",
+      "number": 11,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\tDu har forvandlet min klage til dans for mig,\f\n\t\tdu har løst min sæk\f\n\t\t\tog omgjordet mig med glæde,",
+      "number": 12,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Dvs. »sørgedragt«.",
+          "type": "T",
+          "position": 71
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\tfor at min ære må lovsynge dig\n\t\t\t\t\tog ikke tie.\f\n\tJHVHv, min Gud,\n\t\tfor evigt vil jeg takke dig.",
+      "number": 13,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret blot »ære«. Normalt tilføjer man med Septuaginta »min«. Meningen må være at det er den ære Gud har løftet digteren til, der skal prise Gud.",
+          "type": "E",
+          "position": 19
+        }
+      ]
+    }
+  ]
+}

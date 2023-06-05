@@ -1,0 +1,583 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 78,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMaskil af Asaf.\fMit folk, lyt til min lov,\fbøj jeres ører til min munds tale!",
+      "title": "Asaf opmuntrer Guds folk til at agte på hans tale og undervisning",
+      "number": 1,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
+          "position": 7
+        },
+        {
+          "text": "lov",
+          "type": "N",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil åbne min mund med billedtale,\fjeg vil forkynde gådetale fra fortiden.",
+      "number": 2,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "I visdomslitteraturen betegner *māšol* korte sentenser, »ordsprog«, men her er det brugt i bredere betydning.",
+          "type": "E",
+          "position": 38
+        }
+      ]
+    },
+    {
+      "text": "\fDet som vi har hørt og har lært at kende,\fog som vore fædre har fortalt os,",
+      "number": 3,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fdet vil vi ikke skjule for deres børn,\fidet vi fortæller den kommende slægt\fom JHVHs glorværdige gerninger og hans styrke,\fog de undere han har gjort.",
+      "number": 4,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sønner«, men i pluralis ligger vægten ikke ubetinget på kønnet.",
+          "type": "T",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "\fHan oprettede et vidnesbyrd i Jakob\fog gav en lov i Israel\fsom han befalede vore fædre\fat gøre kendt for deres børn,",
+      "number": 5,
+      "version": 575656239600000
+    },
+    {
+      "text": "\ffor at den kommende slægt skulle lære den at kende,\fde børn som skulle fødes,\fså de indtrængende kunne fortælle det for deres børn.",
+      "number": 6,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »kunne rejse sig og fortælle«. Men verbet *qwm* (»rejse sig«) angiver foran et andet verbum, at man målbevidst og med styrke påtager sig noget.",
+          "type": "E",
+          "position": 112
+        }
+      ]
+    },
+    {
+      "text": "\fOg de skulle sætte deres lid til Gud\fog ikke glemme Guds gerninger,\fmen holde hans bud.",
+      "number": 7,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fOg de skulle ikke blive som deres fædre,\fen genstridig og trodsig slægt,\fen slægt som ikke gjorde sit hjerte fast,\fog hvis ånd ikke holdt trofast ved Gud.",
+      "title": "Fædrenes svigt og ulydighed",
+      "number": 8,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fEfraims sønner var veludrustede bueskytter,\fmen de vendte om på kampens dag.",
+      "number": 9,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har en unik dobbelt konstrukt-konstruktion (genitiv-konstruktion) der egentlig ikke kan oversættes (det måtte være: »buebevæbnede bueskytter«). Konstruktionen skal formodentlig gøre det ud for en superlativ: »veludrustede bueskytter«.",
+          "type": "E",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\fDe holdt ikke Guds pagt\fog vægrede sig ved at vandre efter hans lov.",
+      "number": 10,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fOg de glemte hans gerninger\fog hans undere, som han havde ladet dem se.",
+      "number": 11,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fFor deres fædre havde han gjort et under\fi Egyptens land, på Soans mark.",
+      "number": 12,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fHan kløvede havet og lod dem gå igennem\fog rejste vandet som en vold.",
+      "number": 13,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fHan ledte dem ved skyen om dagen\fog hele natten ved flammende lys.",
+      "number": 14,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »ilds lys«.",
+          "type": "T",
+          "position": 67
+        }
+      ]
+    },
+    {
+      "text": "\fHan kløvede klipper i ørkenen\fog gav rigeligt at drikke, som af store dyb.",
+      "number": 15,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fHan lod bække strømme frem af en klippe\fog lod vand rinde ned som floderne.",
+      "number": 16,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fMen de blev stadig ved med at synde mod ham,\fmed at være genstridige mod den Højeste i det tørre land.",
+      "number": 17,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fOg de fristede Gud i deres hjerte,\fså de fordrede den mad de begærede.",
+      "number": 18,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »efter deres sjæl«.",
+          "type": "T",
+          "position": 71
+        }
+      ]
+    },
+    {
+      "text": "\fOg de talte mod Gud, idet de sagde:\f»Mon Gud kan\fdække et bord i ørkenen?",
+      "number": 19,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fNok slog han på klippen\fså vand flød, og bække strømmede;\fmon han også kan give brød\feller skaffe kød for sit folk?«",
+      "number": 20,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fDerfor, da Herren hørte det, blev han vred,\fog en ild blussede op mod Jakob,\fog en vrede steg op mod Israel,",
+      "number": 21,
+      "version": 575656239600000
+    },
+    {
+      "text": "\ffor de troede ikke på Gud\fog stolede ikke på hans frelse.",
+      "number": 22,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fSå gav han befaling til skyerne deroppe\fog åbnede himlenes døre.",
+      "number": 23,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fOg han lod manna regne over dem til at spise\fog gav dem himlens korn.",
+      "number": 24,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fEt menneske spiste de stærkes brød,\fhan sendte dem føde så de blev mætte.",
+      "number": 25,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »enhver«.",
+          "type": "T",
+          "position": 12
+        },
+        {
+          "text": "Der er tænkt på det himmelske hof. Derfor oversætter mange: »englenes«.",
+          "type": "T",
+          "position": 30
+        },
+        {
+          "text": "Ordret: »til mættelse«.",
+          "type": "T",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "\fHan lod østenvind bryde løs på himlen\fog ved sin styrke drev han søndenvind frem.",
+      "number": 26,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fOg han lod kød regne ned over dem som støv\fog vingede fugle som havets sand.",
+      "number": 27,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fOg han lod dem falde midt i sin lejr,\frundt omkring sine boliger.",
+      "number": 28,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Kan oversættes: »dets«, dvs. Israels.",
+          "type": "T",
+          "position": 32
+        },
+        {
+          "text": "Kan oversættes: »dets«, dvs. Israels.",
+          "type": "T",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\fOg de spiste og blev meget mætte,\fhan skaffede dem det de begærede.",
+      "number": 29,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fDe havde stadig ikke stillet deres begær,\fderes mad var endnu i deres mund,",
+      "number": 30,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fda Guds vrede rejste sig mod dem,\fog han dræbte nogle blandt deres kraftige mænd,\fog han strakte Israels unge mænd til jorden.",
+      "number": 31,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fTrods alt dette syndede de fortsat\fog troede ikke på hans undere.",
+      "number": 32,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fDa lod han deres dage svinde hen i tomhed\fog deres år i brat undergang.",
+      "number": 33,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Egentlig: »pust/åndedrag/luftning«.",
+          "type": "T",
+          "position": 42
+        }
+      ]
+    },
+    {
+      "text": "\fNår han dræbte dem, søgte de ham,\fde vendte om og søgte Gud.",
+      "number": 34,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Tidligere ofte oversat: »søgte tidligt«, idet verbet *šḥr* (»søge«) har samme rod som ordet for »morgenrøde« (*šaḥar*).",
+          "type": "E",
+          "position": 56
+        }
+      ]
+    },
+    {
+      "text": "\fOg de huskede at Gud var deres klippe,\fog Gud den Højeste deres forløser.",
+      "number": 35,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fMen de talte hyklerisk for ham med deres mund,\fog med deres tunge løj de for ham.",
+      "number": 36,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fDeres hjerte holdt ikke fast ved ham,\fog de holdt ikke trofast hans pagt.",
+      "number": 37,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fMen han er barmhjertig,\fhan soner skyld og ødelægger ikke,\fofte vendte han sin vrede bort\fog lod ikke hele sin harme blive virksom.",
+      "number": 38,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fHan huskede på at de var kød,\fet vindpust som forsvinder og ikke vender tilbage.",
+      "number": 39,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "De var bare mennesker.",
+          "type": "T",
+          "position": 30
+        }
+      ]
+    },
+    {
+      "text": "\fHvor ofte var de ikke genstridige mod ham i ørkenen,\foptændte hans vrede i ødemarken.",
+      "number": 40,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fOg de fristede på ny Gud\fog bedrøvede Israels Hellige.",
+      "number": 41,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fDe huskede ikke på hans hånd\fden dag da han befriede dem fra fjenden,",
+      "number": 42,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fda han gjorde sine tegn i Egypten\fog sine undere på Soans slette.",
+      "number": 43,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fTil blod forvandlede han deres strømme\fog deres bække, så de ikke kunne drikke af dem,",
+      "number": 44,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fog han sendte fluer på dem, som åd dem,\fog frøer, som voldte dem ødelæggelse,",
+      "number": 45,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Det er usikkert, hvad ordet *ʕārōv* (»fluer«) betyder (ordet er singularis, men må opfattes som kollektiv betegnelse). På grundlag af Septuaginta har man tidligere oversat det: »bremser«. Andre har opfattet det som »spyfluer« eller »sværm af insekter«. I jødisk sammenhæng er det opfattet som betegnelse for forskellige rovdyr eller parasitter.",
+          "type": "E",
+          "position": 20
+        }
+      ]
+    },
+    {
+      "text": "\fog han gav gnaveren deres afgrøde\fog frugten af deres arbejde til græshoppen,",
+      "number": 46,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fhan ødelagde deres vinstok med haglen\fog deres morbærfigentræer med isregn,",
+      "number": 47,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Ordet *ḥᵃnāmal* findes kun her i GT, og betydningen er usikker. Det kan være et andet ord for »hagl«, måske særligt store hagl. Eller »rimfrost«.",
+          "type": "E",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "\fog han overgav deres kvæg til haglen\fog deres hjorde til lynene,",
+      "number": 48,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Et enkelt håndskrift har, støttet af den syriske oversættelse, i stedet for: *bārād* (»hagl«): *dever*: »pest«.",
+          "type": "E",
+          "position": 37
+        },
+        {
+          "text": "Oversættes af andre: »sot/feberbrand«",
+          "type": "T",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "\fhan sendte sin vredes glød mod dem,\fharme og raseri og trængsel,\fen udsendt skare af uheldsbringende engle.",
+      "number": 49,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fHan banede vej for sin vrede,\fhan sparede ikke deres sjæl fra døden,\fog han overgav deres liv til pesten,",
+      "number": 50,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fog han slog alle førstefødte i Egypten,\fmanddomskraftens førstegrøde i Kams telte.",
+      "title": "Vandringen til det forjættede land",
+      "number": 51,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fMen han lod sit folk bryde op som en fåreflok\fog ledte dem som hjorden i ørkenen,",
+      "number": 52,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fog han førte dem i tryghed, og de frygtede ikke,\fmen havet dækkede deres fjender.",
+      "number": 53,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fOg han bragte dem til sit hellige land,\ftil dette bjerg som hans højre hånd havde erhvervet.",
+      "number": 54,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sin helligheds område«.",
+          "type": "T",
+          "position": 40
+        }
+      ]
+    },
+    {
+      "text": "\fHan fordrev folkeslag foran dem\fog lod det tilfalde dem som tilmålt arvelod,\fog han lod Israels stammer bo i deres telte.",
+      "title": "Israels utroskab",
+      "number": 55,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hedninger«, men det ligger der ikke vægt på her.",
+          "type": "T",
+          "position": 22
+        },
+        {
+          "text": "Ordret: »for deres ansigt«.",
+          "type": "T",
+          "position": 32
+        }
+      ]
+    },
+    {
+      "text": "\fMen de fristede og var genstridige mod Gud den Højeste\fog overholdt ikke hans love.",
+      "number": 56,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fDe vendte sig bort og var troløse som deres fædre,\fde svigtede som en slap bue.",
+      "number": 57,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Andre oversætter: »bedragerisk/troløs«.",
+          "type": "T",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "\fDe vakte hans harme med deres høje,\fog med deres gudebilleder fremkaldte de hans vrede.",
+      "number": 58,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fDa Gud hørte det, blev han vred,\fog han forkastede Israel fuldstændig.",
+      "number": 59,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fHan vragede boligen i Shilo,\fdet telt som han havde slået op blandt mennesker.",
+      "number": 60,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "*šikkēn* er vokaliseret som pi’el der i de fleste sammenhænge skal oversættes: »han lod bo«, men her normalt oversættes: »han slog op«. Mange vælger dog at ændre vokaliseringen til qal: *šaxān*: »som han boede i«.",
+          "type": "E",
+          "position": 61
+        }
+      ]
+    },
+    {
+      "text": "\fHan gav sin magt i fangenskab\fog sin herlighed i fjendes hånd.",
+      "number": 61,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Med »magt« og »herlighed« er der tænkt på pagtens ark, 1 Sam 4,21; Sl 132,8.",
+          "type": "T",
+          "position": 47
+        }
+      ]
+    },
+    {
+      "text": "\fHan overgav sit folk til sværdet\fog blev vred på sin arvelod.",
+      "number": 62,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fIld fortærede hans unge mænd,\fog hans jomfruer fik ingen bryllupssang.",
+      "number": 63,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "»hans« i denne og de næste tre linjer kan også oversættes: »dets«, nemlig folkets. Det kan derimod ikke vise tilbage til »arv«, som er femininum. Derfor må »hans« være den foretrukne oversættelse.",
+          "type": "E",
+          "position": 19
+        },
+        {
+          "text": "Ordret blot: »blev ikke lovprist«, men lovprisningen hører netop til brylluppet.",
+          "type": "T",
+          "position": 71
+        }
+      ]
+    },
+    {
+      "text": "\fHans præster faldt for sværdet,\fog hans enker græd ikke.",
+      "title": "Men Gud er trofast",
+      "number": 64,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fDa vågnede Herren som en sovende,\fsom en helt der var overvældet af vin.",
+      "number": 65,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Ordet *mitrônēn* (»var overvældet«) er omdiskuteret. Her er det forudsat at det er afledt af roden *rwn*. Andre afleder det af roden *rnn*: »bryder ud i jubel«, der dog passer dårligt i sammenhængen. Atter andre retter til: *mitrômēm*: »der rejser sig«. I stedet for »af vin« må der så oversættes: »fra rus«.",
+          "type": "E",
+          "position": 65
+        }
+      ]
+    },
+    {
+      "text": "\fOg han slog sine fjender tilbage,\fhan gav dem evig forhånelse.",
+      "number": 66,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fHan forkastede Josefs telt\fog udvalgte ikke Efraims stamme,",
+      "number": 67,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fmen han udvalgte Judas stamme,\fZions bjerg, som han elskede.",
+      "number": 68,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fOg han byggede sin helligdom ligesom høje,\fsom jorden som han har grundfæstet for evigt.",
+      "number": 69,
+      "version": 575656239600000,
+      "footnotes": [
+        {
+          "text": "Ved at trække *kᵊmô-rāmîm* sammen og bytte to bogstaver om kan man få: *kimrômîm*: »som en himmelbolig«. Den overleverede tekst kan enten have samme betydning: »som himmelske høje« eller betyde: Gud byggede sin helligdom »som (de urokkelige) høje«.",
+          "type": "E",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "\fOg han udvalgte David, sin tjener,\fog tog ham fra fårefoldene,",
+      "number": 70,
+      "version": 575656239600000
+    },
+    {
+      "text": "\ffra diegivende får lod han ham komme\ffor at vogte sit folk, Jakob,\fog sin arv, Israel.",
+      "number": 71,
+      "version": 575656239600000
+    },
+    {
+      "text": "\fHan vogtede dem efter sit hjertes oprigtighed\fog ledte dem med kyndig hånd.",
+      "number": 72,
+      "version": 575656239600000
+    }
+  ]
+}

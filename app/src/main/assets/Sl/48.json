@@ -1,0 +1,177 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 48,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEn sang.\fSalme af Koras sønner.",
+      "title": "Den hellige bys herlighed",
+      "number": 1,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fStor er JHVH og meget værdig til at blive lovprist\fi vor Guds by,\fhans hellige bjerg.",
+      "number": 2,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Mange oversættere vælger at lade »hans hellige bjerg« være indledning til v. 3.",
+          "type": "T",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "\fDet hæver sig smukt,\ftil fryd for hele jorden,\fZions bjerg i det yderste nord,\fen stor konges stad.",
+      "number": 3,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Ordret: »smuk af hævning«.",
+          "type": "T",
+          "position": 21
+        },
+        {
+          "text": "Ordret: »hele jordens fryd«.",
+          "type": "T",
+          "position": 47
+        }
+      ]
+    },
+    {
+      "text": "\fGud i dens paladser\fhar givet sig til kende som en borg.",
+      "title": "Gud har bevaret byen",
+      "number": 4,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens ord kan i enkelte sammenhænge forstås som: »citadel«.",
+          "type": "T",
+          "position": 20
+        }
+      ]
+    },
+    {
+      "text": "\fFor se, kongerne havde samlet sig,\fde rykkede frem sammen.",
+      "number": 5,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fDe så, straks blev de målløse,\fde blev forfærdede, de flygtede i angst.",
+      "number": 6,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fBæven greb dem der,\fveer som hos en fødende.",
+      "number": 7,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fMed en østenstorm\fsmadrer du Tarshish-skibe.",
+      "title": "Juda rige priser sin Gud",
+      "number": 8,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Det er store, stolte handelsskibe.",
+          "type": "T",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fSom vi havde hørt,\fsåledes så vi det\fi hærskarers JHVHvs by,\fi vor Guds by;\fGud befæster den til evig tid. Sela",
+      "number": 9,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Tidligere uoversat: »Zebaoth«.",
+          "type": "T",
+          "position": 50
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 112
+        }
+      ]
+    },
+    {
+      "text": "\fVi har tænkt, Gud, på din nåde\finde i dit tempel.",
+      "number": 10,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fSom dit navn er, Gud,\fsådan er din pris\fud over jordens ender.\fDin højre hånd er fuld af retfærdighed.",
+      "number": 11,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fZions bjerg skal glæde sig,\fJudas døtre skal juble\fpå grund af dine domme.",
+      "title": "Menigheden drager ind i templet for at tilbede",
+      "number": 12,
+      "version": 1528236000000
+    },
+    {
+      "text": "\fGå omkring Zion, gå rundt om den,\ftæl dens tårne!",
+      "number": 13,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "»Zion« er fem., der kunne oversættes både her og i de næste linjer: »hende, hendes«.",
+          "type": "E",
+          "position": 34
+        }
+      ]
+    },
+    {
+      "text": "\fRet jeres hjerte til dens ringmur,\fgå gennem dens paladser,\fså I kan fortælle for en senere slægt",
+      "number": 14,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Dvs.: opmærksomhed.",
+          "type": "T",
+          "position": 17
+        },
+        {
+          "text": "Betydningen af ordet: *passᵊgû* er meget usikker. Blandt forslagene er især: »betragt, betænk«.",
+          "type": "E",
+          "position": 45
+        },
+        {
+          "text": "Grundtekstens ord kan i enkelte sammenhænge forstås som: »citadel«.",
+          "type": "T",
+          "position": 60
+        }
+      ]
+    },
+    {
+      "text": "\fat denne er Gud,\fvor Gud, evigt og altid.\fHan skal føre os\fud over død.",
+      "number": 15,
+      "version": 1528236000000,
+      "footnotes": [
+        {
+          "text": "Linjen lades ofte uoversat: *ʕal-mût*. Det begrundes med, at det passer dårligt i sammenhængen. Man foreslår at det kan være en musikalsk anvisning af ukendt betydning. Oversættelsen »ud over død/trods død« giver dog god mening i sammenhængen.",
+          "type": "E",
+          "position": 72
+        }
+      ]
+    }
+  ]
+}

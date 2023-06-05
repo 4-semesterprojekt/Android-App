@@ -1,0 +1,138 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 19,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen. Salme af David.",
+      "title": "Universets vidnesbyrd om og lovprisning af Guds storhed",
+      "number": 1,
+      "version": 1631570400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fHimlen fortæller om Guds herlighed,\fhvælvingen forkynder hans hænders værk.",
+      "number": 2,
+      "version": 1631570400000
+    },
+    {
+      "text": "\fDag lader tale sprudle frem til dag, og nat kundgør viden til nat.",
+      "number": 3,
+      "version": 1631570400000
+    },
+    {
+      "text": "\fDer er ingen tale og ingen ord uden at deres røst høres.",
+      "number": 4,
+      "version": 1631570400000
+    },
+    {
+      "text": "\fDeres røst når ud over hele jorden\fog deres ord til verdens ende.\fHan satte et telt for solen på himlen,",
+      "number": 5,
+      "version": 1631570400000,
+      "footnotes": [
+        {
+          "text": "Grundteksten har: *qawwām*: »deres rettesnor«. Det er vanskeligt at se mening med det, især ud fra parallellen »ord« i næste linje. Man følger derfor oftest Septuaginta og læser *qôlām*: »deres røst«, jf. citatet i Rom 10,18.",
+          "type": "E",
+          "position": 11
+        },
+        {
+          "text": "Grundteksten har: *bāhem*: »i/på dem«. Det henviser formodentlig til »himlen« der på hebraisk er et flertalsord. Det kan overvejes om pronominerne i v. 4-5 (»deres«) alle henviser til »himlen« (v. 2), og de kunne da oversættes »dens«.",
+          "type": "E",
+          "position": 105
+        }
+      ]
+    },
+    {
+      "text": "\fog den går som en brudgom ud af sit kammer,\fden glæder sig som en helt over at løbe sin bane.",
+      "number": 6,
+      "version": 1631570400000
+    },
+    {
+      "text": "\fFra himlens ene ende er dens udgang,\fog dens omløb når den anden ende,\fja, intet er skjult for dens glød.",
+      "title": "Lovprisning af JHVHs lov",
+      "number": 7,
+      "version": 1631570400000
+    },
+    {
+      "text": "\fJHVHs lov er fuldkommen,\fden styrker sjælen.\fJHVHs vidnesbyrd er pålideligt,\fdet giver den enfoldige visdom.",
+      "number": 8,
+      "version": 1631570400000,
+      "footnotes": [
+        {
+          "text": "Lov",
+          "type": "N",
+          "position": 10
+        },
+        {
+          "text": "Ordret: »den bringer sjælen tilbage«.",
+          "type": "T",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHs bestemmelser er rette,\fde glæder hjertet.\fJHVHs befaling er pur,\fdet giver øjnene lys.",
+      "number": 9,
+      "version": 1631570400000
+    },
+    {
+      "text": "\fFrygt for JHVH er ren,\fden består til evig tid,\fJHVHs domme er sandhed,\fde er alle retfærdige.",
+      "number": 10,
+      "version": 1631570400000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens *yirʔāh*: »frygt«, synes at bryde rytmen i versene, idet »frygt« næppe kan være synonym for »lov«. Bruddet kan dog være tilsigtet idet menneskets reaktion så skal nævnes. »Frygt« for Gud er i Bibelen ofte et positivt ord der skal udtrykke menneskets erkendelse af Gud som Herren (Sl 25,14; 128,1). Alt andet må mennesket slippe, men gudsfrygten bevarer det i fællesskabet med den evige Gud »til evig tid«. Mange vælger dog (ud fra Sl 119,38) at læse: *ʔimrāh*: »ord«.",
+          "type": "E",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "text": "\fDe er mere kostbare end guld,\fja, end lutret guld i mængde,\fog sødere end honning\fog flydende bikage.",
+      "title": "Personlig afslutning og bøn",
+      "number": 11,
+      "version": 1631570400000
+    },
+    {
+      "text": "\fOgså din tjener lader sig advare af dem,\fder er stor løn ved at holde dem.",
+      "number": 12,
+      "version": 1631570400000
+    },
+    {
+      "text": "\fUforsætlige synder – hvem lægger mærke til dem?\fRens mig for skjulte synder!",
+      "number": 13,
+      "version": 1631570400000
+    },
+    {
+      "text": "\fHold også din tjener borte fra hovmodige\fså de ikke skal herske over mig.\fDa bliver jeg udadlelig\fog uden skyld i grov overtrædelse.",
+      "number": 14,
+      "version": 1631570400000
+    },
+    {
+      "text": "\fLad min munds ord og mit hjertes tanker være til behag for dit ansigt,\fJHVHv, min klippe og min genløser!",
+      "number": 15,
+      "version": 1631570400000
+    }
+  ]
+}

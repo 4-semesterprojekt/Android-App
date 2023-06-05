@@ -1,0 +1,165 @@
+{
+  "book": "Zakarias' Bog",
+  "abbreviation": "Zak",
+  "chapter": 9,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEt profetudsagn.\fJHVHs ord er i Hadraks land;\fDamaskus er dets hvilested\f– for JHVHs øjne hviler på menneskeheden\fog på alle Israels stammer –",
+      "title": "JHVHs felttog og genoprettelsen af Davidsriget",
+      "number": 1,
+      "version": 1615935600000,
+      "footnotes": [
+        {
+          "text": "Syntaksen er omdiskuteret. Generelt oversættes det enten med »JHVHs ords profeti over Hadraks land« (fx den danske oversættelse fra 1871) eller opdeles i overskriften for hele afsnittet »Et profetudsagn« og første sætning i afsnittet »JHVHs ord er i Hadraks land«.",
+          "type": "E",
+          "position": 27
+        },
+        {
+          "text": "Verset er vanskeligt at oversætte. Ordret står der »For JHVHs er menneskets øje«. Det kan forstås som både en subjektiv genitiv »Menneskets øje er på JHVH« eller som en objektiv genitiv »JHVHs er øjet på mennesket« eller mere mundret »JHVHs øje er på mennesket«.",
+          "type": "E",
+          "position": 143
+        }
+      ]
+    },
+    {
+      "text": "\fog også Hamat, som grænser op til det,\fog Tyrus og Sidon; på trods af deres store visdom.",
+      "number": 2,
+      "version": 1615935600000
+    },
+    {
+      "text": "\fTyrus byggede sig en fæstning;\fopdyngede sølv som støv\fog guld som gadens mudder.",
+      "number": 3,
+      "version": 1615935600000
+    },
+    {
+      "text": "\fMen se, JHVH skal indtage den\fog smide dens rigdomme i havet.",
+      "number": 4,
+      "version": 1615935600000,
+      "footnotes": [
+        {
+          "text": "Eller »fæstning«.",
+          "type": "T",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "\fAshkalon skal se det og blive bange,\fGaza skal blive rædselsslagen\fog ligeså Ekron, for dens håb er blevet til skamme.\fGazas konge skal omkomme,\fAshkalon skal ikke regeres,",
+      "number": 5,
+      "version": 1615935600000,
+      "footnotes": [
+        {
+          "text": "En anden mulighed er »Ashkalon skal ikke bebos«, fordi det hebraiske *yāšav* både kan betyde »bo« eller »sidde« (på en trone).",
+          "type": "E",
+          "position": 173
+        }
+      ]
+    },
+    {
+      "text": "\fog i Ashdod skal en bastard sidde på tronen.\fJeg vil udrydde filistrenes hovmod.",
+      "number": 6,
+      "version": 1615935600000,
+      "footnotes": [
+        {
+          "text": "Ordret »En bastard skal sidde/bo i Ashdod«. Bastard behøver ikke forstås biologisk, men kan forstås bredere som korrupt, og sammenhængen med vers 5 kunne tyde på, at der er tale om en konge.",
+          "type": "E",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil fjerne blodet fra hans mund;\fafskyelighederne fra hans tænder.\fOg han skal efterlades til vores Gud;\fhan skal være som en høvding i Juda,\fog Ekron som en jebusit.",
+      "number": 7,
+      "version": 1615935600000
+    },
+    {
+      "text": "\fJeg vil slå lejr foran mit hus;\fsom en fæstning imod dem, der drager i krig.\fSå skal ingen længere rykke ud imod dem,\ffor nu har jeg set med mine egne øjne.",
+      "title": "Kongen kommer",
+      "number": 8,
+      "version": 1615935600000,
+      "footnotes": [
+        {
+          "text": "Ordret »dem der drager ud og vender hjem«.",
+          "type": "T",
+          "position": 77
+        }
+      ]
+    },
+    {
+      "text": "\fBryd ud i jubel, Zions datter!\fRåb af glæde, Jerusalems datter!\fSe, din konge kommer til dig,\fhan er retfærdig og sejrrig,\fydmyg og ridende på et æsel;\fpå en æselhoppes føl.",
+      "number": 9,
+      "version": 1615935600000
+    },
+    {
+      "text": "\fJeg vil udrydde stridsvognene i Efraim;\fhestene i Jerusalem;\fkrigsbuen skal udryddes.\fHan skal forkynde fred til folkeslagene,\fog hans herredømme skal være fra hav til hav;\ffra floden indtil jordens ender.",
+      "title": "JHVH frelser sit folk",
+      "number": 10,
+      "version": 1615935600000
+    },
+    {
+      "text": "\fOg du, på grund af dit pagtsblod\fvil jeg slippe dine fanger løs\ffra en cisterne, hvor der ikke er vand i.",
+      "number": 11,
+      "version": 1615935600000
+    },
+    {
+      "text": "\fVend tilbage til fæstningen,\fI fanger som har håb!\fOgså i dag forkynder jeg:\fjeg vil gengælde dig dobbelt.",
+      "number": 12,
+      "version": 1615935600000
+    },
+    {
+      "text": "\fFor jeg spænder Juda\fog lægger Efraim på buen;\fjeg opildner dine sønner, Zion,\fimod dine sønner, Grækenland;\fjeg bruger dig som en krigers sværd.",
+      "number": 13,
+      "version": 1615935600000
+    },
+    {
+      "text": "\fJHVH vil komme til syne over dem,\fog hans pil skal fare ud som lynet;\fden Herre JHVH skal støde i hornet\fog gå frem i stormene fra syd.",
+      "number": 14,
+      "version": 1615935600000
+    },
+    {
+      "text": "\fHærskarers JHVHv skal beskytte dem,\fog de skal æde, nedtrampe slyngesten,\fdrikke og brøle som berusede,\fog de skal søles til som offerskålen; som alterets hjørner.",
+      "number": 15,
+      "version": 1615935600000,
+      "footnotes": [
+        {
+          "text": "Ordret »som af vin«.",
+          "type": "T",
+          "position": 104
+        },
+        {
+          "text": "Ordret »fyldes af«.",
+          "type": "T",
+          "position": 125
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH deres Gud skal frelse dem på den dag\fsom sit folks hjord,\ffor de er som ædle sten,\fder funkler over hans land.",
+      "number": 16,
+      "version": 1615935600000,
+      "footnotes": [
+        {
+          "text": "Ordret »en (konge)krones sten«.",
+          "type": "T",
+          "position": 88
+        }
+      ]
+    },
+    {
+      "text": "\fFor hvor er det godt,\fog hvor er det skønt!\fKorn får unge mænd\fog vin unge kvinder til at blomstre.",
+      "number": 17,
+      "version": 1615935600000
+    }
+  ]
+}

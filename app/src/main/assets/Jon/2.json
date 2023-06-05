@@ -1,0 +1,118 @@
+{
+  "book": "Jonas’ Bog",
+  "abbreviation": "Jon",
+  "chapter": 2,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Literært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHERREN sørgede for  et stort havdyr\n\ttil at sluge Jonas,og Jonas var i havdyrets bug i tre dage og tre nætter.",
+      "title": "Jonas’ taksigelse i havdyret",
+      "number": 1,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "Fortælleren har her  og i 4,6-8 valgt et sjældent verbum for Guds handling, *mnh*, som har en kernetydning af at bestemme og tildele noget.",
+          "type": "E",
+          "position": 19
+        }
+      ]
+    },
+    {
+      "text": "Jonas bad til HERREN sin Gud fra havdyrets bug",
+      "number": 2,
+      "version": 1645570800000
+    },
+    {
+      "text": "\tog sagde:\f\n\t\t»Jeg råbte i min nød til HERREN,\f\n\t\t\t\t\tog han svarede mig;\f\n\t\t\t\tfra gravens indre råbte jeg om hjælp,\f\n\t\t\t\t\tog du hørte min røst.",
+      "number": 3,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "*beṭen šᵊʔôl* er ordret »sheols bug.«  Ordet *šᵊʔôl* referer ofte til »dødsriget« eller »helvede«, men også til »graven« og i enkelte tilfælde til det der svarer til den nærorientalske »underverden«. Tidligere oversattes det med »dødsrigets dyb« (DO92) eller »skød« (1871, 1931).  Det er svært af finde et godt dansk billede.",
+          "type": "E",
+          "position": 96
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tDu kastede mig i dybet, ned midt i havet,\f\n\t\t\t\t\t\t\t\tog vandstrømmen omgav mig;\f\n\t\t\t\t\t\t\t\t\talle dine brændinger og dine bølger flød hen over mig.",
+      "number": 4,
+      "version": 1645570800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tOg jeg sagde:\f\n\t\t\t\t\t\t\t\t\t\t\t\tJeg er drevet væk for øjnene af dig,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tmen jeg vil igen\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tkunne betragte dit hellige tempel.",
+      "number": 5,
+      "version": 1645570800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tVandet omsluttede mig livstruende,\f\n\t\t\t\t\t\t\t\t\t\t\tverdenshavet omgav mig,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tsiv var viklet fast om mit hoved.",
+      "number": 6,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »indtil sjælen«; der må her være tænkt på profetens liv og ikke kun hans sind eller psyke.",
+          "type": "T",
+          "position": 46
+        },
+        {
+          "text": "sûf »siv«, henviser til sivene ved Nilen (2 Mos 2,3.5. Es 19,6) og indgår i betegnelsen *Sivhavet* (2 Mos 10,19. 1 Kong 9,26 osv.). Ofte antages at ordet her må have en særlig betydning med reference til vandplanter som tang.",
+          "type": "E",
+          "position": 101
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tJeg sank ned til bjergenes fundament,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tog jorden,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tdens portslåer var lukket i for mig for evigt.\f\n\t\t\t\t\t\t\tMen du trak mig i live op af graven,\f\n\t\t\t\t\t\t\t\tHERRE, min Gud.",
+      "number": 7,
+      "version": 1645570800000
+    },
+    {
+      "text": "\f\t\t\t\tDa mit liv var allersvagest\f\n\t\t\thuskede jeg på HERREN\f\n\t\t\t\t\t\tmin bøn nåede frem til dig, til dit hellige tempel.",
+      "number": 8,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "Der mangler et verbum i teksten; det suppleres for at teksten kan give mening.",
+          "type": "T",
+          "position": 32
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tDe der holder sig til den falske tomhed,\f\n\t\t\t\t\tde har svigtet deres troskab",
+      "number": 9,
+      "version": 1645570800000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tMen jeg,\f\n\t\t\t\t\t\t\tmed tak i min stemme vil jeg ofre til dig,\f\n\t\t\t\t\t\t\t\t\thvad jeg har lovet,\n\t\t\t\t\t\t\t\tvil jeg indfri,\f\n\t\t\t\tHERREN har frelsen.«",
+      "number": 10,
+      "version": 1645570800000
+    },
+    {
+      "text": "\fOg HERREN talte til havdyret,\n\tog den kastede Jonas op  på det tørre land.",
+      "number": 11,
+      "version": 1645570800000,
+      "footnotes": [
+        {
+          "text": "Verbets grundbetydning er »kaste op, brække sig,« men effekten af det er at Jonas reddes i land.",
+          "type": "T",
+          "position": 55
+        }
+      ]
+    }
+  ]
+}

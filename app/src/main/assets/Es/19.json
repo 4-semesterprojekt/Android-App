@@ -1,0 +1,259 @@
+{
+  "book": "Esajas",
+  "abbreviation": "Es",
+  "chapter": 19,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fUdsagn om Egypten.\fSe, JHVH rider på en let sky\fog kommer til Egypten,\fog Egyptens afguder bæver for ham,\fog Egyptens hjerte bliver modløst i dets indre.",
+      "title": "Ord mod Egypten",
+      "number": 1,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »for hans ansigt«.",
+          "type": "T",
+          "position": 106
+        }
+      ]
+    },
+    {
+      "text": "\fFor jeg vil væbne Egypten imod Egypten,\fså de kæmper hver mod sin bror\fog hver mod sin næste,\fby mod by,\fkongerige mod kongerige.",
+      "number": 2,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fOg Egyptens ånd skal gå til grunde i dets indre,\fog dets planer vil jeg forvirre,\fså de vender sig til afguderne og til genfærd\ftil dødemanerne og til sandsigerne.",
+      "number": 3,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fOg jeg vil overgive Egypten\ftil hårde herrers hånd,\fog en streng konge skal herske over dem,\fdet er Herrens, Hærskarers HERRES, udsagn.\n\n",
+      "number": 4,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 128
+        }
+      ]
+    },
+    {
+      "text": "\fVand skal svinde bort fra havet,\fog flod skal udtørres og blive tør,",
+      "number": 5,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fog floder skal stinke,\flavvandede og tørre skal Egyptens strømme blive,\frør og siv skal visne.",
+      "number": 6,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fEngene ved Nilen, ved bredden af Nilen,og alle Nilens tilsåede marker\fskal tørre ud, blæses væk så de ikke findes mere.",
+      "number": 7,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Ordet *ʕārāʰ* findes i Bibelen kun her, og oversættelsen er usikker. Fortolkerne vakler mellem: »enge/åbne pladser« og »sivplanter«.",
+          "type": "E",
+          "position": 7
+        },
+        {
+          "text": "Ordet *peʰ* kan også oversættes: »udløb«.",
+          "type": "E",
+          "position": 30
+        },
+        {
+          "text": "Ordet *mizrāʕ* findes i Bibelen kun her. Efter alt at dømme betegner det jord der kan tilsås.",
+          "type": "E",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "\fOg fiskerne skal klage og sørge,\falle der kaster krog i Nilen,\fbreder garn ud over vandet,\fskal sygne hen.",
+      "number": 8,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fOg de der arbejder med hør, skal blive til skamme, de der karter,\fog de der væver hvidt tøj.",
+      "number": 9,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Denhebraiske tekst har adjektiv, femininum (»kartet«), mens »hør« er maskulinum. Man forudsætter derfor oftest en anden vokalisering, så der læses et substantiv: *śᵊrîqôt* til: *śorqôt*: »kartende (kvinder)«. Ordet findes kun denne ene gang i Bibelen.",
+          "type": "E",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "\fOg dets søjler skal være knust,\falle de der arbejder for løn, skal være bedrøvede i hjertet.",
+      "number": 10,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Der er tænkt på Egyptens ledere. Men ofte følger man Septuatinta, der forudsætter sletning af et *t*: *šātōteʸhā* til: *šōteʸhā*: »vævere«.",
+          "type": "E",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "text": "\fSoans ledere er helt igennem tåber,\fFaraos vise rådgiveres råd er tåbeligt;\fhvordan kan I sige til Farao:\f»Jeg er søn af vismænd,\ffortids kongers søn«?",
+      "number": 11,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fHvor er da dine vismænd?\fLad dem da fortælle dig,\fog lad dem vide,\fhvad Hærskarers HERRE har besluttet om Egypten!",
+      "number": 12,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 89
+        }
+      ]
+    },
+    {
+      "text": "\fSoans ledere er blevet tåber,\fNofs ledere er blevet bedraget,\fog Egypten har vildledt sine stammers hjørnesten.",
+      "number": 13,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fJHVH har i dets indre blandet\fen forvirringens ånd,\fog den har vildledt Egypten\fi al dets gerning,\fsom en beruset tumler omkring i sit opkast.",
+      "number": 14,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Egyptens.",
+          "type": "T",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fOg der skal ikke være nogen gerning for Egypten,\fsom hoved eller hale,\fpalmegren eller siv kan udføre.",
+      "number": 15,
+      "version": 1681336800000
+    },
+    {
+      "text": "\fPå den dag skal Egypten være som kvinder, det skal ryste og skælve for Hærskarers HERRES svingende hånd, som svinger over det.",
+      "number": 16,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 89
+        }
+      ]
+    },
+    {
+      "text": "Og Judas land skal være til skræk for egypterne; så ofte nogen minder dem om det, skal de frygte for Hærskarers HERRES plan, som han har lagt imod dem.",
+      "number": 17,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 118
+        }
+      ]
+    },
+    {
+      "text": "På den dag skal der være fem byer i Egyptens land der taler Kana’ans sprog og sværger troskab mod Hærskarers HERRE; en af dem skal kaldes Ir-Ha-Heres.",
+      "number": 18,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 115
+        },
+        {
+          "text": "»Ødelæggelsens by«. Man går ofte ud fra at der ikke skulle stå: *haheres*, men *haḥeres*: »sol(byen)« (Heliopolis). Dette støttes af enkelte håndskrifter og gamle oversættelser.",
+          "type": "E",
+          "position": 150
+        }
+      ]
+    },
+    {
+      "text": "\fPå den dag skal der være et alter for JHVH midt i Egyptens land og en stenstøtte for JHVH ved dets grænse.",
+      "number": 19,
+      "version": 1681336800000
+    },
+    {
+      "text": "Og det skal være tegn og vidne for Hærskarers HERRE i Egyptens land på at når de råber til JHVH på grund af undertrykkere, så sender han en befrier og en forsvarer og redder dem.",
+      "number": 20,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 51
+        }
+      ]
+    },
+    {
+      "text": "Og JHVH skal give sig til kende for Egypten, og egypterne skal kende JHVH på den dag, og de skal tjene ham med slagtoffer og afgrødeoffer og de skal aflægge løfte til JHVH og indfri dem.",
+      "number": 21,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Her har det hebraiske ord bibetydning af tilbede og ære. I hebraiske ører klinger det med.",
+          "type": "T",
+          "position": 102
+        }
+      ]
+    },
+    {
+      "text": "Og JHVH skal slå Egypten, slå og helbrede; og de skal vende om til JHVH, og han skal bønhøre dem og helbrede dem.",
+      "number": 22,
+      "version": 1681336800000
+    },
+    {
+      "text": "På den dag skal der være en ryddet vej fra Egypten til Assyrien, og Assyrien skal komme til Egypten og Egypten til Assyrien, og egypterne skal tjene sammen med assyrerne.",
+      "number": 23,
+      "version": 1681336800000
+    },
+    {
+      "text": "På den dag skal Israel være den tredje sammen med Egypten og Assyrien – en velsignelse midt på jorden",
+      "number": 24,
+      "version": 1681336800000
+    },
+    {
+      "text": "som Hærskarers HERRE har velsignet og sagt: »Velsignet være mit folk Egypten og mine hænders værk Assyrien og min ejendom Israel!«",
+      "number": 25,
+      "version": 1681336800000,
+      "footnotes": [
+        {
+          "text": "Hærskarers",
+          "type": "N",
+          "position": 20
+        },
+        {
+          "text": "Det er forskelligt, om det hebraiske *naḥᵃlāʰ* oversættes: »ejendom« eller: »arvelod«.",
+          "type": "E",
+          "position": 121
+        }
+      ]
+    }
+  ]
+}

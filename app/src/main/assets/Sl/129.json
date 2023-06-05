@@ -1,0 +1,92 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 129,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fValfartssang.\fDe bekæmpede mig hårdt fra min ungdom af\f– sådan skal Israel sige –",
+      "title": "Gud har bevaret sit folk",
+      "number": 1,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Se note til Sl 120,1.",
+          "type": "E",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "\fde bekæmpede mig hårdt fra min ungdom af,\fog dog kunne de ikke overvinde mig.",
+      "number": 2,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fPå min ryg pløjede plovmænd,\fde trak deres furer lange.",
+      "number": 3,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Konsonantteksten har: *maʕᵃnôtām*, men vokaliseringen forudsætter: *maʕᵃnîtām*. Oversættelsen skal dog i begge tilfælde være: »(plov)furer«.",
+          "type": "E",
+          "position": 49
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH er retfærdig,\fhan huggede de ugudeliges reb over.",
+      "title": "Tillid til Guds sejr",
+      "number": 4,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fDe skal blive til skamme og vige tilbage,\falle de som hader Zion.",
+      "number": 5,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Det er omdiskuteret, om verbet her og i v. 6a skal opfattes som yiqtol (tillid/vished, som denne oversættelse) eller jussiv (ønske/bøn: »Lad dem blive til skamme … Lad dem blive som græs …«.",
+          "type": "E",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "\fDe skal blive som græs på tagene,\fsom er visnet før man har nået at rykke det op,",
+      "number": 6,
+      "version": 1504476000000,
+      "footnotes": [
+        {
+          "text": "Andre oversætter: »før det når at skyde op«. Denne betydning er dog stærkt omdiskuteret og ikke påvist andre steder i GT. Andre oversættere retter: *šeqqadmat šālaf yāvēš* (»som er visnet før man har nået at rykke det op«) til: *šeqqādim tišdōf*: »som østenvinden udtørrer«. Rettelsen støttes dog hverken af håndskrifter eller gamle oversættelser.",
+          "type": "E",
+          "position": 82
+        }
+      ]
+    },
+    {
+      "text": "\fsom høstmanden ikke får fyldt sin hånd med,\fog heller ikke den som binder neg, sin favn.",
+      "number": 7,
+      "version": 1504476000000
+    },
+    {
+      "text": "\fOg de som går forbi, siger ikke:\f»JHVHs velsignelse være med jer!«\fVi velsigner jer i JHVHs navn.",
+      "number": 8,
+      "version": 1504476000000
+    }
+  ]
+}

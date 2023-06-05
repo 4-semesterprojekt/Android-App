@@ -1,0 +1,86 @@
+{
+  "book": "Jakobs Brev",
+  "abbreviation": "Jak",
+  "chapter": 1,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHver god gave og hver fuldkommen gave er ovenfra og kommer ned fra lysenes Fader, hos hvem der ikke er forandring eller skiftende skygge.",
+      "number": 17,
+      "version": 1619647200000
+    },
+    {
+      "text": "Efter sin vilje fødte han os ved sandheds ord for at vi skulle være en førstegrøde af hans skabninger.",
+      "number": 18,
+      "version": 1619647200000
+    },
+    {
+      "text": "I skal vide, mine elskede brødre: Hvert menneske skal være hurtig til at høre, langsom til at tale, langsom til vrede;",
+      "number": 19,
+      "version": 1619647200000
+    },
+    {
+      "text": "for en mands vrede udretter ikke det som er retfærdigt for Gud.",
+      "number": 20,
+      "version": 1619647200000
+    },
+    {
+      "text": "Derfor, aflæg al urenhed og megen ondskab og modtag med ydmyghed ordet som er indplantet i jer, og som formår at frelse jeres sjæle.",
+      "number": 21,
+      "version": 1619647200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »overflod af«.",
+          "type": "T",
+          "position": 33
+        },
+        {
+          "text": "Kan også oversættes med sagtmodighed",
+          "type": "T",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "text": "\fMen vær ordets gørere og ikke kun dets hørere, hvorved I bedrager jer selv.",
+      "number": 22,
+      "version": 1619647200000
+    },
+    {
+      "text": "For hvis nogen er ordets hører og ikke dets gører, ligner han en mand der betragter sit naturlige ansigt i et spejl;",
+      "number": 23,
+      "version": 1619647200000,
+      "footnotes": [
+        {
+          "text": "Dermed understreges at spejlet kun viser det ydre.",
+          "type": "T",
+          "position": 97
+        }
+      ]
+    },
+    {
+      "text": "for han betragter sig selv og går væk og glemmer straks hvordan han var.",
+      "number": 24,
+      "version": 1619647200000
+    },
+    {
+      "text": "Men den som ser ind i frihedens fuldkomne lov og holder ved den så han ikke bliver en glemsom tilhører, men en gerningens gører, han skal være salig i sin gerning.",
+      "number": 25,
+      "version": 1619647200000
+    }
+  ]
+}

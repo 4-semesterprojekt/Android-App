@@ -1,0 +1,38 @@
+{
+  "book": " Paulus' Brev til Titus",
+  "abbreviation": "Tit",
+  "chapter": 3,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomesen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen da Guds, vores frelsers, godhed og menneskekærlighed åbenbaredes,",
+      "number": 4,
+      "version": 1641855600000
+    },
+    {
+      "text": "frelste han os, ikke for de retfærdige gerningers skyld som vi havde gjort, men efter sin barmhjertighed, ved genfødelsens bad og fornyelsen i Helligånden,",
+      "number": 5,
+      "version": 1641855600000
+    },
+    {
+      "text": "som han rigeligt udøste over os ved Jesus Kristus, vores frelser,",
+      "number": 6,
+      "version": 1641855600000
+    },
+    {
+      "text": "for at vi, retfærdiggjorte ved hans nåde, i håbet skulle blive arvinger til evigt liv.",
+      "number": 7,
+      "version": 1641855600000
+    }
+  ]
+}

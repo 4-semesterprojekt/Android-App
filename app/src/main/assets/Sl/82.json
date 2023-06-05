@@ -1,0 +1,88 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 82,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fSalme af Asaf.\fGud står i det guddommelige råd,\fmidt iblandt guder vil han holde dom:",
+      "title": "Guds domstale{E: Man kan overveje, om hele stykket v.2-7 er Guds tale, eller om især v.5 er en andens anklagende indlæg eller salmistens klage. Selv om der veksles fra 2. til 3. person, synes det dog stadig at være Gud der taler. Men det vurderes forskelligt.}",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Udtrykket: *baʕᵃdat-ʔēl* er omdiskuteret. Ordret kan det oversættes: »guds forsamling/menighed«, idet der er anvendt det korte *ʔēl* (»gud«), der ofte bruges om fremmede guder og afguder. Der er formodentlig tænkt på det himmelske råd hos Gud.",
+          "type": "E",
+          "position": 48
+        },
+        {
+          "text": "Her er formodentlig tænkt på jordiske dommere. Andre tænker dog på det himmelske råd.",
+          "type": "T",
+          "position": 67
+        }
+      ]
+    },
+    {
+      "text": "\f»Hvor længe vil I dømme uretfærdigt\fog løfte de ugudeliges ansigter? Sela",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Det er: Begunstige og tage parti for de ugudelige, favorisere dem.",
+          "type": "T",
+          "position": 69
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "\fSkaf den ringe og den faderløse ret,\fhjælp den hjælpeløse og den arme til retfærdighed,",
+      "number": 3,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fred den ringe og den fattige,\fudfri af de ugudeliges hånd!",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDe vidste ikke og forstod ikke,\fde vandrer omkring i mørke,\falle jordens grundvolde vakler.",
+      "number": 5,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fJeg har sagt: I er guder,\fog I er alle den Højestes sønner.",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fMen I skal dø som menneske,\fog som en af fyrsterne skal I falde.«",
+      "title": "Afsluttende bøn",
+      "number": 7,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fRejs dig, Gud, hold dom over jorden,\ffor du har alle folkene til ejendom.",
+      "number": 8,
+      "version": 1500242400000
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "book": "Peters Første Brev",
+  "abbreviation": "1Pet",
+  "chapter": 5,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fYdmyg jer derfor under Guds vældige hånd for at han til sin tid må ophøje jer.",
+      "number": 6,
+      "version": 1644274800000
+    },
+    {
+      "text": "Kast al jeres bekymring på ham, for han har omsorg for jer.",
+      "number": 7,
+      "version": 1644274800000
+    },
+    {
+      "text": "Vær ædru, vær på vagt; jeres  modstander, Djævelen, går omkring som en brølende løve og leder efter nogen at sluge.",
+      "number": 8,
+      "version": 1644274800000
+    },
+    {
+      "text": "Stå ham imod, faste i troen, idet I ved at de samme lidelser rammer jeres brødre i verden.",
+      "number": 9,
+      "version": 1644274800000
+    },
+    {
+      "text": "Men al nådes Gud, som kaldte jer til sin evige herlighed i Kristus Jesus, han vil selv efter en kort tids lidelse til fulde udruste, befæste, styrke og grundfæste jer!",
+      "number": 10,
+      "version": 1644274800000
+    },
+    {
+      "text": "Ham tilhører magten i evighedernes evigheder! Amen.",
+      "number": 11,
+      "version": 1644274800000
+    }
+  ]
+}

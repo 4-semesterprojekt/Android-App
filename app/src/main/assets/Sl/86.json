@@ -1,0 +1,160 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 86,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fEn bøn af David.\fBøj dit øre, JHVHv, svar mig,\ffor jeg er hjælpeløs og elendig.",
+      "title": "Klage",
+      "number": 1,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fBevar mit liv,\ffor jeg er from,\ffrels din tjener, du min Gud,\ffrels ham som stoler på dig.",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
+          "position": 15
+        },
+        {
+          "text": "Ordet »frels« står i grundteksten ikke i denne linje, men er underforstået fra forrige linje. Nogle fortolkere foreslår dog at flytte ordene »du min Gud« til begyndelsen af v.3.",
+          "type": "E",
+          "position": 68
+        }
+      ]
+    },
+    {
+      "text": "\fVær mig nådig, Herre,\ffor til dig råber jeg hele dagen.",
+      "number": 3,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGlæd din tjeners sjæl,\ffor til dig, Herre, løfter jeg min sjæl.",
+      "number": 4,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor du, Herre, er god og tilgivende\fog rig på nåde mod alle som påkalder dig.",
+      "number": 5,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fLyt, JHVHv, til min bøn\fog giv agt på min tryglende røst.",
+      "number": 6,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »min røsts tryglen«.",
+          "type": "T",
+          "position": 58
+        }
+      ]
+    },
+    {
+      "text": "\fPå min nøds dag vil jeg råbe til dig,\ffor du vil svare mig.",
+      "title": "Lovprisning",
+      "number": 7,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDer er ingen som du blandt guder, Herre,\fog der er ingen gerninger som dine.",
+      "number": 8,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fAlle folkeslag, som du har skabt, skal komme,\fog de skal tilbede for dit ansigt, Herre,\fog de skal ære dit navn.",
+      "number": 9,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor du er stor, og du gør undere,\fdu alene er Gud.",
+      "title": "Bøn om vejledning",
+      "number": 10,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fLær mig, JHVHv, din vej,\fså jeg kan vandre i din sandhed,\fsaml mit hjerte om dette ene: at frygte dit navn.",
+      "title": "Taksigelse",
+      "number": 11,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fJeg vil takke dig, Herre min Gud, af hele mit hjerte,\fog jeg vil ære dit navn til evig tid.",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fFor din nåde er stor over mig,\fog du har reddet min sjæl fra det dybe dødsrige.",
+      "title": "Klage",
+      "number": 13,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 13
+        },
+        {
+          "text": "På hebraisk: *šᵊʔôl*. Det er ofte tænkt som liggende under jorden som opholdssted for de døde, men først og fremmest er det himlens modsætning.",
+          "type": "T",
+          "position": 80
+        }
+      ]
+    },
+    {
+      "text": "\fGud, overmodige har rejst sig imod mig,\fog en flok voldsmænd stræbte efter mit liv,\fog dig har de ikke for øje.",
+      "number": 14,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordet har også klang af »gudløse«.",
+          "type": "T",
+          "position": 16
+        },
+        {
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
+          "position": 84
+        },
+        {
+          "text": "Ordret: »og har ikke stillet dig foran sig«.",
+          "type": "T",
+          "position": 112
+        }
+      ]
+    },
+    {
+      "text": "\fMen du, Herre, er en barmhjertig og nådig Gud,\fsen til vrede og rig på nåde og sandhed.",
+      "number": 15,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fVend dig til mig og vær mig nådig,\fgiv din styrke til din tjener,\fog frels din trælkvindes søn!",
+      "number": 16,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGiv mig et tegn på noget godt,\fså de, som hader mig, må se det og ydmyges.\fFor du, JHVHv, har hjulpet mig og trøstet mig.",
+      "number": 17,
+      "version": 1500242400000
+    }
+  ]
+}

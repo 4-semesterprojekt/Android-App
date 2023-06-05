@@ -1,0 +1,120 @@
+{
+  "book": "Lukasevangeliet",
+  "abbreviation": "Luk",
+  "chapter": 11,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Claus Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHan uddrev en ond ånd der var stum, men da den onde ånd var faret ud, talte den stumme, og skarerne undrede sig.",
+      "title": "Jesus beskyldes for at uddrive onde ånder ved Beelzebul og afviser Beskyldningen",
+      "number": 14,
+      "version": 1614121200000
+    },
+    {
+      "text": "Men nogle af dem sagde: »Det er ved Beelzebul, de onde ånders fyrste, at han uddriver de onde ånder.«",
+      "number": 15,
+      "version": 1614121200000
+    },
+    {
+      "text": "Men andre fristede ham og forlangte et tegn fra himlen af ham.",
+      "number": 16,
+      "version": 1614121200000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »satte på prøve«.",
+          "type": "T",
+          "position": 18
+        }
+      ]
+    },
+    {
+      "text": "Men da han kendte deres tanker, sagde han til dem: »Ethvert rige som er kommet i splid med sig selv, lægges øde, og hus falder på hus.",
+      "number": 17,
+      "version": 1614121200000
+    },
+    {
+      "text": "Men hvis også Satan er kommet i splid med sig selv, hvordan skal hans rige da bestå? I siger at jeg uddriver onde ånder ved Beelzebul.",
+      "number": 18,
+      "version": 1614121200000
+    },
+    {
+      "text": "Men hvis jeg uddriver onde ånder ved Beelzebul, ved hvem uddriver jeres sønner dem da? Derfor skal de være jeres dommere.",
+      "number": 19,
+      "version": 1614121200000
+    },
+    {
+      "text": "Men hvis jeg uddriver de onde ånder ved Guds finger, så er Guds rige jo kommet til jer.",
+      "number": 20,
+      "version": 1614121200000
+    },
+    {
+      "text": "Når den stærke vogter sin gård fuldt bevæbnet, forbliver det han ejer, i fred.",
+      "number": 21,
+      "version": 1614121200000
+    },
+    {
+      "text": "Men hvis en der er stærkere end han, angriber og overvinder ham, tager denne hele den rustning han stolede på, og deler ud af det bytte han tog fra ham.",
+      "number": 22,
+      "version": 1614121200000
+    },
+    {
+      "text": "Den som ikke er med mig, er imod mig; og den som ikke samler med mig, spreder.",
+      "number": 23,
+      "version": 1614121200000
+    },
+    {
+      "text": "Når den urene ånd er faret ud af et menneske, vandrer den igennem vandløse steder og søger hvile; og når den ikke finder den, siger den: Jeg vil vende tilbage til mit hus som jeg forlod.",
+      "number": 24,
+      "version": 1614121200000
+    },
+    {
+      "text": "Og når den kommer, finder den det fejet og pyntet.",
+      "number": 25,
+      "version": 1614121200000
+    },
+    {
+      "text": "Så går den ud og tager syv andre ånder med sig, som er værre end den selv, og når de er kommet derind, tager de bolig der; og det sidste bliver værre for dette menneske end det første.«",
+      "title": "Jesus svarer kvinden som priser hans mor",
+      "number": 26,
+      "version": 1614121200000
+    },
+    {
+      "text": "\fMens han sagde dette, hævede en kvinde i mængden stemmen og sagde til ham: »Lykkeligt det moderliv som bar dig, og de bryster du diede!«",
+      "number": 27,
+      "version": 1614121200000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »saligt«.",
+          "type": "T",
+          "position": 86
+        }
+      ]
+    },
+    {
+      "text": "Men han sagde: »Ja, lykkelige er de som hører Guds ord og bevarer det!«",
+      "number": 28,
+      "version": 1614121200000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »salige«.",
+          "type": "T",
+          "position": 29
+        }
+      ]
+    }
+  ]
+}

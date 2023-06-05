@@ -1,0 +1,106 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 146,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHalleluja!\fMin sjæl, lovpris JHVH!",
+      "title": "Lovpris JHVH!",
+      "number": 1,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fJeg vil lovprise JHVH hele mit liv,\fjeg vil lovsynge min Gud så længe jeg er til.",
+      "title": "Stol ikke på fyrster",
+      "number": 2,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fStol ikke på fyrster,\fpå et menneskebarn, hos hvem der ingen frelse er.",
+      "number": 3,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fNår hans ånd forlader ham, vender han tilbage til jorden,\fpå den dag er hans planer gået til grunde.",
+      "title": "Stol på JHVH!",
+      "number": 4,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »til sin jord«.",
+          "type": "T",
+          "position": 58
+        }
+      ]
+    },
+    {
+      "text": "\fLykkelig er den hvis hjælp er Jakobs Gud,\fhvis håb hviler på JHVH, hans Gud,",
+      "number": 5,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »salig«.",
+          "type": "T",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "text": "\fskaber af himmel og jord,\fhavet og alt det som er i dem,\fsom bevarer troskab til evig tid,",
+      "number": 6,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »sandhed«.",
+          "type": "T",
+          "position": 77
+        }
+      ]
+    },
+    {
+      "text": "\fsom skaffer de undertrykte ret,\fsom giver brød til de sultne.\fJHVH sætter fanger fri,",
+      "number": 7,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fJHVH åbner blindes øjne,\fJHVH rejser nedbøjede op,\fJHVH elsker retfærdige.",
+      "number": 8,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Ordret blot: »åbner blinde«, underforstået: »øjne«.",
+          "type": "T",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH beskytter de fremmede,\fhan tager sig af faderløse og enker,\fmen ugudeliges vej gør han krum.",
+      "number": 9,
+      "version": 1493330400000
+    },
+    {
+      "text": "\fJHVH er konge for evigt,\fdin Gud, Zion, i slægt efter slægt.\fHalleluja!",
+      "number": 10,
+      "version": 1493330400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »skal regere«.",
+          "type": "T",
+          "position": 14
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "book": " Paulus' Første Brev til Korintherne",
+  "abbreviation": "1Kor",
+  "chapter": 10,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fFor jeg vil ikke, brødre, at I skal være uvidende om, at vores fædre alle var under skyen og alle gik igennem havet,",
+      "title": "At årvågen og alvorlig kamp imod det onde er nødvendig, hvis de skal nå deres mål, beviser det advarende eksempel fra israelitternes ørkenvandring, 1-13. De bør ikke tage del i afgudsdyrkelsen, men som gæster ved Herrens bord holde sig væk fra offermåltider for afguder, 14-22. Man bør begrænse sin kristne frihed for ikke at bringe nogen til fald. Kød, der købes i en slagterbod, kan de roligt spise. Men når de spiser med i en hednings hjem, må de passe på ikke at såre en skrøbelig brors samvittighed. De skal i disse sager efterfølge Paulus' eget eksempel, 23-Kap. 11, 1.",
+      "number": 1,
+      "version": 1616540400000
+    },
+    {
+      "text": "og alle blev døbt til Moses i skyen og i havet,",
+      "number": 2,
+      "version": 1616540400000
+    },
+    {
+      "text": "og alle spiste den samme åndelige mad,",
+      "number": 3,
+      "version": 1616540400000
+    },
+    {
+      "text": "og alle drak den samme åndelige drik; de drak nemlig af en åndelig klippe, der fulgte med; men klippen var Kristus.",
+      "number": 4,
+      "version": 1616540400000
+    },
+    {
+      "text": "Alligevel fandt Gud ikke behag i de fleste af dem; for de blev slået ned i ørkenen.",
+      "number": 5,
+      "version": 1616540400000
+    },
+    {
+      "text": "Men disse ting skete som eksempler for os, for at vi ikke skal begære det, der er ondt, sådan som de begærede.",
+      "number": 6,
+      "version": 1616540400000
+    },
+    {
+      "text": "Bliv heller ikke afgudsdyrkere som nogle af dem, som der står skrevet: »Folket satte sig ned for at spise og drikke, og de stod op for at lege.«",
+      "number": 7,
+      "version": 1616540400000
+    },
+    {
+      "text": "Lad os heller ikke gøre noget seksuelt umoralsk, som nogle af dem gjorde, og på én dag faldt der treogtyve tusinde.",
+      "number": 8,
+      "version": 1616540400000
+    },
+    {
+      "text": "Lad os heller ikke friste Herren, som nogle af dem fristede ham og blev dræbt af slanger.",
+      "number": 9,
+      "version": 1616540400000
+    },
+    {
+      "text": "I skal heller ikke mukke, som nogle af dem mukkede og blev slået ihjel af Ødelæggeren.",
+      "number": 10,
+      "version": 1616540400000
+    },
+    {
+      "text": "Dette skete imidlertid som eksempel for dem, men det blev skrevet til advarsel for os, som tidernes ende er kommet til.",
+      "number": 11,
+      "version": 1616540400000
+    },
+    {
+      "text": "Lad derfor den, der mener at stå, passe på, at han ikke falder!",
+      "number": 12,
+      "version": 1616540400000
+    },
+    {
+      "text": "Det er ikke andet end menneskelige fristelser, der er kommet over jer, og trofast er Gud, der ikke vil tillade, at I fristes over evne, men som sammen med fristelsen også vil skabe udgangen af den, for at I må kunne holde den ud.",
+      "number": 13,
+      "version": 1616540400000
+    },
+    {
+      "text": "\fDerfor, mine elskede, flygt for afgudsdyrkelsen!",
+      "number": 14,
+      "version": 1616540400000
+    },
+    {
+      "text": "Jeg taler som til forstandige; bedøm selv, hvad jeg siger.",
+      "number": 15,
+      "version": 1616540400000
+    },
+    {
+      "text": "Velsignelsens bæger, som vi velsigner, er den ikke delagtighed med Kristi blod? Det brød, som vi bryder, er det ikke delagtighed med Kristi legeme?",
+      "number": 16,
+      "version": 1616540400000
+    },
+    {
+      "text": "Fordi der er ét brød, er vi mange ét legeme; for vi får alle del i det ene brød.",
+      "number": 17,
+      "version": 1616540400000
+    },
+    {
+      "text": "Prøv at se på Israel i det rent ydre; har de, der spiser ofrene, ikke fællesskab med alteret?",
+      "number": 18,
+      "version": 1616540400000,
+      "footnotes": [
+        {
+          "text": "Eglt. »efter kødet«",
+          "type": "T",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "Hvad siger jeg med det? At afgudsofferkød er noget? eller at en afgud er noget?",
+      "number": 19,
+      "version": 1616540400000
+    },
+    {
+      "text": "Nej! Men det, som hedningerne ofrer, ofrer de til onde ånder og ikke til Gud; men jeg vil ikke, at I skal få fællesskab med de onde ånder.",
+      "number": 20,
+      "version": 1616540400000
+    },
+    {
+      "text": "I kan ikke drikke Herrens bæger og onde ånders bæger; I kan ikke have del i Herrens bord og i onde ånders bord.",
+      "number": 21,
+      "version": 1616540400000,
+      "footnotes": [
+        {
+          "text": "Meningen er: Samtidig",
+          "type": "T",
+          "position": 35
+        },
+        {
+          "text": "Meningen er: Samtidig",
+          "type": "T",
+          "position": 93
+        }
+      ]
+    },
+    {
+      "text": "Eller skal vi vække Herrens vrede jalousi? Mon vi er stærkere end han?",
+      "number": 22,
+      "version": 1616540400000
+    },
+    {
+      "text": "\fAlt er tilladt, men ikke alt er gavnligt; alt er tilladt, men ikke alt opbygger.",
+      "number": 23,
+      "version": 1616540400000
+    },
+    {
+      "text": "Ingen må søge sit eget, men det, der er næstens!",
+      "number": 24,
+      "version": 1616540400000
+    },
+    {
+      "text": "Spis alt, hvad der sælges i en slagterbod, uden at undersøge noget af hensyn til samvittigheden;",
+      "number": 25,
+      "version": 1616540400000
+    },
+    {
+      "text": "for jorden og dens mangfoldighed er Herrens.",
+      "number": 26,
+      "version": 1616540400000
+    },
+    {
+      "text": "Hvis nogen af de vantro indbyder jer, og I vil gå derhen, så spis alt det, der serveres for jer, uden at undersøge noget af samvittigheds-grunde.",
+      "number": 27,
+      "version": 1616540400000
+    },
+    {
+      "text": "Men hvis nogen siger til jer: »Det her er offerkød,« så lad være med at spise det af hensyn til ham, der gjorde opmærksom på det, og for samvittighedens skyld.",
+      "number": 28,
+      "version": 1616540400000
+    },
+    {
+      "text": "Samvittigheden siger jeg, ikke ens egen, men den andens; for hvorfor skal min frihed dømmes af en anden samvittighed?",
+      "number": 29,
+      "version": 1616540400000
+    },
+    {
+      "text": "Hvis jeg nyder det med taksigelse, hvorfor bliver jeg så mobbet for det, som jeg takker for?",
+      "number": 30,
+      "version": 1616540400000
+    },
+    {
+      "text": "Hvad enten I derfor spiser eller drikker, eller hvad I gør, gør det alt sammen til Guds ære!",
+      "number": 31,
+      "version": 1616540400000
+    },
+    {
+      "text": "Vær uden anstød både for jøder og grækere og for Guds menighed,",
+      "number": 32,
+      "version": 1616540400000
+    },
+    {
+      "text": "ligesom også jeg i alt stræber efter at gøre det bedste for alle, idet jeg ikke søger, hvad der gavner mig selv, men hvad der gavner de mange, for at de kan blive frelst.",
+      "number": 33,
+      "version": 1616540400000
+    },
+    {
+      "text": "Bliv mine efterfølgere, på samme måde som også jeg er Kristi efterfølger!",
+      "number": 1,
+      "version": 1616540400000
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "book": "Fjerde Mosebog",
+  "abbreviation": "4Mos",
+  "chapter": 29,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fI den syvende måned, på den første dag i måneden, skal der være en hellig sammenkomst for jer, I skal ikke udføre noget arbejde, den dag skal trompeterne lyde.",
+      "title": "JHVH taler om ofringer på nytårsdagen eller trompethøjtiden.",
+      "number": 1,
+      "version": 1500328800000
+    },
+    {
+      "text": "I skal give et brændoffer til en dejlig duft for JHVH: En tyrekalv, en vædder, syv årgamle lam, uden fejl,",
+      "number": 2,
+      "version": 1500328800000
+    },
+    {
+      "text": "og deres afgrødeoffer, mel blandet med olie, tre tiendedele til tyrekalven og to tiendedele til vædderen",
+      "number": 3,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "Her og i de følgende angivelser må »efa« være underforstået.",
+          "type": "T",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "og en tiendedel til hvert af de syv lam.",
+      "number": 4,
+      "version": 1500328800000
+    },
+    {
+      "text": "og en gedebuk som syndoffer til at skaffe jer soning.",
+      "number": 5,
+      "version": 1500328800000
+    },
+    {
+      "text": "foruden månedens brændoffer med dets afgrødeoffer og det daglige brændoffer og dets afgrødeoffer og deres foreskrevne drikofre til en dejlig duft, et ildoffer for JHVH.",
+      "title": "Forsoningsdagens ofre.",
+      "number": 6,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fPå den tiende dag i den syvende måned skal der være en hellig sammenkomst for jer, og I skal faste. I skal ikke udføre noget arbejde.",
+      "number": 7,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »ydmyge jeres sjæle«. 4 Mos 30,14.",
+          "type": "T",
+          "position": 100
+        }
+      ]
+    },
+    {
+      "text": "Men I skal ofre brændoffer for JHVH til en dejlig duft: En tyrekalv, en vædder, syv årgamle lam, de skal være uden fejl for jer,",
+      "number": 8,
+      "version": 1500328800000
+    },
+    {
+      "text": "og deres afgrødeoffer, mel blandet med olie, tre tiendedele til tyren, to tiendedele til vædderen,",
+      "number": 9,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "efa",
+          "type": "T",
+          "position": 59
+        },
+        {
+          "text": "efa",
+          "type": "T",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "en tiendedel til hvert af de syv lam,",
+      "number": 10,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "efa",
+          "type": "T",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "text": "og en gedebuk som syndoffer, foruden forsoningens syndoffer og det daglige brændoffer og dets afgrødeoffer og dets drikoffer.",
+      "title": "Løvsalsfestens ofre.",
+      "number": 11,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fPå den femtende dag i den syvende måned skal der være en hellig sammenkomst for jer, I skal ikke udføre noget arbejde, og I skal højtideligholde højtiden for JHVH i syv dage.",
+      "number": 12,
+      "version": 1500328800000
+    },
+    {
+      "text": "I skal ofre brændoffer, et ildoffer til en dejlig duft for JHVH: 13 tyrekalve, 2 væddere, 14 årgamle lam, de skal være fejlfri,",
+      "number": 13,
+      "version": 1500328800000
+    },
+    {
+      "text": "og deres afgrødeoffer, mel blandet med olie, tre tiendedele til hver af de 13 tyrekalve, to tiendedele til begge væddere",
+      "number": 14,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "efa",
+          "type": "T",
+          "position": 59
+        },
+        {
+          "text": "efa",
+          "type": "T",
+          "position": 102
+        }
+      ]
+    },
+    {
+      "text": "og en tiendedel til hvert af de 14 lam,",
+      "number": 15,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "efa",
+          "type": "T",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "text": "derudover en gedebuk som syndoffer, foruden det daglige brændoffer, dets afgrødeoffer og dets drikoffer.",
+      "number": 16,
+      "version": 1500328800000
+    },
+    {
+      "text": "På den anden dag: 12 tyrekalve, to væddere, 14 årgamle lam, alle fejlfri,",
+      "number": 17,
+      "version": 1500328800000
+    },
+    {
+      "text": "og deres afgrødeofre og deres drikofre til tyrekalvene, til vædderne og til lammene efter deres antal, på sædvanlig vis,",
+      "number": 18,
+      "version": 1500328800000
+    },
+    {
+      "text": "derudover en gedebuk som syndoffer, foruden det daglige brændoffer og dets afgrødeoffer og dets drikoffer.",
+      "number": 19,
+      "version": 1500328800000
+    },
+    {
+      "text": "På den tredje dag: 11 tyrekalve, to væddere, 14 årgamle lam, alle fejlfri,",
+      "number": 20,
+      "version": 1500328800000
+    },
+    {
+      "text": "og afgrødeofrene og drikofrene til tyrekalvene, til vædderne og til lammene efter deres antal, på sædvanlig vis,",
+      "number": 21,
+      "version": 1500328800000
+    },
+    {
+      "text": "derudover en gedebuk som syndoffer, foruden det daglige brændoffer og dets afgrødeoffer og dets drikoffer.",
+      "number": 22,
+      "version": 1500328800000
+    },
+    {
+      "text": "På den fjerde dag: 10 tyrekalve, to væddere, 14 årgamle lam, alle uden fejl,",
+      "number": 23,
+      "version": 1500328800000
+    },
+    {
+      "text": "afgrødeofrene og drikofrene til tyrekalvene, til vædderne og til lammene efter deres antal, på sædvanlig vis,",
+      "number": 24,
+      "version": 1500328800000
+    },
+    {
+      "text": "derudover en gedebuk som syndoffer, foruden det daglige brændoffer og dets afgrødeoffer og dets drikoffer.",
+      "number": 25,
+      "version": 1500328800000
+    },
+    {
+      "text": "På den femte dag: ni tyrekalve, to væddere, 14 årgamle lam, uden fejl,",
+      "number": 26,
+      "version": 1500328800000
+    },
+    {
+      "text": "og afgrødeofrene og drikofrene til tyrekalvene, til vædderne og til lammene efter deres antal, på sædvanlig vis.",
+      "number": 27,
+      "version": 1500328800000
+    },
+    {
+      "text": "derudover en gedebuk som syndoffer, foruden det daglige brændoffer og dets afgrødeoffer og dets drikoffer.",
+      "number": 28,
+      "version": 1500328800000
+    },
+    {
+      "text": "På den sjette dag: otte tyrekalve, to væddere, 14 årgamle lam, uden fejl,",
+      "number": 29,
+      "version": 1500328800000
+    },
+    {
+      "text": "og afgrødeofrene og drikofrene til tyrekalvene, til vædderne og til lammene efter deres antal, på sædvanlig vis,",
+      "number": 30,
+      "version": 1500328800000
+    },
+    {
+      "text": "derudover en gedebuk som syndoffer, foruden det daglige brændoffer og dets afgrødeoffer og dets drikoffer.",
+      "number": 31,
+      "version": 1500328800000
+    },
+    {
+      "text": "På den syvende dag: syv tyrekalve, to væddere, 14 årgamle lam, uden fejl,",
+      "number": 32,
+      "version": 1500328800000
+    },
+    {
+      "text": "og afgrødeofrene og drikofrene til tyrekalvene, til vædderne og til lammene efter deres antal, på sædvanlig vis,",
+      "number": 33,
+      "version": 1500328800000
+    },
+    {
+      "text": "derudover en gedebuk som syndoffer, foruden det daglige brændoffer, dets afgrødeoffer og dets drikoffer.",
+      "number": 34,
+      "version": 1500328800000
+    },
+    {
+      "text": "På den ottende dag skal der være en afslutningshøjtid for jer, da skal I ikke udføre noget arbejde.",
+      "number": 35,
+      "version": 1500328800000
+    },
+    {
+      "text": "Og I skal ofre brændoffer, et ildoffer til en dejlig duft for JHVH: en tyrekalv, en vædder, syv årgamle lam, uden fejl,",
+      "number": 36,
+      "version": 1500328800000
+    },
+    {
+      "text": "afgrødeofrene og drikofrene til tyrekalven, vædderen og til lammene efter deres antal, på sædvanlig vis,",
+      "number": 37,
+      "version": 1500328800000
+    },
+    {
+      "text": "derudover en gedebuk som syndoffer, foruden det daglige brændoffer og dets afgrødeoffer og dets drikoffer.",
+      "number": 38,
+      "version": 1500328800000
+    },
+    {
+      "text": "Disse ting skal I gøre for JHVH på jeres fastsatte tider, ud over jeres løfter og jeres frivillige gaver, hvad enten det er jeres brændofre eller jeres afgrødeofre eller jeres drikofre eller jeres takofre.",
+      "number": 39,
+      "version": 1500328800000
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 45,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\fAl-shoshannim.  Af Koras sønner.\fMaskil.\fEn kærlighedssang.",
+      "title": "Indledning",
+      "number": 1,
+      "version": 1527199200000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        },
+        {
+          "text": "Formodentlig en melodioplysning. Ordets betydning er ukendt, men synes at have sammenhæng med ordet for »lilje« (evt. »efter liljerne«).",
+          "type": "E",
+          "position": 31
+        },
+        {
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\fMit hjerte strømmer over med god tale,\fjeg siger: Mine værker er til kongen,\fmin tunge er en hurtigskrivers pen.",
+      "title": "Lovprisning af brudgommen og hans kongedømme",
+      "number": 2,
+      "version": 1527199200000
+    },
+    {
+      "text": "\fDu er den allersmukkeste blandt menneskenes sønner,\fynde er udgydt på dine læber,\fderfor har Gud velsignet dig til evig tid.",
+      "number": 3,
+      "version": 1527199200000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord *yofyāfîtā* er besynderligt ved tilsyneladende at være sammensat af to ord: *yofî* (»skønhed«)og *yāfîtā* (»du er skøn, smuk«). Det er helt ualmindeligt i bibelsk hebraisk, men det må regnes til digterisk frihed at danne et så enestående men kraftfuldt ord som der faktisk er tale om her.",
+          "type": "E",
+          "position": 25
+        }
+      ]
+    },
+    {
+      "text": "\fBind dit sværd om hoften, du helt,\fi din majestæt og din herlighed,",
+      "number": 4,
+      "version": 1527199200000
+    },
+    {
+      "text": "\fog hav fremgang i din herlighed,\fdrag frem for sandheds skyld, og ydmyghed med retfærdighed,\fog din højre hånd skal lære dig frygtelige gerninger.",
+      "number": 5,
+      "version": 1527199200000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske tekst er omdiskuteret. Verset begynder med at gentage *wahᵃdārᵊxā* (»og din herlighed«). Mange regner ordet for dittografi og udelader det, andre vokaliserer det som hif'il af verbet *drk*: »spænd (buen)«.",
+          "type": "E",
+          "position": 33
+        },
+        {
+          "text": "Ordret: »for sandhed og ydmyghed retfærdighed«. Mange vælger at flytte »og«: »for sandhed, ydmyghed og retfærdighed«. Andre retter *wᵊʕanwāʰ*(»og ydmyghed«) til *wᵊjaʕan*: »og for (retfærdigheds) skyld«. Vokaliseringen af *wᵊʕanwāʰ* er dog uregelmæssig og antyder måske at det skal forbindes nært til »retfærdighed«. Derved understreges kongens ansvar som den svages forsvarer.",
+          "type": "E",
+          "position": 93
+        }
+      ]
+    },
+    {
+      "text": "\fDine pile er hvæssede,\ffolk skal falde under dig\fi hjertet af kongens fjender.",
+      "number": 6,
+      "version": 1527199200000,
+      "footnotes": [
+        {
+          "text": "Teksten er omdiskuteret. »i hjertet« må her opfattes som: »midt blandt«, medmindre man vil flytte den midterste linje ned som sidste linje i verset og underforstå et »sidder«: »Dine hvæssede pile sidder i hjertet på kongens fjender, folk skal falde under dig«.",
+          "type": "E",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "\fDin trone, gud, står evigt og altid,\fdit kongescepter er retskaffenheds scepter.",
+      "number": 7,
+      "version": 1527199200000,
+      "footnotes": [
+        {
+          "text": "Det er enestående i GT at kongen tiltales »gud« (måske bortset fra Es 9,5-6). Kongen betragtes her som Guds repræsentant og – netop fordi han er indsat af Gud – som ét med Gud.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fDu har elsket retfærdighed og hadet ugudelighed,\fderfor har Gud, din Gud, salvet dig\fmed glædens olie frem for dine medbrødre.",
+      "number": 8,
+      "version": 1527199200000
+    },
+    {
+      "text": "\fAlle dine klæder er myrra og aloe og kassia,\ffra elfenbenspaladser fryder strengespil dig.",
+      "title": "Lovprisning af bruden",
+      "number": 9,
+      "version": 1527199200000,
+      "footnotes": [
+        {
+          "text": "Dvs.: de dufter af »myrra og …«",
+          "type": "T",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "\fKongedøtre er blandt dine dyrebare,\fægtefællen står ved din højre hånd i Ofir-guld.",
+      "number": 10,
+      "version": 1527199200000,
+      "footnotes": [
+        {
+          "text": "Meningen kan være at fornemme er samlet blandt brudepigerne eller gæsterne (»dyrebare«) nu hvor den unge dronning træder hen til kongen. Der kunne også oversættes »dine elskede«, men i sammenhængen er der næppe tænkt på at kongen har mange kongedøtre i sit harem. Mange oversættere følger et forslag om at ændre *bᵊyiqqᵊrôteʸxā* (»blandt dine dyrebare«) til: *liqrāʔtᵊxā*: »(går) dig i møde«, ligesom man ofte vælger at ændre *bᵊnôt mᵊlāxîm* (»kongedøtre«) til: *bat-melex*: »kongedatter«, så sætningen lyder: »En kongedatter går dig i møde«. Det giver god mening, men er i virkeligheden ret vilkårligt.",
+          "type": "E",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "\fHør, datter, og se til og bøj dit øre\fog glem dit folk og din fars hus!",
+      "number": 11,
+      "version": 1527199200000
+    },
+    {
+      "text": "\fSå skal kongen begære din skønhed,\ffor han er din herre,\fog du skal kaste dig ned for ham.",
+      "number": 12,
+      "version": 1527199200000
+    },
+    {
+      "text": "\fOg Tyrus' datter,\fmed gave søger et folks rigmænd din gunst.",
+      "number": 13,
+      "version": 1527199200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »vil blødgøre dit ansigt«. Der foreslås i øvrigt ofte rettelser i verset. Den enkleste er at rette *bat-* (»datter«) til *bᵊnôt-* (»døtre«), flytte adskillelsen mellem linjerne og underforstå et »kommer til dig«: »Tyrus' døtre kommer til dig med gave, et folks rigmænd søger din gunst«.",
+          "type": "E",
+          "position": 61
+        }
+      ]
+    },
+    {
+      "text": "\fEn kongedatter er lutter pragt i det indre,\fhendes dragt er tilvirket med guld.",
+      "number": 14,
+      "version": 1527199200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »al pragt en kongedatter i det indre/indadtil«. Der er intet verbum som derfor må underforstås, enten »er« eller »(I al sin pragt) træder (en kongedatter) ind«.",
+          "type": "E",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "text": "\fI farvestrålende klæder føres til kongen\fjomfruerne, hendes veninder, efter hende,\fde føres til dig.",
+      "number": 15,
+      "version": 1527199200000
+    },
+    {
+      "text": "\fDe føres frem med glæde og jubel,\fde kommer ind i kongens palads.",
+      "title": "Afsluttende ord til brudgommen",
+      "number": 16,
+      "version": 1527199200000
+    },
+    {
+      "text": "\fDine sønner skal være i dine fædres sted,\fdu skal sætte dem til fyrster i hele landet.",
+      "number": 17,
+      "version": 1527199200000,
+      "footnotes": [
+        {
+          "text": "Oversættes undertiden: »over hele jorden«, men præpositionen *bᵊ* betyder: »i«.",
+          "type": "T",
+          "position": 87
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil lade dit navn blive husket i slægt efter slægt,\fderfor skal folk prise dig evigt og altid.",
+      "number": 18,
+      "version": 1527199200000
+    }
+  ]
+}

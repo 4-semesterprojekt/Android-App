@@ -1,0 +1,81 @@
+{
+  "book": "Zakarias' Bog",
+  "abbreviation": "Zak",
+  "chapter": 13,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fPå den dag skal en kilde blive åbnet for Davids hus og for Jerusalems indbyggere imod synd og urenhed.",
+      "title": "Israels renselse",
+      "number": 1,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fOg på den dag, siger Hærskarers JHVHv, vil jeg udrydde afgudernes navne fra landet, og de skal ikke længere huskes. Også profeterne og den urene ånd vil jeg forvise fra landet. v3 Og hvis nogen fortsætter med at profetere, vil hans far og mor, som fødte ham, sige til ham: »Du skal ikke leve, for du har talt løgn i JHVHs navn!« Og de skal gennembore ham; hans far og hans mor, som fødte ham, fordi han profeterede.",
+      "number": 2,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Samme ord som i kap. 12,10.",
+          "type": "E",
+          "position": 351
+        }
+      ]
+    },
+    {
+      "text": "\fPå den dag skal profeterne hver især skamme sig over sit syn, når de profeterer. Og de skal ikke iføre sig en lodden kappe for at bedrage. v5 Men han skal sige: »Jeg er ingen profet, jeg er landmand. For en mand købte mig, da jeg var ung.« v6 Og spørger man ham: »Hvad betyder disse sår på din ryg?« skal han svare: »Det er slag, som jeg fået i mine elskeres hus.«",
+      "title": "Sværdet og hyrden",
+      "number": 4,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "En anden mulig oversættelse er »for jeg har dyrket jorden, siden jeg var ung«.",
+          "type": "E",
+          "position": 240
+        },
+        {
+          "text": "Ordret »mellem dine hænder«, hvilket kan hentyde til ryggen og brystet.",
+          "type": "E",
+          "position": 300
+        },
+        {
+          "text": "Eller »venners«.",
+          "type": "T",
+          "position": 359
+        }
+      ]
+    },
+    {
+      "text": "\fSværd! Vågn op mod min hyrde;\fimod min landsmand, siger Hærskarers JHVHv.\fSlå hyrden, så fårene spredes.\fJeg vil vende min hånd mod de små.",
+      "number": 7,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fOg det skal ske i hele landet, siger JHVH:\fTo dele af det skal udryddes og dø,\fmen den ene tredjedel skal blive tilbage.",
+      "number": 8,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fOg jeg vil lutre denne tredjedel i ild, som man lutrer sølvet;\fprøve den, som man prøver guldet.\fDe skal påkalde mit navn, og jeg vil bønhøre dem.\fJeg siger: »Det er mit folk«,\fog de skal sige: »JHVH er min Gud.«",
+      "number": 9,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Ordret »den«, dvs. tredjedelen.",
+          "type": "T",
+          "position": 100
+        }
+      ]
+    }
+  ]
+}

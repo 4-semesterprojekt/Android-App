@@ -1,0 +1,149 @@
+{
+  "book": " Paulus' Andet Brev til Korintherne",
+  "abbreviation": "2Kor",
+  "chapter": 5,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fFor vi ved, at hvis vores jordiske teltbolig nedbrydes, har vi en bygning fra Gud, en bolig, der ikke er gjort med hænder, en evig i himlene.",
+      "title": "Selv om apostelens legeme skulle nedbrydes i døden, har han det himmelske herlighedslegeme i vente. Helst ønskede han at nå frem til det ved at opleve Herrens komme, uden at aflægge legemet i døden, 1-4. Men hvordan det end skal gå med det, er han frimodig - fra en anden side set er døden jo en vinding for ham - og han søger under alle forhold at være Herren til behag, 5-10. Sin tjeneste udfører han derfor i Herrens frygt, hvad korintherne kan vise over for hans modstandere. Kristi død for alle mennesker er det, der behersker ham i hele hans tjeneste, 11-17; han betragter den som en forligelsens tjeneste imellem Gud og menneskene, på Guds vegne og i Kristi sted, 18-21.",
+      "number": 1,
+      "version": 1542582000000
+    },
+    {
+      "text": "Ja, også i den sukker vi, længselsfulde efter at blive iklædt vores bolig fra himmelen,",
+      "number": 2,
+      "version": 1542582000000,
+      "footnotes": [
+        {
+          "text": "den jordiske teltbolig.",
+          "type": "T",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "text": "så sandt vi da som påklædte ikke skal findes nøgne.",
+      "number": 3,
+      "version": 1542582000000,
+      "footnotes": [
+        {
+          "text": "dvs. uden legeme, i dødsriget, jfr. v. 4.",
+          "type": "T",
+          "position": 51
+        }
+      ]
+    },
+    {
+      "text": "Ja, vi, der er i dette telt, sukker besværede, eftersom vi ikke vil klædes af, men klædes på, for at det dødelige kan blive opslugt af livet.",
+      "number": 4,
+      "version": 1542582000000
+    },
+    {
+      "text": "Men den, der har sat os i stand til netop det, er Gud, der gav os Åndens pant.",
+      "number": 5,
+      "version": 1542582000000
+    },
+    {
+      "text": "Derfor er vi altid frimodige og ved, at mens vi er hjemme i legemet, er vi borte fra Herren -",
+      "number": 6,
+      "version": 1542582000000
+    },
+    {
+      "text": "For det er i tro, vi vandrer, ikke i skuen -",
+      "number": 7,
+      "version": 1542582000000
+    },
+    {
+      "text": "ja, vi er frimodige og har snarere lyst til at vandre bort fra legemet og være hjemme hos Herren.",
+      "number": 8,
+      "version": 1542582000000
+    },
+    {
+      "text": "Derfor sætter vi også vores ære i at være velbehagelige for ham, hvad enten vi er hjemme eller borte.",
+      "number": 9,
+      "version": 1542582000000
+    },
+    {
+      "text": "For vi skal alle åbenbares for Kristi domstol, for at enhver kan få igen, hvad der er gjort i legemet, efter det, han har øvet, enten godt eller ondt.",
+      "number": 10,
+      "version": 1542582000000
+    },
+    {
+      "text": "\fEftersom vi da kender frygten for Herren, søger vi at vinde mennesker; men for Gud er vi åbenlyse; ja, jeg håber, at vi også er åbenlyse for jeres samvittigheder.",
+      "number": 11,
+      "version": 1542582000000
+    },
+    {
+      "text": "Vi anbefaler ikke igen os selv til jer; men vi giver jer anledning til at rose jer af os, for at I kan have noget at svare dem, der roser sig af det ydre og ikke af hjertet.",
+      "number": 12,
+      "version": 1542582000000
+    },
+    {
+      "text": "For når vi »blev afsindige«, var det for Guds skyld, og når vi er besindige, er det for jeres skyld.",
+      "number": 13,
+      "version": 1542582000000
+    },
+    {
+      "text": "For Kristi kærlighed tvinger os,",
+      "number": 14,
+      "version": 1542582000000
+    },
+    {
+      "text": "idet vi har konkluderet sådan: Én er død for alle, altså er de alle døde; og han døde for alle, for at de levende ikke mere skal leve for sig selv, men for ham, der er død og oprejst for dem.",
+      "number": 15,
+      "version": 1542582000000
+    },
+    {
+      "text": "Sådan ved vi fra nu af ikke af nogen efter kødet; selvom vi også har kendt Kristus efter kødet, gør vi det dog ikke mere nu.",
+      "number": 16,
+      "version": 1542582000000,
+      "footnotes": [
+        {
+          "text": "efter det ydre",
+          "type": "T",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "Derfor, hvis nogen er i Kristus, er han en ny skabning; det gamle er gået forbi, se, det er blevet nyt!",
+      "number": 17,
+      "version": 1542582000000
+    },
+    {
+      "text": "Men alt dette er fra Gud, der forligte os med sig selv ved Kristus og gav os forligelsens tjeneste,",
+      "number": 18,
+      "version": 1542582000000
+    },
+    {
+      "text": "eftersom det jo var Gud, der i Kristus forligte verden med sig selv, idet han ikke tilregner dem deres overtrædelser og har nedlagt forligelsens ord i os.",
+      "number": 19,
+      "version": 1542582000000
+    },
+    {
+      "text": "Vi er altså sendebud i Kristi sted, som om Gud formaner ved os; vi beder i Kristi sted: Bliv forligt med Gud!",
+      "number": 20,
+      "version": 1542582000000
+    },
+    {
+      "text": "Den, der ikke kendte synd, har han gjort til synd for os, for at vi skal blive Guds retfærdighed i ham.",
+      "number": 21,
+      "version": 1542582000000
+    }
+  ]
+}

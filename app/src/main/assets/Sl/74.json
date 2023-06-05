@@ -1,0 +1,270 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 74,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMaskil af Asaf.\fHvorfor, Gud, har du forkastet for evigt?\fHvorfor ryger din vrede mod din græsgangs hjord?",
+      "title": "Klage over at templet er ødelagt",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Betydningen er usikker. Man har tidligere (med støtte i Septuaginta) forstået det som »læredigt«, idet ordet må være afledet af roden *śkl*: »være klog, overvejende«. Dette passer dog dårligt med flertallet af de salmer der kaldes »maskil« (Sl 42; 44; 45; 52-55; 74; 78; 88; 89; 142). Det må snarere forstås som »meditation« eller »kunstfærdig salme« eller evt. »hyldestsang«.",
+          "type": "E",
+          "position": 7
+        },
+        {
+          "text": "Spørgepartiklen »hvorfor« står ikke her i grundteksten, men linjen er stadig afhængig af partiklen i første linje, og den er derfor gentaget her af forståelsesmæssige grunde.",
+          "type": "T",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "\fHusk din menighed som du erhvervede i gammel tid,\fsom du forløste til at være stammen på din arvelod,\fZions bjerg, som du har taget bolig på.",
+      "number": 2,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din arvs stamme«.",
+          "type": "T",
+          "position": 102
+        }
+      ]
+    },
+    {
+      "text": "\fLøft dine skridt mod de evige ruiner,\falt har fjenden ødelagt i helligdommen!",
+      "number": 3,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDine modstandere har brølet midt på dit forsamlingssted,\fde har sat deres tegn op til tegn.",
+      "number": 4,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Oversættes undertiden: »åbenbaringssted«, da ordet *môʕēd* i 2 Mosebog betegner »Åbenbarings(teltet)«.",
+          "type": "E",
+          "position": 57
+        },
+        {
+          "text": "Det kan være bannere, altre, afgudsbilleder osv.",
+          "type": "E",
+          "position": 92
+        }
+      ]
+    },
+    {
+      "text": "\fHan vil gøre sig kendt, som når man højt hæver\føkserne mod et træs tætte grene.",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Verset er stærkt omdiskuteret. Problemet er især verbet: *yiwwādaʕ* (»han vil gøre sig kendt«). »Han« må være fjenden. Oversættelsen: »det ser ud« kan forsvares. De fleste oversættere og fortolkere vælger at rette til: *yigdᵉʕû*: »de fældede«.",
+          "type": "E",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "\fOg nu - deres udskårne arbejder\fsmadrede de med økser og brækjern.",
+      "number": 6,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Versets første ord, *wᵊʕattā*, er omdiskuteret. Konsonanterne forudsætter at det skal være: *wᵊʕēt*: »og et tidspunkt«, mens vokalerne angiver: »og nu«. Blandt rettelsesforslagene er især: *kittᵊtû*: »de fældede« eller: *wᵊʔēt*: »og« + akkusativmærket (»og deres udskårne arbejder …«).",
+          "type": "E",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "text": "\fDe satte ild på din helligdom,\fde har vanhelliget dit navns bolig helt til grunden.",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »til jorden«. Meningen er formodentlig enten at helligdommen blev totalt vanhelliget, eller at den blev brudt ned til grunden, eller begge dele.",
+          "type": "T",
+          "position": 84
+        }
+      ]
+    },
+    {
+      "text": "\fDe sagde i deres hjerte: »Lad os underkue dem alle.«\fde har brændt alle Guds forsamlingssteder i landet.",
+      "number": 8,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "*nînām* betyder ordret: »deres slægt«. Men man vokaliserer som regel: *nînēm*: »lad os underkue dem«, ellers må der underforstås et verbum.",
+          "type": "E",
+          "position": 46
+        },
+        {
+          "text": "Oversættes undertiden: »åbenbaringssteder«, da ordet *môʕēd* i 2 Mosebog betegner »Åbenbarings(teltet)«.",
+          "type": "E",
+          "position": 95
+        }
+      ]
+    },
+    {
+      "text": "\fVi så ikke vore egne tegn,\fder er ikke mere nogen profet,\fder er ingen hos os, som ved, hvor længe det skal vare.",
+      "number": 9,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHvor længe, Gud, skal fjenden spotte?\fSkal modstanderen foragte dit navn for evigt?",
+      "number": 10,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHvorfor trækker du din hånd tilbage, også din højre hånd?\fTag den ud fra det indre af din kappefold, gør ende på det!",
+      "title": "Lovprisning af skabelsens Gud",
+      "number": 11,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er omdiskuteret. Her er verbet »tag« underforstået ud fra sammenhængen (især ud fra præpositionen »fra«). Mange retter *xallēʰ* (»gør ende på det/ødelæg«) til: *xᵊluʔāʰ*: »er skjult«. Man trækker desuden »din højre hånd« ind fra foregående linje og retter *miqqerev* (»fra det indre«) til: *bᵊqerev*: »i det indre«. Linjen kommer til at lyde: »og holder din højre hånd skjult i det indre af kappefolden?«",
+          "type": "E",
+          "position": 118
+        }
+      ]
+    },
+    {
+      "text": "\fMen Gud er min konge fra ældgammel tid\fsom skaber frelse midt på jorden.",
+      "number": 12,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDu bragte havet i oprør med din styrke,\fdu knuste havuhyrers hoveder på vandene.",
+      "number": 13,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Verbet *prr* findes kun denne ene gang i po’el i GT (og i alt kun fire gange). Det foreslås undertiden at oversætte det: »spalte«, men denne betydning er ikke godtgjort.",
+          "type": "E",
+          "position": 24
+        }
+      ]
+    },
+    {
+      "text": "\fDu smadrede Livjatans hoveder,\fdu gav dem som føde til et folk, til ørkendyr.",
+      "number": 14,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordene: *lᵊʕām lᵊṣiyyîm* (»til et folk, til ørkendyrene«) er omdiskuterede. Oftest griber man til en rettelse: *lᵊʕamlᵊṣê yām*: »til havets hajer«. En anden mulighed er at opfatte *ʕām* (»folk«) som udtryk for »hær/stor skare«, altså: »til en hær af ørkendyr«.",
+          "type": "E",
+          "position": 78
+        }
+      ]
+    },
+    {
+      "text": "\fDu lod kilde og bæk bryde frem,\fdu udtørrede stedserindende floder.",
+      "number": 15,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fDin er dagen, din er også natten,\fdu har anbragt lys og sol.",
+      "number": 16,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Der er formodentlig tænkt på både måne og stjerner.",
+          "type": "T",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "\fDu har fastlagt alle jordens grænser,\fsommer og vinter har du dannet.",
+      "title": "Klage og bøn",
+      "number": 17,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHusk dette: En fjende spottede, JHVHv,\fog et tåbeligt folk foragtede dit navn.",
+      "number": 18,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGiv ikke din turteldues liv til et vilddyr,\fglem ikke dine hjælpeløses liv for evigt!",
+      "number": 19,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
+          "position": 28
+        },
+        {
+          "text": "Ordret: »sjæl«.",
+          "type": "T",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "\fTag hensyn til pagten!\fFor landets mørke steder er fulde af voldsboliger.",
+      "number": 20,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »jordens«.",
+          "type": "T",
+          "position": 35
+        },
+        {
+          "text": "Nogle oversættere sletter *nᵊʔôt* (»boliger/bosteder/byer« eller retter til: *ʔᵃnāḥāh*: »stønnen« (»stønnen og vold«).",
+          "type": "E",
+          "position": 74
+        }
+      ]
+    },
+    {
+      "text": "\fLad ikke den undertrykte vende skamfuld tilbage,\fden hjælpeløse og fattige skal love dit navn!",
+      "number": 21,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Der kan være tænkt på at den undertrykte ikke skal vende tilbage fra bønner der ikke er blevet hørt. En del oversættere retter vokaliseringen af *yāšōv* (»vende tilbage«) til: *yēšēv*: »sidde«.",
+          "type": "E",
+          "position": 49
+        }
+      ]
+    },
+    {
+      "text": "\fRejs dig, Gud, før din sag,\fhusk hvordan en tåbe håner dig dagen lang.",
+      "number": 22,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fGlem ikke dine fjenders råb,\fdine modstanderes bulder, som bestandig stiger op.",
+      "number": 23,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret:»røst«.",
+          "type": "T",
+          "position": 29
+        }
+      ]
+    }
+  ]
+}

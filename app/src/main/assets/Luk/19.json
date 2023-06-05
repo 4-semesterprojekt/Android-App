@@ -1,0 +1,126 @@
+{
+  "book": "Lukasevangeliet",
+  "abbreviation": "Luk",
+  "chapter": 19,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHan kom ind i Jeriko og drog igennem den.",
+      "number": 1,
+      "version": 1646953200000
+    },
+    {
+      "text": "Se, der var en mand som hed Zakæus; han var overtolder, og han var rig.",
+      "number": 2,
+      "version": 1646953200000
+    },
+    {
+      "text": "Han prøvede at få at se hvem der var Jesus, men kunne ikke for folkemængden fordi han var lille af vækst.",
+      "number": 3,
+      "version": 1646953200000
+    },
+    {
+      "text": "Han løb i forvejen og klatrede op i et morbærfigentræ for at kunne se ham, for han skulle komme den vej.",
+      "number": 4,
+      "version": 1646953200000
+    },
+    {
+      "text": "Da Jesus kom til stedet, så han op og sagde til ham: »Zakæus! Skynd dig at stige ned, for i dag bør jeg opholde mig i dit hjem.«",
+      "number": 5,
+      "version": 1646953200000
+    },
+    {
+      "text": "Han skyndte sig at stige ned og tog imod ham som gæst med glæde.",
+      "number": 6,
+      "version": 1646953200000
+    },
+    {
+      "text": "Da de så det, knurrede de alle og sagde: »Han er gået ind for at være gæst hos en syndig mand.«",
+      "number": 7,
+      "version": 1646953200000
+    },
+    {
+      "text": "Men Zakæus stod frem og sagde til Herren: »Se, Herre! Halvdelen af min ejendom giver jeg de fattige; og hvis jeg har presset noget af nogen, giver jeg det firdobbelt igen.«",
+      "number": 8,
+      "version": 1646953200000
+    },
+    {
+      "text": "Men Jesus sagde til ham: »I dag er frelsen kommet til dette hus, for også han er en Abrahams søn;",
+      "number": 9,
+      "version": 1646953200000
+    },
+    {
+      "text": "for Menneskesønnen er kommet for at opsøge og frelse det fortabte.«",
+      "number": 10,
+      "version": 1646953200000
+    },
+    {
+      "text": "\fDa han kom nærmere og så byen, græd han over den",
+      "number": 41,
+      "version": 1646953200000
+    },
+    {
+      "text": "og sagde: »Vidste dog du på denne din dag, ja du, hvad der tjener til din fred! Men nu er det skjult for dine øjne.",
+      "number": 42,
+      "version": 1646953200000
+    },
+    {
+      "text": "For der skal komme dage over dig hvor dine fjender skal kaste en vold op omkring dig og omringe dig og trænge dig fra alle sider;",
+      "number": 43,
+      "version": 1646953200000,
+      "footnotes": [
+        {
+          "text": "Egentlig: »mur af palisader«.",
+          "type": "T",
+          "position": 69
+        }
+      ]
+    },
+    {
+      "text": "og de skal jævne dig med jorden og dine børn i dig og ikke lade sten på sten tilbage i dig fordi du ikke kendte din besøgelsestid.«",
+      "number": 44,
+      "version": 1646953200000
+    },
+    {
+      "text": "\fHan gik ind i helligdommen og begyndte at drive sælgerne ud",
+      "number": 45,
+      "version": 1646953200000
+    },
+    {
+      "text": "og sagde til dem: »Der er skrevet: For mit hus skal være et bedehus; men I har gjort det til en røverkule.«",
+      "number": 46,
+      "version": 1646953200000
+    },
+    {
+      "text": "\fHan underviste dagligt i helligdommen; men ypperstepræsterne og de skriftkloge og de fremstående i folket søgte at rydde ham af vejen.",
+      "number": 47,
+      "version": 1646953200000
+    },
+    {
+      "text": "Men de fandt ikke ud af hvad de skulle gøre, for hele folket hang ved ham og hørte på ham.",
+      "number": 48,
+      "version": 1646953200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »lyttende«",
+          "type": "T",
+          "position": 90
+        }
+      ]
+    }
+  ]
+}

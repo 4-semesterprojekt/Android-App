@@ -1,0 +1,220 @@
+{
+  "book": "Habakkuks Bog",
+  "abbreviation": "Hab",
+  "chapter": 2,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJeg vil stå på min post;\fjeg vil stille mig i tårnet og spejde for at se hvad han vil sige til mig,\fog hvad jeg skal svare på min klage.",
+      "title": "Guds svar",
+      "number": 1,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Eller fæstningen.",
+          "type": "E",
+          "position": 53
+        },
+        {
+          "text": "Den syriske tekst (Peshitta) har »hvad han vil svare på min klage«, hvilket følges af mange kommentarer og oversættelser, heriblandt DO92.",
+          "type": "E",
+          "position": 137
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH svarede mig:\f»Skriv synet ned, og gør det tydeligt på tavlerne\ffor at den som læser det, hurtigt kan læse det.«",
+      "number": 2,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fFor der er stadig et syn om en fastsat tid;\fdet vidner om opfyldelsen og lyver ikke.\fHvis det er forsinket, så vent på det,\ffor det skal virkelig komme; det skal ikke udeblive.",
+      "number": 3,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Verset kan oversættes på forskellige måder, afhængig af om man forstår *ʕôd* som »stadig«, dvs. der er et endnu et syn, eller som »først«, dvs. synet kommer først på et bestemt tidspunkt eller gælder først på et bestemt tidspunkt.",
+          "type": "E",
+          "position": 44
+        },
+        {
+          "text": "Ordret »enden«.",
+          "type": "E",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "\fSe, hans, sjæl er opblæst og ikke retsindig,\fmen den retfærdige skal leve ved sin tro.",
+      "title": "Veråb over kaldæerkongen",
+      "number": 4,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Måske kaldæerkongen.",
+          "type": "T",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "text": "\fJa sandelig, vinen er en bedrager;\fen hovmodig mand kan ikke bestå.\fHan der ligesom dødsriget opspiler sit svælg,\fhan er som døden og mættes ikke.\fHan samlede alle folkeslag til sig; han indsamlede alle folkene.",
+      "number": 5,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fMon ikke alle disse vil komme frem imod ham med ordsprog, hån og gådetaler om ham?\fSå man siger: »Ve ham som dynger sammen hvad der ikke er hans\f- hvor længe skal det vare? –\fOg ham som tynger sig selv med gældsbeviser!«",
+      "number": 6,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fMon ikke dine udlånere pludselig står frem?\fMon ikke de som får dig til at ryste, vågner op,\fså du bliver deres bytte?",
+      "number": 7,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fFor du har udplyndret mange folkefærd.\fAlle de resterende af folkene skal plyndre dig på grund af dine blodsudgydelser mod menneskeheden\fog din vold mod landet, mod byen og alle som bor i den.\n\n",
+      "number": 8,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Eller »jorden«.",
+          "type": "E",
+          "position": 161
+        }
+      ]
+    },
+    {
+      "text": "\fVe ham som tilegner sig skamløs gevinst til sit hus\ffor at sætte sin rede højt oppe,\ffor at redde sig fra ulykkens hånd!",
+      "number": 9,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fDu har lagt planer om at udrydde mange folk til skam for dit eget hus,\fog du syndede mod din egen sjæl.",
+      "number": 10,
+      "version": 1511218800000
+    },
+    {
+      "text": "For stenen fra væggen skal råbe,\fog bjælken fra træværket skal svare den.\n\n",
+      "number": 11,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fVe ham som bygger en by med blod\fog grundlægger en stad med uretfærdighed!",
+      "number": 12,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fEr dette ikke fra Hærskarers JHVHv?\fFolkene arbejder sig trætte for ting der går til i ild,\fog folkefærd udmatter sig for ingenting.",
+      "number": 13,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Nogle oversættelser oversætter *hnh* med »se!«, men det kan også oversættes som her med »dette«, 3. person pluralis femininum.",
+          "type": "E",
+          "position": 9
+        },
+        {
+          "text": "Ordret »Folkene bliver trætte ved ild«.",
+          "type": "E",
+          "position": 92
+        }
+      ]
+    },
+    {
+      "text": "\fFor jorden skal fyldes med erkendelse af JHVHs herlighed,\fsom vandene dækker havet.",
+      "number": 14,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fVe ham som giver sin næste en drik blandet med gift,\fog endda drikker ham fuld for at se på hans nøgenhed!",
+      "number": 15,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din gift« eller »din vrede«.",
+          "type": "E",
+          "position": 53
+        },
+        {
+          "text": "Ordret »deres«.",
+          "type": "E",
+          "position": 97
+        }
+      ]
+    },
+    {
+      "text": "\fDu har mættet dig med skam i stedet for herlighed.\fSå drik da også du, og vis dig uomskåret!\fBægeret i JHVHs højre hånd skal vende sig mod dig,\fog skændsel skal være over din herlighed.",
+      "number": 16,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fFor voldshandlingen mod Libanon skal komme over dig,\fog ligeledes tilintetgørelsen af kvæget som var skræmt;\fpå grund af din blodskyld mod mennesker og voldsfærd mod landet, mod byen og alle som bor i den.",
+      "number": 17,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Ordret »Libanons vold«.",
+          "type": "E",
+          "position": 32
+        },
+        {
+          "text": "Ordret: »dække dig«.",
+          "type": "E",
+          "position": 53
+        },
+        {
+          "text": "Eller »jorden«.",
+          "type": "E",
+          "position": 174
+        }
+      ]
+    },
+    {
+      "text": "\fHvad gavn gør et afgudsbillede,\fnår dets håndværker har dannet det\f- en metalstøbning, og en der lærer løgn?\fFor han som former dets billede, stoler på det,\fnår han laver stumme afguder.\n\n",
+      "number": 18,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "På hebraisk »kî« der ofte oversættes med »for« (kausalt).",
+          "type": "E",
+          "position": 36
+        }
+      ]
+    },
+    {
+      "text": "\fVe ham som siger til en træklods: »Vågn op!«\fOg til en døv sten: »Vågn!«\fSkulle den kunne belære?\fSe, den er overtrukket med guld og sølv,\fog der er slet ingen ånd i den.",
+      "number": 19,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Eller: »der er intet åndedræt i den«.",
+          "type": "E",
+          "position": 171
+        }
+      ]
+    },
+    {
+      "text": "\fMen JHVH er i sit hellige tempel.\fStille for ham, hele jorden!",
+      "number": 20,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Ordret »hans ansigt«.",
+          "type": "E",
+          "position": 50
+        }
+      ]
+    }
+  ]
+}

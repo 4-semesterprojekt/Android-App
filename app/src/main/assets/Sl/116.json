@@ -1,0 +1,178 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 116,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJeg elsker at JHVH har hørt\fmin tryglende røst.",
+      "title": "Du har reddet mit liv",
+      "number": 1,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er omdiskuteret. En ordret oversættelse ville umiddelbart være: »Jeg elsker, for JHVH har hørt«, men verbet »elske« kan normalt ikke stå uden objekt. Enten må den følgende sætning udgøre objektet (denne oversættelse), eller »JHVH« må flyttes frem, så oversættelsen bliver: »Jeg elsker JHVH, for han har hørt min tryglende røst«.",
+          "type": "E",
+          "position": 11
+        },
+        {
+          "text": "Den masoretiske tekst har yiqtol: *yišmaʕ*: »(JHVH) vil høre«. I hele afsnittet er der dog tale om Guds indgreb i fortid, hvorfor man normalt går ud fra, at yiqtols *y* skyldes dittografi efter det forudgående: *kî* (»for«) (*y* og *î* dækker begge over bogstavet »jod«), så der skal læses qatal: *šāmaʕ*: »har hørt«.",
+          "type": "E",
+          "position": 28
+        },
+        {
+          "text": "Ordret: »min tryglens røst«.",
+          "type": "T",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\fFor han har bøjet sit øre til mig,\fog i mine dage vil jeg udråbe:",
+      "number": 2,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Sætningen er omdiskuteret. Denne oversættelse går ud fra at salmisten vil udråbe det der står i de næste vers. En anden mulighed er at salmisten alle dage vil »råbe« i betydningen påkalde JHVH. Mange oversættere følger en foreslået rettelse af: *ûvᵊyāmay* (»og i mine dage«) til: *bᵊyôm*: »den dag da« = »da«; man oversætter også yiqtol: *ʔeqrāˀ* (»jeg vil råbe/udråbe«) ved fortid: »(da) jeg råbte«.",
+          "type": "E",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "\f»Dødens reb omgav mig,\fog dødsrigets trængsler havde fundet mig,\fjeg fandt nød og plage.",
+      "number": 3,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Her og i v.4 og v.6 oversættes yiqtol normalt ved fortid idet verberne angiver en følge af det forgående.",
+          "type": "E",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "\fDa påkaldte jeg JHVHs navn:\f»Ak, JHVHv, red mit liv!«",
+      "number": 4,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »min sjæl«.",
+          "type": "T",
+          "position": 54
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH er nådig og retfærdig,\fog vor Gud forbarmer sig.",
+      "number": 5,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fJHVH beskytter enfoldige,\fjeg var ringe, men han hjalp mig.«",
+      "number": 6,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fMin sjæl, kom tilbage til din ro,\ffor JHVH har handlet vel imod dig.",
+      "number": 7,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fJa, du har reddet mit liv fra døden,\fmit øje fra tåre,\fmin fod fra fald.",
+      "number": 8,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Ordret: »min sjæl«.",
+          "type": "T",
+          "position": 26
+        }
+      ]
+    },
+    {
+      "text": "\fJeg kan vandre for JHVHs ansigt\fi de levendes lande.",
+      "number": 9,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fJeg har troet, derfor kan jeg sige:\f»Jeg var hårdt plaget.«",
+      "number": 10,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fJeg sagde i min angst:\f»Hele menneskeheden er løgnere.«",
+      "title": "Jeg vil løfte frelsens bæger",
+      "number": 11,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fHvordan skal jeg gengælde JHVH\falle hans velgerninger mod mig?",
+      "number": 12,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fFrelsens bæger vil jeg løfte\fog påkalde JHVHs navn.",
+      "number": 13,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fJeg vil indfri mine løfter til JHVH,\fog det foran hele hans folk.",
+      "number": 14,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fKostbar i JHVHs øjne\fer hans frommes død.",
+      "number": 15,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Oversættes nu ofte: »liv«, idet meningen i sammenhængen formodentlig er at Gud vil bevare den frommes »liv« (jf. v. 8). Men grundteksten har: *māwet*: »død«.",
+          "type": "T",
+          "position": 42
+        }
+      ]
+    },
+    {
+      "text": "\fAk, JHVHv, jeg er jo din træl,\fjeg er din træl, din trælkvindes søn,\fdu har løst mine lænker.",
+      "number": 16,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fTil dig vil jeg ofre slagtoffer som takoffer\fog påkalde JHVHs navn.",
+      "number": 17,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fJeg vil indfri mine løfter til JHVH,\fog det foran hele hans folk,",
+      "number": 18,
+      "version": 1499983200000
+    },
+    {
+      "text": "\fi forgårdene til JHVHs hus,\fi din midte, Jerusalem!\fHalleluja!",
+      "number": 19,
+      "version": 1499983200000,
+      "footnotes": [
+        {
+          "text": "Septuginta, der følges af en del oversættere, har dette »halleluja« som indledning til Sl 117.",
+          "type": "T",
+          "position": 63
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "book": "Fjerde Mosebog",
+  "abbreviation": "4Mos",
+  "chapter": 28,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fJHVH sagde til Moses:",
+      "title": "JHVH giver love om det daglige offer.",
+      "number": 1,
+      "version": 1500328800000
+    },
+    {
+      "text": "»Giv israelitterne befaling og sig til dem: ›I skal være omhyggelige med min offergave, min mad knyttet til mine ildofre, der er en dejlig duft for mig, at I frembærer dem på deres fastsatte tidspunkter.",
+      "number": 2,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "Teksten har først et foranstillet *qorbānî* »min offergave« og det er et helt generelt ord for et offer. Derefter følger i apposition *laḥmî*, »mit brød«, der tydeligvis indsnævrer emnet til omhandle afgrødeofferet. Dette brød, eller denne mad, er med *lᵊ* »knyttet til« forbundet til ʔiššay »mine ildofre«, der så er en dejlig duft. Fra andre tekster ved vi at en håndfuld af kornet blev brændt, og resten blev spist af præsten.",
+          "type": "E",
+          "position": 121
+        }
+      ]
+    },
+    {
+      "text": "Du skal sige til dem: ›Dette er det ildoffer som I skal frembære for JHVH: Hver dag to årgamle fejlfri lam, som et dagligt offer.",
+      "number": 3,
+      "version": 1500328800000
+    },
+    {
+      "text": "Det ene lam skal du give om morgenen, og det andet lam skal du give ved tusmørkets frembrud,",
+      "number": 4,
+      "version": 1500328800000
+    },
+    {
+      "text": "sammen med en tiendedel efa mel som afgrødeoffer, blandet med en fjerdedel hin olie af knuste oliven.",
+      "number": 5,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "Det samme som 2,2 liter.",
+          "type": "T",
+          "position": 27
+        },
+        {
+          "text": "Det samme som 0,9 liter.",
+          "type": "T",
+          "position": 78
+        }
+      ]
+    },
+    {
+      "text": "Det er et dagligt brændoffer som blev indstiftet på Sinajs bjerg til en dejlig duft, et ildoffer for JHVH.",
+      "number": 6,
+      "version": 1500328800000
+    },
+    {
+      "text": "Dertil en fjerdedel hin som drikoffer til det ene lam. Du skal hælde et drikoffer af en stærk drik ud på det hellige sted for JHVH.",
+      "number": 7,
+      "version": 1500328800000
+    },
+    {
+      "text": "Det andet lam skal du ofre ved tusmørkets frembrud. Med det samme afgrødeoffer og drikoffer skal du ofre det, det er et ildoffer, en dejlig duft for JHVH.",
+      "title": "Sabbatsofrene.",
+      "number": 8,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fPå sabbatsdagen skal du ofre to årgamle fejlfri lam og to tiendedele mel blandet med olie som afgrødeoffer med drikoffer til.",
+      "number": 9,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "Der må være tale om efa, så der altså bruges 4,4 liter.",
+          "type": "T",
+          "position": 69
+        }
+      ]
+    },
+    {
+      "text": "Det er brændofret til hver sabbat foruden det daglige brændoffer med tilhørende drikoffer.",
+      "title": "Nymåneofrene.",
+      "number": 10,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fDen første dag i jeres måneder skal I ofre som brændoffer til JHVH to tyrekalve, en vædder og syv årgamle lam, uden fejl.",
+      "number": 11,
+      "version": 1500328800000
+    },
+    {
+      "text": "og tre tiendedele mel blandet med olie som afgrødeoffer til hver tyrekalv, og to tiendedele mel blandet med olie som afgrødeoffer til vædderen,",
+      "number": 12,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "Her og i de følgende angivelser må »efa« være underforstået.",
+          "type": "T",
+          "position": 17
+        }
+      ]
+    },
+    {
+      "text": "og en tiendedel mel blandet med olie som afgrødeoffer til hvert lam. Det er et brændoffer, en dejlig duft, et ildoffer for JHVH.",
+      "number": 13,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "efa",
+          "type": "T",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "text": "Og drikofferet til dem skal være en halv hin til tyrekalven og en tredjedel hin til vædderen og en fjerdedel hin vin til lammet. Dette er brændofferet hver måned efter månederne i året.",
+      "number": 14,
+      "version": 1500328800000
+    },
+    {
+      "text": "Og der skal ofres en gedebuk som syndoffer for JHVH, ud over det daglige brændoffer med tilhørende drikoffer.",
+      "title": "Påskeofrene.",
+      "number": 15,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fI den første måned, på den fjortende dag i måneden, er det påske for JHVH.",
+      "number": 16,
+      "version": 1500328800000
+    },
+    {
+      "text": "Den femtende dag i den samme måned er en højtid, man skal spise usyrede brød i syv dage.",
+      "number": 17,
+      "version": 1500328800000
+    },
+    {
+      "text": "Den første dag skal der være en hellig sammenkomst for jer, da skal I ikke udføre noget arbejde.",
+      "number": 18,
+      "version": 1500328800000
+    },
+    {
+      "text": "I skal ofre et ildoffer, et brændoffer for JHVH, to tyrekalve og en vædder og syv årgamle lam, de skal være fejlfri,",
+      "number": 19,
+      "version": 1500328800000
+    },
+    {
+      "text": "og deres afgrødeoffer, mel blandet med olie, tre tiendedele, skal I ofre til hver tyr, og to tiendedele til vædderen,",
+      "number": 20,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "efa",
+          "type": "T",
+          "position": 60
+        },
+        {
+          "text": "efa",
+          "type": "T",
+          "position": 103
+        }
+      ]
+    },
+    {
+      "text": "og en tiendedel skal du ofre til hvert af de syv lam,",
+      "number": 21,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "efa",
+          "type": "T",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "text": "derudover en buk som syndoffer for at skaffe soning for jer.",
+      "number": 22,
+      "version": 1500328800000
+    },
+    {
+      "text": "Udover brændofferet om morgenen, som indgår i det daglige brændoffer, skal I gøre disse ting.",
+      "number": 23,
+      "version": 1500328800000
+    },
+    {
+      "text": "På denne måde skal I hver af de syv dage lave brød til et ildoffer, en dejlig duft for JHVH. Det skal laves ud over det daglige brændoffer og med drikoffer til.",
+      "number": 24,
+      "version": 1500328800000
+    },
+    {
+      "text": "På den syvende dag skal der være en hellig sammenkomst for jer, da skal I ikke udføre noget arbejde.",
+      "title": "Pinseofrene.",
+      "number": 25,
+      "version": 1500328800000
+    },
+    {
+      "text": "\fPå førstegrødens dag, når I ofrer det nye afgrødeoffer for JHVH ved ugefesten, skal der være en hellig sammenkomst for jer, da skal I ikke udføre noget arbejde.",
+      "number": 26,
+      "version": 1500328800000
+    },
+    {
+      "text": "I skal ofre som brændoffer til en dejlig duft for JHVH: to tyrekalve, en vædder, syv årgamle lam",
+      "number": 27,
+      "version": 1500328800000
+    },
+    {
+      "text": "og deres afgrødeoffer, mel blandet med olie, tre tiendedele, til hver tyrekalv og to tiendedele til vædderen,",
+      "number": 28,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "efa",
+          "type": "T",
+          "position": 60
+        }
+      ]
+    },
+    {
+      "text": "en tiendedel til hvert af de syv lam,",
+      "number": 29,
+      "version": 1500328800000,
+      "footnotes": [
+        {
+          "text": "efa",
+          "type": "T",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "text": "og en gedebuk til at skaffe soning for jer.",
+      "number": 30,
+      "version": 1500328800000
+    },
+    {
+      "text": "Det skal I gøre ud over det daglige brændoffer med afgrødeoffer, de skal være uden fejl og med drikofre til.",
+      "number": 31,
+      "version": 1500328800000
+    }
+  ]
+}

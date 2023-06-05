@@ -44,7 +44,6 @@ fun DenFrieBibleNavHost(
             val abbreviation = it.arguments?.getString("abbreviation")!!
 
             GetText(
-                navController = navController,
                 number = number,
                 abbreviation = abbreviation,
             )

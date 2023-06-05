@@ -1,0 +1,167 @@
+{
+  "book": "Lukasevangeliet",
+  "abbreviation": "Luk",
+  "chapter": 16,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fMen han sagde også til disciplene: »Der var en rig mand som havde en godsforvalter, og denne blev beskyldt over for ham som en der øslede med hans ejendom.",
+      "number": 1,
+      "version": 1646002800000
+    },
+    {
+      "text": "Han kaldte på ham og sagde til ham: ›Hvad er det jeg hører om dig? Aflæg regnskab for din forvaltning, for du kan ikke længere være godsforvalter.‹",
+      "number": 2,
+      "version": 1646002800000
+    },
+    {
+      "text": "Men godsforvalteren sagde ved sig selv: ›Hvad skal jeg gøre når nu min herre tager forvaltningen fra mig? Grave har jeg ikke kræfter til, tigge skammer jeg mig ved.",
+      "number": 3,
+      "version": 1646002800000
+    },
+    {
+      "text": "Nu ved jeg hvad jeg vil gøre for at de skal modtage mig i deres huse, når jeg bliver sat fra forvaltningen.‹",
+      "number": 4,
+      "version": 1646002800000
+    },
+    {
+      "text": "Han kaldte hver enkelt af sin herres skyldnere til sig og sagde til den første: ›Hvor meget skylder du min herre?‹",
+      "number": 5,
+      "version": 1646002800000
+    },
+    {
+      "text": "Han sagde: ›100 ankre olie.‹ Han sagde til ham: ›Tag dit gældsbrev, og sæt dig hurtigt ned og skriv 50!‹",
+      "number": 6,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Det græske ord er et mål for flydende varer svarende til 36,4 liter.",
+          "type": "T",
+          "position": 21
+        }
+      ]
+    },
+    {
+      "text": "Derefter sagde han til en anden: ›Men du, hvor meget skylder du?‹ Han sagde: ›100 mål hvede.‹ Han siger til ham: ›Tag dit gældsbrev og skriv 80!‹",
+      "number": 7,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Det græske ord er et mål for både tørre og flydende varer svarende til 364 liter.",
+          "type": "T",
+          "position": 85
+        }
+      ]
+    },
+    {
+      "text": "Herren roste den uærlige godsforvalter fordi han havde handlet klogt; for denne verdens børn er klogere end lysets børn over for deres egen slægt.",
+      "number": 8,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Det græske ord er udtryk for denne (gudløse) tidsalder.",
+          "type": "T",
+          "position": 87
+        }
+      ]
+    },
+    {
+      "text": "Jeg siger jer: Skaf jer venner ved hjælp af uretfærdighedens mammon for at de, når det er forbi med den, må modtage jer i de evige boliger.",
+      "number": 9,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fDer var en rig mand som klædte sig i purpur og fint linned og levede hver dag i fryd og herlighed.",
+      "number": 19,
+      "version": 1646002800000
+    },
+    {
+      "text": "Men en fattig mand ved navn Lazarus lå ved hans port og var fuld af sår",
+      "number": 20,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »kastet hen«.",
+          "type": "T",
+          "position": 38
+        }
+      ]
+    },
+    {
+      "text": "og ønskede at spise sig mæt i det som faldt fra den riges spisebord; men selv hundene kom og slikkede hans sår.",
+      "number": 21,
+      "version": 1646002800000
+    },
+    {
+      "text": "Nu skete det at den fattige døde, og af englene blev han båret hen i Abrahams skød; og den rige døde også og blev begravet.",
+      "number": 22,
+      "version": 1646002800000
+    },
+    {
+      "text": "Da han slog øjnene op i dødsriget, hvor han var i pine, ser han Abraham langt borte og Lazarus i hans skød.",
+      "number": 23,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "På græsk: »Hades«.",
+          "type": "T",
+          "position": 34
+        }
+      ]
+    },
+    {
+      "text": "Han råbte: »Far Abraham! Forbarm dig over mig og send Lazarus så han kan dyppe det yderste af sin finger i vand og læske min tunge; for jeg pines i denne ild.«",
+      "number": 24,
+      "version": 1646002800000
+    },
+    {
+      "text": "Men Abraham sagde: »Barn! Husk på at du har fået dit gode i din livstid, og Lazarus ligeså det onde; men nu trøstes han her, og du pines.",
+      "number": 25,
+      "version": 1646002800000
+    },
+    {
+      "text": "Desuden er der lagt en stor afgrund mellem os og jer for at de som vil herfra over til jer, ikke skal kunne det, og de heller ikke skal kunne komme derfra over til os.«",
+      "number": 26,
+      "version": 1646002800000
+    },
+    {
+      "text": "Men han sagde: »Så beder jeg dig, far, at du vil sende ham til min fars hus —",
+      "number": 27,
+      "version": 1646002800000
+    },
+    {
+      "text": "for jeg har fem brødre — så at han kan vidne for dem for at ikke også de skal komme i dette pinested.«",
+      "number": 28,
+      "version": 1646002800000
+    },
+    {
+      "text": "Men Abraham sagde: »De har Moses og profeterne, dem skal de høre!«",
+      "number": 29,
+      "version": 1646002800000
+    },
+    {
+      "text": "Men han sagde: »Nej, far Abraham! Men hvis nogen fra de døde kommer til dem, vil de omvende sig.«",
+      "number": 30,
+      "version": 1646002800000
+    },
+    {
+      "text": "Men han sagde til ham: »Hvis de ikke hører Moses og profeterne, så lader de sig heller ikke overbevise hvis nogen opstår fra de døde.«",
+      "number": 31,
+      "version": 1646002800000
+    }
+  ]
+}

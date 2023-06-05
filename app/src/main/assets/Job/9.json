@@ -1,0 +1,315 @@
+{
+  "book": "Jobs bog",
+  "abbreviation": "Job",
+  "chapter": 9,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Lydia Nørrelykke Gad",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDa svarede Job",
+      "title": "Job er enig i at Gud er retfærdig, men forstår ikke at han handler ens med skyldige og uskyldige",
+      "number": 1,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t»Jeg ved sandelig godt\n\t\t\t\t\tat det er sådan.\f\n\t\t\t\tHvordan kan et menneske have ret over for Gud?",
+      "number": 2,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "yyiṣdaq* kan også oversættes »være retfærdig«.",
+          "type": "T",
+          "position": 85
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tHvis man har lyst\n\t\t\t\t\t\t\t\t\ttil at føre sag imod ham\f\n\t\t\t\t\t\t\t\tvil man ikke kunne svare ham én ud af tusind gange.",
+      "number": 3,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tHan er vis af hjertet og mægtig i styrke,\f\n\t\t\t\t\t\t\t\thvem kan trodse ham\n\t\t\t\t\t\t\t\t\tog forblive uskadt?",
+      "number": 4,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\tHan er den som flytter bjerge\n\t\t\t\t\t\tuden at de bemærker det,\f\n\t\t\t\t\t\t\tidet han vælter dem i sin vrede.",
+      "number": 5,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\tHan får jorden til at ryste i sine grundvolde,\f\n\t\t\t\t\t\tog dens søjler skælver.",
+      "number": 6,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »fra sit sted«.",
+          "type": "T",
+          "position": 52
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\tHan taler til solen,\n\t\t\t\t\t\t\t\tog den står ikke op,\f\n\t\t\t\t\t\t\tog for stjernerne sætter han segl.",
+      "number": 7,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tHan alene spænder himlen ud,\f\n\t\t\t\t\t\t\tog han træder på havets bølger.",
+      "number": 8,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »høje steder«.",
+          "type": "T",
+          "position": 75
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tHan skaber Løven, Orion og Syvstjernen og sydhimlens stjernebilleder.",
+      "number": 9,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "Nogle oversætter det med »Store Bjørn« idet man ændrer vokaliseringen fra *ʕāš* til *ʕayiš*. I Job 38.32 forekommer det hebraiske ord *ʕayiš*, alligevel oversættes begge ordene ens i de forskellige oversættelser.",
+          "type": "E",
+          "position": 24
+        },
+        {
+          "text": "Også kaldet »plejader« sml. Job 38,31 og Am 5,8.",
+          "type": "T",
+          "position": 45
+        },
+        {
+          "text": "Ordret: »sydens kamre«.",
+          "type": "T",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tHan gør store ting som ingen kan udforske,\f\n\t\t\t\t\t\t\tforunderlige ting der ikke er tal på.",
+      "number": 10,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes »undere«.",
+          "type": "T",
+          "position": 75
+        },
+        {
+          "text": "Sml. Job 5.9, Job citerer Elifaz.",
+          "type": "T",
+          "position": 95
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tSe, han går forbi mig,\n\t\t\t\t\tog jeg ser det ikke,\f\n\t\t\t\than farer forbi,\n\t\t\t\t\tmen jeg bemærker ham ikke.",
+      "number": 11,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\tSe, han griber fat,\n\t\t\t\t\thvem kan hindre ham?\f\n\t\t\t\t\t\tHvem kan sige til ham:\n\t\t\t\t\t\t\t›Hvad er det du gør?‹",
+      "number": 12,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\tGud holder ikke sin vrede tilbage,\f\n\t\t\t\t\t\t\tunder ham må Rahabs hjælpere bøje sig.",
+      "number": 13,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tHvor meget mindre kan jeg svare ham,\f\n\t\t\t\t\t\t\t\t\t\tvælge mine ord over for ham.",
+      "number": 14,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tFor\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tselvom jeg har ret,\n\t\t\t\t\t\t\t\t\t\t\t\t\tvil jeg ikke kunne svare ham,\f\n\t\t\t\t\t\t\t\t\t\t\tmen må bede min dommer om nåde.",
+      "number": 15,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\tSelvom jeg råbte til ham,\n\t\t\t\t\t\t\t\t\t\t\tog han svarede mig,\f\n\t\t\t\t\t\t\t\t\t\tville jeg ikke kunne tro\n\t\t\t\t\t\t\t\t\t\t\t\tat han lagde øre til min røst.",
+      "number": 16,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tHan knuser mig i stormen\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tog giver mig talrige sår uden grund.",
+      "number": 17,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "Kan oversættes »slår«. Verbet her findes kun i 1 Mos 3,15 og Sl 139.11.",
+          "type": "T",
+          "position": 23
+        },
+        {
+          "text": "Figurativt om Guds dom sml. Nah 1,3.",
+          "type": "T",
+          "position": 37
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tHan tillader mig ikke\n\t\t\t\t\t\t\t\t\t\t\t\t\tat trække vejret,\f\n\t\t\t\t\t\t\t\t\t\t\t\tmen mætter mig med bitre erfaringer.",
+      "number": 18,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »bitre ting«.",
+          "type": "T",
+          "position": 114
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tHvis det drejer sig om magt,\n\t\t\t\t\t\t\t\t\tom styrke, siger han: ›Se her!‹\f\n\t\t\t\t\t\t\t\tmen når det drejer sig om retten:\n\t\t\t\t\t\t\t\t\t›Hvem vil stævne mig?‹",
+      "number": 19,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "»Siger han« er tilføjet.",
+          "type": "T",
+          "position": 66
+        },
+        {
+          "text": "»Mig« betyder her Gud.",
+          "type": "T",
+          "position": 151
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tSelv om jeg har ret,\n\t\t\t\t\t\t\t\t\tvil min mund dømme mig skyldig.\f\n\t\t\t\t\t\t\t\tJeg er uden skyld,\n\t\t\t\t\t\t\t\t\tmen han dømmer mig skyldig.",
+      "number": 20,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »fuldkommen«.",
+          "type": "T",
+          "position": 97
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\tJeg er uden skyld,\f\n\t\t\t\t\t\t\t\tjeg kender ikke mig selv,\f\n\t\t\t\t\t\t\t\t\tjeg ønsker ikke at leve længere!",
+      "number": 21,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tDet kommer ud på ét,\n\t\t\t\t\t\t\t\tderfor siger jeg:\f\n\t\t\t\t\t\t\t\t\t\t\t›Uskyldig eller skyldig, han er den, der udsletter.‹",
+      "number": 22,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »fuldkommen«.",
+          "type": "T",
+          "position": 76
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\t\tNår en plage pludselig bringer død\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tspotter han de uskyldige med fortvivlelse.",
+      "number": 23,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tJorden lægges i ugudeliges hænder,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\than tildækker dens dommeres ansigt.\f\n\t\t\t\t\t\t\t\t\t\t\t\tHvis ikke det er ham\n\t\t\t\t\t\t\t\t\t\t\t\t\thvem er det så?",
+      "title": "Job klager over at det er umuligt at få ret hos Gud",
+      "number": 24,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "Dvs. giver dommerne bind for øjnene figurativt.",
+          "type": "T",
+          "position": 99
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tMine dage er hurtigere end en løber,\f\n\t\t\t\t\t\t\t\t\t\t\tde flygter bort\n\t\t\t\t\t\t\t\t\t\t\t\tuden at have set noget godt.",
+      "number": 25,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tDe farer afsted som sivbåde,\f\n\t\t\t\t\t\t\t\t\t\t\t\tsom en ørn\n\t\t\t\t\t\t\t\t\t\t\t\t\tder styrter ned over sit bytte.",
+      "number": 26,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\tNår jeg siger:\n\t\t\t\t\t\t\t\t\t\t\t›Lad mig glemme min klage,\f\n\t\t\t\t\t\t\t\t\t\t\tlad mig glatte mit ansigt,\n\t\t\t\t\t\t\t\t\t\t\t\tlad mig være glad‹,",
+      "number": 27,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tmå jeg frygte mine lidelser.\f\n\t\t\t\t\t\t\t\t\t\t\tJeg ved\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tat du ikke frikender mig.",
+      "number": 28,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tJeg er skyldig,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\thvorfor skal jeg så slide forgæves?",
+      "number": 29,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tOm jeg så vaskede mig med sne\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tog rensede mine hænder i lud,",
+      "number": 30,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »i vand fra sne«.",
+          "type": "T",
+          "position": 42
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tville du alligevel dyppe mig i en grøft,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tså mine klæder ville væmmes ved mig.",
+      "number": 31,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tFor han er ikke et menneske som jeg\n\t\t\t\t\t\t\t\tat jeg kan svare ham,\f\n\t\t\t\t\t\t\t\t\tat vi kan gå sammen for retten.",
+      "number": 32,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tDer er ikke nogen voldgiftsmand mellem os\f\n\t\t\t\t\t\t\t\t\t\tsom kan lægge sin hånd på os begge.",
+      "number": 33,
+      "version": 1680213600000,
+      "footnotes": [
+        {
+          "text": "Dvs. som kan mægle mellem os.",
+          "type": "T",
+          "position": 96
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\tVille han blot fjerne sin kæp fra mig\f\n\t\t\t\t\t\t\t\t\t\tog hans rædsel ikke overvælde mig!",
+      "number": 34,
+      "version": 1680213600000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tLad mig tale\n\t\t\t\t\t\t\t\t\t\tog ikke frygte ham,\f\n\t\t\t\t\t\t\t\t\tfor sådan er jeg ikke.«",
+      "number": 35,
+      "version": 1680213600000
+    }
+  ]
+}

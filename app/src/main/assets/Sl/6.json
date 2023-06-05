@@ -1,0 +1,121 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 6,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard, Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\n\t\tTil strengespil.\n\t\t\tAl-ha-sheminit.\n\talme af David.",
+      "title": "Klage og bøn",
+      "number": 1,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledet af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 15
+        },
+        {
+          "text": "Ordret: »på den ottende«. Meningen er ukendt. Det er foreslået at der er tale om ottestrenget instrument eller stemmeleje der er en oktav dybere (bas).",
+          "type": "E",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "\fJHVHv!\n\t\t\ttraf mig ikke i din vrede,\f\n\t\t\t\tog tugt mig ikke i din harme!",
+      "number": 2,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\tVær mig nådig,\n\t\t\t\tJHVHv,\n\t\t\tfor jeg er svag,\f\n\t\thelbred mig,\n\t\t\t\t\t\tJHVHv,\n\t\t\t\t\tfor jeg skælver i mine knogler,",
+      "number": 3,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Der er samme verbum i v.3b og v.4a. Mange retter verbet her til *nāvᵊlû*: »sygner hen«. Men teksten er forståelig, som den står, og understreger ved brugen af samme verbum at Davids lidelse er både legemlig og sjælelig.",
+          "type": "E",
+          "position": 98
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tog min sjæl er meget forfærdet.\f\n\t\t\t\tMen du,\n\t\t\t\t\t\tJHVHv!\n\t\t\t\t\t- hvor længe?",
+      "number": 4,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\tVend tilbage,\n\t\t\t\tJHVHv!\n\t\t\tred min sjæl,\f\n\t\t\t\tfrels mig på grund af din nåde!",
+      "number": 5,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "*šûvāʰ* (»vend tilbage«) kunne også opfattes adverbielt så v.5a skal oversættes: »red atter, JHVHv, min sjæl«",
+          "type": "E",
+          "position": 16
+        },
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 81
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\tFor i døden er der ingen der husker dig,\f\n\t\t\t\t\t\t\t\thvem vil takke dig\n\t\t\t\t\t\t\ti dødsriget?",
+      "number": 6,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\tJeg er udmattet af mit suk,\f\n\t\t\t\t\t\t\tjeg væder hver nat min seng,\f\n\t\t\t\t\t\t\t\tmed mine tårer gennembløder jeg mit leje.",
+      "number": 7,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tMit øje er sløvet af sorg,\f\n\t\t\t\t\t\t\tdet er blevet svækket på grund alle mine fjender.",
+      "title": "David glæder sig over, at Gud har hørt hans bøn",
+      "number": 8,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\tVig fra mig,\n\t\t\t\talle I som udøver ondt!\f\n\t\t\tFor JHVH har hørt min gråd.",
+      "number": 9,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "rdret »min gråds røst«.",
+          "type": "T",
+          "position": 73
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\tJHVH har hørt min indtrængende bøn,\f\n\t\t\t\t\tJHVH vil tage imod min bøn.",
+      "number": 10,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\tAlle mine fjender skal blive til skamme\n\t\t\tog forfærdes,\f\n\t\ti et nu skal de vige tilbage\n\t\tog blive til skamme.",
+      "number": 11,
+      "version": 1666562400000
+    }
+  ]
+}

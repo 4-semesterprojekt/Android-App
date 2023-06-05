@@ -1,0 +1,333 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 104,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\f\t\t\t\tin sjæl,pris\n\t\t\tJHVH!\f\n\t\tJHVHv, min Gud,\n\t\t\tdu er meget stor!\f\n\t\t\t\tDu har iført dig højhed og ære.\f\n\t\t\t\t\t\tDu som er hyllet i lys som kappe,\f\n\t\t\t\t\t\tsom spænder himlen ud som en teltdug,",
+      "title": "JHVH er stor!",
+      "number": 2,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens *bārᵃxî* kan også oversættes: »velsign«, som det sker når Gud er subjekt. Når Gud velsignes/prises, anerkendes og tilbedes han for sin storhed og omsorg.",
+          "type": "E",
+          "position": 17
+        },
+        {
+          "text": "Verberne i v.2-4 står som participier der understreger skabelsens stadige fortsættelse. Der kan oversættes: »Han (som) er hyllet …«, »han spænder …« osv. Det er dog naturligst at se participierne som tæt knyttet til verberne i v.1 som forudsat i oversættelsen her.",
+          "type": "E",
+          "position": 127
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tsom bygger dine højsale i vandene;\f\n\t\t\t\t\t\t\tsom gør skyerne til din vogn,\f\n\t\t\t\t\t\t\tsom farer frem på vindens vinger,",
+      "number": 3,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tsom gør vinde til dine sendebud,\f\n\t\t\t\t\t\t\t\tflammende ild til dine tjenere.",
+      "title": "JHVH er jordens skaber",
+      "number": 4,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord oversættes i andre sammenhænge: »engle«.",
+          "type": "T",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tHan grundfæstede jorden på dens grundvold,\f\n\t\t\t\t\t\t\t\tden skal ikke rokkes i al evighed.",
+      "number": 5,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\tDu dækkede den med urdybet\n\t\t\t\t\t\t\t\tsom et klæde,\f\n\t\t\t\t\t\t\tså der stod vand over bjerge.",
+      "number": 6,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\tDet flygtede for din trussel,\f\n\t\t\t\t\t\t\t\t\tløb skræmt bort for din tordens skrald.",
+      "number": 7,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din tordens røst«.",
+          "type": "T",
+          "position": 89
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tDet steg op over bjerge\n\t\t\t\t\t\t\t\tog ned i dale\f\n\t\t\t\t\t\t\t\t\ttil det sted som du fastsatte for det.",
+      "number": 8,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\tDu satte en grænse\n\t\t\t\t\t\t\t\t\t\t\tdet ikke må overskride,\f\n\t\t\t\t\t\t\t\t\t\t\t\tdet skal ikke igen dække jorden.",
+      "title": "Gud sørger for alt levende",
+      "number": 9,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tHan sender kilder ud i dalene,\f\n\t\t\t\t\t\t\t\t\tde flyder mellem bjerge,",
+      "number": 10,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tde giver vand til alle markens vilde dyr,\f\n\t\t\t\t\t\t\t\t\t\t\tvildæsler slukker deres tørst.",
+      "number": 11,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tVed dem slår himlens fugle sig ned,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tmellem grenene lader de deres stemme lyde.",
+      "number": 12,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tHan vander bjerge fra sine højsale,\f\n\t\t\t\t\t\t\t\t\tjorden mættes af dine gerningers frugt.",
+      "number": 13,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tHan lader græs gro frem til kvæget\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tog planter til mennesket at arbejde med\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tfor at frembringe brød af jorden",
+      "number": 14,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »til menneskets arbejde«. Det kan også oversættes: »menneskets tjeneste«.",
+          "type": "T",
+          "position": 97
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tog vin\n\t\t\t\t\t\t\t\t\t\t\t\t\tder glæder et menneskes hjerte,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tså ansigtet kommer til at stråle af olie,\f\n\t\t\t\t\t\t\t\t\t\t\tog brød\n\t\t\t\t\t\t\t\t\t\t\t\tstyrker et menneskes hjerte.",
+      "number": 15,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »stråle mere end olie«.",
+          "type": "T",
+          "position": 121
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tJHVHs træer mættes,\f\n\t\t\t\t\t\t\t\t\t\t\t\tLibanons cedre\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tsom han har plantet",
+      "number": 16,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\tder hvor fuglene bygger rede,\f\n\t\t\t\t\t\t\t\t\t\t\tstorken\n\t\t\t\t\t\t\t\t\t\t\t\t\thvis bo er cypresser.",
+      "number": 17,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\tDe høje bjerge er for stenbukkene,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tklipperne er tilflugtssted for klippegrævlingen.",
+      "title": "Gud giver både aktivitet og hvile",
+      "number": 18,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\tHan skabte månen til at fastsætte festtiderne,\f\n\t\t\t\t\t\t\t\t\t\tsolen kendte sin nedgang.",
+      "number": 19,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\tNår du sender mørke,\n\t\t\t\t\t\t\t\t\t\tbliver det nat,\f\n\t\t\t\t\t\t\t\t\ti den rører alle skovens vilde dyr på sig.",
+      "number": 20,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tDe unge løver brøler efter rov\f\n\t\t\t\t\t\t\t\t\t\t\t\tog for at kræve deres føde af Gud.",
+      "number": 21,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tNår solen står op,\n\t\t\t\t\t\t\t\t\t\t\t\ttrækker de sig tilbage\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tog lægger sig i deres huler.",
+      "number": 22,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »samles de igen«.",
+          "type": "T",
+          "position": 64
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tMennesket går ud til sin gerning\fog til sit arbejde indtil aften.",
+      "title": "Gud skabte også havenes vrimmel",
+      "number": 23,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\tHvor er dine værker mange,\n\t\t\t\t\t\t\t\t\t\t\t\t\tJHVHv!\f\n\t\t\t\t\t\t\t\t\t\t\t\tDu skabte dem alle med visdom,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tjorden er fuld af dit skaberværk.",
+      "number": 24,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »din skabning«. Det må enten opfattes kollektivt som »skaberværk«, eller man må med mange håndskrifter læse pluralis: »skabninger«.",
+          "type": "E",
+          "position": 147
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tHer er havet,\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tstort og vidt til alle sider,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tder er en vrimmel\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tuden tal,\f\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tbåde små og store dyr.",
+      "number": 25,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »til begge sider«.",
+          "type": "T",
+          "position": 69
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\t\t\t\tDer sejler skibene,\f\n\t\t\t\t\t\t\t\t\t\t\t\tder er Livjatan,\n\t\t\t\t\t\t\t\t\t\t\t\t\tsom du skabte\n\t\t\t\t\t\t\t\t\t\t\t\t\t\ttil at lege med.",
+      "title": "Alt liv er afhængigt af Gud",
+      "number": 26,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »går«.",
+          "type": "T",
+          "position": 25
+        },
+        {
+          "text": "Ordene: »der er« står ikke i den hebraiske tekst, men er indføjet for forståelsens skyld. Foregående linjes: »der går/sejler« styrer også denne linje.",
+          "type": "E",
+          "position": 54
+        },
+        {
+          "text": "Dette forekommer at være den mest nærliggende forståelse. Sprogligt kan der dog også oversættes: »til at lege deri«.",
+          "type": "E",
+          "position": 122
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\tDe venter alle med håb til dig om\f\n\t\t\t\t\t\t\t\t\t\t\t\tat du skal give dem deres føde i rette tid.",
+      "number": 27,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tDu giver dem,\n\t\t\t\t\t\t\t\t\t\t\t\tog de samler op,\f\n\t\t\t\t\t\t\t\t\t\t\tdu åbner din hånd,\n\t\t\t\t\t\t\t\t\t\t\t\tog de mættes med godt.",
+      "number": 28,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Verset kan også oversættes: »Hvis du giver dem, samler de op, hvis du åbner din hånd, mættes de med godt«.",
+          "type": "E",
+          "position": 120
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tDu skjuler dit ansigt,\n\t\t\t\t\t\t\t\t\t\t\t\tog de forfærdes,\f\n\t\t\t\t\t\t\t\t\t\t\tdu tager deres ånd tilbage,\n\t\t\t\t\t\t\t\t\t\t\t\tog de dør\f\n\t\t\t\t\t\t\t\t\t\t\t\t\tog vender tilbage til deres støv.",
+      "number": 29,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »ånde/åndedrag«.",
+          "type": "T",
+          "position": 94
+        },
+        {
+          "text": "Verset kan også oversættes: »Hvis du skjuler dit ansigt, forfærdes de, hvis du tager deres ånd tilbage, dør de og vender tilbage til deres støv«.",
+          "type": "E",
+          "position": 173
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tDu sender din Ånd,\n\t\t\t\t\t\t\t\t\t\t\t\t\tog de skabes,\f\n\t\t\t\t\t\t\t\t\t\t\t\tog du fornyer jordens skikkelse.",
+      "title": "JHVHs herlighed skal vare evigt",
+      "number": 30,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Linjen kan også oversætte: »Hvis du sender din Ånd, skabes de«.",
+          "type": "E",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\tMå JHVHs herlighed vare evigt,\f\n\t\t\t\t\t\t\t\t\tmå JHVH glæde sig over sine værker!",
+      "number": 31,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\t\t\t\t\t\t\t\tHan ser på jorden,\n\t\t\t\t\t\t\t\t\t\t\t\tog den skælver,\f\n\t\t\t\t\t\t\t\t\t\than rører ved bjerge,\n\t\t\t\t\t\t\t\t\t\t\tog de ryger.",
+      "number": 32,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\tJeg vil synge for JHVH så længe jeg lever,\f\n\tjeg vil lovsynge min Gud så længe jeg er til.",
+      "number": 33,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »i mit liv«.",
+          "type": "T",
+          "position": 44
+        },
+        {
+          "text": "Ordret: »i min varighed«.",
+          "type": "T",
+          "position": 92
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tGid mit digt må behage ham,\f\n\t\tjeg vil glædes i JHVH.",
+      "number": 34,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Grundtekstens ord (*śîₐḥ*) betyder måske nærmere: »from, bedende tale«.",
+          "type": "T",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\f\t\t\tGid syndere må udryddes fra jorden\f\n\t\t\t\tog ugudelige\n\t\t\t\t\tikke være til længere!\f\n\t\t\tMin sjæl,pris\n\t\tJHVH!\f\n\tHalleluja!",
+      "number": 35,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Mange oversættere lader (med støtte i Septuaginta) »halleluja« være indledning til Sl 105",
+          "type": "T",
+          "position": 123
+        }
+      ]
+    }
+  ]
+}

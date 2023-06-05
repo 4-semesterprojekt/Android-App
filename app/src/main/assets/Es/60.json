@@ -1,0 +1,176 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 60,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen og Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fRejs dig, bliv lys, for dit lys er kommet, og JHVHs herlighed er stået op over dig.",
+      "title": "Esajas profeterer om hedningernes omvendelse og Guds kirkes herlighed, 1-13; han nævner de velgerninger, som Messias vil vise sin kirke, der samles af jøder og hedninger; JHVH lover tilgivelse for synd, retsindige lærere, oplysning, retfærdighed og lykkelig fremgang, 14-22.",
+      "number": 1,
+      "version": 1641855600000,
+      "footnotes": [
+        {
+          "text": "Efter imperativerne kan qatal eventuelt oversættes ved fremtid: »for dit lys skal komme, og JHVHs herlighed skal stå op over dig!«",
+          "type": "E",
+          "position": 43
+        }
+      ]
+    },
+    {
+      "text": "For se, mørket skjuler jorden og mulmet folkene; men over dig skal JHVH stå op, og over dig skal hans herlighed komme til syne.",
+      "number": 2,
+      "version": 1641855600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »vil/skal skjule«.",
+          "type": "E",
+          "position": 22
+        }
+      ]
+    },
+    {
+      "text": "Folkeslag skal vandre hen til dit lys og kongerne hen til den glans der er stået op over dig.",
+      "number": 3,
+      "version": 1641855600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hedninger«.",
+          "type": "T",
+          "position": 9
+        },
+        {
+          "text": "Ordret: »til din opgangs glans«. Der kan være tænkt på den glans, der er gået op over Israel, eller på glansen ved folkets genrejsning.",
+          "type": "T",
+          "position": 93
+        }
+      ]
+    },
+    {
+      "text": "Løft dit blik og se dig omkring, og se, de samles alle, de kommer til dig, dine sønner kommer langvejs fra, og dine døtre bæres på hofte.",
+      "number": 4,
+      "version": 1641855600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Løft dine øjne omkring«.",
+          "type": "T",
+          "position": 32
+        }
+      ]
+    },
+    {
+      "text": "Så skal du se det og stråle af glæde, og dit hjerte skal banke og udvide sig; for havets rigdom skal bringes til dig, folkeslagenes skatte skal komme til dig.",
+      "number": 5,
+      "version": 1641855600000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes: »hedningernes«.",
+          "type": "T",
+          "position": 131
+        }
+      ]
+    },
+    {
+      "text": "Mængden af kameler skal dække dig, Midjans og Efas dromedarer, alle fra Saba skal komme; de skal bære guld og røgelse og forkynde JHVHs pris.",
+      "number": 6,
+      "version": 1641855600000
+    },
+    {
+      "text": "Alle Kedars får skal samles til dig, Nebajots vædre skal tjene dig; de skal ofres på mit alter til mit velbehag, og min herligheds hus vil jeg gøre herlig.",
+      "number": 7,
+      "version": 1641855600000
+    },
+    {
+      "text": "Hvem er de her, der kommer flyvende som en sky og som duer til deres dueslag?",
+      "number": 8,
+      "version": 1641855600000
+    },
+    {
+      "text": "For øer venter på mig, og Tharsis' skibe er forrest for at føre dine børn hertil langvejs fra, og sammen med dem deres sølv og deres guld, til JHVH din Guds navn og til Israels Hellige, for han har gjort dig herlig.",
+      "number": 9,
+      "version": 1641855600000
+    },
+    {
+      "text": "Og de fremmede skal bygge dine mure og deres konger tjene dig; for i min vrede slog jeg dig, men i min nåde forbarmede jeg mig over dig.",
+      "number": 10,
+      "version": 1641855600000
+    },
+    {
+      "text": "Og dine porte skal man altid holde åbne, hverken dag eller nat skal de lukkes, så hedningernes magt og deres konger, der føres hertil, skal kunne komme til dig.",
+      "number": 11,
+      "version": 1641855600000
+    },
+    {
+      "text": "For det folk og det rige, der ikke vil tjene dig, skal ødelægges, og hedningerne skal gå helt til grunde.",
+      "number": 12,
+      "version": 1641855600000
+    },
+    {
+      "text": "Libanons herlighed skal komme til dig, både fyrretræ og ahorn og buksbom, for at pryde stedet, hvor min helligdom står, og gøre det sted, hvor mine fødder står, herligt.",
+      "number": 13,
+      "version": 1641855600000
+    },
+    {
+      "text": "\fOg børnene af dem, der plagede dig, skal komme og bøje sig for dig, og alle de, der spottede dig, skal kaste sig ned for dine fødder, og de skal kalde dig JHVHs by, Israels Helliges Zion.",
+      "number": 14,
+      "version": 1641855600000
+    },
+    {
+      "text": "I stedet for, at du var forladt og forhadt, så ingen gik igennem der, vil jeg gøre dig til en evig herlighed, til en fryd fra slægt til slægt.",
+      "number": 15,
+      "version": 1641855600000
+    },
+    {
+      "text": "Og du skal die hedningers mælk og die kongers bryst, og du skal forstå, at jeg, JHVH, er din frelser og Jakobs Mægtige din løskøber.",
+      "number": 16,
+      "version": 1641855600000
+    },
+    {
+      "text": "Jeg vil sætte guld i stedet for kobber og sætte sølv i stedet for jern og kobber i stedet for træ og jern i stedet for sten; og jeg vil give dig overhoveder til fred og herskere til retfærdighed.",
+      "number": 17,
+      "version": 1641855600000
+    },
+    {
+      "text": "Der skal ikke længere høres om vold i dit land eller om ødelæggelse og fordærv inden for dine grænser; men du skal kalde dine mure Frelse og dine porte Lovsang.",
+      "number": 18,
+      "version": 1641855600000
+    },
+    {
+      "text": "Solen skal ikke længere været dit lys om dagen, og som lys skal månen ikke skinne for dig; men JHVH skal være dit evige lys, og din Gud skal være din herlighed.",
+      "number": 19,
+      "version": 1641855600000
+    },
+    {
+      "text": "Din sol skal ikke mere gå ned, din måne skal ikke tage af; for JHVH skal være dit evige lys, og dine sørgedage skal være til ende.",
+      "number": 20,
+      "version": 1641855600000
+    },
+    {
+      "text": "Og dit folk, de er alle retfærdige, til evig tid skal de eje landet, et skud af min plante, mine hænders værk, mig til ære.",
+      "number": 21,
+      "version": 1641855600000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske konsonanttekst oversættes ordret med »et skud af hans plante«. De antikke oversættelser, herunder den aramæiske targum og den syriske Peshitta, oversætter med »et skud af min plante«.",
+          "type": "E",
+          "position": 91
+        }
+      ]
+    },
+    {
+      "text": "Den mindste skal blive til tusinde, og den ringe til et mægtigt folk; jeg JHVH, jeg vil lade det ske hastigt til sin tid.",
+      "number": 22,
+      "version": 1641855600000
+    }
+  ]
+}

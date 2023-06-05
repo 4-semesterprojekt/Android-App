@@ -1,0 +1,79 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 13,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Mikkel Kølkær",
+      "type": "Eksegetisk layout"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fTil korlederen.\n\tSalme af David.",
+      "title": "Hvor længe?",
+      "number": 1,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "Betydningen af *lamnaṣṣēₐḥ* er usikker, men det er sandsynligvis afledt af et verbum der betyder »dirigere«.",
+          "type": "E",
+          "position": 16
+        }
+      ]
+    },
+    {
+      "text": "\fHvor længe,\n\t\t\t\t\tJHVHv,\n\t\t\t\tvil du evigt glemme mig?\f\n\t\t\tHvor længe vil du skjule dit ansigt for mig?",
+      "number": 2,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\tHvor længe skal jeg have bekymringer i min sjæl,\f\n\t\t\t\t\t\tdagligt have sorg i mit hjerte?\f\n\t\t\t\t\tHvor længe skal min fjende triumfere over mig?",
+      "title": "Klagende bøn",
+      "number": 3,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "*ʕēṣôt* betyder normalt »planer«. Det foreslås ofte at der må være faldet et *v* ud, så der skal stå: *ʕaṣṣāvôt*: »smerter«.",
+          "type": "T",
+          "position": 41
+        }
+      ]
+    },
+    {
+      "text": "\f\t\tSe til mig,\n\t\t\tsvar mig,\n\t\t\t\tJHVHv min Gud!\f\n\t\tGiv mine øjne lys\n\t\t\t\t\tså jeg ikke sover ind i døden,",
+      "number": 4,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\t\tså ikke min fjende skal sige:\n\t\t\t\t\t\t»Jeg vandt over ham«,\f\n\t\t\t\t\tmin modstander juble over\n\t\t\t\t\t\tat jeg snubler.",
+      "number": 5,
+      "version": 1666562400000
+    },
+    {
+      "text": "\f\t\t\tMen jeg stoler på din nåde,\f\n\t\t\t\tmit hjerte skal juble over din frelse.\f\n\tJeg vil synge for JHVH,\f\n\t\tfor han har gjort vel imod mig.",
+      "number": 6,
+      "version": 1666562400000,
+      "footnotes": [
+        {
+          "text": "nåde",
+          "type": "N",
+          "position": 30
+        }
+      ]
+    }
+  ]
+}

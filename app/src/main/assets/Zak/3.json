@@ -1,0 +1,65 @@
+{
+  "book": "Zakarias' Bog",
+  "abbreviation": "Zak",
+  "chapter": 3,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHan viste mig ypperstepræsten Josva, der stod foran JHVHs engel, og anklageren, der stod på hans højre side for at anklage ham. v2 JHVH sagde til anklageren: »JHVH irettesætter dig, anklager! JHVH, som har udvalgt Jerusalem, irettesætter dig! Er denne ikke et brændestykke, der er reddet ud af ilden?« v3 Josva stod foran englen med beskidte klæder. v4 Og han sagde til dem, der stod foran ham: »Tag de beskidte klæder af ham,« og derefter sagde han til ham: »Se, jeg har taget din skyld fra dig og iført dig festklæder!« v5 Jeg sagde: »Lad dem sætte en turban på hans hoved!« Så satte de en ren turban på hans hoved og iførte ham klæder, og JHVHs engel stod der. v6 JHVHs engel formanede Josva og sagde:",
+      "title": "Synet om ypperstepræsten Josva",
+      "number": 1,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "I andre oversættelser oversættes der med personnavnet »Satan«, men det hebraiske ord *haśśāṭān* er med bestemt artikel, så det er ikke sandsynligt, at det er et personnavn.",
+          "type": "E",
+          "position": 80
+        },
+        {
+          "text": "Josva.",
+          "type": "T",
+          "position": 252
+        }
+      ]
+    },
+    {
+      "text": "\f»Således siger Hærskarers JHVHv:\fHvis du vandrer på mine veje,\fog hvis du varetager mine forordninger,\fskal du bestyre mit hus og varetage mine forgårde.\fOg jeg vil lade dig færdes blandt dem, som står her.«\f»Hør efter, Josva, du ypperstepræst: Du og dine venner, som sidder foran dig,\fI er tegn på, at jeg sender min tjener, Semak.",
+      "number": 7,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Semak betyder spire, men er her bevaret som et navn eller titel.",
+          "type": "T",
+          "position": 333
+        }
+      ]
+    },
+    {
+      "text": "\fFor se, stenen som jeg har lagt foran Josva,\fpå den ene sten er der syv øjne;\fjeg vil selv indgravere den, siger Hærskarers JHVHv,\fog jeg vil fjerne dette lands skyld på én dag.",
+      "number": 9,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fPå den dag, siger Hærskarers JHVHv,\fskal I invitere hinanden til at sidde under vintræet og figentræet.",
+      "number": 10,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Ordret »skal enhver kalde på sin ven hen under vintræet og hen under figentræet«.",
+          "type": "E",
+          "position": 104
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "book": "Apostlenes Gerninger",
+  "abbreviation": "Apg",
+  "chapter": 2,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fDa dagen for pinsefesten kom, var de alle samlet på samme sted.",
+      "number": 1,
+      "version": 1620770400000
+    },
+    {
+      "text": "Pludselig kom der fra himlen en lyd som af en stærk vind og fyldte hele huset hvor de sad.",
+      "number": 2,
+      "version": 1620770400000
+    },
+    {
+      "text": "Tunger som af ild viste sig for dem og fordelte sig og satte sig på hver enkelt af dem.",
+      "number": 3,
+      "version": 1620770400000
+    },
+    {
+      "text": "De blev alle fyldte med Helligånden, og de begyndte at tale på andre tungemål, alt efter hvad Ånden gav dem at sige.",
+      "number": 4,
+      "version": 1620770400000,
+      "footnotes": [
+        {
+          "text": "Det græske ord bruges især om begejstret, henreven tale.",
+          "type": "T",
+          "position": 78
+        }
+      ]
+    },
+    {
+      "text": "\fNu boede der i Jerusalem gudfrygtige jødiske mænd af alle folkeslag under himlen.",
+      "number": 5,
+      "version": 1620770400000
+    },
+    {
+      "text": "Da denne lyd kom, strømmede mængden sammen og blev forvirret; for hver enkelt af dem hørte dem tale på sit eget sprog.",
+      "number": 6,
+      "version": 1620770400000
+    },
+    {
+      "text": "De blev forbavsede og forundrede og sagde: »Hør, er alle de som taler, ikke galilæere?",
+      "number": 7,
+      "version": 1620770400000
+    },
+    {
+      "text": "Hvordan kan vi da høre dem tale, hver på vort eget modersmål,",
+      "number": 8,
+      "version": 1620770400000
+    },
+    {
+      "text": "vi partere og medere og elamitter, og vi som bor i Mesopotamien, Judæa og Kappadokien, Pontus og Asien,",
+      "number": 9,
+      "version": 1620770400000,
+      "footnotes": [
+        {
+          "text": "Dvs: den vestlige del af Lilleasien.",
+          "type": "T",
+          "position": 103
+        }
+      ]
+    },
+    {
+      "text": "i Frygien og Pamfylien, Egypten og Libyens egne ved Kyrene, og vi tilrejste romere,",
+      "number": 10,
+      "version": 1620770400000
+    },
+    {
+      "text": "jøder og proselytter, kretere og arabere, vi hører dem tale om Guds store gerninger på vores egne tungemål?«",
+      "number": 11,
+      "version": 1620770400000,
+      "footnotes": [
+        {
+          "text": "Betegnelsen for dem af den jødiske tros tilhængere som ikke er jøder af fødsel.",
+          "type": "T",
+          "position": 21
+        }
+      ]
+    }
+  ]
+}

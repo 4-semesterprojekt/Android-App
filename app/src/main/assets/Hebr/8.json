@@ -1,0 +1,37 @@
+{
+  "book": "Brevet til Hebræerne",
+  "abbreviation": "Hebr",
+  "chapter": 8,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\f»For dette er den pagt jeg vil slutte med Israels hus efter de dage, siger Herren. Jeg vil give mine love i deres sind, og jeg vil indskrive dem i deres hjerte, og jeg vil være deres Gud, og de skal være mit folk.",
+      "number": 10,
+      "version": 1618351200000
+    },
+    {
+      "text": "Og de skal ikke lære hver sin medborger og hver sin bror og sige: Kend Herren; for de skal alle have et nært kendskab til mig, fra den mindste til den største iblandt dem.",
+      "number": 11,
+      "version": 1618351200000
+    },
+    {
+      "text": "For jeg vil være nådig mod deres uretfærdigheder og ikke mere huske på deres synder.«",
+      "number": 12,
+      "version": 1618351200000
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "book": "Zakarias' Bog",
+  "abbreviation": "Zak",
+  "chapter": 10,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fBed JHVH om regn på tidspunktet for den sene regn.\fJHVH laver lyn;\fhan giver dem regnskyl\fog enhver korn på marken.",
+      "title": "Søg tilflugt hos JHVH i stedet for afguderne",
+      "number": 1,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fFor husguderne taler fordærv;\fspåmændene ser falske syner.\fDe tyder uduelige drømme;\fmed tomhed trøster de.\fDerfor er de i nød,\ffor der er ingen hyrde.",
+      "title": "JHVH vil føre Israel hjem",
+      "number": 2,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fImod hyrderne er min vrede opflammet;\fbukkene vil jeg hjemsøge.\fFor Hærskarers JHVHv har besøgt sin hjord, Judas hus,\fog gjort dem til sin prægtige hest i krigen.",
+      "number": 3,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Det hebraiske ord *fāqad* bruges både om »hjemsøge« og »besøge« i dette vers. Ordet kan altså både være negativt og positivt.",
+          "type": "E",
+          "position": 96
+        }
+      ]
+    },
+    {
+      "text": "\fDerfra skal hjørnesten og teltpløk udgå,\fkrigsbuen og enhver hersker.",
+      "number": 4,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fDe skal være som krigere,\fder tramper i gadens mudder i krigen.\fDe skal kæmpe,\ffor JHVH vil være med dem.\fDe som rider på heste, skal blive til skamme.",
+      "number": 5,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fJeg vil styrke Judas hus;\fJosefs hus vil jeg frelse.\fJeg vil føre dem hjem,\ffor jeg har forbarmet mig over dem,\fog det skal blive, som om jeg ikke havde afvist dem.\fFor jeg er JHVH deres Gud;\fjeg vil bønhøre dem.",
+      "number": 6,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fEfraim skal blive som en kriger;\fderes hjerte skal juble som beruset.\fDeres børn skal se det og juble;\fderes hjerte skal råbe af fryd over JHVH.",
+      "number": 7,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "Ordret »som af vin«.",
+          "type": "T",
+          "position": 70
+        },
+        {
+          "text": "Ordret: »sønner«.",
+          "type": "T",
+          "position": 81
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil fløjte ad dem og samle dem,\ffor jeg har løskøbt dem.\fDe skal blive talrige,\fligesom de var talrige.",
+      "number": 8,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fJeg vil så dem blandt folkeslagene;\fi det fjerne skal de huske på mig.\fDe og deres børn skal leve,\fog de skal vende hjem.",
+      "number": 9,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "En anden mulighed er at oversætte sætningen med »de skal give deres børn liv«, eftersom »børn« er markeret som objekt i sætningen.",
+          "type": "E",
+          "position": 99
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil føre dem tilbage fra Egyptens land;\ffra Assyrien vil jeg samle dem.\fJeg vil føre dem til Gileads og Libanons land;\fder skal ikke være plads nok til dem.",
+      "number": 10,
+      "version": 1472594400000
+    },
+    {
+      "text": "\fHan skal gå igennem trængselshavet;\fslå bølgerne i havet;\falle Nilens strømme udtørres.\fAssyriens hovmod skal undertrykkes;\fEgyptens scepter skal fjernes.",
+      "number": 11,
+      "version": 1472594400000,
+      "footnotes": [
+        {
+          "text": "*yeor* skal ikke nødvendigvis forstås som Nilen, men kan forstås mere generelt om floder. Det er klart, at billedet i første omgang henviser til den første exodus fra Egypten, men i anden omgang udvides billedet til en ny exodus fra både Egypten og Assyrien – begge steder med berømte floder.",
+          "type": "E",
+          "position": 70
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil styrke dem i JHVH;\fi hans navn skal de vandre,\fsiger JHVH.",
+      "number": 12,
+      "version": 1472594400000
+    }
+  ]
+}

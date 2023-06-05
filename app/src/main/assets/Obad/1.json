@@ -1,0 +1,235 @@
+{
+  "book": "Obadias’ Bog",
+  "abbreviation": "Obad",
+  "chapter": 1,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Christian Højgaard",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fObadias’ syn.\fSåledes siger den herre JHVH om Edom.\fVi har hørt et budskab fra JHVH;\fen budbringer er blevet sendt ud blandt folkeslagene:\f»Rejs jer! Lad os rejse os for at gå i krig mod hende.«",
+      "title": "Domsprofeti om Edom",
+      "number": 1,
+      "version": 1504648800000,
+      "footnotes": [
+        {
+          "text": "Dvs. Edom.",
+          "type": "T",
+          "position": 195
+        }
+      ]
+    },
+    {
+      "text": "\fSe, jeg har gjort dig ubetydelig blandt folkeslagene;\fdu foragtes dybt.\n\n",
+      "number": 2,
+      "version": 1504648800000
+    },
+    {
+      "text": "\fDit hjertes hovmod har bedraget dig, du som bor i klippekløfter,\fi dine boliger højt oppe;\fdu som siger i dit hjerte:\f»Hvem kan bringe mig ned til jorden?«",
+      "number": 3,
+      "version": 1504648800000,
+      "footnotes": [
+        {
+          "text": "Ordret »klippernes kløfter« eller »Selas kløfter«, hvilket kan være et stednavn, jf. 2 Kong 14,17; 2 Krøn 25,12.",
+          "type": "E",
+          "position": 65
+        },
+        {
+          "text": "Ordret »hans«, men det referer til Edom.",
+          "type": "E",
+          "position": 72
+        }
+      ]
+    },
+    {
+      "text": "\fSelv hvis du kunne hæve dig så højt som ørnen,\fog selv hvis du kunne sætte din rede mellem stjernerne,\fvil jeg bringe dig ned derfra, siger JHVH.\n\n",
+      "number": 4,
+      "version": 1504648800000
+    },
+    {
+      "text": "\fHvis røvere kom til dig;\fhvis plyndringsmænd kom om natten\f– hvor er du blevet ødelagt! –\fville de ikke blot røve hvad der var tilstrækkeligt for dem?\fHvis høstfolk kom til dig og plukkede druer,\fville de ikke efterlade en rest?",
+      "number": 5,
+      "version": 1504648800000,
+      "footnotes": [
+        {
+          "text": "»Kom« er tilføjet, men er underforstået fra første del af verset.",
+          "type": "E",
+          "position": 49
+        },
+        {
+          "text": "Det hebraiske ord *dāmāʰ* kan både oversættes med »ødelægge« og »ligne«. Vælger man »ligne« ville meningen med verset være at Edom sammenlignes med røvere og plyndringsmænd.",
+          "type": "E",
+          "position": 88
+        },
+        {
+          "text": "Ordret »efterslæt«.",
+          "type": "E",
+          "position": 228
+        }
+      ]
+    },
+    {
+      "text": "\fHvor er Esau dog blevet gennemsøgt!\fHans skjulte skatte er blevet endevendt.",
+      "number": 6,
+      "version": 1504648800000
+    },
+    {
+      "text": "\fDe har forvist dig til grænsen, alle dine allierede.\fDe har bedraget dig;\fdine venner har fået magten over dig.\fDe der spiser dit brød, har lagt fælder ud under dig.\fDer er ingen forstandighed hos ham.",
+      "number": 7,
+      "version": 1504648800000,
+      "footnotes": [
+        {
+          "text": "Ordret »pagtsfæller«.",
+          "type": "E",
+          "position": 53
+        },
+        {
+          "text": "Ordret »fredsfæller«.",
+          "type": "E",
+          "position": 86
+        },
+        {
+          "text": "Den hebraiske grundtekst har ikke »de der spiser«, men denne læsning har støtte i Vulgata, Targum og en udgave af LXX.",
+          "type": "E",
+          "position": 136
+        },
+        {
+          "text": "Sidste del af verset er vanskeligt, særligt betydningen af *māzôr*, her oversat med »fælder«. Ordet er sjældent i GT og oversættes ellers med »sår«. De fleste oversættelser oversætter med »fælder« med støtte i LXX, Vulgata, Targum og Peshitta. En tredje mulighed er at oversætte med »et sted for fremmede« efter ordet *zar* »fremmed«, hvilket ville give oversættelsen »De der spiser dit brød, har sat et fremmed folk i dit sted«.",
+          "type": "E",
+          "position": 166
+        }
+      ]
+    },
+    {
+      "text": "\fEr det ikke på den dag, siger JHVH, at jeg vil udrydde de vise fra Edom\fog forstandighed fra Esaus bjerg?",
+      "number": 8,
+      "version": 1504648800000
+    },
+    {
+      "text": "\fDine krigere, Teman, skal blive rædselsslagne,\fså at alle fra Esaus bjerg vil blive tilintetgjort ved slagtning.",
+      "number": 9,
+      "version": 1504648800000,
+      "footnotes": [
+        {
+          "text": "Ved fysiske ting oversættes *ḥatat* med »knust« eller »spredt«, men ved mennesker er der tale om en psykologisk tilstand af angst og lammelse.",
+          "type": "E",
+          "position": 47
+        }
+      ]
+    },
+    {
+      "text": "\fPå grund af volden mod din bror Jakob skal skam dække dig;\fdu skal være tilintetgjort for evigt.",
+      "number": 10,
+      "version": 1504648800000
+    },
+    {
+      "text": "\fPå den dag, hvor du stod overfor;\fpå den dag, hvor fjender førte hans rigdom bort,\fog fremmede gik ind ad hans porte og kastede lod om Jerusalem,\fda var også du som en af dem.\n\n",
+      "number": 11,
+      "version": 1504648800000
+    },
+    {
+      "text": "\fDu må ikke godte dig over din brors dag,\fover hans ulykkes dag.\fDu må ikke juble over Judas sønner på dagen for deres udryddelse.\fDu må ikke prale på trængslens dag.",
+      "number": 12,
+      "version": 1504648800000,
+      "footnotes": [
+        {
+          "text": "Ordret »gøre din mund stor«.",
+          "type": "E",
+          "position": 147
+        }
+      ]
+    },
+    {
+      "text": "\fDu må ikke drage ind ad mit folks porte på undergangens dag.\fHeller ikke du må godte dig over hans ulykke på dagen for hans undergang.\fOg du må ikke række ud efter hans rigdom på dagen for hans undergang.",
+      "number": 13,
+      "version": 1504648800000
+    },
+    {
+      "text": "\fDu må ikke stå ved vejkrydset for at tilintetgøre hans flygtninge.\fOg du må ikke udlevere hans overlevende på trængslens dag.",
+      "number": 14,
+      "version": 1504648800000
+    },
+    {
+      "text": "\fFor JHVHs dag over alle folkeslagene er nær.\fSom du har gjort, sådan skal der gøres mod dig.\fDin gerning skal komme over dit eget hoved.",
+      "number": 15,
+      "version": 1504648800000
+    },
+    {
+      "text": "\fFor ligesom I har drukket på mit hellige bjerg,\fsådan skal alle folkeslagene drikke dagligt.\fDe skal drikke og synke\fog blive som havde de ikke været til.",
+      "title": "Frelse på Zion",
+      "number": 16,
+      "version": 1504648800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes med »slubre«.",
+          "type": "E",
+          "position": 117
+        }
+      ]
+    },
+    {
+      "text": "\fMen på Zions bjerg skal der være tilflugt,\fog det skal være helligt.\fJakobs hus skal eje sine egne ejendele.",
+      "number": 17,
+      "version": 1504648800000
+    },
+    {
+      "text": "\fJakobs hus skal blive en ild,\fJosefs hus til en flamme,\fog Esaus hus til stubbe.\fDe skal brænde dem og fortære dem;\fog Esaus hus skal ikke have nogen overlevende.\fFor JHVH har talt.",
+      "number": 18,
+      "version": 1504648800000
+    },
+    {
+      "text": "\fSydlandet skal erobre Esaus bjerg,\fog Lavlandet skal erobre filistrene.\fDe skal erobre Efraims område og Samarias område;\fBenjamin skal erobre Gilead.",
+      "number": 19,
+      "version": 1504648800000,
+      "footnotes": [
+        {
+          "text": "Dvs. Negev.",
+          "type": "T",
+          "position": 10
+        },
+        {
+          "text": "Dvs. Shefelah.",
+          "type": "T",
+          "position": 48
+        }
+      ]
+    },
+    {
+      "text": "\fDe fordrevne, en gruppe af israelitterne som er kanaanæere, skal erobre så langt som til Sarepta.\fOg Jerusalems fordrevne som er i Sefarad, skal erobre Sydlandets byer.",
+      "number": 20,
+      "version": 1504648800000,
+      "footnotes": [
+        {
+          "text": "»Gruppe« skal her forstås som en mindre militærstyrke. En anden mulighed er at forstå *ḥēl* som en ydre fæstning eller vold, hvilket ville give oversættelsen »de fordrevne fra denne vold tilhørende israelitterne«.",
+          "type": "E",
+          "position": 24
+        },
+        {
+          "text": "Det er mærkværdigt at israelitterne her betegnes som kanaanæere. Es 19,18 betegner dog hebraisk som et kanaanæisk sprog, så der findes paralleller til denne tankegang.",
+          "type": "E",
+          "position": 59
+        }
+      ]
+    },
+    {
+      "text": "\fBefrierne skal drage op på Zions bjerg for at dømme Esaus bjerg.\fKongedømmet skal tilhøre JHVH.",
+      "number": 21,
+      "version": 1504648800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes med »herske over«.",
+          "type": "E",
+          "position": 52
+        }
+      ]
+    }
+  ]
+}

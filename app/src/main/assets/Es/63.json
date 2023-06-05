@@ -1,0 +1,126 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 63,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHvem er han, der kommer fra Edom, i højrøde klæder fra Bozra, han, der er så prægtig i sin dragt, han, der skrider frem i sin store kraft? Det er mig, der taler retfærdighed, mig, der er mægtig til at frelse!",
+      "title": "Profeten beskriver, hvordan Messias skal sejre herligt over sin kirkes fjender, 1-6; de troende priser JHVH for hans store nåde og velgerninger og bekender det jødiske folks genstridighed, men forkynder, at Gud alligevel igen vil være både dem og hedningerne barmhjertig, hvad de beder JHVH ydmygt om, 7-19",
+      "number": 1,
+      "version": 1608418800000
+    },
+    {
+      "text": "Hvorfor er der rødt på din dragt, og hvorfor ser dit tøj ud som på den, der træder vinpersen?",
+      "number": 2,
+      "version": 1608418800000
+    },
+    {
+      "text": "Jeg trådte persekarret, jeg alene, og der var ikke noget af folkene med mig; så trådte jeg på dem i min vrede og stampede dem ned i min harme; så sprøjtede deres blod op på mit tøj, og jeg fik alle mine klæder svinet til.",
+      "number": 3,
+      "version": 1608418800000
+    },
+    {
+      "text": "For hævnens dag var besluttet i mit hjerte, og mit befrielsesår var kommet..",
+      "number": 4,
+      "version": 1608418800000
+    },
+    {
+      "text": "Og jeg så mig om, og der var ingen hjælper, og jeg undrede mig over, at der ikke var nogen, der holdt med mig; men min arm hjalp mig, og min harme bistod mig.",
+      "number": 5,
+      "version": 1608418800000
+    },
+    {
+      "text": "Og jeg trådte folkene ned i min vrede og gjorde dem berusede i min harme og lod deres blod løbe ned på jorden.",
+      "number": 6,
+      "version": 1608418800000
+    },
+    {
+      "text": "\fJeg vil prisende forkynde JHVHs nåde, JHVHs glorværdige gerninger, efter alt det som JHVH har gjort imod os, ja, den store godhed imod Israels hus som han viste dem i overensstemmelse med sin barmhjertighed og sin store nåde.",
+      "number": 7,
+      "version": 1608418800000
+    },
+    {
+      "text": "Og han sagde: »Netop de er mit folk, de er børn der ikke vil svigte.« Og han blev en frelser for dem.",
+      "number": 8,
+      "version": 1608418800000
+    },
+    {
+      "text": "I al deres trængsel var der ingen trængsel, men hans ansigts engel frelste dem; på grund af sin kærlighed og sin medlidenhed løskøbte han dem, han løftede dem op og bar dem alle fortidens dage.",
+      "number": 9,
+      "version": 1608418800000,
+      "footnotes": [
+        {
+          "text": "Oversættelsen er omdiskuteret. Ofte ændrer man med støtte i nogle håndskrifter grundtekstens *lōˀ* (»ikke/ingen«) til: *lô* (»for ham«) så der oversættes: »I al deres trængsel havde han trængsel». Eller med støtte i gamle oversættelser retter man: *ṣār ûmalʔax* (»trængsel, men (hans ansigts) engel …«) til: *ṣîr ûmalʔāx* (»sendebud eller en engel«) så der oversættes: »… i al deres trængsel. Det var ikke et sendebud eller en engel, hans ansigt frelste dem.«",
+          "type": "E",
+          "position": 42
+        },
+        {
+          "text": "Den engel der var JHVH nærmest",
+          "type": "T",
+          "position": 66
+        }
+      ]
+    },
+    {
+      "text": "Men de, de var genstridige og bedrøvede hans hellige Ånd; derfor blev han til deres modstander, han kæmpede imod dem.",
+      "number": 10,
+      "version": 1608418800000
+    },
+    {
+      "text": "Så huskede hans folk de gamle dage under Moses: »Hvor er han, der førte dem op fra havet sammen med sin hjords hyrde? Hvor er han, der gav sin hellige Ånd midt iblandt dem?",
+      "number": 11,
+      "version": 1608418800000
+    },
+    {
+      "text": "han, der lod sin herligheds arm føre Moses' højre hånd, han, der kløvede vandene for deres ansigt for at skabe sig et evigt navn?",
+      "number": 12,
+      "version": 1608418800000
+    },
+    {
+      "text": "han, der førte dem gennem afgrundene som en hest igennem ørkenen, så de ikke snublede?",
+      "number": 13,
+      "version": 1608418800000
+    },
+    {
+      "text": "Ligesom kvæget går ned i dalen, har JHVHs Ånd ladet dem komme til hvilen; sådan førte du dit folk for at skabe dig et herligt navn.«",
+      "number": 14,
+      "version": 1608418800000
+    },
+    {
+      "text": "Se ned fra himlene, og se til fra din helligheds og herligheds bolig! Hvor er din brændende iver og din magt, din dybe medlidenhed og din barmhjertighed, der holder sig tilbage fra mig?",
+      "number": 15,
+      "version": 1608418800000
+    },
+    {
+      "text": "Du er jo vores far; for Abraham ved ikke af os, og Israels kender os ikke; men du, JHVH, er vores far, fra evighed af er dit navn »Vores løskøber«!",
+      "number": 16,
+      "version": 1608418800000
+    },
+    {
+      "text": "JHVH! Hvorfor lader du os fare vild fra dine veje? Hvorfor lader du vores hjerte blive hårdt, så det ikke frygter dig? Vend om for dine tjeneres skyld, for din arvelods stammers skyld!",
+      "number": 17,
+      "version": 1608418800000
+    },
+    {
+      "text": "I kort tid har dit hellige folk ejet landet; men vores modstandere har trådt din helligdom ned.",
+      "number": 18,
+      "version": 1608418800000
+    },
+    {
+      "text": "Vi er, som om du ikke havde regeret over os fra gammel tid, og som om vi ikke var kaldt med dit navn; gid du ville flænge himlene og fare ned, så bjergene flød bort for dit ansigt!",
+      "number": 19,
+      "version": 1608418800000
+    }
+  ]
+}

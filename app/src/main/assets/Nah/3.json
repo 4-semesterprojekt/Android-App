@@ -1,0 +1,180 @@
+{
+  "book": "Nahums Bog",
+  "abbreviation": "Nah",
+  "chapter": 3,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Christian Højgaard",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fVe den blodige by, helt igennem fuld af løgn og vold!\fAldrig holder røverierne op.",
+      "title": "Nineves ødelæggelse",
+      "number": 1,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Ordret »sønderrivningen«, jf. v. 13-14.",
+          "type": "T",
+          "position": 79
+        }
+      ]
+    },
+    {
+      "text": "\fPiskesmæld og lyden af raslende vognhjul;\fgaloperende heste og hoppende vogne!",
+      "number": 2,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fRyttere som sætter af sted,\fblinkende sværd og lynende spyd\fog en mængde dræbte og en stor bunke lig.\fDer er ingen ende på døde kroppe,\fman snubler over deres døde kroppe!",
+      "number": 3,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Eller »angriber«.",
+          "type": "E",
+          "position": 27
+        }
+      ]
+    },
+    {
+      "text": "\fAlt sammen på grund af ludderens utugt,\fhende den smukke, troldkvinden,\fhun som solgte folkeslag ved sin utugt\fog slægter ved sine trolddomskunster.",
+      "number": 4,
+      "version": 1511218800000
+    },
+    {
+      "text": "\f»Se, jeg kommer imod dig,« siger Hærskarers HERRE,\f»og slår dit slæb op over dit ansigt;\fjeg vil lade folkeslag se din nøgenhed,\fog kongeriger din skam.",
+      "number": 5,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fJeg vil kaste modbydelige ting på dig,\fgøre dig ringeagtet og sætte dig frem til skue.«",
+      "number": 6,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fSå vil enhver som ser dig, flygte væk fra dig og sige:\f»Nineve er ødelagt! Hvem vil have medlidenhed med den?\fHvor kan jeg finde nogen der vil trøste dig?«\n\n",
+      "number": 7,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fMon du er bedre end No-Amon, som lå mellem floderne og havde vand rundt om sig;\fhvis værn var hav, hvis mur var af hav?",
+      "number": 8,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Dvs. Theben i Egypten, jf. Jer 46,25. Ez 30,14.",
+          "type": "T",
+          "position": 29
+        }
+      ]
+    },
+    {
+      "text": "\fKush var hendes styrke;\fder var ingen ende på Egypten.\fPut og Libyen kom dig til hjælp.",
+      "number": 9,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Dvs. No-Amon.",
+          "type": "T",
+          "position": 16
+        },
+        {
+          "text": "Flere oversættelser retter til »hende«, og der er under alle omstændigheder tale om at Put og Libyen er blandt No-Amons allierede. Man kan dog godt beholde »dig«, hvis man forstår sætningen som direkte tale til No-Amon.",
+          "type": "E",
+          "position": 77
+        }
+      ]
+    },
+    {
+      "text": "\fOgså hun blev ført i eksil, i fangenskab.\fOgså hendes spædbørn blev knust på alle gadehjørner;\fover hendes ansete mænd kastede man lod,\fog alle hendes stormænd blev lagt i lænker.",
+      "number": 10,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fOgså du skal blive drukken og besvime;\fogså du skal søge et værn mod fjenden.\n\n",
+      "number": 11,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Kan også oversættes med »skjule dig«.",
+          "type": "E",
+          "position": 39
+        }
+      ]
+    },
+    {
+      "text": "\fAlle dine fæstningsværker er som figentræer med tidligt modne frugter.\fRystes de, falder de ned i munden på den som vil spise dem.",
+      "number": 12,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fSe, dit folk er som kvinder i din midte;\fdit lands porte står åbne for dine fjender,\fild har fortæret dine portbomme.",
+      "number": 13,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Mange oversættelser vælger at oversætte med »dine soldater«, da det nok er soldaterne der først og fremmest nedgøres i dette vers. Men den ordrette oversættelse er »folk«.",
+          "type": "E",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "text": "\fHent vand til belejring,\fgør dine fæstningsværker stærke,\fgå i mudderet og træd i leret,\fgrib en støbeform til mursten!",
+      "number": 14,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fDér skal ilden fortære dig,\fsværdet udrydde dig;\fdet skal fortære dig som græshopper.\fGør dig kun så talrig som græshopper,\fgør dig kun så talrig som græshopper!",
+      "number": 15,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Ordet *šām* bruges oftest lokativisk som her, men måske kan ordet også bruges temporalt, »da«, jf. Sl 14,5; 36,13; 66,6.",
+          "type": "E",
+          "position": 4
+        },
+        {
+          "text": "Der bruges her to forskellige ord om græshopper.",
+          "type": "T",
+          "position": 162
+        }
+      ]
+    },
+    {
+      "text": "\fDu har haft flere handelsfolk end himlens stjerner.\fGræshopperne brød ud og fløj bort.",
+      "number": 16,
+      "version": 1511218800000,
+      "footnotes": [
+        {
+          "text": "Der bruges sandsynligvis et billede om græshopper, der bryder ud af deres puppe.",
+          "type": "E",
+          "position": 73
+        }
+      ]
+    },
+    {
+      "text": "\fDine hoffolk er som græshopper og dine embedsmænd som græshoppesværme der lægger sig på murene på en kold dag,\fmen når solen bryder frem, flyver de bort så ingen kender deres sted.\fHvor er de?",
+      "number": 17,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fDine hyrder er døset hen, assyrerkonge.\fDine fornemme mænd ligger roligt;\fdit folk er spredt på bjergene, og der er ingen der samler dem.",
+      "number": 18,
+      "version": 1511218800000
+    },
+    {
+      "text": "\fDer er ingen lindring for din skade, dit sår er alvorligt.\fAlle som hører nyt om dig, klapper i hænderne over dig,\ffor hvem gik din ondskab ikke uafbrudt ud over?",
+      "number": 19,
+      "version": 1511218800000
+    }
+  ]
+}

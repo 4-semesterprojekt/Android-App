@@ -1,0 +1,118 @@
+{
+  "book": "Esajas' Bog",
+  "abbreviation": "Es",
+  "chapter": 34,
+  "translation": 50,
+  "contributors": [
+    {
+      "name": "Svend Erik Petersen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fKom her, I hedninger, for at høre! Og I folke, lyt efter! Lad jorden og alt, hvad der fylder den, verden og alt, hvad der gror på den, høre det!",
+      "title": "JHVH bruger Edom som eksempel på sit riges fjender, og han forkynder en forfærdelig udslettelse af dem, 1-17.",
+      "number": 1,
+      "version": 1479423600000
+    },
+    {
+      "text": "For JHVHs vrede er over alle hedningerne og hans harme over hele deres hær; han har bandlyst dem, giver dem hen til at slagtes.",
+      "number": 2,
+      "version": 1479423600000
+    },
+    {
+      "text": "Og deres dræbte skal slænges hen, og stanken af deres døde kroppe skal stige op, og bjergene skal flyde med deres blod.",
+      "number": 3,
+      "version": 1479423600000
+    },
+    {
+      "text": "Og himlens hær skal svinde hen, og himlene skal rulles sammen som en bogrulle; og hele deres hær skal visne som et vissent blad af et vintræ og ligesom vissent løv af et figentræ.",
+      "number": 4,
+      "version": 1479423600000
+    },
+    {
+      "text": "For mit sværd er vædet i himlene; se, til dom skal det fare ned over Edom og over det folk, som jeg har bandlyst.",
+      "number": 5,
+      "version": 1479423600000
+    },
+    {
+      "text": "JHVHs sværd er fuldt af blod, er mættet af fedt, af lams og bukkes blod, af vædres nyrefedt; for JHVH har slagtoffer i Bozra og en stor slagtning i Edoms land.",
+      "number": 6,
+      "version": 1479423600000
+    },
+    {
+      "text": "Og bøfler slås ned sammen med dem, og ungkvæg sammen med tyre; og deres land skal blive vædet af blod og deres jordbund af fedt.",
+      "number": 7,
+      "version": 1479423600000
+    },
+    {
+      "text": "For det er JHVHs hævndag, gengældelsens år for Zions retssag.",
+      "number": 8,
+      "version": 1479423600000
+    },
+    {
+      "text": "Og dets bække skal forvandles til tjære og dets jordbund til svovl, og dets land skal blive til brændende tjære.",
+      "number": 9,
+      "version": 1479423600000,
+      "footnotes": [
+        {
+          "text": "Edoms",
+          "type": "T",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "text": "Det skal hverken slukkes dag eller nat, røgen fra det skal stige op i evighed; det skal ligge øde fra slægt til slægt, fra evighed til evighed skal ingen gå igennem det.",
+      "number": 10,
+      "version": 1479423600000
+    },
+    {
+      "text": "Men rørdrum og pindsvin skal eje det, og hornuglen og ravnen skal bo i det; for han skal strække målesnoren ud over det, så det bliver øde, og veje det af, så det skal blive ørken.",
+      "number": 11,
+      "version": 1479423600000
+    },
+    {
+      "text": "Af dets adelige er der ingen, man kan kalde til konge; og alle dets fyrster skal blive til intet.",
+      "number": 12,
+      "version": 1479423600000
+    },
+    {
+      "text": "Og der skal vokse tjørn på dets paladser, nælder og tidsler i dets fæstninger; og det skal være bolig for drager, gård for strudseunger.",
+      "number": 13,
+      "version": 1479423600000
+    },
+    {
+      "text": "Og ørkenens vilde dyr og ulve skal mødes, og den ene onde ånd skal råbe til den anden, kun dæmoner skal slå sig til ro der og finde et hvilested.",
+      "number": 14,
+      "version": 1479423600000
+    },
+    {
+      "text": "Pilslangen skal bygge rede der og lægge æg og udklække unger og samle dem under sin skygge; kun glenter flokkes der, den ene hos den anden.\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tSe efter i JHVHs boh og læs, der mangeler ikke én af disse ting, det ene savner ikke det andet; for hans mund har påbudt det, og hans Ånd har samlet dem.",
+      "number": 15,
+      "version": 1479423600000
+    },
+    {
+      "text": "Og han har kastet lod for dem, og hans hånd har fordelt det iblandt dem med målesnoren; de skal eje det for evigt, fra slægt til slægt skal de bo der.",
+      "number": 17,
+      "version": 1479423600000,
+      "footnotes": [
+        {
+          "text": "dvs. for dyrene, v. 14f",
+          "type": "T",
+          "position": 30
+        },
+        {
+          "text": "i Edoms land",
+          "type": "T",
+          "position": 151
+        }
+      ]
+    }
+  ]
+}

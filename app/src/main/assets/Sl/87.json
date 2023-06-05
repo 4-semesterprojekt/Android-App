@@ -1,0 +1,119 @@
+{
+  "book": "Salmernes Bog",
+  "abbreviation": "Sl",
+  "chapter": 87,
+  "translation": 100,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    },
+    {
+      "name": "Nicolai Winther-Nielsen",
+      "type": "Eksegetisk bearbejdning"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fAf Koras sønner. En salme. En sang.\fHans grundlagte by er på hellige bjerge.",
+      "title": "Lovprisning af Zion",
+      "number": 1,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »Hans grundlæggelse på hellige bjerge«. Der er flere rettelsesforslag (som dog næppe er nødvendige), enklest dog at rette: *yᵊsûdātô* (»hans grundlæggelse«) til: *yāsôd ʕîrô*: »han har grundlagt sin by«.",
+          "type": "E",
+          "position": 77
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH elsker Zions porte\ffrem for alle Jakobs boliger.",
+      "number": 2,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fHerlige ting er sagt om dig,\fdu Guds by! Sela",
+      "title": "Zion – et bedehus for alle folk",
+      "number": 3,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Præpositionen *bᵊ* kan betyde både »om« og »i«, og begge betydninger giver mening her. Men betydningen »om« er den almindeligste i forbindelse med verbet *dbr* (»sige«.",
+          "type": "E",
+          "position": 24
+        },
+        {
+          "text": "Sela",
+          "type": "N",
+          "position": 46
+        }
+      ]
+    },
+    {
+      "text": "\fJeg vil nævne Rahab og Babylon blandt dem som kender mig,\fog også Filistæa og Tyrus samt Kush:\f»Denne, han er født dér.«",
+      "number": 4,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Dermed menes Egypten. Sl 89,10-11; Es 30,7; 51,9-10.",
+          "type": "T",
+          "position": 20
+        },
+        {
+          "text": "Ordret: »se«.",
+          "type": "T",
+          "position": 66
+        },
+        {
+          "text": "Det er Nubien, tidligere ofte oversat Etiopien.",
+          "type": "T",
+          "position": 95
+        },
+        {
+          "text": "Det er hvert af de nævnte folk.",
+          "type": "T",
+          "position": 103
+        }
+      ]
+    },
+    {
+      "text": "\fMen om Zion skal der siges: »Hver og en er født i hende,\fog han, den Højeste, skal befæste hende.«",
+      "number": 5,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret: »mand og mand«",
+          "type": "T",
+          "position": 40
+        },
+        {
+          "text": "Det er henvisning til »Zion«.",
+          "type": "T",
+          "position": 57
+        }
+      ]
+    },
+    {
+      "text": "\fJHVH skal tælle, når han skriver folkene op:\f»Denne er født dér.« Sela",
+      "number": 6,
+      "version": 1500242400000
+    },
+    {
+      "text": "\fOg dansende synger de:\f»Alle mine kilder er i dig.«",
+      "number": 7,
+      "version": 1500242400000,
+      "footnotes": [
+        {
+          "text": "Ordret blot: »Og syngende som dansende«. Meningen er enten, at de danser mens de synger, eller at de synger med samme glæde og jubel som dansende udstråler, eller at både syngende og dansende udtrykker det der ligger i den følgende sætning.",
+          "type": "E",
+          "position": 23
+        }
+      ]
+    }
+  ]
+}

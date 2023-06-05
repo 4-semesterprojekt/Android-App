@@ -1,0 +1,196 @@
+{
+  "book": "Anden Mosebog",
+  "abbreviation": "2Mos",
+  "chapter": 27,
+  "translation": 75,
+  "contributors": [
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Trine Tøndering",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\f»Du skal lave alteret af akacietræ, fem alen langt og fem alen bredt; alteret skal være kvadratisk og dets højde tre alen.",
+      "title": "Forordning om brændofferalteret",
+      "number": 1,
+      "version": 1614207600000
+    },
+    {
+      "text": "Du skal lave dets horn på dets fire hjørner, dets horn skal være i ét med det; og du skal beklæde det med bronze.",
+      "number": 2,
+      "version": 1614207600000
+    },
+    {
+      "text": "Og du skal lave dets spande til dets fedtaske og dets skovle, dets stænkeskåle, dets gafler og dets fyrbækkener: Alle dets redskaber skal du lave af bronze.",
+      "number": 3,
+      "version": 1614207600000,
+      "footnotes": [
+        {
+          "text": "Grundstammen i det hebraiske ord er roden: *dšn*, der oftest angiver »fedt«, men også bruges om den fede aske, der er tilbage efter at et offer er brændt.",
+          "type": "T",
+          "position": 45
+        }
+      ]
+    },
+    {
+      "text": "Du skal lave et gitterværk til det, lavet som et bronzenetværk; og på netværket skal du anbringe fire bronzeringe i dets fire hjørner.",
+      "number": 4,
+      "version": 1614207600000
+    },
+    {
+      "text": "Du skal anbringe det forneden, under alterets indfatning, og netværket skal nå indtil midt på alteret.",
+      "number": 5,
+      "version": 1614207600000
+    },
+    {
+      "text": "Du skal også lave bærestænger til alteret, bærestænger af akacietræ, og du skal beklæde dem med bronze.",
+      "number": 6,
+      "version": 1614207600000
+    },
+    {
+      "text": "Dets bærestænger skal anbringes i ringene, og bærestængerne skal være på begge sider af alteret når det bliver båret.",
+      "number": 7,
+      "version": 1614207600000
+    },
+    {
+      "text": "Det skal være hult, du skal lave det af brædder; som du fik det at se på bjerget, skal de lave det.«",
+      "title": "Forordning om forgården",
+      "number": 8,
+      "version": 1614207600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »som han lod dig se«, men verbet er her brugt upersonligt.",
+          "type": "T",
+          "position": 69
+        }
+      ]
+    },
+    {
+      "text": "\f»Du skal også lave en forgård til boligen: Ved den søndre side, mod syd, forhæng til forgården af tvundet, fint linned, hundred alen langt på den ene side;",
+      "number": 9,
+      "version": 1614207600000
+    },
+    {
+      "text": "og deres stolper, tyve, med deres tyve fodstykker af bronze; og stolpernes kroge og deres tværstænger af sølv.",
+      "number": 10,
+      "version": 1614207600000,
+      "footnotes": [
+        {
+          "text": "Henviser til »forhæng«, der er pluralis. Det gælder også i de følgende vers.",
+          "type": "E",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "text": "Og ligeledes med længden ved den nordre side: forhæng hundred alen langt, og dets stolper, tyve, med deres tyve fodstykker af bronze; og stolpernes kroge og deres tværstænger af sølv.",
+      "number": 11,
+      "version": 1614207600000,
+      "footnotes": [
+        {
+          "text": "Ordet: *ʔammāʰ * (»alen«) står ikke her i den hebraiske tekst, men er underforstået.",
+          "type": "T",
+          "position": 66
+        },
+        {
+          "text": "Her er muligvis en skrivefejl i den hebraiske tekst, så der skulle oversættes: »deres«. I alle de andre vers henvises der til, at »forhæng« er pluralis",
+          "type": "T",
+          "position": 81
+        }
+      ]
+    },
+    {
+      "text": "Forgårdens bredde ved den vestre side skal have forhæng på halvtreds alen; deres ti stolper og deres ti fodstykker.",
+      "number": 12,
+      "version": 1614207600000
+    },
+    {
+      "text": "Og forgårdens bredde ved den østre side, mod øst, skal være halvtreds alen.",
+      "number": 13,
+      "version": 1614207600000
+    },
+    {
+      "text": "Femten alen skal forhængene være til den ene side, med deres tre stolper og deres tre fodstykker,",
+      "number": 14,
+      "version": 1614207600000
+    },
+    {
+      "text": "og til den anden side forhæng på femten alen, med deres tre stolper og deres tre fodstykker.",
+      "number": 15,
+      "version": 1614207600000,
+      "footnotes": [
+        {
+          "text": "Den østlige side har altså en åbning i midten på 20 alen og forhæng til begge sider på 15 alen.",
+          "type": "E",
+          "position": 92
+        }
+      ]
+    },
+    {
+      "text": "Men for forgårdens port skal der være et tæppe, tyve alen langt, af purpurblå, purpurrød og karminrød uld og tvundet, fint linned, lavet af en der laver broget vævning, med dets fire stolper og deres fire fodstykker.",
+      "number": 16,
+      "version": 1614207600000
+    },
+    {
+      "text": "Alle stolperne i forgården hele vejen rundt skal være forbundne med sølv; deres kroge af sølv og deres fodstykker af bronze.",
+      "number": 17,
+      "version": 1614207600000,
+      "footnotes": [
+        {
+          "text": "Det er ikke i grundteksten angivet, om det skal være med tværstænger eller bånd.",
+          "type": "T",
+          "position": 73
+        }
+      ]
+    },
+    {
+      "text": "Forgårdens længde skal være hundred alen og bredden halvtreds og halvtreds, højden fem alen, af tvundet, fint linned, og fodstykkerne dertil af bronze.",
+      "number": 18,
+      "version": 1614207600000
+    },
+    {
+      "text": "Alle boligens redskaber til alt arbejdet ved den og alle dens pløkker og alle forgårdens pløkker skal være af bronze.«",
+      "title": "Forordning om olien til lysestagen",
+      "number": 19,
+      "version": 1614207600000
+    },
+    {
+      "text": "\f»Og du skal pålægge Israels børn at de skal skaffe dig ren, knust olivenolie til lysestagen, så man kan sætte en evig lampe frem.",
+      "number": 20,
+      "version": 1614207600000,
+      "footnotes": [
+        {
+          "text": "Af knuste oliven i modsætning til presset olie.",
+          "type": "E",
+          "position": 66
+        },
+        {
+          "text": "Ordret: »løfte en evig lampe op«. Dermed menes der enten, at man tænder den, eller at man sætter lamperne op på den syvarmede lysestage.",
+          "type": "T",
+          "position": 130
+        }
+      ]
+    },
+    {
+      "text": "I forsamlingsteltet uden for forhænget som hænger foran Vidnesbyrdet, skal Aron og hans sønner gøre den i stand fra aften til morgen for Herrens ansigt; det skal være en evig forordning for deres efterkommere hos Israels børn.«",
+      "number": 21,
+      "version": 1614207600000,
+      "footnotes": [
+        {
+          "text": "Ordret: »mødeteltet«. Det er teltet, hvor JHVH møder folket. Nif’al af verbet *yʕd* skal i flere sammenhænge oversættes: »møde/komme sammen«, men om Gud oversættes det oftest: »åbenbare sig« (25,22).",
+          "type": "E",
+          "position": 19
+        }
+      ]
+    }
+  ]
+}

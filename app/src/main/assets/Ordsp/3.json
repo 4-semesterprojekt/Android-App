@@ -1,0 +1,93 @@
+{
+  "book": "Ordsprogenes Bog",
+  "abbreviation": "Ordsp",
+  "chapter": 3,
+  "translation": 25,
+  "contributors": [
+    {
+      "name": "Trine Tøndering",
+      "type": "Oversættelse"
+    },
+    {
+      "name": "Jørgen Bækgaard Thomsen",
+      "type": "Eksegetisk bearbejdning"
+    },
+    {
+      "name": "Endnu ikke sket",
+      "type": "Litterært tjek"
+    }
+  ],
+  "verses": [
+    {
+      "text": "\fHold ikke en velgerning tilbage fra dem som trænger til den, hvis din hånd har mulighed for at udføre den.",
+      "number": 27,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Ordret: »fra dens herre/ejer«, altså: »fra dem som den tilkommer«.",
+          "type": "T",
+          "position": 61
+        },
+        {
+          "text": "Ordret: »magt«.",
+          "type": "T",
+          "position": 88
+        }
+      ]
+    },
+    {
+      "text": "Sig ikke til din næste: »Gå bort og kom igen, og i morgen vil jeg give,« når du dog har det.",
+      "number": 28,
+      "version": 1646002800000
+    },
+    {
+      "text": "Udtænk ikke ondt mod din næste når han bor trygt hos dig.",
+      "number": 29,
+      "version": 1646002800000
+    },
+    {
+      "text": "Anklag ikke et menneske uden grund når han ikke har gjort dig ondt.",
+      "number": 30,
+      "version": 1646002800000
+    },
+    {
+      "text": "\fMisund ikke en voldsmand, og vælg ikke nogen af alle hans veje!",
+      "number": 31,
+      "version": 1646002800000
+    },
+    {
+      "text": "For den falske mand er en vederstyggelighed for HERREN, men han har fortrolig omgang med de oprigtige.",
+      "number": 32,
+      "version": 1646002800000
+    },
+    {
+      "text": "HERRENS forbandelse er over den ugudeliges hus, men han velsigner de retfærdiges bolig.",
+      "number": 33,
+      "version": 1646002800000
+    },
+    {
+      "text": "Mens han vil spotte spotterne, vil han vise de ydmyge gunst.",
+      "number": 34,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske konsonanttekst skal oversættes: »de undertrykte«, men vokaliseringen forudsætter: »de ydmyge«.",
+          "type": "E",
+          "position": 53
+        }
+      ]
+    },
+    {
+      "text": "De vise skal arve ære, men skam ophøjer tåber.",
+      "number": 35,
+      "version": 1646002800000,
+      "footnotes": [
+        {
+          "text": "Den hebraiske formulering er omdiskuteret. Ofte oversættes: »men tåberne ophøjer skam«, men grundtekstens verbum står i singularis, hvorved »skam« må være subjekt.",
+          "type": "E",
+          "position": 46
+        }
+      ]
+    }
+  ]
+}
